@@ -1,0 +1,118 @@
+# Complete Bundle - Final Content
+# 50+ prompts for real estate agents
+
+## Section 1: Email Templates (20 prompts)
+
+### New Lead Follow-up
+1. Follow up on a new lead from Zillow
+2. Follow up on a new lead from Realtor.com
+3. Follow up on a new lead from Facebook
+4. Follow up on a new lead from referral
+5. Introduction email to a new prospect
+
+### Seller Outreach
+6. Contacting expired listings
+7. Reaching out to pre-foreclosure homeowners
+8. Messaging snowbirds about their property
+9. Contacting recent property transfers
+10. Reaching out to tenants with owners
+
+### Client Communication
+11. Sending weekly market updates
+12. Following up after a showing
+13. Checking in with past clients
+14. Referral request to past clients
+15. Post-closing thank you email
+
+### Negotiation
+16. Writing a competitive offer letter
+17. Responding to a lowball offer
+18. Requesting a home inspection contingency
+
+### Closing
+19. Sending closing preparation checklist
+20. Congratulations message after closing
+
+## Section 2: Social Media Templates (15 prompts)
+
+### Property Listings
+21. Instagram post for a new listing
+22. Facebook listing announcement
+23. LinkedIn professional property post
+24. Twitter/X quick listing tweet
+25. TikTok property tour script
+
+### Market Updates
+26. Weekly market stats post
+27. Monthly market report thread
+28. Seasonal market trends post
+29. Inventory report post
+
+### Personal Branding
+30. About me/realtor bio post
+31. Behind the scenes post
+32. Client testimonial share
+33. Community involvement post
+34. "This is why I love being a realtor" post
+
+## Section 3: Listing Descriptions (15 prompts)
+
+### Luxury Homes
+35. Luxury home description for upscale neighborhood
+36. High-end property listing text
+37. Luxury condo description
+38. Waterfront luxury home
+
+### First-Time Buyers
+39. Entry-level home description
+40. First-time buyer friendly home
+41. Affordable family home
+
+### Investment Properties
+42. Rental investment property listing
+43. Fixer-upper listing description
+44. Multi-family property listing
+
+### Special Features
+45. Modern home listing
+46. Historic home description
+47. Eco-friendly home listing
+48. New construction home
+
+### General
+49. Standard home listing template
+50. Quick listing description
+
+## Section 4: Advanced AI Prompts (10 prompts)
+
+### Market Analysis
+51. Analyze market data for [Neighborhood]
+52. Generate rental comparables for [Property]
+53. Calculate cash flow for investment property
+
+### Content Creation
+54. Create blog post about first-time homebuyers
+55. Write video script for property tour
+56. Generate email newsletter content
+
+### Automation
+57. Create automated follow-up sequence
+58. Generate weekly market summary
+59. Build client education content calendar
+
+### Specific Scenarios
+60. Short sale property communication
+
+---
+
+## Quick Start Guide
+
+1. Copy any prompt into ChatGPT, Claude, or Gemini
+2. Add your specific details (location, price, features)
+3. Edit to match your voice
+4. Use in email, social media, or listing
+
+## Pro Tips
+- Save frequently used prompts in a notes app
+- Create custom variations for different neighborhoods
+- Update prompts quarterly based on what works
