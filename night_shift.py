@@ -415,6 +415,8 @@ def run_pipeline_for_keyword(keyword_data: dict, prompts: dict) -> bool:
     print(f"   Category: {category} | Location: {location}")
     print(f"{'='*60}")
 
+    emit_status(current_article=keyword)
+
     combined_revision_notes = None
     editor_review_result = {}
     seo_review_result = {}
@@ -567,10 +569,12 @@ def run_night_shift():
 
             if article_published:
                 night_results["published"] += 1
+                emit_status(current_article=None, articles_done=night_results["published"] + night_results["quarantined"])
                 result_status = "PUBLISHED"
             else:
                 night_results["quarantined"] += 1
                 result_status = "QUARANTINED"
+                emit_status(current_article=None, articles_done=night_results["published"] + night_results["quarantined"])
 
             _pipeline_status["results"].append({"keyword": keyword_data["keyword"], "status": result_status, "revisions": 0})
             emit_status(articles_done=night_results["published"] + night_results["quarantined"])
