@@ -28,7 +28,7 @@ taxonomies:
 
 # Permalinks — clean SEO-friendly URLs
 permalinks:
-  posts: "/:sections/:filename/"
+  posts: "/:sections/:contentbasename/"
 
 # Sitemap
 sitemap:
