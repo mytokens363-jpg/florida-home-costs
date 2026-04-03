@@ -3,26 +3,37 @@
 Format: `- STATUS | keyword | category | location`
 
 STATUS values:
-- PENDING     → not yet processed
+- PENDING     → not yet processed (pipeline will process these)
 - IN_PROGRESS → currently being written (set by pipeline)
 - PUBLISHED   → live on site
 - QUARANTINED → failed max revisions, needs human review
 
 ---
 
-## Queue
+## PENDING Keywords (Ready to Process)
 
-- QUARANTINED | cost to replace roof fort lauderdale 2026 | roofing | Fort Lauderdale
-- IN_PROGRESS | cost to install hurricane impact windows miami 2026 | hurricane-protection | Miami
-- PUBLISHED | cost to replace hvac system orlando 2026 | hvac | Orlando
-- PUBLISHED | cost to install solar panels tampa 2026 | major-systems | Tampa
-- IN_PROGRESS | cost to repipe house florida 2026 | plumbing | Florida
-- PUBLISHED | cost to install pool cage naples 2026 | pool | Naples
-- QUARANTINED | cost to paint house exterior florida 2026 | exterior | Florida
-- PUBLISHED | cost to remodel kitchen jacksonville 2026 | interior | Jacksonville
-- PUBLISHED | cost to install whole house generator florida 2026 | electrical | Florida
-- QUARANTINED | cost to replace windows fort lauderdale 2026 | exterior | Fort Lauderdale
+- PENDING | cost to replace roof fort lauderdale 2026 | roofing | Fort Lauderdale
+- PENDING | cost to repipe house florida 2026 | plumbing | Florida
+- PENDING | cost to paint house exterior florida 2026 | exterior | Florida
+- PENDING | cost to replace windows fort lauderdale 2026 | exterior | Fort Lauderdale
 
-## Published
+---
 
-- 2026-04-02 | cost to replace roof in Florida 2026 | [roofing](content/posts/cost-to-replace-roof-in-florida-2026.md) | Florida
+## Published Articles (7 Total)
+
+| Date | Keyword | Category | Status |
+|------|---------|----------|--------|
+| 2026-04-02 | cost to replace roof in Florida 2026 | roofing | Live |
+| 2026-04-02 | cost to install whole house generator florida 2026 | electrical | Live |
+| 2026-04-02 | cost to install hurricane impact windows miami 2026 | hurricane-protection | Live |
+| 2026-04-02 | cost to replace hvac system orlando 2026 | hvac | Live |
+| 2026-04-02 | cost to remodel kitchen jacksonville 2026 | interior | Live |
+| 2026-04-02 | cost to install solar panels tampa 2026 | major-systems | Live |
+| 2026-04-02 | cost to install pool cage naples 2026 | pool | Live |
+
+---
+
+## Pipeline Status
+
+Run `python3 night_shift.py` to process the PENDING keywords.
+The dashboard at `pipeline-status.json` will update in real-time.
