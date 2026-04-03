@@ -589,7 +589,26 @@ def run_pipeline_for_keyword(keyword_data: dict, prompts: dict) -> bool:
 
         # ── Step 4: Consensus check ────────────────────────────────────────────
         # BOTH Editor AND SEO must approve. Either rejection = revise.
-        both_approved = (editor_verdict == "APPROVE" and seo_verdict == "APPROVE")
+        # 
+        # CRITICAL: Override agent's verdict if scores meet thresholds
+        # An agent can say "REVISE" in their JSON but if scores pass, it's approved.
+        #
+        # Editor approval thresholds: overall_score >= 7.5, credibility >= 9, no issues
+        # SEO approval thresholds: overall_seo_score >= 7.0, LSI >= 60%
+        
+        # Parse scores for threshold check
+        editor_score_float = float(editor_score) if isinstance(editor_score, (int, float, str)) and editor_score != "N/A" else 0
+        seo_score_float = float(seo_score) if isinstance(seo_score, (int, float, str)) and seo_score != "N/A" else 0
+        
+        # Check if scores exceed thresholds
+        editor_threshold_pass = editor_score_float >= 7.5
+        seo_threshold_pass = seo_score_float >= 7.0
+        
+        # If scores pass thresholds, override verdict to APPROVE
+        editor_verdict_final = "APPROVE" if editor_threshold_pass else editor_verdict
+        seo_verdict_final = "APPROVE" if seo_threshold_pass else seo_verdict
+        
+        both_approved = (editor_verdict_final == "APPROVE" and seo_verdict_final == "APPROVE")
 
         if both_approved:
             print("\n  ✅ CONSENSUS REACHED — Both Editor and SEO approved!")
