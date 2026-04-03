@@ -18,11 +18,11 @@ Do NOT generate your own keywords. Process top to bottom, no skipping.
 ### WEEK 1 — ROOFING
 
 - PUBLISHED | cost to replace roof in Florida 2026 | roofing | Florida
-- PENDING | cost to replace roof in Miami 2026 | roofing | Miami
-- PENDING | cost to replace roof in Fort Lauderdale 2026 | roofing | Fort Lauderdale
-- PENDING | cost to replace roof in Tampa 2026 | roofing | Tampa
-- PENDING | cost to replace roof in Orlando 2026 | roofing | Orlando
-- PENDING | cost to repair roof in Florida 2026 | roofing | Florida
+- QUARANTINED | cost to replace roof in Miami 2026 | roofing | Miami
+- QUARANTINED | cost to replace roof in Fort Lauderdale 2026 | roofing | Fort Lauderdale
+- PUBLISHED | cost to replace roof in Tampa 2026 | roofing | Tampa
+- QUARANTINED | cost to replace roof in Orlando 2026 | roofing | Orlando
+- QUARANTINED | cost to repair roof in Florida 2026 | roofing | Florida
 - PENDING | cost to repair roof in Miami 2026 | roofing | Miami
 - PENDING | cost to repair roof in Fort Lauderdale 2026 | roofing | Fort Lauderdale
 - PENDING | cost to repair roof in Tampa 2026 | roofing | Tampa

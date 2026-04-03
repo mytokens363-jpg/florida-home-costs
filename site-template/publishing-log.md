@@ -7,3 +7,4 @@
 | 2026-04-02 21:08 | cost to install pool cage naples 2026 | cost-to-install-pool-cage-naples-2026-2026.md | Editor: 9 | SEO: 9 | PUBLISHED |
 | 2026-04-02 21:18 | cost to remodel kitchen jacksonville 2026 | cost-to-remodel-kitchen-jacksonville-2026-2026.md | Editor: 9 | SEO: 9 | PUBLISHED |
 | 2026-04-02 21:26 | cost to install whole house generator florida 2026 | cost-to-install-whole-house-generator-florida-2026-2026.md | Editor: 9 | SEO: 9 | PUBLISHED |
+| 2026-04-03 00:52 | cost to replace roof in Tampa 2026 | cost-to-replace-roof-in-tampa-2026-2026.md | Editor: 8.8 | SEO: 9.4 | PUBLISHED |
