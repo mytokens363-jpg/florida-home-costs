@@ -1,0 +1,251 @@
+/* Mobile Fixes for Florida Home Costs
+   Handles responsive table scrolling, prevents table crushing,
+   sets proper mobile typography, adds padding, and FAQ spacing.
+*/
+
+/* Reset base mobile styles */
+@media (max-width: 600px) {
+  html {
+    font-size: 14px;
+  }
+
+  body {
+    line-height: 1.6;
+  }
+
+  /* Content padding - don't touch screen edges */
+  .page-wrapper,
+  .article-content,
+  .article-body {
+    padding: 16px;
+  }
+
+  /* Responsive table scrolling */
+  .article-body table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    border: 0;
+  }
+
+  .article-body th,
+  .article-body td {
+    padding: 10px 8px;
+    white-space: normal;
+    word-wrap: break-word;
+    font-size: 0.9rem;
+    min-width: 100px;
+  }
+
+  /* Typography adjustments */
+  h1 {
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+  }
+
+  h2 {
+    font-size: 1.4rem;
+    margin-top: 1.8rem;
+    margin-bottom: 0.8rem;
+  }
+
+  h3 {
+    font-size: 1.2rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0.6rem;
+  }
+
+  p {
+    margin-bottom: 1rem;
+  }
+
+  /* List spacing */
+  ul,
+  ol {
+    padding-left: 20px;
+    margin-bottom: 1.2rem;
+  }
+
+  li {
+    margin-bottom: 0.4rem;
+    line-height: 1.5;
+  }
+
+  /* FAQ spacing - vertical spacing between questions */
+  .faq-item {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #e0e0e0;
+  }
+
+  .faq-question {
+    font-weight: 600;
+    font-size: 1.1rem;
+    margin-bottom: 0.4rem;
+  }
+
+  .faq-answer {
+    margin-left: 0;
+  }
+
+  /* Link styling */
+  a {
+    word-break: break-word;
+  }
+
+  /* Code blocks - wrap long lines */
+  pre,
+  code {
+    font-size: 0.85rem;
+    overflow-x: auto;
+  }
+
+  /* Button/CTA sizing for touch */
+  .btn,
+  .cta-button {
+    padding: 12px 24px;
+    font-size: 1rem;
+    min-height: 44px;
+    display: inline-block;
+  }
+
+  /* Image sizing */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Hide non-essential elements */
+  .sidebar,
+  .widget {
+    display: none;
+  }
+}
+
+/* Medium mobile (tablets, portrait) */
+@media (min-width: 601px) and (max-width: 900px) {
+  .page-wrapper,
+  .article-content,
+  .article-body {
+    padding: 20px;
+  }
+
+  .article-body th,
+  .article-body td {
+    padding: 12px 10px;
+    font-size: 0.95rem;
+  }
+
+  h2 {
+    font-size: 1.6rem;
+  }
+}
+
+/* Print styles - homeowners print these guides */
+@media print {
+  body {
+    font-size: 12pt;
+    color: #000;
+    background: #fff;
+  }
+
+  .page-wrapper {
+    max-width: 100%;
+    width: 100%;
+    padding: 0;
+  }
+
+  /* Hide interactive elements */
+  .sidebar,
+  .widget,
+  .header-nav,
+  .footer,
+  .back-to-top,
+  .share-buttons,
+  .related-articles {
+    display: none !important;
+  }
+
+  /* Optimize tables for print */
+  table {
+    page-break-inside: auto;
+  }
+
+  tr {
+    page-break-inside: avoid;
+    page-break-after: auto;
+  }
+
+  thead {
+    display: table-header-group;
+  }
+
+  /* Links - show URLs */
+  a {
+    text-decoration: underline;
+    color: #000;
+  }
+
+  a[href]::after {
+    content: " (" attr(href) ")";
+    font-size: 0.9em;
+    color: #666;
+  }
+
+  /* Article layout */
+  .article-header {
+    border-bottom: 2px solid #333;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+  }
+
+  .article-body {
+    padding: 0;
+  }
+
+  /* Table formatting for print */
+  .article-body table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .article-body th,
+  .article-body td {
+    border: 1px solid #000;
+    padding: 8px;
+    word-break: break-word;
+  }
+
+  .article-body th {
+    background: #f0f0f0;
+    font-weight: bold;
+  }
+
+  /* FAQ formatting */
+  .faq-item {
+    margin-bottom: 1rem;
+    page-break-inside: avoid;
+  }
+
+  .faq-question {
+    font-weight: bold;
+  }
+
+  /* Page breaks */
+  h2 {
+    page-break-after: avoid;
+  }
+
+  p {
+    orphans: 3;
+    widows: 3;
+  }
+
+  /* Bottom Line section highlight */
+  .bottom-line {
+    background: #f9f9f9;
+    padding: 1.5rem;
+    border-left: 4px solid #333;
+    margin-top: 2rem;
+  }
+}
