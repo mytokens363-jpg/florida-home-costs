@@ -19,13 +19,13 @@ app = Flask(__name__)
 
 # ─── Paths ────────────────────────────────────────────────────────────────────
 
-REPO_PATH       = Path.home() / "site-repo"
+REPO_PATH       = Path.home() / ".openclaw" / "workspace" / "rivet-business" / "site-template"
 STATUS_FILE     = REPO_PATH / "pipeline-status.json"
 QUARANTINE_DIR  = REPO_PATH / "quarantine"
 PUBLISHING_LOG  = REPO_PATH / "publishing-log.md"
 QUEUE_FILE      = REPO_PATH / "keyword-queue.md"
 CHAT_DIR        = REPO_PATH / "chat-sessions"
-PROMPTS_DIR     = Path.home() / "rivet-business" / "prompts"
+PROMPTS_DIR     = Path.home() / ".openclaw" / "workspace" / "rivet-business" / "prompts"
 
 CHAT_DIR.mkdir(parents=True, exist_ok=True)
 
