@@ -323,7 +323,8 @@ def clean_article_content(article_content: str, keyword: str, category: str) -> 
     lines = article_content.split('\n')
     
     # Find where actual article content starts
-    # Look for: H1 title (# How Much...), frontmatter (---), or Quick Answer
+    # Look for: H1 title (# How Much...), actual frontmatter (---), or Quick Answer
+    # We need to skip to the actual article content, not the old frontmatter or thinking process
     content_start = 0
     
     for i, line in enumerate(lines):
@@ -333,12 +334,7 @@ def clean_article_content(article_content: str, keyword: str, category: str) -> 
         if not stripped:
             continue
         
-        # Found frontmatter start
-        if stripped == '---':
-            content_start = i
-            break
-        
-        # Found H1 title (# How Much...)
+        # Found H1 title (# How Much...) - this is the actual article start
         if stripped.startswith('# '):
             content_start = i
             break
@@ -347,6 +343,16 @@ def clean_article_content(article_content: str, keyword: str, category: str) -> 
         if stripped.startswith('**Quick Answer**'):
             content_start = i
             break
+        
+        # Found frontmatter start (---) that is followed by article frontmatter
+        if stripped == '---':
+            # Check if this is followed by article frontmatter (categories, tags, etc.)
+            if i + 5 < len(lines):
+                next_lines = '\n'.join(lines[i:i+10])
+                # Article frontmatter has categories and tags sections
+                if 'categories:' in next_lines and 'tags:' in next_lines:
+                    content_start = i
+                    break
     
     # Extract the actual article content
     actual_content = '\n'.join(lines[content_start:])
@@ -364,6 +370,11 @@ def clean_article_content(article_content: str, keyword: str, category: str) -> 
             
             # Check if this is a numbered section header (e.g., "1.  **Analyze:")
             if re.match(r'^\d+\.\s+', stripped) and stripped.endswith(':'):
+                in_thinking_section = True
+                continue
+            
+            # Check if this is "Thinking Process:" header
+            if stripped == 'Thinking Process:':
                 in_thinking_section = True
                 continue
             
