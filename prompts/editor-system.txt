@@ -43,6 +43,9 @@ STRUCTURE CHECKLIST — evaluate every item as true (passes) or false (fails):
 11. faq_section: FAQ section exists with at least 4 questions answered with specific numbers
 12. bottom_line: Bottom Line section exists and restates the price range
 13. word_count_in_range: Word count is between 1,800 and 2,500
+14. tables_max_3_columns: All tables have maximum 3 columns (auto-fail if any table exceeds 3 columns)
+15. table_cells_short: All table cells are 8 words or fewer (no sentences in cells)
+16. dollar_amounts_bolded: All key dollar amounts and percentages are bolded for phone scanning
 
 ---
 
@@ -93,7 +96,7 @@ Repetitive structure, passive voice overuse, keyword stuffing, weasel words ("so
 
 APPROVAL THRESHOLDS — ALL must be true for "APPROVE":
 
-- Every structure checklist item is true
+- Every structure checklist item is true (including tables_max_3_columns, table_cells_short, dollar_amounts_bolded)
 - No individual content score below 6
 - overall_score (average of all 6 scores) is 7.5 or higher
 - credibility score is 9 or higher
@@ -124,7 +127,10 @@ Respond with ONLY this JSON. Fill in every field. Do not add fields. Do not remo
  "hire_contractor": true,
  "faq_section": true,
  "bottom_line": true,
- "word_count_in_range": true
+ "word_count_in_range": true,
+ "tables_max_3_columns": true,
+ "table_cells_short": true,
+ "dollar_amounts_bolded": true
  },
  "structure_pass": true,
  "scores": {
