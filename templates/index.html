@@ -576,7 +576,7 @@ function updateAgentCards(data) {
 // ── Queue ──────────────────────────────────────────────────────────────────────
 async function loadQueue() {
   const items = await fetch('/api/queue').then(r => r.json());
-  document.getElementById('badge-queue').textContent = items.filter(i => i.status === 'PENDING').length;
+  document.getElementById('badge-queue').textContent = items.filter(i => i.status === 'PENDING' || i.status === 'IN_PROGRESS').length;
 
   const tbody = document.getElementById('queue-tbody');
   if (!items.length) {
