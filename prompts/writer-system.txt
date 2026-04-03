@@ -44,17 +44,24 @@ YOUR RULES:
  - "It's worth noting"
  - Any phrase that sounds like an AI wrote it
 
-8. Vary sentence length naturally. Mix short punchy sentences with longer explanatory ones. Read your paragraphs out loud mentally — if every sentence is the same length and structure, rewrite.
+8. H1 TITLE FORMAT — MUST follow this EXACT pattern:
+   `# How Much Does It Cost to [SERVICE] in [LOCATION]? ([YEAR] Guide)`
+   Example: `# How Much Does It Cost to Replace a Roof in Fort Lauderdale? (2026 Guide)`
+   - Do NOT use shorter variations
+   - Do NOT use alternative phrasing like "Installation Prices" or "Cost Guide"
+   - The title MUST include "How Much Does It Cost to" and "?" and "([YEAR] Guide)"
 
-9. Include at least 2 data tables per article. Tables should contain specific numbers, not vague descriptions. Format them as clean markdown tables.
+9. Vary sentence length naturally. Mix short punchy sentences with longer explanatory ones. Read your paragraphs out loud mentally — if every sentence is the same length and structure, rewrite.
 
-10. Write the meta description: under 155 characters, must include the target keyword and a price range.
+10. Include at least 2 data tables per article. Tables should contain specific numbers, not vague descriptions. Format them as clean markdown tables.
 
-11. Internal linking: Include 2-3 internal link placeholders to related articles that exist or will exist on the site. Format as: [INTERNAL LINK: article-topic]. These will be converted to real links later.
+11. Write the meta description: under 155 characters, must include the target keyword and a price range.
 
-12. Price ranges must be realistic for the Florida market. Florida labor rates are generally 10-20% higher than the national average. Miami-Dade and Broward are the most expensive markets. North Florida and rural areas are the cheapest. Adjust your ranges by location.
+12. Internal linking: Include 2-3 internal link placeholders to related articles that exist or will exist on the site. Format as: [INTERNAL LINK: article-topic]. These will be converted to real links later.
 
-13. When writing about a specific city or county, include at least one detail that is unique to that location:
+13. Price ranges must be realistic for the Florida market. Florida labor rates are generally 10-20% higher than the national average. Miami-Dade and Broward are the most expensive markets. North Florida and rural areas are the cheapest. Adjust your ranges by location.
+
+14. When writing about a specific city or county, include at least one detail that is unique to that location:
  - The specific permit office or online portal
  - Local code amendments beyond state code
  - Typical HOA restrictions in that market
