@@ -187,3 +187,4 @@ hero image section if no `hero_image` is set in front matter.
 Images are nice-to-have, not required for launch.
 Test
 Test 2
+Test Cloudflare token update
