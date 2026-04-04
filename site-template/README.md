@@ -185,3 +185,4 @@ Pipeline calls generate_chart.py with cost data extracted from article.
 Articles work fine without images. The template gracefully hides the 
 hero image section if no `hero_image` is set in front matter.
 Images are nice-to-have, not required for launch.
+Test
