@@ -51,7 +51,7 @@ Do NOT generate your own keywords. Process top to bottom, no skipping.
 - PUBLISHED | cost to replace flat roof in Jacksonville 2026 | roofing | Jacksonville
 - PUBLISHED | cost of roof inspection in Florida 2026 | roofing | Florida
 - PUBLISHED | cost of roof inspection in Miami 2026 | roofing | Miami
-- PENDING | cost of roof inspection in Fort Lauderdale 2026 | roofing | Fort Lauderdale
+- IN_PROGRESS | cost of roof inspection in Fort Lauderdale 2026 | roofing | Fort Lauderdale
 - PENDING | cost of roof inspection in Tampa 2026 | roofing | Tampa
 - PENDING | cost of roof inspection in Orlando 2026 | roofing | Orlando
 - PENDING | cost of roof coating in Florida 2026 | roofing | Florida
