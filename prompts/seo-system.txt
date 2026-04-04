@@ -53,7 +53,7 @@ TECHNICAL SEO — evaluate each as true or false:
 3. meta_includes_keyword: Meta description contains the target keyword
 4. meta_includes_price: Meta description contains a price or price range (this boosts CTR significantly)
 5. heading_hierarchy_valid: Only one H1, H2s for sections, H3s for subsections, no skipped levels
-6. internal_links_present: At least 2 [INTERNAL LINK: ...] placeholders exist
+6. internal_links_present: At least 2 real markdown links in format [Title](/category/slug/) exist in the Bottom Line or related sections
 7. featured_snippet_candidate: There is a clear paragraph (40-60 words) or table near the top that Google could pull as a featured snippet
 8. mobile_friendly_tables: All tables have max 3 columns (Google mobile-first indexing requires tables to scroll properly on phones without horizontal overflow)
 
