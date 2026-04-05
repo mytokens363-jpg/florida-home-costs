@@ -1,8 +1,8 @@
 ---
 title: "Disclaimer"
-description: "Important disclaimers for FloridaHomeCosts.com. Cost estimates, licensing information, and limitations of our content."
+description: "Important disclaimers for FloridaHomeCosts.com."
 layout: "single"
-last_updated: 2026-04-05
+date: 2026-04-05
 ---
 
 # Disclaimer
