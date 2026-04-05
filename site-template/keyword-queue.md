@@ -14,6 +14,11 @@ Do NOT generate your own keywords. Process top to bottom, no skipping.
 ---
 
 ## Queue
+- IN_PROGRESS | cost to repair roof in Orlando 2026 | general | Florida
+- PUBLISHED | cost to install metal roof in Florida 2026 | general | Florida
+- IN_PROGRESS | cost to install metal roof in Fort Lauderdale 2026 | general | Florida
+- PUBLISHED | cost to install metal roof in Broward County 2026 | general | Florida
+- IN_PROGRESS | cost to replace tile roof in Florida 2026 | general | Florida
 - IN_PROGRESS | cost to replace roof fort lauderdale 2026 | general | Florida
 - IN_PROGRESS | cost to paint house exterior florida 2026 | general | Florida
 - IN_PROGRESS | cost to replace windows fort lauderdale 2026 | general | Florida
@@ -52,30 +57,30 @@ Do NOT generate your own keywords. Process top to bottom, no skipping.
 - PUBLISHED | cost of roof inspection in Florida 2026 | roofing | Florida
 - PUBLISHED | cost of roof inspection in Miami 2026 | roofing | Miami
 - IN_PROGRESS | cost of roof inspection in Fort Lauderdale 2026 | roofing | Fort Lauderdale
-- PENDING | cost of roof inspection in Tampa 2026 | roofing | Tampa
-- PENDING | cost of roof inspection in Orlando 2026 | roofing | Orlando
-- PENDING | cost of roof coating in Florida 2026 | roofing | Florida
-- PENDING | cost of roof coating in Miami 2026 | roofing | Miami
-- PENDING | cost of roof coating in Fort Lauderdale 2026 | roofing | Fort Lauderdale
-- PENDING | cost of roof coating in Tampa 2026 | roofing | Tampa
-- PENDING | cost of roof coating in Sarasota 2026 | roofing | Sarasota
+- IN_PROGRESS | cost of roof inspection in Tampa 2026 | roofing | Tampa
+- IN_PROGRESS | cost of roof inspection in Orlando 2026 | roofing | Orlando
+- IN_PROGRESS | cost of roof coating in Florida 2026 | roofing | Florida
+- IN_PROGRESS | cost of roof coating in Miami 2026 | roofing | Miami
+- PUBLISHED | cost of roof coating in Fort Lauderdale 2026 | roofing | Fort Lauderdale
+- PUBLISHED | cost of roof coating in Tampa 2026 | roofing | Tampa
+- PUBLISHED | cost of roof coating in Sarasota 2026 | roofing | Sarasota
 
 ### WEEK 2 — HURRICANE PROTECTION
 
-- PENDING | cost to install impact windows in Florida 2026 | hurricane-protection | Florida
+- PUBLISHED | cost to install impact windows in Florida 2026 | hurricane-protection | Florida
 - PUBLISHED | cost to install impact windows in Miami 2026 | hurricane-protection | Miami
-- PENDING | cost to install impact windows in Fort Lauderdale 2026 | hurricane-protection | Fort Lauderdale
-- PENDING | cost to install impact windows in Broward County 2026 | hurricane-protection | Broward County
-- PENDING | cost to install impact windows in Palm Beach 2026 | hurricane-protection | Palm Beach
-- PENDING | cost to install impact doors in Florida 2026 | hurricane-protection | Florida
-- PENDING | cost to install impact doors in Miami 2026 | hurricane-protection | Miami
-- PENDING | cost to install impact doors in Fort Lauderdale 2026 | hurricane-protection | Fort Lauderdale
-- PENDING | cost to install impact doors in Tampa 2026 | hurricane-protection | Tampa
-- PENDING | cost to install impact doors in Naples 2026 | hurricane-protection | Naples
-- PENDING | cost to install hurricane shutters in Florida 2026 | hurricane-protection | Florida
-- PENDING | cost to install hurricane shutters in Miami 2026 | hurricane-protection | Miami
-- PENDING | cost to install hurricane shutters in Fort Lauderdale 2026 | hurricane-protection | Fort Lauderdale
-- PENDING | cost to install hurricane shutters in Tampa 2026 | hurricane-protection | Tampa
+- PUBLISHED | cost to install impact windows in Fort Lauderdale 2026 | hurricane-protection | Fort Lauderdale
+- PUBLISHED | cost to install impact windows in Broward County 2026 | hurricane-protection | Broward County
+- PUBLISHED | cost to install impact windows in Palm Beach 2026 | hurricane-protection | Palm Beach
+- PUBLISHED | cost to install impact doors in Florida 2026 | hurricane-protection | Florida
+- PUBLISHED | cost to install impact doors in Miami 2026 | hurricane-protection | Miami
+- PUBLISHED | cost to install impact doors in Fort Lauderdale 2026 | hurricane-protection | Fort Lauderdale
+- IN_PROGRESS | cost to install impact doors in Tampa 2026 | hurricane-protection | Tampa
+- PUBLISHED | cost to install impact doors in Naples 2026 | hurricane-protection | Naples
+- IN_PROGRESS | cost to install hurricane shutters in Florida 2026 | hurricane-protection | Florida
+- PUBLISHED | cost to install hurricane shutters in Miami 2026 | hurricane-protection | Miami
+- IN_PROGRESS | cost to install hurricane shutters in Fort Lauderdale 2026 | hurricane-protection | Fort Lauderdale
+- PUBLISHED | cost to install hurricane shutters in Tampa 2026 | hurricane-protection | Tampa
 - PENDING | cost to install hurricane shutters in Orlando 2026 | hurricane-protection | Orlando
 - PENDING | cost to install hurricane garage door in Florida 2026 | hurricane-protection | Florida
 - PENDING | cost to install hurricane garage door in Miami 2026 | hurricane-protection | Miami

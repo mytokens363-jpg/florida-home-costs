@@ -18,3 +18,18 @@
 | 2026-04-04 00:14 | cost to replace flat roof in Jacksonville 2026 | cost-to-replace-flat-roof-in-jacksonville-2026-2026.md | Editor: 8.3 | SEO: 9.4 | PUBLISHED |
 | 2026-04-04 00:19 | cost of roof inspection in Florida 2026 | cost-of-roof-inspection-in-florida-2026-2026.md | Editor: 8.5 | SEO: 7.8 | PUBLISHED |
 | 2026-04-04 00:25 | cost of roof inspection in Miami 2026 | cost-of-roof-inspection-in-miami-2026-2026.md | Editor: 9.2 | SEO: 8.4 | PUBLISHED |
+| 2026-04-04 13:17 | cost of roof coating in Fort Lauderdale 2026 | cost-of-roof-coating-in-fort-lauderdale-2026-2026.md | Editor: 8.3 | SEO: 8.0 | PUBLISHED |
+| 2026-04-04 13:24 | cost of roof coating in Tampa 2026 | cost-of-roof-coating-in-tampa-2026-2026.md | Editor: 8.3 | SEO: 8.0 | PUBLISHED |
+| 2026-04-04 13:30 | cost of roof coating in Sarasota 2026 | cost-of-roof-coating-in-sarasota-2026-2026.md | Editor: 8.3 | SEO: 7.2 | PUBLISHED |
+| 2026-04-04 13:36 | cost to install impact windows in Florida 2026 | cost-to-install-impact-windows-in-florida-2026-2026.md | Editor: 9.2 | SEO: 8.4 | PUBLISHED |
+| 2026-04-04 13:42 | cost to install impact windows in Fort Lauderdale 2026 | cost-to-install-impact-windows-in-fort-lauderdale-2026-2026.md | Editor: 8.2 | SEO: 8.0 | PUBLISHED |
+| 2026-04-05 00:07 | cost to install impact windows in Broward County 2026 | cost-to-install-impact-windows-in-broward-county-2026-2026.md | Editor: 8.3 | SEO: 8.4 | PUBLISHED |
+| 2026-04-05 00:11 | cost to install impact windows in Palm Beach 2026 | cost-to-install-impact-windows-in-palm-beach-2026-2026.md | Editor: 8.5 | SEO: 9.4 | PUBLISHED |
+| 2026-04-05 00:16 | cost to install impact doors in Florida 2026 | cost-to-install-impact-doors-in-florida-2026-2026.md | Editor: 8.5 | SEO: 9.4 | PUBLISHED |
+| 2026-04-05 00:22 | cost to install impact doors in Miami 2026 | cost-to-install-impact-doors-in-miami-2026-2026.md | Editor: 9.0 | SEO: 8.4 | PUBLISHED |
+| 2026-04-05 00:27 | cost to install impact doors in Fort Lauderdale 2026 | cost-to-install-impact-doors-in-fort-lauderdale-2026-2026.md | Editor: 8.5 | SEO: 9.2 | PUBLISHED |
+| 2026-04-05 15:28 | cost to install metal roof in Florida 2026 | cost-to-install-metal-roof-in-florida-2026-2026.md | Editor: 8.5 | SEO: 9.4 | PUBLISHED |
+| 2026-04-05 15:34 | cost to install metal roof in Broward County 2026 | cost-to-install-metal-roof-in-broward-county-2026-2026.md | Editor: 8.3 | SEO: 9.4 | PUBLISHED |
+| 2026-04-05 15:41 | cost to install impact doors in Naples 2026 | cost-to-install-impact-doors-in-naples-2026-2026.md | Editor: 8.3 | SEO: 9.4 | PUBLISHED |
+| 2026-04-05 15:48 | cost to install hurricane shutters in Miami 2026 | cost-to-install-hurricane-shutters-in-miami-2026-2026.md | Editor: 8.2 | SEO: 8.4 | PUBLISHED |
+| 2026-04-05 15:55 | cost to install hurricane shutters in Tampa 2026 | cost-to-install-hurricane-shutters-in-tampa-2026-2026.md | Editor: 8.3 | SEO: 7.6 | PUBLISHED |
