@@ -1,8 +1,8 @@
 ---
 title: "Privacy Policy"
-description: "Privacy policy for FloridaHomeCosts.com. How we collect, use, and protect your information."
+description: "Privacy policy for FloridaHomeCosts.com."
 layout: "single"
-last_updated: 2026-04-05
+date: 2026-04-05
 ---
 
 # Privacy Policy
