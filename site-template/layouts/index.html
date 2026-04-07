@@ -3,6 +3,18 @@
 <section class="hero-section">
   <h1>Florida Home Improvement Cost Guides</h1>
   <p>Accurate pricing, local building codes, and contractor advice for every Florida county. Updated for {{ now.Format "2006" }}.</p>
+  <!-- Search Bar -->
+  <form class="hero-search" action="/search/" method="get" style="margin: 20px auto 0; max-width: 520px; display: flex; align-items: center; background: #fff; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 12px rgba(0,0,0,0.10); border: 2px solid transparent; transition: border-color 0.2s;">
+    <span style="padding: 0 14px; font-size: 1.2rem; color: #9ca3af;">🔍</span>
+    <input
+      type="text"
+      name="q"
+      placeholder="Search guides — roof, HVAC, Miami..."
+      style="border: none; outline: none; padding: 14px 0; font-size: 1rem; width: 100%; background: transparent;"
+    />
+    <button type="submit" style="padding: 0 20px; background: #2563eb; color: #fff; border: none; font-size: 0.95rem; font-weight: 600; cursor: pointer; height: 100%; min-height: 50px;">Search</button>
+  </form>
+
   <div class="category-nav">
     <a href="/roofing/">🏠 Roofing</a>
     <a href="/hurricane-protection/">🌀 Hurricane Protection</a>

@@ -76,6 +76,9 @@ menu:
     - name: "Pool"
       url: "/pool/"
       weight: 6
+    - name: "🔍 Search"
+      url: "/search/"
+      weight: 99
 
 # Build settings
 buildDrafts: false
