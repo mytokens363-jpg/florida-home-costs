@@ -33,3 +33,13 @@
 | 2026-04-05 15:41 | cost to install impact doors in Naples 2026 | cost-to-install-impact-doors-in-naples-2026-2026.md | Editor: 8.3 | SEO: 9.4 | PUBLISHED |
 | 2026-04-05 15:48 | cost to install hurricane shutters in Miami 2026 | cost-to-install-hurricane-shutters-in-miami-2026-2026.md | Editor: 8.2 | SEO: 8.4 | PUBLISHED |
 | 2026-04-05 15:55 | cost to install hurricane shutters in Tampa 2026 | cost-to-install-hurricane-shutters-in-tampa-2026-2026.md | Editor: 8.3 | SEO: 7.6 | PUBLISHED |
+| 2026-04-06 00:04 | cost to install hurricane shutters in Orlando 2026 | cost-to-install-hurricane-shutters-in-orlando-2026-2026.md | Editor: 8.5 | SEO: 9.2 | PUBLISHED |
+| 2026-04-06 00:09 | cost to install hurricane garage door in Florida 2026 | cost-to-install-hurricane-garage-door-in-florida-2026-2026.md | Editor: 8.5 | SEO: 9.2 | PUBLISHED |
+| 2026-04-06 00:13 | cost to install hurricane garage door in Miami 2026 | cost-to-install-hurricane-garage-door-in-miami-2026-2026.md | Editor: 8.5 | SEO: 8.4 | PUBLISHED |
+| 2026-04-06 00:18 | cost to install hurricane garage door in Fort Lauderdale 2026 | cost-to-install-hurricane-garage-door-in-fort-lauderdale-2026-2026.md | Editor: 8.7 | SEO: 9.6 | PUBLISHED |
+| 2026-04-06 00:24 | cost to install hurricane garage door in Tampa 2026 | cost-to-install-hurricane-garage-door-in-tampa-2026-2026.md | Editor: 8.3 | SEO: 8.2 | PUBLISHED |
+| 2026-04-07 00:04 | cost to install hurricane garage door in Jacksonville 2026 | cost-to-install-hurricane-garage-door-in-jacksonville-2026-2026.md | Editor: 8.5 | SEO: 9.4 | PUBLISHED |
+| 2026-04-07 00:12 | cost to install whole house generator in Miami 2026 | cost-to-install-whole-house-generator-in-miami-2026-2026.md | Editor: 8.3 | SEO: 8.4 | PUBLISHED |
+| 2026-04-07 00:16 | cost to install whole house generator in Fort Lauderdale 2026 | cost-to-install-whole-house-generator-in-fort-lauderdale-2026-2026.md | Editor: 8.3 | SEO: 9.4 | PUBLISHED |
+| 2026-04-07 00:21 | cost to install whole house generator in Tampa 2026 | cost-to-install-whole-house-generator-in-tampa-2026-2026.md | Editor: 8.2 | SEO: 7.8 | PUBLISHED |
+| 2026-04-07 00:26 | cost to install whole house generator in Orlando 2026 | cost-to-install-whole-house-generator-in-orlando-2026-2026.md | Editor: 8.5 | SEO: 9.2 | PUBLISHED |

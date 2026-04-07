@@ -81,17 +81,17 @@ Do NOT generate your own keywords. Process top to bottom, no skipping.
 - PUBLISHED | cost to install hurricane shutters in Miami 2026 | hurricane-protection | Miami
 - IN_PROGRESS | cost to install hurricane shutters in Fort Lauderdale 2026 | hurricane-protection | Fort Lauderdale
 - PUBLISHED | cost to install hurricane shutters in Tampa 2026 | hurricane-protection | Tampa
-- PENDING | cost to install hurricane shutters in Orlando 2026 | hurricane-protection | Orlando
-- PENDING | cost to install hurricane garage door in Florida 2026 | hurricane-protection | Florida
-- PENDING | cost to install hurricane garage door in Miami 2026 | hurricane-protection | Miami
-- PENDING | cost to install hurricane garage door in Fort Lauderdale 2026 | hurricane-protection | Fort Lauderdale
-- PENDING | cost to install hurricane garage door in Tampa 2026 | hurricane-protection | Tampa
-- PENDING | cost to install hurricane garage door in Jacksonville 2026 | hurricane-protection | Jacksonville
+- PUBLISHED | cost to install hurricane shutters in Orlando 2026 | hurricane-protection | Orlando
+- PUBLISHED | cost to install hurricane garage door in Florida 2026 | hurricane-protection | Florida
+- PUBLISHED | cost to install hurricane garage door in Miami 2026 | hurricane-protection | Miami
+- PUBLISHED | cost to install hurricane garage door in Fort Lauderdale 2026 | hurricane-protection | Fort Lauderdale
+- PUBLISHED | cost to install hurricane garage door in Tampa 2026 | hurricane-protection | Tampa
+- PUBLISHED | cost to install hurricane garage door in Jacksonville 2026 | hurricane-protection | Jacksonville
 - PUBLISHED | cost to install whole house generator in Florida 2026 | electrical | Florida
-- PENDING | cost to install whole house generator in Miami 2026 | electrical | Miami
-- PENDING | cost to install whole house generator in Fort Lauderdale 2026 | electrical | Fort Lauderdale
-- PENDING | cost to install whole house generator in Tampa 2026 | electrical | Tampa
-- PENDING | cost to install whole house generator in Orlando 2026 | electrical | Orlando
+- PUBLISHED | cost to install whole house generator in Miami 2026 | electrical | Miami
+- PUBLISHED | cost to install whole house generator in Fort Lauderdale 2026 | electrical | Fort Lauderdale
+- PUBLISHED | cost to install whole house generator in Tampa 2026 | electrical | Tampa
+- PUBLISHED | cost to install whole house generator in Orlando 2026 | electrical | Orlando
 - PENDING | cost to install roof straps in Florida 2026 | hurricane-protection | Florida
 - PENDING | cost to install roof straps in Miami 2026 | hurricane-protection | Miami
 - PENDING | cost to install roof straps in Fort Lauderdale 2026 | hurricane-protection | Fort Lauderdale

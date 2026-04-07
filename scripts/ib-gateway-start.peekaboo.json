@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "stepId": 1,
+      "command": "app",
+      "params": {
+        "launch": {
+          "app": "IB Gateway 10.44"
+        }
+      }
+    },
+    {
+      "stepId": 2,
+      "command": "sleep",
+      "params": {
+        "duration": 5
+      }
+    },
+    {
+      "stepId": 3,
+      "command": "see",
+      "params": {
+        "app": "IB Gateway 10.44",
+        "annotate": true,
+        "path": "/tmp/ib_gateway_login.png"
+      }
+    }
+  ]
+}

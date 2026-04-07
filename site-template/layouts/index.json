@@ -1,14 +1,16 @@
-{{- $pages := where .Site.RegularPages "Kind" "page" -}}
+{{- $pages := where .Site.RegularPages "Section" "!=" "" -}}
 [
   {{- range $i, $page := $pages -}}
   {{- if $i }},{{ end }}
   {
     "title": {{ $page.Title | jsonify }},
-    "url": {{ $page.RelPermalink | jsonify }},
     "description": {{ $page.Description | default $page.Summary | plainify | jsonify }},
-    "categories": {{ $page.Params.categories | default slice | jsonify }},
+    "category": {{ index ($page.Params.categories | default slice) 0 | default "" | jsonify }},
+    "location": {{ $page.Params.location | default "" | jsonify }},
+    "service": {{ $page.Params.service | default "" | jsonify }},
     "tags": {{ $page.Params.tags | default slice | jsonify }},
-    "content": {{ $page.Plain | truncate 500 | jsonify }}
+    "url": {{ $page.RelPermalink | jsonify }},
+    "content": {{ $page.Plain | truncate 300 | jsonify }}
   }
   {{- end }}
 ]
