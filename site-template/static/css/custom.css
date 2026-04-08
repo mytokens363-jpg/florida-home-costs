@@ -37,6 +37,7 @@ article table thead {
 }
 
 article table thead th {
+    background-color: #1B6B4A !important;
     color: #FFFFFF !important;
     border-bottom: 2px solid #134D35 !important;
 }
