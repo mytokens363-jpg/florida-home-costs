@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <rect width="300" height="300" fill="#2563eb"/>
+  <circle cx="150" cy="120" r="50" fill="#f8f9fa"/>
+  <path d="M80 280 Q150 220 220 280" fill="none" stroke="#f8f9fa" stroke-width="4"/>
+  <text x="150" y="260" font-family="Arial, sans-serif" font-size="14" fill="#f8f9fa" text-anchor="middle" font-weight="bold">Marco Reyes</text>
+</svg>

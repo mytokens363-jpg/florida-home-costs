@@ -1,0 +1,15 @@
+baseURL = 'https://floridahomecosts.com/'
+languageCode = 'en-us'
+title = 'Florida Home Costs - 2026 Pricing Guide'
+
+enableRobotsTXT = true
+
+[params]
+  description = 'Florida home improvement and repair cost guides for 2026. Comprehensive pricing by city and service.'
+  author = 'Marco Reyes'
+  siteLogo = '/images/logo.png'
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
+  filename = 'sitemap.xml'
