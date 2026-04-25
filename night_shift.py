@@ -493,6 +493,9 @@ def publish_article(
 
     current_year = datetime.date.today().year
     url_slug = keyword.lower().replace(" ", "-").replace(",", "")
+    # Strip trailing year (e.g. "2026") to avoid duplicate "-2026-2026"
+    import re
+    url_slug = re.sub(r'-\d{4}$', '', url_slug)
     article_filename = f"{url_slug}-{current_year}.md"
     article_filepath = REPO_PATH / "content" / category / article_filename
 
