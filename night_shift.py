@@ -5,7 +5,7 @@ Runs nightly. Pulls keywords from queue. Orchestrates Writer, Editor,
 and SEO agents via dual LLM routing.
 
 MODEL ROUTING:
-  Writer  → Qwen3.5-35B-A3B  (10.0.0.14:8000) — creative generation, faster
+  Writer  → Qwen3.5-35B-A3B  (10.0.0.13:8000) — creative generation, faster
   Editor  → Qwen3.5-122B     (10.0.0.21:8000) — high-fidelity quality review
   SEO     → Qwen3.5-122B     (10.0.0.21:8000) — high-fidelity SEO analysis
 
@@ -28,11 +28,11 @@ MAX_REVISIONS = 3
 ARTICLES_PER_NIGHT = 5
 
 # ── Model routing — three separate vLLM endpoints ─────────────────────────────
-# Writer:  10.0.0.14 (Rivet2) — Qwen3.5-35B-A3B (faster, creative generation)
+# Writer:  10.0.0.13 (Rivet2) — Qwen3.5-35B-A3B (faster, creative generation)
 # Editor:  10.0.0.21 (Spark)  — Qwen3.5-122B (high-fidelity review)
 # SEO:     10.0.0.21 (Spark)  — Qwen3.5-122B (high-fidelity review)
 
-WRITER_URL  = "http://10.0.0.14:8000/v1/chat/completions"
+WRITER_URL  = "http://10.0.0.13:8000/v1/chat/completions"
 EDITOR_URL  = "http://10.0.0.21:8000/v1/chat/completions"
 SEO_URL     = "http://10.0.0.21:8000/v1/chat/completions"
 

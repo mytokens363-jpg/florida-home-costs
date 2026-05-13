@@ -8,6 +8,8 @@ tags:
   - electrical
   - Florida
   - 2026
+aliases:
+  - /electrical/cost-to-install-home-generators-miami-2026/
 ---
 
 # How Much Does It Cost to Install a Whole House Generator in Miami? (2026 Guide)
