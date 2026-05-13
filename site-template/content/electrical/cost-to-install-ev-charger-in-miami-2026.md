@@ -8,6 +8,8 @@ tags:
   - electrical
   - Florida
   - 2026
+aliases:
+  - /electrical/cost-to-install-ev-charger-miami-2026/
 ---
 
 # How Much Does It Cost to Install an EV Charger in Miami? (2026 Guide)

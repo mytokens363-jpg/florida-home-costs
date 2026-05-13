@@ -8,6 +8,8 @@ tags:
   - interior
   - Florida
   - 2026
+aliases:
+  - /interior/cost-to-paint-interior-walls-fort-lauderdale-2026/
 ---
 
 # How Much Does It Cost to Paint Interior of House in Fort Lauderdale? (2026 Guide)
