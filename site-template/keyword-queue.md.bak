@@ -4,7 +4,7 @@ Format: `- STATUS | keyword | category | location`
 
 STATUS values:
 - PENDING     → not yet processed (pipeline will process these in order)
-- PENDING → currently being written (set by pipeline, do not edit)
+- IN_PROGRESS → currently being written (set by pipeline, do not edit)
 - PUBLISHED   → live on site
 - QUARANTINED → failed max revisions, needs human review
 
@@ -30,21 +30,21 @@ Do NOT generate your own keywords. Process top to bottom, no skipping.
 ### WEEK 1 — ROOFING
 
 - PUBLISHED | cost to replace roof in Florida 2026 | roofing | Florida
-- PENDING | cost to replace roof in Miami 2026 | roofing | Miami
-- PENDING | cost to replace roof in Fort Lauderdale 2026 | roofing | Fort Lauderdale
+- IN_PROGRESS | cost to replace roof in Miami 2026 | roofing | Miami
+- IN_PROGRESS | cost to replace roof in Fort Lauderdale 2026 | roofing | Fort Lauderdale
 - PUBLISHED | cost to replace roof in Tampa 2026 | roofing | Tampa
-- PUBLISHED | cost to replace roof in Orlando 2026 | roofing | Orlando
+- PENDING | cost to replace roof in Orlando 2026 | roofing | Orlando
 - PENDING | cost to repair roof in Florida 2026 | roofing | Florida
 - PUBLISHED | cost to repair roof in Miami 2026 | roofing | Miami
 - PUBLISHED | cost to repair roof in Fort Lauderdale 2026 | roofing | Fort Lauderdale
 - PUBLISHED | cost to repair roof in Tampa 2026 | roofing | Tampa
 - PENDING | cost to repair roof in Orlando 2026 | roofing | Orlando
-- PUBLISHED | cost to install metal roof in Florida 2026 | roofing | Florida
+- PENDING | cost to install metal roof in Florida 2026 | roofing | Florida
 - PUBLISHED | cost to install metal roof in Miami 2026 | roofing | Miami
 - PENDING | cost to install metal roof in Fort Lauderdale 2026 | roofing | Fort Lauderdale
-- PUBLISHED | cost to install metal roof in Broward County 2026 | roofing | Broward County
+- PENDING | cost to install metal roof in Broward County 2026 | roofing | Broward County
 - PUBLISHED | cost to install metal roof in Palm Beach 2026 | roofing | Palm Beach
-- PUBLISHED | cost to replace tile roof in Florida 2026 | roofing | Florida
+- PENDING | cost to replace tile roof in Florida 2026 | roofing | Florida
 - PUBLISHED | cost to replace tile roof in Miami 2026 | roofing | Miami
 - PUBLISHED | cost to replace tile roof in Fort Lauderdale 2026 | roofing | Fort Lauderdale
 - PUBLISHED | cost to replace tile roof in Naples 2026 | roofing | Naples
@@ -230,7 +230,7 @@ Do NOT generate your own keywords. Process top to bottom, no skipping.
 - PUBLISHED | cost to install water softener in Miami 2026 | plumbing | Miami
 - PUBLISHED | cost to install water softener in Fort Lauderdale 2026 | plumbing | Fort Lauderdale
 - PUBLISHED | cost to install sump pump in Florida 2026 | plumbing | Florida
-- PUBLISHED | cost to install sump pump in Miami 2026 | plumbing | Miami
+- PENDING | cost to install sump pump in Miami 2026 | plumbing | Miami
 - PUBLISHED | cost to install sump pump in Fort Lauderdale 2026 | plumbing | Fort Lauderdale
 - PUBLISHED | cost to rewire house in Florida 2026 | electrical | Florida
 - PUBLISHED | cost to rewire house in Miami 2026 | electrical | Miami
@@ -243,7 +243,7 @@ Do NOT generate your own keywords. Process top to bottom, no skipping.
 - PUBLISHED | cost to install EV charger in Miami 2026 | electrical | Miami
 - PENDING | cost to install EV charger in Fort Lauderdale 2026 | electrical | Fort Lauderdale
 - PUBLISHED | cost to install EV charger in Tampa 2026 | electrical | Tampa
-- PUBLISHED | cost to install EV charger in Orlando 2026 | electrical | Orlando
+- PENDING | cost to install EV charger in Orlando 2026 | electrical | Orlando
 - PENDING | cost to install ceiling fan in Florida 2026 | electrical | Florida
 - PENDING | cost to install ceiling fan in Miami 2026 | electrical | Miami
 - PENDING | cost to install ceiling fan in Fort Lauderdale 2026 | electrical | Fort Lauderdale

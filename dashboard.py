@@ -34,7 +34,7 @@ CHAT_DIR.mkdir(parents=True, exist_ok=True)
 LLM_ENDPOINTS = {
     "writer": {
         "url":   "http://10.0.0.13:8000/v1/chat/completions",
-        "model": "Qwen/Qwen3.5-35B-A3B",
+        "model": "Qwen/Qwen3.5-35B-A3B-FP8",
     },
     "editor": {
         "url":   "http://10.0.0.21:8000/v1/chat/completions",
