@@ -1,30 +1,30 @@
 {
-  "run_active": false,
-  "run_started": null,
+  "run_active": true,
+  "run_started": "2026-05-24T18:13:26.337383",
   "articles_target": 5,
   "articles_done": 0,
-  "current_article": null,
+  "current_article": "cost to replace hvac system in Fort Lauderdale 2026",
   "results": [],
   "writer": {
-    "state": "idle",
-    "keyword": null,
-    "detail": null,
+    "state": "done",
+    "keyword": "cost to replace hvac system in Fort Lauderdale 2026",
+    "detail": "Draft complete",
     "score": null,
     "verdict": null
   },
   "editor": {
-    "state": "idle",
-    "keyword": null,
-    "detail": null,
+    "state": "working",
+    "keyword": "cost to replace hvac system in Fort Lauderdale 2026",
+    "detail": "Reviewing quality...",
     "score": null,
     "verdict": null
   },
   "seo": {
-    "state": "idle",
+    "state": "waiting",
     "keyword": null,
     "detail": null,
     "score": null,
     "verdict": null
   },
-  "last_updated": null
+  "last_updated": "2026-05-24T18:16:40.017181"
 }

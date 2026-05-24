@@ -272,3 +272,66 @@
 | 2026-05-11 23:55 | cost to replace tile roof in Florida 2026 | cost-to-replace-tile-roof-in-florida-2026.md | Editor: 8.5 | SEO: 9.2 | PUBLISHED |
 | 2026-05-12 00:10 | cost to install sump pump in Miami 2026 | cost-to-install-sump-pump-in-miami-2026.md | Editor: 8.3 | SEO: 9.0 | PUBLISHED |
 | 2026-05-12 00:16 | cost to install EV charger in Orlando 2026 | cost-to-install-ev-charger-in-orlando-2026.md | Editor: 42 | SEO: 8.4 | PUBLISHED |
+| 2026-05-14 15:48 | cost to replace roof in Miami 2026 | cost-to-replace-roof-in-miami-2026.md | Editor: 9.2 | SEO: 9.0 | PUBLISHED |
+| 2026-05-14 15:53 | cost to replace roof in Fort Lauderdale 2026 | cost-to-replace-roof-in-fort-lauderdale-2026.md | Editor: 9.2 | SEO: 9.0 | PUBLISHED |
+| 2026-05-14 15:57 | cost to repair roof in Florida 2026 | cost-to-repair-roof-in-florida-2026.md | Editor: 8.5 | SEO: 8.4 | PUBLISHED |
+| 2026-05-14 16:02 | cost to repair roof in Orlando 2026 | cost-to-repair-roof-in-orlando-2026.md | Editor: 8.5 | SEO: 8.8 | PUBLISHED |
+| 2026-05-14 16:06 | cost to install metal roof in Fort Lauderdale 2026 | cost-to-install-metal-roof-in-fort-lauderdale-2026.md | Editor: 8.5 | SEO: 8.8 | PUBLISHED |
+| 2026-05-15 00:03 | cost to convert garage in Florida 2026 | cost-to-convert-garage-in-florida-2026.md | Editor: 8.3 | SEO: 9.0 | PUBLISHED |
+| 2026-05-15 00:04 | cost to install EV charger in Fort Lauderdale 2026 | cost-to-install-ev-charger-in-fort-lauderdale-2026.md | Editor: 8.7 | SEO: 8.8 | PUBLISHED |
+| 2026-05-15 00:08 | cost to install ceiling fan in Florida 2026 | cost-to-install-ceiling-fan-in-florida-2026.md | Editor: 8.5 | SEO: 8.8 | PUBLISHED |
+| 2026-05-15 00:15 | cost to install ceiling fan in Fort Lauderdale 2026 | cost-to-install-ceiling-fan-in-fort-lauderdale-2026.md | Editor: 8.7 | SEO: 8.6 | PUBLISHED |
+| 2026-05-15 00:18 | cost to clean air ducts in Florida 2026 | cost-to-clean-air-ducts-in-florida-2026.md | Editor: 8.5 | SEO: 8.0 | PUBLISHED |
+| 2026-05-15 00:19 | cost to clean air ducts in Miami 2026 | cost-to-clean-air-ducts-in-miami-2026.md | Editor: 8.5 | SEO: 9.0 | PUBLISHED |
+| 2026-05-15 00:22 | cost to clean air ducts in Fort Lauderdale 2026 | cost-to-clean-air-ducts-in-fort-lauderdale-2026.md | Editor: 7.8 | SEO: 8.0 | PUBLISHED |
+| 2026-05-15 23:50 | cost to replace ductwork in Florida 2026 | cost-to-replace-ductwork-in-florida-2026.md | Editor: 7.5 | SEO: 8.6 | PUBLISHED |
+| 2026-05-15 23:51 | cost to clean air ducts in Tampa 2026 | cost-to-clean-air-ducts-in-tampa-2026.md | Editor: 8.5 | SEO: 8.0 | PUBLISHED |
+| 2026-05-15 23:54 | cost to replace ductwork in Miami 2026 | cost-to-replace-ductwork-in-miami-2026.md | Editor: 8.5 | SEO: 8.6 | PUBLISHED |
+| 2026-05-16 00:00 | cost to replace ductwork in Fort Lauderdale 2026 | cost-to-replace-ductwork-in-fort-lauderdale-2026.md | Editor: 8.3 | SEO: 8.6 | PUBLISHED |
+| 2026-05-16 00:02 | cost to replace septic tank in Jacksonville 2026 | cost-to-replace-septic-tank-in-jacksonville-2026.md | Editor: 8.3 | SEO: 9.0 | PUBLISHED |
+| 2026-05-16 00:12 | cost of termite treatment in Florida 2026 | cost-of-termite-treatment-in-florida-2026.md | Editor: 8.5 | SEO: 8.8 | PUBLISHED |
+| 2026-05-16 00:14 | cost of termite treatment in Miami 2026 | cost-of-termite-treatment-in-miami-2026.md | Editor: 8.3 | SEO: 9.0 | PUBLISHED |
+| 2026-05-16 00:16 | cost to replace well pump in Tampa 2026 | cost-to-replace-well-pump-in-tampa-2026.md | Editor: 8.2 | SEO: 9.0 | PUBLISHED |
+| 2026-05-16 00:19 | cost to build inground pool in Miami 2026 | cost-to-build-inground-pool-in-miami-2026.md | Editor: 8.5 | SEO: 9.0 | PUBLISHED |
+| 2026-05-16 23:49 | cost to replace pool pump in Miami 2026 | cost-to-replace-pool-pump-in-miami-2026.md | Editor: 8.5 | SEO: 9.0 | PUBLISHED |
+| 2026-05-16 23:50 | cost to build inground pool in Fort Lauderdale 2026 | cost-to-build-inground-pool-in-fort-lauderdale-2026.md | Editor: 8.3 | SEO: 8.8 | PUBLISHED |
+| 2026-05-16 23:54 | cost to install pool heater in Florida 2026 | cost-to-install-pool-heater-in-florida-2026.md | Editor: 8.5 | SEO: 8.0 | PUBLISHED |
+| 2026-05-16 23:55 | cost to build pool enclosure in Miami 2026 | cost-to-build-pool-enclosure-in-miami-2026.md | Editor: 8.5 | SEO: 9.0 | PUBLISHED |
+| 2026-05-16 23:58 | cost to build pool enclosure in Fort Lauderdale 2026 | cost-to-build-pool-enclosure-in-fort-lauderdale-2026.md | Editor: 8.3 | SEO: 9.0 | PUBLISHED |
+| 2026-05-17 00:03 | cost to install gutter in Tampa 2026 | cost-to-install-gutter-in-tampa-2026.md | Editor: 8.3 | SEO: 8.8 | PUBLISHED |
+| 2026-05-17 00:04 | cost to repair stucco in Fort Lauderdale 2026 | cost-to-repair-stucco-in-fort-lauderdale-2026.md | Editor: 8.5 | SEO: 8.4 | PUBLISHED |
+| 2026-05-17 00:17 | cost to build patio in Tampa 2026 | cost-to-build-patio-in-tampa-2026.md | Editor: 8.5 | SEO: 8.2 | PUBLISHED |
+| 2026-05-18 00:03 | cost to install impact windows in Coral Gables 2026 | cost-to-install-impact-windows-in-coral-gables-2026.md | Editor: 8.5 | SEO: 9.0 | PUBLISHED |
+| 2026-05-18 00:04 | cost to remodel kitchen in Coral Gables 2026 | cost-to-remodel-kitchen-in-coral-gables-2026.md | Editor: 9.2 | SEO: 8.8 | PUBLISHED |
+| 2026-05-18 00:12 | cost to replace AC in Coral Gables 2026 | cost-to-replace-ac-in-coral-gables-2026.md | Editor: 8.5 | SEO: 8.8 | PUBLISHED |
+| 2026-05-18 00:13 | cost to replace roof in Pembroke Pines 2026 | cost-to-replace-roof-in-pembroke-pines-2026.md | Editor: 9.2 | SEO: 8.8 | PUBLISHED |
+| 2026-05-18 00:17 | cost to install impact windows in Pembroke Pines 2026 | cost-to-install-impact-windows-in-pembroke-pines-2026.md | Editor: 8.5 | SEO: 9.0 | PUBLISHED |
+| 2026-05-18 00:18 | cost to replace AC in Pembroke Pines 2026 | cost-to-replace-ac-in-pembroke-pines-2026.md | Editor: 8.5 | SEO: 8.0 | PUBLISHED |
+| 2026-05-18 00:21 | cost to remodel kitchen in Pembroke Pines 2026 | cost-to-remodel-kitchen-in-pembroke-pines-2026.md | Editor: 8.5 | SEO: 8.2 | PUBLISHED |
+| 2026-05-18 00:22 | cost to replace roof in Weston 2026 | cost-to-replace-roof-in-weston-2026.md | Editor: 9.2 | SEO: 8.8 | PUBLISHED |
+| 2026-05-18 23:49 | cost to install impact windows in Weston 2026 | cost-to-install-impact-windows-in-weston-2026.md | Editor: 8.3 | SEO: 9.0 | PUBLISHED |
+| 2026-05-18 23:53 | cost to replace AC in Weston 2026 | cost-to-replace-ac-in-weston-2026.md | Editor: 8.5 | SEO: 8.6 | PUBLISHED |
+| 2026-05-19 00:04 | cost to replace roof in Plantation 2026 | cost-to-replace-roof-in-plantation-2026.md | Editor: 8.3 | SEO: 9.0 | PUBLISHED |
+| 2026-05-19 00:04 | cost to install impact windows in Plantation 2026 | cost-to-install-impact-windows-in-plantation-2026.md | Editor: 8.5 | SEO: 9.0 | PUBLISHED |
+| 2026-05-19 00:14 | cost to replace roof in Deerfield Beach 2026 | cost-to-replace-roof-in-deerfield-beach-2026.md | Editor: 9.2 | SEO: 8.8 | PUBLISHED |
+| 2026-05-19 00:14 | cost to install impact windows in Deerfield Beach 2026 | cost-to-install-impact-windows-in-deerfield-beach-2026.md | Editor: 8.5 | SEO: 8.8 | PUBLISHED |
+| 2026-05-19 00:18 | cost to replace roof in Coconut Creek 2026 | cost-to-replace-roof-in-coconut-creek-2026.md | Editor: 9.2 | SEO: 8.6 | PUBLISHED |
+| 2026-05-19 00:23 | cost to replace roof in Sunrise 2026 | cost-to-replace-roof-in-sunrise-2026.md | Editor: 8.5 | SEO: 8.6 | PUBLISHED |
+| 2026-05-19 00:24 | cost to replace roof in Margate 2026 | cost-to-replace-roof-in-margate-2026.md | Editor: 9.2 | SEO: 9.0 | PUBLISHED |
+| 2026-05-19 23:51 | cost to replace roof in Parkland 2026 | cost-to-replace-roof-in-parkland-2026.md | Editor: 9.2 | SEO: 8.8 | PUBLISHED |
+| 2026-05-19 23:52 | cost to replace roof in Tamarac 2026 | cost-to-replace-roof-in-tamarac-2026.md | Editor: 9.2 | SEO: 8.6 | PUBLISHED |
+| 2026-05-19 23:56 | cost to replace roof in Cooper City 2026 | cost-to-replace-roof-in-cooper-city-2026.md | Editor: 8.5 | SEO: 8.8 | PUBLISHED |
+| 2026-05-19 23:57 | cost to replace roof in Homestead 2026 | cost-to-replace-roof-in-homestead-2026.md | Editor: 9.2 | SEO: 9.2 | PUBLISHED |
+| 2026-05-20 00:06 | cost to install impact windows in Homestead 2026 | cost-to-install-impact-windows-in-homestead-2026.md | Editor: 8.3 | SEO: 9.0 | PUBLISHED |
+| 2026-05-20 00:06 | cost to replace roof in Key West 2026 | cost-to-replace-roof-in-key-west-2026.md | Editor: 8.7 | SEO: 9.0 | PUBLISHED |
+| 2026-05-20 00:10 | cost to install hurricane shutters in Key West 2026 | cost-to-install-hurricane-shutters-in-key-west-2026.md | Editor: 8.2 | SEO: 8.8 | PUBLISHED |
+| 2026-05-22 23:49 | cost to paint interior of house in Florida 2026 | cost-to-paint-interior-of-house-in-florida-2026.md | Editor: 8.5 | SEO: 8.8 | PUBLISHED |
+| 2026-05-22 23:53 | cost to paint interior of house in Miami 2026 | cost-to-paint-interior-of-house-in-miami-2026.md | Editor: 8.5 | SEO: 9.0 | PUBLISHED |
+| 2026-05-23 00:01 | cost to install ceiling fan in Miami 2026 | cost-to-install-ceiling-fan-in-miami-2026.md | Editor: 8.3 | SEO: 8.6 | PUBLISHED |
+| 2026-05-23 00:05 | cost to install spray foam insulation in Florida 2026 | cost-to-install-spray-foam-insulation-in-florida-2026.md | Editor: 8.5 | SEO: 8.0 | PUBLISHED |
+| 2026-05-23 00:09 | cost to repair seawall in Tampa 2026 | cost-to-repair-seawall-in-tampa-2026.md | Editor: 8.3 | SEO: 9.2 | PUBLISHED |
+| 2026-05-23 23:53 | cost to install landscape lighting in Fort Lauderdale 2026 | cost-to-install-landscape-lighting-in-fort-lauderdale-2026.md | Editor: 8.5 | SEO: 8.6 | PUBLISHED |
+| 2026-05-23 23:58 | cost to replace roof in St. Petersburg 2026 | cost-to-replace-roof-in-st.-petersburg-2026.md | Editor: 9.2 | SEO: 8.8 | PUBLISHED |
+| 2026-05-24 00:02 | cost to install impact windows in St. Petersburg 2026 | cost-to-install-impact-windows-in-st.-petersburg-2026.md | Editor: 8.3 | SEO: 8.8 | PUBLISHED |
+| 2026-05-24 00:06 | cost to install impact windows in Davie 2026 | cost-to-install-impact-windows-in-davie-2026.md | Editor: 8.2 | SEO: 8.8 | PUBLISHED |
+| 2026-05-24 00:11 | cost to replace hvac system in Miami 2026 | cost-to-replace-hvac-system-in-miami-2026.md | Editor: 9.2 | SEO: 8.4 | PUBLISHED |

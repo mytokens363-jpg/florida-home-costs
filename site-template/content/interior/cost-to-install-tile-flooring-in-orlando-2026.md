@@ -8,8 +8,6 @@ tags:
   - interior
   - Florida
   - 2026
-redirect:
-  - /interior/cost-to-install-tile-floors-orlando-2026/
 ---
 
 # How Much Does It Cost to Install Tile Flooring in Orlando? (2026 Guide)
