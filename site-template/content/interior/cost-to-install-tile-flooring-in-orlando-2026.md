@@ -8,7 +8,7 @@ tags:
   - interior
   - Florida
   - 2026
-aliases:
+redirect:
   - /interior/cost-to-install-tile-floors-orlando-2026/
 ---
 
