@@ -8,6 +8,7 @@ location: Miami
 location_state: Florida
 service: hardwood floor installation
 target_keyword: "cost to install hardwood floors in Miami 2026"
+slug: cost-to-install-hardwood-floors-miami-2026
 ---
 
 # How Much Does It Cost to Install Hardwood Floors in Miami? (2026 Guide)
