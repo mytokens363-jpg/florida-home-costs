@@ -164,5 +164,5 @@ Installing a hurricane garage door in Tampa runs **$3,500 to $9,000** for most h
 
 **Related guides you may find useful:**
 - [Cost to Install Impact Windows in Tampa](/hurricane-protection/cost-to-install-impact-windows-tampa-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
-- [Cost to Replace Roof in Tampa](/roofing/cost-to-replace-roof-tampa-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
+- [Cost to Replace Roof in Tampa](/roofing/cost-to-replace-roof-in-tampa-2026/)

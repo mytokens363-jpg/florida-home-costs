@@ -170,6 +170,6 @@ No, maintenance is considered routine home upkeep. Insurance covers sudden damag
 Air duct cleaning in Tampa costs **$350 to $1,200** for most homes, with the sweet spot around **$525**. The most important thing to know: Tampa’s high humidity creates conditions for mold that dry climates do not. Regular cleaning protects your health and keeps your HVAC system running efficiently. Get quotes from at least 3 NADCA-certified contractors and verify their Florida license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Central Air Conditioning in Tampa 2026](/hvac/cost-to-install-ac-in-tampa-2026/)
-- [Cost to Install Whole Home Dehumidifier in Tampa 2026](/hvac/cost-to-install-dehumidifier-tampa-2026/)
-- [Cost to Replace HVAC System in Tampa 2026](/hvac/cost-to-replace-hvac-tampa-2026/)
+- Cost to Install Central Air Conditioning in Tampa 2026
+- Cost to Install Whole Home Dehumidifier in Tampa 2026
+- Cost to Replace HVAC System in Tampa 2026

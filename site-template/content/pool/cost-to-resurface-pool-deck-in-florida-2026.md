@@ -163,6 +163,6 @@ Storm damage (wind, fallen trees) is typically covered minus your deductible —
 Resurfacing a pool deck in Florida runs **$4,000 to $25,000** for most homes, with stamped concrete at the sweet spot of cost and performance. The most important thing to know: Florida's heat and humidity require specific slip-resistant materials and expansion joints to prevent failure. Get quotes from at least 3 licensed Florida pool contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Inground Pool in Florida](/pooling/cost-to-install-inground-pool-in-florida-2026/)
-- [Cost to Repair Pool Cage Florida](/pooling/cost-to-repair-pool-cage-florida-2026/)
-- [Cost to Install Saltwater System Florida](/pooling/cost-to-install-saltwater-system-florida-2026/)
+- Cost to Install Inground Pool in Florida
+- Cost to Repair Pool Cage Florida
+- Cost to Install Saltwater System Florida

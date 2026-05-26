@@ -164,6 +164,6 @@ Standard policies do not cover normal wear and tear. Storm damage (wind, lightni
 Installing a mini split in Florida runs **$3,000 to $15,000** for most homes, with multi-zone systems at the sweet spot of cost and performance. The most important thing to know: Florida’s SEER2 mandates and coastal corrosion requirements add cost but your new system meets the toughest efficiency standards in the country — and it keeps you insurable in a market where carriers are dropping homes with aging roofs every day. Get quotes from at least 3 licensed Florida HVAC contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Replace Central Air in Florida 2026](/hvac/cost-to-replace-central-air-in-florida-2026/)
+- Cost to Replace Central Air in Florida 2026
 - [Cost to Install Impact Windows in Fort Lauderdale](/hurricane-protection/cost-to-install-impact-windows-fort-lauderdale-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)

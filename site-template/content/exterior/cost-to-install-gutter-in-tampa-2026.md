@@ -167,6 +167,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Installing gutters in Tampa runs **$1,500 to $4,500** for most homes, with aluminum seamless at the sweet spot of cost and performance. The most important thing to know: Tampa's heavy rain and sandy soil require gutters that discharge water far from your foundation. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Tampa](/exterior/cost-to-install-impact-windows-tampa-2026/)
-- [Cost to Replace Roof in Tampa](/roofing/cost-to-replace-roof-tampa-2026/)
-- [Cost to Install Downspout Extensions Tampa](/exterior/cost-to-install-downspout-extensions-tampa-2026/)
+- [Cost to Install Impact Windows in Tampa](/hurricane-protection/cost-to-install-impact-windows-tampa-2026/)
+- [Cost to Replace Roof in Tampa](/roofing/cost-to-replace-roof-in-tampa-2026/)
+- Cost to Install Downspout Extensions Tampa

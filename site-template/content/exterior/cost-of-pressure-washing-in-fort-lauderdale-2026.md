@@ -162,6 +162,6 @@ No, maintenance is not covered. However, regular cleaning helps maintain your po
 Exterior pressure washing in Fort Lauderdale runs **$150 to $2,500** for most properties, with full exterior packages at the high end. The most important thing to know: Broward County has strict runoff regulations and Florida's salt air requires specialized chemical treatments. A clean home protects your roof warranty and keeps your insurance happy. Get quotes from at least 3 licensed local contractors and verify their Business Tax Receipt.
 
 **Related guides you may find useful:**
-- [Cost to Clean Roof in Fort Lauderdale 2026](/exterior/cost-to-clean-roof-fort-lauderdale-2026/)
-- [Cost to Seal Driveway in Fort Lauderdale 2026](/exterior/cost-to-seal-driveway-fort-lauderdale-2026/)
-- [Cost to Power Wash Patios in Florida](/exterior/cost-to-power-wash-patios-florida-2026/)
+- [Cost to Clean Roof in Fort Lauderdale 2026](/general/cost-to-replace-roof-fort-lauderdale-2026/)
+- [Cost to Seal Driveway in Fort Lauderdale 2026](/exterior/cost-to-pave-driveway-in-fort-lauderdale-2026/)
+- Cost to Power Wash Patios in Florida

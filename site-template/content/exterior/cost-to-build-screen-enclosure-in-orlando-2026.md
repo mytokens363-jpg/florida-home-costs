@@ -168,6 +168,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Building a screen enclosure in Orlando runs **$15,000 to $45,000** for most homes, with standard aluminum at the sweet spot of cost and performance. The most important thing to know: Orlando's Wind Zone II requirements add cost but your new enclosure meets local wind standards — and it keeps you usable in a market where carriers are dropping homes with aging structures every day. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Orlando](/exterior/cost-to-install-impact-windows-orlando-2026/)
-- [Cost to Build Patio Cover Florida](/exterior/cost-to-build-patio-cover-orlando-2026/)
-- [Cost to Install Pool Fencing Orlando](/exterior/cost-to-install-pool-fencing-orlando-2026/)
+- Cost to Install Impact Windows in Orlando
+- Cost to Build Patio Cover Florida
+- Cost to Install Pool Fencing Orlando

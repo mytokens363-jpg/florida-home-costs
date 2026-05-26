@@ -166,6 +166,6 @@ Storm damage (water, wind) is typically covered if it damages the closet. Normal
 Installing a custom closet in Fort Lauderdale runs **$3,500 to $15,000** for most homes, with semi-custom wood veneer at the sweet spot of cost and performance. The most important thing to know: Florida humidity requires moisture-resistant materials and finishes to prevent warping. Get quotes from at least 3 licensed Florida carpenters and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Kitchen Cabinets Florida 2026](/interior/cost-to-install-kitchen-cabinets-florida-2026/)
-- [Cost to Install Bathroom Vanity Fort Lauderdale 2026](/interior/cost-to-install-bathroom-vanity-fort-lauderdale-2026/)
-- [Cost to Build In Shelving Miami 2026](/interior/cost-to-build-in-shelving-miami-2026/)
+- Cost to Install Kitchen Cabinets Florida 2026
+- Cost to Install Bathroom Vanity Fort Lauderdale 2026
+- Cost to Build In Shelving Miami 2026

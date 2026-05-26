@@ -168,6 +168,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Resurfacing a pool in Miami runs **$8,000 to $25,000** for most homes, with pebble finishes at the sweet spot of cost and performance. The most important thing to know: Miami-Dade's strict permit and drainage requirements add cost but your new pool meets some of the toughest safety standards in the country — and it keeps you insurable in a market where carriers are dropping homes with unsafe pools every day. Get quotes from at least 3 licensed Florida pool contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Pool Heating in Miami](/pool/cost-to-install-pool-heating-miami-2026/)
-- [Cost to Install Pool Fence in Miami](/pool/cost-to-install-pool-fence-miami-2026/)
+- Cost to Install Pool Heating in Miami
+- Cost to Install Pool Fence in Miami
 - [Cost to Replace Pool Pump in Miami](/pool/cost-to-replace-pool-pump-miami-2026/)

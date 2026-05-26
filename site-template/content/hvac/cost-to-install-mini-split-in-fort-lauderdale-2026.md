@@ -170,6 +170,6 @@ Yes, qualified heat pumps qualify for a 30% tax credit up to **$2,000** annually
 Installing a mini split in Fort Lauderdale runs **$3,500 to $8,000** for most single-zone projects, with multi-zone systems costing more. The most important thing to know: Fort Lauderdale's HVHZ requirements mean your outdoor unit must be braced, and you need a licensed contractor to pull permits. Get quotes from at least 3 licensed Florida HVAC contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Central Air in Fort Lauderdale 2026](/hvac/cost-to-install-central-air-fort-lauderdale-2026/)
-- [Cost to Replace AC Unit Florida](/hvac/cost-to-replace-ac-unit-florida-2026/)
+- Cost to Install Central Air in Fort Lauderdale 2026
+- Cost to Replace AC Unit Florida
 - [Cost to Install Impact Windows Fort Lauderdale](/hurricane-protection/cost-to-install-impact-windows-fort-lauderdale-2026/)

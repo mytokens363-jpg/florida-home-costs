@@ -163,6 +163,6 @@ Water damage from a sudden leak is typically covered minus your deductible — o
 Replacing a water heater in Orlando runs **$1,500 to $4,500** for most homes, with high-efficiency tanks at the sweet spot of cost and performance. The most important thing to know: Orlando's hard water and closed plumbing systems require specific code compliance, like expansion tanks, to protect your home. Get quotes from at least 3 licensed Florida plumbing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install a Water Softener in Orlando 2026](/plumbing/cost-to-install-water-softener-orlando-2026/)
-- [Cost to Repair Plumbing Leaks in Orlando 2026](/plumbing/cost-to-repair-plumbing-leaks-orlando-2026/)
-- [Cost to Replace Water Heater in Tampa 2026](/plumbing/cost-to-replace-water-heater-tampa-2026/)
+- Cost to Install a Water Softener in Orlando 2026
+- Cost to Repair Plumbing Leaks in Orlando 2026
+- [Cost to Replace Water Heater in Tampa 2026](/plumbing/cost-to-replace-water-heater-in-tampa-2026/)

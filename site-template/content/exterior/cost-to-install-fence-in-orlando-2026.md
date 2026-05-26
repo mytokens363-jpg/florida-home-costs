@@ -163,6 +163,6 @@ Storm damage (wind, fallen trees) is typically covered minus your deductible —
 Installing a fence in Orlando runs **$3,000 to $10,000** for most homes, with vinyl at the sweet spot of cost and performance. The most important thing to know: Orlando's sandy soil and wind zone requirements add cost but your new fence meets some of the toughest durability standards in the country — and it keeps you safe in a market where storm damage is common. Get quotes from at least 3 licensed Florida fencing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Orlando 2026](/hurricane-protection/cost-to-install-impact-windows-in-orlando-2026/)
+- Cost to Install Impact Windows in Orlando 2026
 - [Cost to Replace Roof in Orlando 2026](/roofing/cost-to-replace-roof-in-orlando-2026/)
-- [Cost to Install Driveway in Orlando 2026](/exterior/cost-to-install-driveway-in-orlando-2026/)
+- Cost to Install Driveway in Orlando 2026

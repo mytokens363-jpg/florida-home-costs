@@ -170,6 +170,6 @@ No, cosmetic upgrades are never covered. If the removal is part of a water damag
 Removing popcorn ceiling in Miami runs **$2,500 to $5,500** for most homes, with smooth skim coats at the sweet spot of cost and performance. The most important thing to know: older Miami homes often contain asbestos, so testing is non-negotiable. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Paint Interior Walls in Miami](/interior/cost-to-paint-interior-walls-miami-2026/)
-- [Cost to Install Drywall in Miami](/interior/cost-to-install-drywall-miami-2026/)
-- [Cost to Remodel Kitchen Miami](/kitchen/cost-to-remodel-kitchen-miami-2026/)
+- Cost to Paint Interior Walls in Miami
+- Cost to Install Drywall in Miami
+- Cost to Remodel Kitchen Miami

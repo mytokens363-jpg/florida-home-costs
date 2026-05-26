@@ -164,9 +164,9 @@ Usually no. Insurance covers sudden accidents like lightning strikes. Normal wea
 Replacing a pool pump in Fort Lauderdale runs **$750 to $2,000** for most homes, with variable speed pumps at the top of the range. The most important thing to know: salt air and heat shorten pump life here. Invest in corrosion-resistant models and variable speed technology to save on electricity and avoid frequent replacements. Get quotes from licensed pool contractors and check for FPL rebates before buying.
 
 **Related guides you may find useful:**
-- [Cost to Install Salt Water Pool System in Fort Lauderdale 2026](/pool/cost-to-install-salt-water-pool-system-fort-lauderdale-2026/)
+- Cost to Install Salt Water Pool System in Fort Lauderdale 2026
 - [Cost to Resurface Pool in Fort Lauderdale 2026](/pool/cost-to-resurface-pool-fort-lauderdale-2026/)
-- [Cost to Install Pool Heater in Fort Lauderdale 2026](/pool/cost-to-install-pool-heater-fort-lauderdale-2026/)
+- [Cost to Install Pool Heater in Fort Lauderdale 2026](/pool/cost-to-install-pool-heater-in-fort-lauderdale-2026/)
 
 ## Average Cost Breakdown (Detailed)
 
@@ -233,6 +233,6 @@ Replacing a pool pump in Fort Lauderdale runs **$750 to $2,000** for most homes,
 Replacing a pool pump in Fort Lauderdale runs **$750 to $2,000** for most homes. The most important thing to know: salt air and heat shorten pump life here. Invest in corrosion-resistant models and variable speed technology to save on electricity. Get quotes from licensed pool contractors and check for FPL rebates before buying.
 
 **Related guides you may find useful:**
-- [Cost to Install Salt Water Pool System in Fort Lauderdale 2026](/pool/cost-to-install-salt-water-pool-system-fort-lauderdale-2026/)
+- Cost to Install Salt Water Pool System in Fort Lauderdale 2026
 - [Cost to Resurface Pool in Fort Lauderdale 2026](/pool/cost-to-resurface-pool-fort-lauderdale-2026/)
-- [Cost to Install Pool Heater in Fort Lauderdale 2026](/pool/cost-to-install-pool-heater-fort-lauderdale-2026/)
+- [Cost to Install Pool Heater in Fort Lauderdale 2026](/pool/cost-to-install-pool-heater-in-fort-lauderdale-2026/)

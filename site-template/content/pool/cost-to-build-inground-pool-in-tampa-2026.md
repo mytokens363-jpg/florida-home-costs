@@ -163,6 +163,6 @@ Wind or hail damage to the pool structure is typically covered. Normal wear and 
 Building a pool in Tampa runs **$55,000 to $125,000** for most homes, with gunite at the sweet spot of cost and durability. The most important thing to know: Tampa's high water table requires specific engineering to prevent the pool from floating. Get quotes from at least 3 licensed Florida pool builders and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Pool Fencing in Tampa](/pooling/cost-to-install-pool-fencing-tampa-2026/)
-- [Cost to Install Heat Pump in Tampa](/pooling/cost-to-install-heat-pump-tampa-2026/)
-- [Cost to Install Pool Lighting in Tampa](/pooling/cost-to-install-pool-lighting-tampa-2026/)
+- Cost to Install Pool Fencing in Tampa
+- Cost to Install Heat Pump in Tampa
+- Cost to Install Pool Lighting in Tampa

@@ -162,6 +162,6 @@ Storm damage (fallen trees, wind) is typically covered minus your deductible. No
 Paving a driveway in Florida runs **$4,500 to $15,000** for most homes, with asphalt at the sweet spot of cost and performance. The most important thing to know: Florida’s sandy soil and strict drainage codes add cost but are necessary to protect your foundation. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Retaining Wall in Florida 2026](/exterior/cost-to-install-retaining-wall-in-florida-2026/)
-- [Cost to Replace Driveway in Orlando 2026](/exterior/cost-to-replace-driveway-in-orlando-2026/)
+- Cost to Install Retaining Wall in Florida 2026
+- Cost to Replace Driveway in Orlando 2026
 - [Cost to Install Impact Windows in Fort Lauderdale](/hurricane-protection/cost-to-install-impact-windows-fort-lauderdale-2026/)

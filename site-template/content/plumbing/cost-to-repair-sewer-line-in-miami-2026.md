@@ -160,6 +160,6 @@ Trenchless lining typically comes with a **25–50 year warranty** on the materi
 Repairing a sewer line in Miami runs **$2,500 to $25,000** depending on the method and soil conditions. Trenchless lining is the smart investment for most homeowners, offering a permanent fix without destroying your driveway. The most important thing to know: Miami-Dade requires a permit and inspection. Never let a contractor skip this step, or you risk violating the code and voiding your insurance. Get quotes from at least 3 licensed Florida plumbers and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Replace Water Heater in Miami 2026](/plumbing/cost-to-replace-water-heater-miami-2026/)
-- [Cost to Install Backwater Valve in Miami 2026](/plumbing/cost-to-install-backwater-valve-miami-2026/)
-- [Cost to Repair Slab Foundation in Miami 2026](/foundation/cost-to-slab-repair-miami-2026/)
+- [Cost to Replace Water Heater in Miami 2026](/plumbing/cost-to-replace-water-heater-in-miami-2026/)
+- Cost to Install Backwater Valve in Miami 2026
+- Cost to Repair Slab Foundation in Miami 2026

@@ -178,6 +178,6 @@ They significantly reduce the risk of the roof lifting off. They do not guarante
 Installing roof straps in Palm Beach costs **$2,500 to $8,000** depending on your roof type and size. It is a high-impact upgrade that improves your home's safety and lowers insurance premiums. The best time to do it is during a roof replacement or when applying for My Safe Florida Home grants. Always hire a licensed contractor who pulls the proper Palm Beach County permits to ensure your work is insured and code-compliant.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Palm Beach 2026](/hurricane-protection/cost-to-install-impact-windows-palm-beach-2026/)
-- [Cost to Install Hurricane Shutters Palm Beach](/hurricane-protection/cost-to-install-hurricane-shutters-palm-beach-2026/)
-- [Cost to Replace Roof in Palm Beach 2026](/roofing/cost-to-replace-roof-palm-beach-2026/)
+- [Cost to Install Impact Windows in Palm Beach 2026](/hurricane-protection/cost-to-install-impact-windows-in-palm-beach-2026/)
+- Cost to Install Hurricane Shutters Palm Beach
+- Cost to Replace Roof in Palm Beach 2026

@@ -157,6 +157,6 @@ Yes, solar panels are typically covered under your homeowner’s policy. However
 Installing solar panels in Florida costs **$15,000 to $35,000** for most homes, with the average homeowner paying around **$24,500**. The most important thing to know: Florida’s strict building codes and HVHZ requirements add cost but ensure your system is built to withstand hurricane winds. Get quotes from at least 3 licensed Florida solar contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install EV Charger in Florida 2026](/major-systems/cost-to-install-ev-charger-florida-2026/)
-- [Cost to Replace Electrical Panel in Florida 2026](/major-systems/cost-to-replace-electrical-panel-florida-2026/)
-- [Cost to Install Generators in Florida 2026](/major-systems/cost-to-install-generators-florida-2026/)
+- [Cost to Install EV Charger in Florida 2026](/electrical/cost-to-install-ev-charger-in-florida-2026/)
+- [Cost to Replace Electrical Panel in Florida 2026](/electrical/cost-to-upgrade-electrical-panel-in-florida-2026/)
+- Cost to Install Generators in Florida 2026

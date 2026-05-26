@@ -166,6 +166,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Building a patio in Miami runs **$15,000 to $45,000** for most homes, with pavers at the sweet spot of cost and durability. The most important thing to know: Miami's soil and rain require proper drainage and engineering. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Pool Deck in Miami](/exterior/cost-to-install-pool-deck-miami-2026/)
-- [Cost to Install Outdoor Kitchen Florida](/exterior/cost-to-install-outdoor-kitchen-florida-2026/)
-- [Cost to Pour Concrete Driveway in Miami](/exterior/cost-to-pour-concrete-driveway-miami-2026/)
+- Cost to Install Pool Deck in Miami
+- Cost to Install Outdoor Kitchen Florida
+- Cost to Pour Concrete Driveway in Miami

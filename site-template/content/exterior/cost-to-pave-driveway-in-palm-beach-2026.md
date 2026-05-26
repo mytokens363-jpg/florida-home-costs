@@ -166,6 +166,6 @@ Storm damage (wind, fallen trees) is typically covered minus your deductible —
 Paving a driveway in Palm Beach runs **$4,500 to $12,000** for most homes, with asphalt at the sweet spot of cost and performance. The most important thing to know: Palm Beach's sandy soil requires proper drainage and base preparation — a new driveway meets some of the toughest drainage standards in the country and protects your foundation from flooding. Get quotes from at least 3 licensed Florida paving contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Palm Beach](/exterior/cost-to-install-impact-windows-palm-beach-2026/)
-- [Cost to Install Hurricane Shutters Florida](/exterior/cost-to-install-hurricane-shutters-florida-2026/)
+- [Cost to Install Impact Windows in Palm Beach](/hurricane-protection/cost-to-install-impact-windows-in-palm-beach-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
 - [Cost to Pave Driveway in Miami](/exterior/cost-to-pave-driveway-in-miami-2026/)

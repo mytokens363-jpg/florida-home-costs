@@ -163,6 +163,6 @@ Storm damage (wind, hail) is typically covered minus your deductible. Normal wea
 Installing impact windows in Pembroke Pines runs **$15,000 to $45,000** for most homes, with vinyl frames at the sweet spot of cost and performance. The most important thing to know: these windows protect your structure from wind pressure and water intrusion. They also unlock insurance discounts that pay back the investment over time. Get quotes from at least 3 licensed Florida window contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Glass Doors in Florida 2026](/hurricane-protection/cost-to-install-impact-glass-doors-florida-2026/)
-- [Cost to Install Hurricane Shutters Florida 2026](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
-- [Cost to Replace Roof in Broward County 2026](/roofing/cost-to-replace-roof-in-broward-county-2026/)
+- Cost to Install Impact Glass Doors in Florida 2026
+- [Cost to Install Hurricane Shutters Florida 2026](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
+- Cost to Replace Roof in Broward County 2026

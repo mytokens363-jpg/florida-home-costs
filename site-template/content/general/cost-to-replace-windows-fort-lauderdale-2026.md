@@ -178,5 +178,5 @@ Replacing windows in Fort Lauderdale runs **$15,000 to $35,000** for most homes,
 
 **Related guides you may find useful:**
 - [Cost to Install Impact Windows in Fort Lauderdale](/hurricane-protection/cost-to-install-impact-windows-fort-lauderdale-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
-- [Cost to Replace Roof in Miami](/roofing/cost-to-replace-roof-miami-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
+- [Cost to Replace Roof in Miami](/general/cost-to-replace-roof-in-miami-2026/)

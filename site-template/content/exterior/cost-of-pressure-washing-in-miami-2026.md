@@ -160,6 +160,6 @@ No, routine maintenance is never covered. However, mold damage caused by lack of
 Pressure washing a house in Miami runs **$400 to $1,500** for most homes, with soft wash at the sweet spot of cost and protection. The most important thing to know: Miami-Dade's environmental rules and stucco fragility require specific techniques. Standard high-pressure washing can damage your home. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Clean Gutters in Miami 2026](/exterior/cost-to-clean-gutters-miami-2026/)
-- [Cost to Clean Driveways in Miami 2026](/exterior/cost-to-clean-driveways-miami-2026/)
-- [Cost to Seal Stucco in Miami 2026](/exterior/cost-to-seal-stucco-miami-2026/)
+- Cost to Clean Gutters in Miami 2026
+- Cost to Clean Driveways in Miami 2026
+- [Cost to Seal Stucco in Miami 2026](/exterior/cost-to-repair-stucco-in-miami-2026/)

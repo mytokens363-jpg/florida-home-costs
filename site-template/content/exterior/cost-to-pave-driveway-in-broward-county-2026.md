@@ -167,5 +167,5 @@ Paving a driveway in Broward County runs **$4,500 to $18,000** for most homes, w
 
 **Related guides you may find useful:**
 - [Cost to Pave Driveway in Miami 2026](/exterior/cost-to-pave-driveway-in-miami-2026/)
-- [Cost to Install Driveway Gate Florida](/exterior/cost-to-install-driveway-gate-florida-2026/)
-- [Cost to Pour Concrete in Florida](/exterior/cost-to-pour-concrete-in-florida-2026/)
+- Cost to Install Driveway Gate Florida
+- Cost to Pour Concrete in Florida

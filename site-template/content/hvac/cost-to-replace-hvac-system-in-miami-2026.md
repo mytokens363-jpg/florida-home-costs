@@ -168,6 +168,6 @@ Storm damage (wind, lightning, fallen trees) is typically covered minus your ded
 Replacing an HVAC system in Miami runs **$6,500 to $14,000** for most homes, with high-efficiency units at the sweet spot of cost and performance. The most important thing to know: Miami-Dade's permit and code requirements add cost but your new system meets some of the toughest efficiency standards in the country — and it keeps you comfortable in a market where heat waves are becoming more frequent. Get quotes from at least 3 licensed Florida HVAC contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Central Air in Miami 2026](/hvac/cost-to-install-central-air-miami-2026/)
-- [HVAC Repair Costs in Miami 2026](/hvac/cost-to-repair-hvac-miami-2026/)
-- [Cost to Install Heat Pump in Miami 2026](/hvac/cost-to-install-heat-pump-miami-2026/)
+- Cost to Install Central Air in Miami 2026
+- HVAC Repair Costs in Miami 2026
+- Cost to Install Heat Pump in Miami 2026

@@ -160,6 +160,6 @@ Properly installed panels in Miami are rated for **180 mph winds**. They can sur
 Installing solar in Miami costs **$25,000 to $45,000** before tax credits, with **$35,000** being the standard price for a 8 kW system. The main drivers are Miami-Dade permit requirements, HVHZ mounting standards, and the high cost of tile roof installation. Factor in the **30% federal tax credit** to lower your net cost to around **$24,500**.
 
 **Related guides you may find useful:**
-- [Cost to Install HVAC in Miami 2026](/major-systems/cost-to-install-hvac-miami-2026/)
-- [Cost to Replace Tile Roof in Miami](/roofing/cost-to-replace-tile-roof-miami-2026/)
-- [Cost to Install Impact Windows in Miami](/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
+- Cost to Install HVAC in Miami 2026
+- [Cost to Replace Tile Roof in Miami](/roofing/cost-to-replace-tile-roof-in-miami-2026/)
+- Cost to Install Impact Windows in Miami

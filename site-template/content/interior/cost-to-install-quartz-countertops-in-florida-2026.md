@@ -174,6 +174,6 @@ No, not for normal wear. If a pipe bursts and damages the countertop, the plumbi
 Installing quartz countertops in Florida runs **$65 to $150 per square foot** for most projects, with the average cost around **$95 per square foot**. The material is ideal for our climate because it resists mold and humidity better than natural stone. Get at least three quotes from licensed C-10 contractors and verify their insurance before signing.
 
 **Related guides you may find useful:**
-- [Cost to Install Kitchen Cabinets in Florida 2026](/interior/cost-to-install-kitchen-cabinets-florida-2026/)
-- [Cost to Install Glass Backsplash in Florida 2026](/interior/cost-to-install-glass-backsplash-florida-2026/)
-- [Cost to Replace Kitchen Sink in Florida 2026](/interior/cost-to-replace-kitchen-sink-florida-2026/)
+- Cost to Install Kitchen Cabinets in Florida 2026
+- Cost to Install Glass Backsplash in Florida 2026
+- Cost to Replace Kitchen Sink in Florida 2026

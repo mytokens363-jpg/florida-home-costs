@@ -162,6 +162,6 @@ Storm damage is covered, but wear and aging are not. If a panel fails due to a l
 Upgrading an electrical panel in Florida runs **$2,500 to $6,500** for most homes, with 200-amp upgrades at the sweet spot of cost and safety. The most important thing to know: Florida’s strict building codes and high humidity require specific corrosion-resistant materials — and it keeps you insurable in a market where carriers are dropping homes with aging electrical systems every day. Get quotes from at least 3 licensed Florida electrical contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install EV Charger in Florida 2026](/electrical/cost-to-install-ev-charger-florida-2026/)
-- [Cost to Replace Outlets in Tampa 2026](/electrical/cost-to-replace-outlets-in-tampa-2026/)
-- [Cost to Inspect Home in Florida 2026](/home-maintenance/cost-to-inspect-home-florida-2026/)
+- [Cost to Install EV Charger in Florida 2026](/electrical/cost-to-install-ev-charger-in-florida-2026/)
+- Cost to Replace Outlets in Tampa 2026
+- Cost to Inspect Home in Florida 2026

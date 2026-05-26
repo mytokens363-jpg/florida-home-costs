@@ -171,5 +171,5 @@ Installing vinyl plank flooring in Miami runs **$6,000 to $18,000** for most hom
 
 **Related guides you may find useful:**
 - [Cost to Install Hardwood Flooring in Miami](/interior/cost-to-install-hardwood-floors-miami-2026/)
-- [Cost to Tile Floors in Miami 2026](/interior/cost-to-tile-floors-miami-2026/)
+- Cost to Tile Floors in Miami 2026
 - [Cost to Replace Kitchen Cabinets Miami 2026](/interior/cost-to-replace-kitchen-cabinets-miami-2026/)

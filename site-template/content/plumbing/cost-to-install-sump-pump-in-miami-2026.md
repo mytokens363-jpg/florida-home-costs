@@ -168,6 +168,6 @@ Standard policies often cover sudden failures but exclude wear and tear. Flood d
 Installing a sump pump in Miami runs **$1,500 to $5,000** for most homes, with dual pumps and battery backups at the sweet spot of cost and reliability. The most important thing to know: Miami's high water table and flood zones make a sump pump essential, not optional. Get quotes from at least 3 licensed Florida plumbing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Water Heater in Miami](/plumbing/cost-to-install-water-heater-miami-2026/)
-- [Cost to Install Impact Windows in Miami](/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
+- Cost to Install Water Heater in Miami
+- Cost to Install Impact Windows in Miami
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)

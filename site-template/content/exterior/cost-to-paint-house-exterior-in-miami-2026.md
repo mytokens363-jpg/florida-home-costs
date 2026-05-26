@@ -160,6 +160,6 @@ Stucco needs repainting every **7â€“10 years**. Wood siding needs it every **5â€
 Painting the exterior of a Miami home costs **$3,500 to $15,000** for most properties, with **$7,500** being a realistic target for a 2,000 sq ft stucco home. The most important thing to know: Miami's salt air and humidity demand high-quality prep and premium coatings. Cheap paint jobs fail within two years. Get quotes from at least 3 licensed contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Miami](/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
-- [Cost to Repair Stucco in Miami](/exterior/cost-to-repair-stucco-miami-2026/)
-- [Cost to Replace Roof in Miami](/roofing/cost-to-replace-roof-miami-2026/)
+- Cost to Install Impact Windows in Miami
+- [Cost to Repair Stucco in Miami](/exterior/cost-to-repair-stucco-in-miami-2026/)
+- [Cost to Replace Roof in Miami](/general/cost-to-replace-roof-in-miami-2026/)

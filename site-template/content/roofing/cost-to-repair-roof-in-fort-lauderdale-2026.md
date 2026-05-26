@@ -169,4 +169,4 @@ Repairing a roof in Fort Lauderdale costs **$500 to $6,000** depending on the da
 **Related guides you may find useful:**
 - [Cost to Replace Flat Roof in Tampa 2026](https://floridahomecosts.com/roofing/cost-to-replace-flat-roof-in-tampa-2026/)
 - [Cost to Install Impact Windows in Fort Lauderdale](/hurricane-protection/cost-to-install-impact-windows-fort-lauderdale-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)

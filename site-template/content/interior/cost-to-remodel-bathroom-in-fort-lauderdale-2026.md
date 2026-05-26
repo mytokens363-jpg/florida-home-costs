@@ -166,6 +166,6 @@ Sudden and accidental leaks are typically covered minus your deductible — ofte
 Remodeling a bathroom in Fort Lauderdale runs **$15,000 to $40,000** for most homes, with porcelain tile and walk-in showers at the sweet spot of cost and performance. The most important thing to know: Fort Lauderdale's slab construction and humidity drive costs higher than inland areas, and proper permits keep you insurable. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Remodel Kitchen in Fort Lauderdale 2026](/interior/cost-to-kitchen-remodel-fort-lauderdale-2026/)
-- [Cost to Replace Flooring in Fort Lauderdale 2026](/interior/cost-to-replace-flooring-fort-lauderdale-2026/)
-- [Cost to Install Cabinets in Fort Lauderdale 2026](/interior/cost-to-install-cabinets-fort-lauderdale-2026/)
+- Cost to Remodel Kitchen in Fort Lauderdale 2026
+- Cost to Replace Flooring in Fort Lauderdale 2026
+- Cost to Install Cabinets in Fort Lauderdale 2026

@@ -162,6 +162,6 @@ Storm damage is typically covered if caused by a covered peril like wind or fall
 Replacing ductwork in Fort Lauderdale runs **$2,500 to $8,000** for most homes, with rigid metal ducts at the sweet spot of cost and longevity. The most important thing to know: Florida Building Code requires strict sealing and insulation standards to maintain energy efficiency in the heat. Get quotes from at least 3 licensed HVAC contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install HVAC in Fort Lauderdale](/hvac/cost-to-install-hvac-fort-lauderdale-2026/)
-- [Cost to Replace Air Conditioner Fort Lauderdale](/hvac/cost-to-replace-ac-fort-lauderdale-2026/)
-- [Energy Efficiency Rebates Florida](/energy/cost-to-get-florida-energy-rebates-2026/)
+- Cost to Install HVAC in Fort Lauderdale
+- Cost to Replace Air Conditioner Fort Lauderdale
+- Energy Efficiency Rebates Florida

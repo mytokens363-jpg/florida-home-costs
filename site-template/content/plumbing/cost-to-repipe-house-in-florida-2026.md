@@ -166,6 +166,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Repiping a home in Florida runs **$3,500 to $12,000** for most homes, with PEX at the sweet spot of cost and performance. The most important thing to know: Florida's FBC requirements add cost but your new system meets strict safety standards — and it keeps you insurable in a market where carriers are dropping homes with aging plumbing every day. Get quotes from at least 3 licensed Florida plumbing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install a Water Heater in Florida](/plumbing/cost-to-install-water-heater-florida-2026/)
+- Cost to Install a Water Heater in Florida
 - [Cost to Install a Sump Pump in Florida](/plumbing/cost-to-install-sump-pump-florida-2026/)
-- [Cost to Fix a Slab Leak in Miami](/plumbing/cost-to-fix-slab-leak-miami-2026/)
+- Cost to Fix a Slab Leak in Miami

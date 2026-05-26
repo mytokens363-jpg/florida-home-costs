@@ -168,6 +168,6 @@ No. Insurance covers sudden damage like a fallen tree hitting the pump. Normal w
 Replacing a pool pump in Florida runs **$600 to $2,500** for most homes, with variable speed pumps at the sweet spot of cost and performance. The most important thing to know: Florida’s heat and humidity shorten equipment life. Upgrade to a variable speed pump to save on electricity and reduce noise. Get quotes from at least 3 licensed Florida pool contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Replace Pool Filter in Florida 2026](/pool/cost-to-replace-pool-filter-florida-2026/)
-- [Cost to Install Pool Heater Florida](/pool/cost-to-install-pool-heater-florida-2026/)
-- [Cost to Resurface Pool in Florida 2026](/pool/cost-to-resurface-pool-florida-2026/)
+- Cost to Replace Pool Filter in Florida 2026
+- [Cost to Install Pool Heater Florida](/pool/cost-to-install-pool-heater-in-florida-2026/)
+- [Cost to Resurface Pool in Florida 2026](/pool/cost-to-resurface-pool-in-florida-2026/)

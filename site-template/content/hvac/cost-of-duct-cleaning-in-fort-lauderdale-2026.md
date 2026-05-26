@@ -171,6 +171,6 @@ DIY cleaning is possible with a shop vac and brush. However, you cannot reach th
 Duct cleaning in Fort Lauderdale costs **$350 to $800** for most homes, with **$550** being the typical average. The high humidity in Broward County makes this service more critical than in other regions. Invest in NADCA-certified contractors who use HEPA vacuums to ensure the job is done safely. Regular cleaning protects your health and keeps your system running efficiently.
 
 **Related guides you may find useful:**
-- [Cost to Install Central AC in Fort Lauderdale 2026](/hvac/cost-to-install-central-ac-in-fort-lauderdale-2026/)
-- [Cost to Replace HVAC System in Fort Lauderdale 2026](/hvac/cost-to-replace-hvac-system-in-fort-lauderdale-2026/)
-- [Cost to Repair AC Unit in Fort Lauderdale 2026](/hvac/cost-to-repair-ac-unit-in-fort-lauderdale-2026/)
+- Cost to Install Central AC in Fort Lauderdale 2026
+- Cost to Replace HVAC System in Fort Lauderdale 2026
+- Cost to Repair AC Unit in Fort Lauderdale 2026

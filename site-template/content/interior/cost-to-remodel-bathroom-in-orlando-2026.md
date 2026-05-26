@@ -164,6 +164,6 @@ Sudden accidental water damage is typically covered minus your deductible. Norma
 Remodeling a bathroom in Orlando runs **$8,500 to $35,000** for most homes, with mid-range finishes at the sweet spot of cost and performance. The most important thing to know: Orlando's humidity requires moisture-resistant materials and proper ventilation to prevent mold. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Replace HVAC in Orlando](/hvac/cost-to-replace-hvac-orlando-2026/)
-- [Cost to Replace Kitchen Cabinets Orlando](/interior/cost-to-replace-kitchen-cabinets-orlando-2026/)
-- [Cost to Install Impact Windows Orlando](/interior/cost-to-install-impact-windows-orlando-2026/)
+- Cost to Replace HVAC in Orlando
+- Cost to Replace Kitchen Cabinets Orlando
+- Cost to Install Impact Windows Orlando

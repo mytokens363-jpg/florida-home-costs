@@ -166,6 +166,6 @@ Standard policies do not cover mechanical breakdowns. You need a separate equipm
 Installing a whole house generator in Tampa runs **$8,500 to $22,000** for most homes, with the average project costing around **$14,500**. The most important thing to know: Tampa's electrical grid is aging, and outages are common during hurricane season. A properly installed generator keeps your home safe and insurable. Get quotes from at least 3 licensed electrical contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install EV Charger in Tampa 2026](/electrical/cost-to-install-ev-charger-tampa-2026/)
+- [Cost to Install EV Charger in Tampa 2026](/electrical/cost-to-install-ev-charger-in-tampa-2026/)
 - [Cost to Install Impact Windows in Tampa 2026](/hurricane-protection/cost-to-install-impact-windows-tampa-2026/)
-- [Cost to Replace Roof in Tampa 2026](/roofing/cost-to-replace-roof-tampa-2026/)
+- [Cost to Replace Roof in Tampa 2026](/roofing/cost-to-replace-roof-in-tampa-2026/)

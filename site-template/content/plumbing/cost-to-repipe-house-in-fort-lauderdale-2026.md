@@ -162,6 +162,6 @@ Storm damage (burst pipes from freezing or impact) is typically covered minus yo
 Repiping a house in Fort Lauderdale runs **$5,000 to $25,000** for most homes, with PEX tubing at the sweet spot of cost and performance. The most important thing to know: Fort Lauderdale's aging infrastructure and hard water make repiping a critical investment for long-term home health. Get quotes from at least 3 licensed Florida plumbing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Water Heater in Fort Lauderdale](/plumbing/cost-to-install-water-heater-fort-lauderdale-2026/)
-- [Cost to Fix Leaky Pipe in Florida](/plumbing/cost-to-fix-leaky-pipe-florida-2026/)
-- [Cost to Inspect Home Before Buying Florida](/home-maintenance/cost-to-inspect-home-florida-2026/)
+- [Cost to Install Water Heater in Fort Lauderdale](/plumbing/cost-to-replace-water-heater-in-fort-lauderdale-2026/)
+- Cost to Fix Leaky Pipe in Florida
+- Cost to Inspect Home Before Buying Florida

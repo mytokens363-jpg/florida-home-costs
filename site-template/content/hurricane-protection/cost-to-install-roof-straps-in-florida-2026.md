@@ -160,6 +160,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Installing roof straps in Florida runs **$1,500 to $4,500** for most homes, with retrofitting being the most common scenario. The most important thing to know: Florida's HVHZ requirements add cost but your new roof meets some of the toughest wind standards in the country — and it keeps you insurable in a market where carriers are dropping homes with aging roofs every day. Get quotes from at least 3 licensed Florida roofing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Florida](/hurricane-protection/cost-to-install-impact-windows-florida-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
-- [Cost to Replace Roof in Miami](/roofing/cost-to-replace-roof-miami-2026/)
+- [Cost to Install Impact Windows in Florida](/hurricane-protection/cost-to-install-impact-windows-in-florida-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
+- [Cost to Replace Roof in Miami](/general/cost-to-replace-roof-in-miami-2026/)

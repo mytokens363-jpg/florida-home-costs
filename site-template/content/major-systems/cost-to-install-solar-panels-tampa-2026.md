@@ -214,10 +214,10 @@ Homeowners must prioritize hiring licensed professionals who understand Hillsbor
 
 ## Related Articles
 
-- [Cost to Replace Roof in Tampa 2026](/tampa-roof-replacement-cost-2026)
-- [Florida Hurricane Protection Guide: Impact Windows vs Shutters](/florida-hurricane-protection-guide)
-- [HVAC Costs in Tampa: AC Unit Replacement & Maintenance](/tampa-hvac-replacement-costs)
-- [Complete Guide to Solar Battery Storage in Florida](/solar-battery-storage-guide-florida)
+- Cost to Replace Roof in Tampa 2026
+- Florida Hurricane Protection Guide: Impact Windows vs Shutters
+- HVAC Costs in Tampa: AC Unit Replacement & Maintenance
+- Complete Guide to Solar Battery Storage in Florida
 
 ## FAQ
 

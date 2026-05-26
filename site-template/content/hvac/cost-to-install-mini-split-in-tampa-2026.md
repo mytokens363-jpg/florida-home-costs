@@ -160,6 +160,6 @@ Yes, typically **30–50%** less than central air for the same cooling load. You
 Installing a mini split in Tampa costs **$3,500 to $15,000** depending on the number of zones and efficiency rating. The most important factor is hiring a licensed HVAC contractor who understands Florida Building Code requirements. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Replace Central Air in Tampa 2026](/hvac/cost-to-replace-central-air-tampa-2026/)
-- [Cost to Install Heat Pump in Tampa 2026](/hvac/cost-to-install-heat-pump-tampa-2026/)
-- [Cost to Install Evaporative Cooler Florida](/hvac/cost-to-install-evaporative-cooler-florida-2026/)
+- Cost to Replace Central Air in Tampa 2026
+- Cost to Install Heat Pump in Tampa 2026
+- Cost to Install Evaporative Cooler Florida

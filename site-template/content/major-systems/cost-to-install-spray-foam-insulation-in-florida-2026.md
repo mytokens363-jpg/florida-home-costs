@@ -161,6 +161,6 @@ Storm damage is typically covered if it causes physical damage to the foam. Norm
 Installing spray foam insulation in Florida runs **$3,000 to $9,000** for most homes, with open-cell foam at the budget sweet spot. The most important thing to know: Florida's humidity makes air sealing critical, and spray foam provides a seal that fiberglass cannot match. Get quotes from at least 3 EPA-certified contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Florida](/major-systems/cost-to-install-impact-windows-florida-2026/)
-- [Cost to Replace HVAC System Florida](/major-systems/cost-to-replace-hvac-system-florida-2026/)
-- [Cost to Install Air Sealing Florida](/major-systems/cost-to-install-air-sealing-florida-2026/)
+- [Cost to Install Impact Windows in Florida](/hurricane-protection/cost-to-install-impact-windows-in-florida-2026/)
+- Cost to Replace HVAC System Florida
+- Cost to Install Air Sealing Florida

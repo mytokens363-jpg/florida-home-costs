@@ -168,6 +168,6 @@ Storm damage is typically covered. However, normal wear and tear is not. Check y
 Installing a pool heater in Florida runs **$3,500 to $12,000** for most homes, with heat pumps at the sweet spot of cost and efficiency. The most important thing to know: Florida requires permits for gas and electrical work, and coastal corrosion demands specific materials. Get quotes from at least 3 licensed pool contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install a Pool Pump in Florida 2026](/pool/cost-to-install-pump-florida-2026/)
-- [Cost to Resurface a Pool in Florida 2026](/pool/cost-to-resurface-pool-florida-2026/)
-- [Cost to Install a Pool Enclosure in Florida 2026](/pool/cost-to-install-enclosure-florida-2026/)
+- Cost to Install a Pool Pump in Florida 2026
+- [Cost to Resurface a Pool in Florida 2026](/pool/cost-to-resurface-pool-in-florida-2026/)
+- Cost to Install a Pool Enclosure in Florida 2026

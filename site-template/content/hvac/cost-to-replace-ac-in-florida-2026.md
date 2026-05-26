@@ -168,6 +168,6 @@ Normal wear and tear is never covered. Storm damage or sudden accidental damage 
 Replacing an AC system in Florida runs **$3,500 to $12,000** for most homes, with efficiency ratings driving the biggest price differences. The most important thing to know: Florida's heat demands proper sizing and quality installation to survive the summer. Get quotes from at least 3 licensed Florida HVAC contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Ductless Mini-Split in Florida 2026](/hvac/cost-to-install-ductless-mini-split-florida-2026/)
-- [Cost to Replace HVAC System in Tampa 2026](/hvac/cost-to-replace-hvac-system-tampa-2026/)
-- [Cost to Install Heat Pump in Florida 2026](/hvac/cost-to-install-heat-pump-florida-2026/)
+- Cost to Install Ductless Mini-Split in Florida 2026
+- [Cost to Replace HVAC System in Tampa 2026](/hvac/cost-to-replace-hvac-system-in-tampa-2026/)
+- Cost to Install Heat Pump in Florida 2026

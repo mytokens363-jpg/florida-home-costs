@@ -166,6 +166,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Replacing kitchen cabinets in Tampa runs **$3,000 to $15,000** for most homes, with stock laminate at the low end and custom wood at the high end. The most important thing to know: Tampa's humidity requires moisture-resistant materials that standard builders might overlook. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Countertops in Tampa 2026](/interior/cost-to-install-countertops-tampa-2026/)
-- [Cost to Refinish Kitchen Cabinets in Tampa 2026](/interior/cost-to-refinish-kitchen-cabinets-tampa-2026/)
-- [Cost to Replace Flooring in Tampa 2026](/interior/cost-to-replace-flooring-tampa-2026/)
+- Cost to Install Countertops in Tampa 2026
+- Cost to Refinish Kitchen Cabinets in Tampa 2026
+- Cost to Replace Flooring in Tampa 2026

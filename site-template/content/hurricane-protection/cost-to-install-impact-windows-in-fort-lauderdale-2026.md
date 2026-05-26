@@ -163,6 +163,6 @@ Storm damage (wind, hail, impact) is typically covered minus your deductible —
 Installing impact windows in Fort Lauderdale runs **$15,000 to $45,000** for most homes, with aluminum frames at the sweet spot of cost and performance. The most important thing to know: Fort Lauderdale's HVHZ requirements add cost but your new windows meet some of the toughest wind standards in the country — and they keep you insurable in a market where carriers are dropping homes with aging fenestration every day. Get quotes from at least 3 licensed Florida window contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
-- [Cost to Replace Roof in Fort Lauderdale](/roofing/cost-to-replace-roof-fort-lauderdale-2026/)
-- [Cost to Install Garage Doors in Broward County](/hurricane-protection/cost-to-install-garage-doors-broward-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
+- [Cost to Replace Roof in Fort Lauderdale](/general/cost-to-replace-roof-fort-lauderdale-2026/)
+- Cost to Install Garage Doors in Broward County

@@ -166,6 +166,6 @@ Storm damage to lighting is typically covered if you have windstorm coverage. No
 Installing landscape lighting in Miami runs **$4,500 to $18,000** for most homes, with professional installation at the sweet spot of cost and performance. The most important thing to know: Miami's salt air requires marine-grade fixtures to prevent rapid corrosion. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Miami](/exterior/cost-to-install-impact-windows-miami-2026/)
-- [Cost to Install Pool Deck in Miami](/exterior/cost-to-install-pool-deck-miami-2026/)
-- [Cost to Build Fence in Miami](/exterior/cost-to-build-fence-miami-2026/)
+- Cost to Install Impact Windows in Miami
+- Cost to Install Pool Deck in Miami
+- Cost to Build Fence in Miami

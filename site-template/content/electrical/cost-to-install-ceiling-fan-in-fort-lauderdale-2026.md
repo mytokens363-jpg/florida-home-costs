@@ -162,6 +162,6 @@ Storm damage or accidental damage is typically covered. If a fan falls due to po
 Installing a ceiling fan in Fort Lauderdale costs **$250 to $1,200** depending on wiring complexity and fan type. The most important thing to know: Fort Lauderdale's electrical code requires fan-rated boxes and secure mounting to handle dynamic loads. This prevents wobbling and ensures safety during high winds. Get quotes from at least 3 licensed Florida electricians and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install an Electrical Outlet in Fort Lauderdale 2026](/electrical/cost-to-install-electrical-outlet-fort-lauderdale-2026/)
-- [Cost to Install Ceiling Lighting in Fort Lauderdale 2026](/electrical/cost-to-install-ceiling-lighting-fort-lauderdale-2026/)
-- [Cost to Install Surge Protector Panel in Florida 2026](/electrical/cost-to-install-surge-protector-panel-florida-2026/)
+- Cost to Install an Electrical Outlet in Fort Lauderdale 2026
+- Cost to Install Ceiling Lighting in Fort Lauderdale 2026
+- Cost to Install Surge Protector Panel in Florida 2026

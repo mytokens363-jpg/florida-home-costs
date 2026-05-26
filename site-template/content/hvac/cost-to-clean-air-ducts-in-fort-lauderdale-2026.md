@@ -164,5 +164,5 @@ Cleaning air ducts in Fort Lauderdale costs **$350 to $1,500** depending on your
 
 **Related guides you may find useful:**
 - [Cost to Replace AC Unit in Fort Lauderdale 2026](/hvac/cost-to-replace-ac-unit-fort-lauderdale-2026/)
-- [Cost to Install Evaporative Cooler in Fort Lauderdale 2026](/hvac/cost-to-install-evap-cooler-fort-lauderdale-2026/)
+- Cost to Install Evaporative Cooler in Fort Lauderdale 2026
 - [Cost to Repair AC Unit in Fort Lauderdale 2026](/hvac/cost-to-repair-ac-fort-lauderdale-2026/)

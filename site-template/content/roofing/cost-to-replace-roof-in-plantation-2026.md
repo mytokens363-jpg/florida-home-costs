@@ -167,5 +167,5 @@ Replacing a roof in Plantation runs **$11,000 to $26,000** for most homes, with 
 
 **Related guides you may find useful:**
 - [Cost to Install Impact Windows in Fort Lauderdale](/hurricane-protection/cost-to-install-impact-windows-fort-lauderdale-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
 - [Cost to Replace Roof in Pembroke Pines](/roofing/cost-to-replace-roof-in-pembroke-pines-2026/)

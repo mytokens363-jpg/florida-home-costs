@@ -161,6 +161,6 @@ Sudden failure is typically covered minus your deductible — often **$1,000–$
 Replacing a water heater in Florida runs **$1,200 to $4,500** for most homes, with gas tanks at the sweet spot of cost and performance. The most important thing to know: Florida's strict building codes require permits and expansion tanks that add cost but protect your home from leaks. Get quotes from at least 3 licensed Florida plumbing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Repair Leaks in Florida 2026](/plumbing/cost-to-repair-leaks-florida-2026/)
-- [Cost to Install Irrigation System Florida 2026](/plumbing/cost-to-install-irrigation-florida-2026/)
-- [Cost to Replace Sewer Line Florida 2026](/plumbing/cost-to-replace-sewer-line-florida-2026/)
+- Cost to Repair Leaks in Florida 2026
+- Cost to Install Irrigation System Florida 2026
+- [Cost to Replace Sewer Line Florida 2026](/plumbing/cost-to-repair-sewer-line-in-florida-2026/)

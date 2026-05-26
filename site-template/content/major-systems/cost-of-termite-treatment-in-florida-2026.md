@@ -168,6 +168,6 @@ Liquid treatments require keeping pets away from the treated area for **24 hours
 Treating for termites in Florida costs **$500 to $6,000** depending on the method. The most common expense is a liquid soil barrier around **$800–$1,500**. The most important thing to know: termite damage is not covered by insurance in Florida, so prevention is your only financial safety net. Hire a licensed DBPR operator and get a written warranty.
 
 **Related guides you may find useful:**
-- [Cost to Repair Termite Damage in Florida](/major-systems/cost-to-repair-termite-damage-florida-2026/)
-- [Cost to Install Termite Bait Systems](/major-systems/cost-to-install-termite-bait-systems-2026/)
-- [Florida Homeowners Insurance Coverage Guide](/insurance/florida-homeowners-insurance-coverage-guide-2026/)
+- Cost to Repair Termite Damage in Florida
+- Cost to Install Termite Bait Systems
+- Florida Homeowners Insurance Coverage Guide

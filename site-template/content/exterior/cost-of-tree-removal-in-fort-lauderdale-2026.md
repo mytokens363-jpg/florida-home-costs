@@ -162,6 +162,6 @@ Yes, stump grinding adds **$150–$400** depending on diameter. Full extraction 
 Removing a tree in Fort Lauderdale runs **$300 to $6,000** for most homes, with medium trees at the sweet spot of **$600–$1,500**. The most important thing to know: Fort Lauderdale's Tree Ordinance requires permits for many species, and failing to get one can cost you hundreds in fines. Get quotes from at least 3 licensed Florida arborists and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Prune Palm Trees in Florida](/exterior/cost-to-prune-palm-trees-florida-2026/)
-- [Cost to Remove a Stump in Fort Lauderdale](/exterior/cost-to-remove-stump-fort-lauderdale-2026/)
+- Cost to Prune Palm Trees in Florida
+- Cost to Remove a Stump in Fort Lauderdale
 - [Cost to Install Impact Windows in Fort Lauderdale](/hurricane-protection/cost-to-install-impact-windows-fort-lauderdale-2026/)

@@ -172,6 +172,6 @@ Sudden accidental damage (like a heavy pot dropping) might be covered. Normal we
 Installing granite countertops in Florida runs **$3,500 to $10,000** for most kitchens, with 3cm stone at the sweet spot of cost and durability. The most important thing to know: Florida's humidity requires a high-quality sealer and careful seam installation to prevent moisture damage. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Kitchen Cabinets in Florida 2026](/interior/cost-to-install-cabinets-florida-2026/)
-- [Cost to Install Kitchen Tile Backsplash Florida 2026](/interior/cost-to-install-kitchen-tile-backsplash-florida-2026/)
-- [Cost to Refinish Kitchen Cabinets Florida 2026](/interior/cost-to-refinish-cabinets-florida-2026/)
+- Cost to Install Kitchen Cabinets in Florida 2026
+- Cost to Install Kitchen Tile Backsplash Florida 2026
+- Cost to Refinish Kitchen Cabinets Florida 2026

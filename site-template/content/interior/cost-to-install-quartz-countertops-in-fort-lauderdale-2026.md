@@ -168,6 +168,6 @@ Storm damage (wind, water intrusion) is typically covered if the damage is sudde
 Installing quartz countertops in Fort Lauderdale runs **$4,500 to $15,000** for most homes, with mid-range materials offering the best balance of cost and durability. The most important thing to know: Fort Lauderdale's humidity requires moisture-resistant adhesives and professional installation to ensure longevity. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Cabinets in Fort Lauderdale](/interior/cost-to-install-cabinets-fort-lauderdale-2026/)
-- [Cost to Remodel Kitchen in Fort Lauderdale](/kitchen/cost-to-remodel-kitchen-fort-lauderdale-2026/)
-- [Cost to Install Granite Countertops in Fort Lauderdale](/interior/cost-to-install-granite-countertops-fort-lauderdale-2026/)
+- Cost to Install Cabinets in Fort Lauderdale
+- Cost to Remodel Kitchen in Fort Lauderdale
+- [Cost to Install Granite Countertops in Fort Lauderdale](/interior/cost-to-install-granite-countertops-in-fort-lauderdale-2026/)

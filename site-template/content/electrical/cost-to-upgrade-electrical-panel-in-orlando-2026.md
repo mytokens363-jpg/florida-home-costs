@@ -169,5 +169,5 @@ Upgrading an electrical panel in Orlando runs **$2,000 to $5,500** for most home
 
 **Related guides you may find useful:**
 - [Cost to Install EV Charger in Orlando](/electrical/cost-to-install-ev-charger-in-orlando-2026/)
-- [Cost to Wire New Home in Florida](/home-maintenance/cost-to-wire-new-home-in-florida-2026/)
-- [Cost to Replace Electrical Panel in Tampa](/electrical/cost-to-replace-electrical-panel-in-tampa-2026/)
+- Cost to Wire New Home in Florida
+- [Cost to Replace Electrical Panel in Tampa](/electrical/cost-to-upgrade-electrical-panel-in-tampa-2026/)

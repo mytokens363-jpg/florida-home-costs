@@ -168,6 +168,6 @@ A typical family uses **1â€“2 bags of salt per month**. This costs about **$30â€
 Installing a water softener in Fort Lauderdale runs **$1,500 to $3,500** for most homes, with dual-tank systems at the sweet spot of cost and performance. The most important thing to know: Broward County requires permits and backflow prevention for all installations. This protects your home and your water supply. Get quotes from at least 3 licensed Florida plumbing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Water Filter in Fort Lauderdale 2026](/plumbing/cost-to-install-water-filter-fort-lauderdale-2026/)
-- [Cost to Replace Water Heater in Fort Lauderdale 2026](/plumbing/cost-to-replace-water-heater-fort-lauderdale-2026/)
-- [Cost to Install Sump Pump in Fort Lauderdale 2026](/plumbing/cost-to-install-sump-pump-fort-lauderdale-2026/)
+- Cost to Install Water Filter in Fort Lauderdale 2026
+- [Cost to Replace Water Heater in Fort Lauderdale 2026](/plumbing/cost-to-replace-water-heater-in-fort-lauderdale-2026/)
+- [Cost to Install Sump Pump in Fort Lauderdale 2026](/plumbing/cost-to-install-sump-pump-in-fort-lauderdale-2026/)

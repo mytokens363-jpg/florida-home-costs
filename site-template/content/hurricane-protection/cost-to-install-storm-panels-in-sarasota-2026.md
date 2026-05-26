@@ -160,6 +160,6 @@ Storm panels are cheaper upfront but require manual installation. Rolling shutte
 Installing storm panels in Sarasota runs **$8,000 to $25,000** for most homes, with aluminum panels at the sweet spot of cost and protection. The most important thing to know: Sarasota County requires permits for permanent installations, and insurance companies offer significant discounts for approved systems. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Sarasota](/hurricane-protection/cost-to-install-impact-windows-sarasota-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
-- [Cost to Install Storm Panels in Miami](/hurricane-protection/cost-to-install-storm-panels-miami-2026/)
+- Cost to Install Impact Windows in Sarasota
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
+- [Cost to Install Storm Panels in Miami](/hurricane-protection/cost-to-install-storm-panels-in-miami-2026/)

@@ -167,5 +167,5 @@ Installing impact windows in St. Petersburg runs **$18,000 to $45,000** for most
 
 **Related guides you may find useful:**
 - [Cost to Install Impact Windows in Tampa 2026](/hurricane-protection/cost-to-install-impact-windows-tampa-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
-- [Cost to Replace Roof in St. Petersburg 2026](/roofing/cost-to-replace-roof-st-petersburg-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
+- Cost to Replace Roof in St. Petersburg 2026

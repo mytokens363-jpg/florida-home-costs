@@ -165,6 +165,6 @@ Storm damage (wind, hail, fallen trees) is covered. Normal wear and aging is not
 Installing recessed lighting in Florida runs **$200 to $450 per fixture**, with most rooms costing **$1,500 to $3,500** total. The most important thing to know: Florida's humidity and heat require IC-rated fixtures and proper permitting. This keeps your home safe and insurable in a market where electrical fires are a major risk. Get quotes from at least 3 licensed Florida electrical contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install EV Charger in Florida 2026](/electrical/cost-to-install-ev-charger-florida-2026/)
-- [Cost to Replace Electrical Panel Florida 2026](/electrical/cost-to-replace-electrical-panel-florida-2026/)
-- [Cost to Install Smart Home Systems Florida 2026](/electrical/cost-to-install-smart-home-systems-florida-2026/)
+- [Cost to Install EV Charger in Florida 2026](/electrical/cost-to-install-ev-charger-in-florida-2026/)
+- [Cost to Replace Electrical Panel Florida 2026](/electrical/cost-to-upgrade-electrical-panel-in-florida-2026/)
+- Cost to Install Smart Home Systems Florida 2026

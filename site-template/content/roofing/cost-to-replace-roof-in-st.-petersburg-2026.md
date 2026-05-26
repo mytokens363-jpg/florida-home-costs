@@ -167,5 +167,5 @@ Replacing a roof in St. Petersburg runs **$11,500 to $26,000** for most homes, w
 
 **Related guides you may find useful:**
 - [Cost to Replace Roof in Tampa 2026](/roofing/cost-to-replace-roof-in-tampa-2026/)
-- [Cost to Install Impact Windows in St. Petersburg 2026](/hurricane-protection/cost-to-install-impact-windows-in-st-petersburg-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
+- Cost to Install Impact Windows in St. Petersburg 2026
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)

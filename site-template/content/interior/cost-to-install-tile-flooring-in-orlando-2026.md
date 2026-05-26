@@ -163,6 +163,6 @@ Water damage (burst pipes) is typically covered minus your deductible — often 
 Installing tile flooring in Orlando runs **$5,500 to $18,000** for most homes, with porcelain tile at the sweet spot of cost and performance. The most important thing to know: Orlando's humidity and sandy soil require proper subfloor prep and moisture barriers to prevent cracking and mold. Get quotes from at least 3 licensed Florida tile contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Laminate Flooring in Orlando 2026](/interior/cost-to-install-laminate-flooring-orlando-2026/)
-- [Cost to Install Vinyl Plank Flooring in Orlando 2026](/interior/cost-to-install-vinyl-plank-flooring-orlando-2026/)
-- [Cost to Refinish Hardwood Floors in Orlando 2026](/interior/cost-to-refinish-hardwood-floors-orlando-2026/)
+- Cost to Install Laminate Flooring in Orlando 2026
+- [Cost to Install Vinyl Plank Flooring in Orlando 2026](/interior/cost-to-install-vinyl-plank-flooring-in-orlando-2026/)
+- Cost to Refinish Hardwood Floors in Orlando 2026

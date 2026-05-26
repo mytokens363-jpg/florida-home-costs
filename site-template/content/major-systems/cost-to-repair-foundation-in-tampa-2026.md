@@ -175,6 +175,6 @@ Yes, a repaired foundation improves marketability. Buyers are wary of foundation
 Repairing a foundation in Tampa runs **$4,500 to $25,000** depending on the severity of the settlement. The most important thing to know: Tampa's soil conditions require professional engineering input for anything beyond minor cracks. Get quotes from at least 3 licensed Florida CGC contractors and verify every license at MyFloridaLicense.com. Address drainage issues simultaneously to prevent future damage.
 
 **Related guides you may find useful:**
-- [Cost to Install Drainage System Florida](/major-systems/cost-to-install-drainage-system-florida-2026/)
-- [Cost to Fix Slab Leak in Tampa](/major-systems/cost-to-fix-slab-leak-tampa-2026/)
-- [Cost to Add a Room in Tampa](/structural/cost-to-add-a-room-tampa-2026/)
+- Cost to Install Drainage System Florida
+- Cost to Fix Slab Leak in Tampa
+- Cost to Add a Room in Tampa

@@ -165,6 +165,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Building a patio in Fort Lauderdale runs **$8,000 to $25,000** for most homes, with concrete at the sweet spot of cost and durability. The most important thing to know: Fort Lauderdale's soil and rain require proper drainage and base compaction. A poorly built patio will fail within a few years. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Patio Cover in Fort Lauderdale](/exterior/cost-to-install-patio-cover-fort-lauderdale-2026/)
-- [Cost to Build Deck in Fort Lauderdale](/exterior/cost-to-build-deck-fort-lauderdale-2026/)
-- [Cost to Install Driveway in Fort Lauderdale](/exterior/cost-to-install-driveway-fort-lauderdale-2026/)
+- Cost to Install Patio Cover in Fort Lauderdale
+- Cost to Build Deck in Fort Lauderdale
+- [Cost to Install Driveway in Fort Lauderdale](/exterior/cost-to-pave-driveway-in-fort-lauderdale-2026/)

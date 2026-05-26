@@ -166,6 +166,6 @@ Yes, if covered under your dwelling coverage. But liability coverage may not cov
 Installing an EV charger in Tampa runs **$600 to $2,500** for most homes, with Level 2 hardwired units at the sweet spot of cost and performance. The most important thing to know: Hillsborough County requires permits for new circuits, and TECO offers rebates up to **$500**. Get quotes from at least 3 licensed Florida electrical contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Solar Panels in Tampa 2026](/solar/cost-to-install-solar-panels-in-tampa-2026/)
+- Cost to Install Solar Panels in Tampa 2026
 - [Cost to Upgrade Electrical Panel in Tampa 2026](/electrical/cost-to-upgrade-electrical-panel-in-tampa-2026/)
-- [Cost to Install Generator in Tampa 2026](/electrical/cost-to-install-generator-in-tampa-2026/)
+- Cost to Install Generator in Tampa 2026

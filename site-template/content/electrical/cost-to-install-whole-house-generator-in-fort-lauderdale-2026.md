@@ -160,6 +160,6 @@ Storm damage is typically covered minus your deductible — often **2% of insure
 Installing a whole house generator in Fort Lauderdale runs **$13,500 to $24,000** for most homes, with natural gas systems at the sweet spot of cost and performance. The most important thing to know: Fort Lauderdale's flood zone and HVHZ requirements mean your generator must be elevated and anchored correctly — cheap pads will fail in a storm. Get quotes from at least 3 licensed Florida electrical contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Solar Batteries in Fort Lauderdale 2026](/electrical/cost-to-install-solar-batteries-fort-lauderdale-2026/)
-- [Cost to Wire a Home for EV Charger Fort Lauderdale 2026](/electrical/cost-to-wire-a-home-for-ev-charger-fort-lauderdale-2026/)
-- [Cost to Install Standby Generator Florida 2026](/electrical/cost-to-install-standby-generator-florida-2026/)
+- Cost to Install Solar Batteries in Fort Lauderdale 2026
+- Cost to Wire a Home for EV Charger Fort Lauderdale 2026
+- Cost to Install Standby Generator Florida 2026

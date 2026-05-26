@@ -169,6 +169,6 @@ Usually no. Insurance covers sudden, accidental damage like a car hitting the ta
 Replacing a septic tank in Miami costs **$12,000 to $35,000** for most properties, with **$20,000** being the realistic budget for a compliant system. The high cost comes from Miami-Dade's strict environmental codes and the high water table that requires advanced treatment systems. Hire a licensed plumbing specialist familiar with local soil conditions and always secure the proper permits from the Environmental Protection Division.
 
 **Related guides you may find useful:**
-- [Cost to Install Water Heater in Miami 2026](/major-systems/cost-to-install-water-heater-miami-2026/)
-- [Cost to Install Sump Pump in Miami 2026](/major-systems/cost-to-install-sump-pump-miami-2026/)
-- [Cost to Replace Plumbing Pipes in Miami 2026](/major-systems/cost-to-replace-plumbing-pipes-miami-2026/)
+- Cost to Install Water Heater in Miami 2026
+- [Cost to Install Sump Pump in Miami 2026](/plumbing/cost-to-install-sump-pump-in-miami-2026/)
+- Cost to Replace Plumbing Pipes in Miami 2026

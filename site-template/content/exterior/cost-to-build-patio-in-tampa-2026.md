@@ -168,6 +168,6 @@ Wind and hail damage is typically covered minus your deductible. However, wear a
 Building a patio in Tampa runs **$4,500 to $18,000** for most homes, with concrete at the sweet spot of cost and durability. The most important thing to know: Hillsborough County requires permits and inspections for permanent structures, and drainage is critical due to our sandy soil and heavy rains. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Pavers in Tampa 2026](/exterior/cost-to-install-pavers-in-tampa-2026/)
-- [Cost to Build a Deck in Tampa 2026](/exterior/cost-to-build-deck-in-tampa-2026/)
-- [Cost to Add a Screened Enclosure in Tampa 2026](/exterior/cost-to-add-screened-enclosure-in-tampa-2026/)
+- Cost to Install Pavers in Tampa 2026
+- Cost to Build a Deck in Tampa 2026
+- Cost to Add a Screened Enclosure in Tampa 2026

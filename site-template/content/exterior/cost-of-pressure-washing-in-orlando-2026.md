@@ -163,6 +163,6 @@ High pressure can damage leaves. Runoff from chemicals can kill grass. Cover pla
 Pressure washing in Orlando runs **$300 to $900** for most homes, with standard driveway and patio cleaning at the lower end of the range. The most important thing to know: Orlando humidity makes cleaning necessary, not just cosmetic. Regular cleaning prevents mold and extends the life of your exterior materials. Get quotes from at least 3 licensed contractors and verify they follow Orange County runoff rules.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Orlando](/hurricane-protection/cost-to-install-impact-windows-orlando-2026/)
-- [Cost to Seal Concrete Driveway Florida](/exterior/cost-to-seal-concrete-driveway-florida-2026/)
-- [Cost to Clean Roof in Orlando 2026](/exterior/cost-to-clean-roof-orlando-2026/)
+- Cost to Install Impact Windows in Orlando
+- Cost to Seal Concrete Driveway Florida
+- Cost to Clean Roof in Orlando 2026

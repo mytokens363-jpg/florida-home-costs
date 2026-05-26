@@ -166,6 +166,6 @@ Storm damage or sudden leaks are typically covered. Long-term neglect or humidit
 Professional mold remediation in Fort Lauderdale runs **$1,200 to $6,500** for most homes, with surface cleaning at the low end and structural repairs at the high end. The most important thing to know: Fort Lauderdale's humidity makes mold a recurring threat. Fix the water source first, hire a licensed contractor, and get a post-remediation test to ensure it's gone.
 
 **Related guides you may find useful:**
-- [Cost to Fix Water Damage in Fort Lauderdale 2026](/major-systems/cost-to-fix-water-damage-fort-lauderdale-2026/)
-- [Cost to Replace Roof in Fort Lauderdale 2026](/roofing/cost-to-replace-roof-fort-lauderdale-2026/)
-- [Cost of Homeowners Insurance in Fort Lauderdale 2026](/insurance/cost-of-homeowners-insurance-fort-lauderdale-2026/)
+- Cost to Fix Water Damage in Fort Lauderdale 2026
+- [Cost to Replace Roof in Fort Lauderdale 2026](/general/cost-to-replace-roof-fort-lauderdale-2026/)
+- Cost of Homeowners Insurance in Fort Lauderdale 2026

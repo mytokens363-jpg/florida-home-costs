@@ -168,6 +168,6 @@ Insurance covers sudden water damage from leaks, like a burst pipe. It does not 
 Installing tile flooring in Fort Lauderdale runs **$4,500 to $14,000** for most homes, with porcelain tile offering the best balance of durability and cost. The most important thing to know: Florida's humidity requires moisture testing and vapor barriers that standard contractors might skip. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Hardwood Floors in Fort Lauderdale](/interior/cost-to-install-hardwood-floors-fort-lauderdale-2026/)
-- [Cost to Install Vinyl Plank Floors in Fort Lauderdale](/interior/cost-to-install-vinyl-plank-floors-fort-lauderdale-2026/)
-- [Cost to Refinish Hardwood Floors in Fort Lauderdale](/interior/cost-to-refinish-hardwood-floors-fort-lauderdale-2026/)
+- Cost to Install Hardwood Floors in Fort Lauderdale
+- Cost to Install Vinyl Plank Floors in Fort Lauderdale
+- Cost to Refinish Hardwood Floors in Fort Lauderdale

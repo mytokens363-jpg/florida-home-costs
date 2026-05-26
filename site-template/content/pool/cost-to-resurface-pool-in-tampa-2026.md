@@ -164,6 +164,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Resurfacing a pool in Tampa runs **$6,000 to $18,000** for most homes, with quartz aggregate at the sweet spot of cost and performance. The most important thing to know: Tampa's Hillsborough County requirements add cost but your new pool meets some of the toughest safety standards in the country — and it keeps you insurable in a market where carriers are dropping homes with aging pools every day. Get quotes from at least 3 licensed Florida pool contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Salt Water System in Tampa 2026](/pool/cost-to-install-salt-water-system-tampa-2026/)
-- [Cost to Install Pool Heater Florida](/pool/cost-to-install-pool-heater-florida-2026/)
-- [Cost to Resurface Pool in Orlando](/pool/cost-to-resurface-pool-orlando-2026/)
+- Cost to Install Salt Water System in Tampa 2026
+- [Cost to Install Pool Heater Florida](/pool/cost-to-install-pool-heater-in-florida-2026/)
+- Cost to Resurface Pool in Orlando

@@ -168,6 +168,6 @@ Storm damage is typically covered minus your deductible — often **2% of insure
 Upgrading your electrical panel in Fort Lauderdale runs **$1,500 to $4,500** for most homes, with 200-amp upgrades at the sweet spot of cost and safety. The most important thing to know: Fort Lauderdale's HVHZ requirements mean your service entrance must be storm-resistant, and your panel must meet strict 2023 Florida Building Code standards. Get quotes from at least 3 licensed Florida electrical contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Surge Protector in Fort Lauderdale](/electrical/cost-to-install-surge-protector-fort-lauderdale-2026/)
-- [Cost to Install EV Charger in Fort Lauderdale](/electrical/cost-to-install-ev-charger-fort-lauderdale-2026/)
-- [Cost to Rewire a House in Fort Lauderdale](/electrical/cost-to-rewire-house-fort-lauderdale-2026/)
+- Cost to Install Surge Protector in Fort Lauderdale
+- [Cost to Install EV Charger in Fort Lauderdale](/electrical/cost-to-install-ev-charger-in-fort-lauderdale-2026/)
+- [Cost to Rewire a House in Fort Lauderdale](/electrical/cost-to-rewire-house-in-fort-lauderdale-2026/)

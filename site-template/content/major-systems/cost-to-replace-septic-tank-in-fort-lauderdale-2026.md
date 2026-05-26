@@ -164,6 +164,6 @@ Standard policies cover sudden damage like a tree falling on the tank. They do n
 Replacing a septic tank in Fort Lauderdale runs **$5,000 to $15,000** for most homes, with concrete tanks at the sweet spot of cost and durability. The most important thing to know: Broward County Health Department requirements are strict due to the high water table. You cannot cut corners on permits or inspections. Get quotes from at least 3 licensed Florida plumbing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install a Sump Pump in Fort Lauderdale](/major-systems/cost-to-install-sump-pump-fort-lauderdale-2026/)
-- [Cost to Replace Water Heater in Florida](/major-systems/cost-to-replace-water-heater-florida-2026/)
-- [Cost to Install Septic Pump in Florida](/major-systems/cost-to-install-septic-pump-florida-2026/)
+- [Cost to Install a Sump Pump in Fort Lauderdale](/plumbing/cost-to-install-sump-pump-in-fort-lauderdale-2026/)
+- [Cost to Replace Water Heater in Florida](/plumbing/cost-to-replace-water-heater-in-florida-2026/)
+- Cost to Install Septic Pump in Florida

@@ -166,6 +166,6 @@ Fumigation requires you to vacate your home for **24 to 72 hours**. You cannot h
 Treating termites in Miami costs **$1,500 to $4,500** for most homes, with structural repairs pushing the total higher. The most important thing to know: Florida insurance does not cover termite damage, so prevention is your only defense. Get an inspection from a licensed Miami-Dade pest control operator and maintain your warranty. Regular annual inspections are the best way to catch infestations early before they become expensive disasters.
 
 **Related guides you may find useful:**
-- [Cost to Replace a Roof in Miami](/roofing/cost-to-replace-roof-miami-2026/)
-- [Cost to Install Impact Windows in Miami](/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
-- [Cost to Repair Water Damage Florida](/plumbing/cost-to-repair-water-damage-florida-2026/)
+- [Cost to Replace a Roof in Miami](/general/cost-to-replace-roof-in-miami-2026/)
+- Cost to Install Impact Windows in Miami
+- Cost to Repair Water Damage Florida

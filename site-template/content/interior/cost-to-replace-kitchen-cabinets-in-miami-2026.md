@@ -177,6 +177,6 @@ Replacing kitchen cabinets in Miami costs **$5,000 to $30,000** depending on you
 Get quotes from at least three licensed contractors and verify their status at MyFloridaLicense.com. Check your HOA rules before starting work. Focus on durability over style to ensure your investment lasts in Florida’s climate.
 
 **Related guides you may find useful:**
-- [Cost to Install Kitchen Countertops in Miami 2026](/interior/cost-to-install-kitchen-countertops-miami-2026/)
-- [Cost to Remodel a Bathroom in Miami 2026](/interior/cost-to-remodel-bathroom-miami-2026/)
-- [Cost to Install a Kitchen Sink in Miami 2026](/plumbing/cost-to-install-kitchen-sink-miami-2026/)
+- Cost to Install Kitchen Countertops in Miami 2026
+- [Cost to Remodel a Bathroom in Miami 2026](/interior/cost-to-remodel-bathroom-in-miami-2026/)
+- Cost to Install a Kitchen Sink in Miami 2026

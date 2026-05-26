@@ -162,6 +162,6 @@ Yes, if the leak was sudden and accidental. It covers repair costs minus your de
 Removing a popcorn ceiling in Tampa runs **$3,500 to $7,000** for most homes, with **$5,200** being the sweet spot for a full scrape, prime, and paint. The most important thing to know: testing for asbestos is non-negotiable in homes built before 1980. Hire a licensed contractor who follows Florida DEP safety protocols to avoid health risks and fines. Get quotes from at least 3 local contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Repaint a Room in Tampa 2026](/interior/cost-to-repaint-room-tampa-2026/)
-- [Cost to Install Crown Molding in Tampa 2026](/interior/cost-to-install-crown-molding-tampa-2026/)
-- [Cost to Replace Drywall in Tampa 2026](/interior/cost-to-replace-drywall-tampa-2026/)
+- Cost to Repaint a Room in Tampa 2026
+- Cost to Install Crown Molding in Tampa 2026
+- Cost to Replace Drywall in Tampa 2026

@@ -160,6 +160,6 @@ DIY cleaning is risky. You can bend the delicate fins or damage electrical compo
 Cleaning AC coils in Miami runs **$150 to $450** for most homes, with **$250** being the sweet spot for a thorough job. The most important thing to know: Miami’s salt air and humidity destroy coils faster than anywhere else in the state. Regular cleaning preserves your investment and keeps your energy bills from spiraling. Get quotes from at least 3 licensed Florida HVAC contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install AC Unit in Miami 2026](/hvac/cost-to-install-ac-unit-miami-2026/)
-- [Cost to Maintain HVAC System Miami 2026](/hvac/cost-to-maintain-hvac-system-miami-2026/)
-- [Cost to Replace Condenser Miami 2026](/hvac/cost-to-replace-condenser-miami-2026/)
+- Cost to Install AC Unit in Miami 2026
+- Cost to Maintain HVAC System Miami 2026
+- Cost to Replace Condenser Miami 2026

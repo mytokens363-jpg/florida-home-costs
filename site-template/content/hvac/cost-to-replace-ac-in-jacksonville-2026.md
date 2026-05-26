@@ -162,6 +162,6 @@ Storm damage (wind, lightning) is typically covered minus your deductible. Norma
 Replacing an AC unit in Jacksonville runs **$4,500 to $9,500** for most homes, with SEER 16 units at the sweet spot of cost and performance. The most important thing to know: Jacksonville's humidity requires a system built for moisture removal, not just cooling. Get quotes from at least 3 licensed Florida HVAC contractors and verify every license at MyFloridaLicense.com. Check current JEA or FPL rebates before signing to maximize savings.
 
 **Related guides you may find useful:**
-- [Cost to Replace Furnace in Jacksonville](/hvac/cost-to-replace-furnace-jacksonville-2026/)
-- [Cost to Install Ductwork in Jacksonville](/hvac/cost-to-install-ductwork-jacksonville-2026/)
-- [Cost to Replace AC in Miami](/hvac/cost-to-replace-ac-miami-2026/)
+- Cost to Replace Furnace in Jacksonville
+- Cost to Install Ductwork in Jacksonville
+- [Cost to Replace AC in Miami](/hvac/cost-to-replace-ac-in-miami-2026/)

@@ -168,6 +168,6 @@ Use moisture-resistant materials like marine-grade plywood or sealed melamine. E
 Installing a custom closet in Florida costs **$3,500 to $18,000** for most homeowners. The most important factor is choosing materials that withstand humidity and termites. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Kitchen Cabinets in Florida](/interior/cost-to-install-kitchen-cabinets-in-florida-2026/)
-- [Cost to Install Home Office Florida](/interior/cost-to-install-home-office-florida-2026/)
-- [Cost to Install Hardwood Floors in Florida](/flooring/cost-to-install-hardwood-floors-in-florida-2026/)
+- [Cost to Install Kitchen Cabinets in Florida](/interior/cost-to-replace-kitchen-cabinets-in-florida-2026/)
+- Cost to Install Home Office Florida
+- Cost to Install Hardwood Floors in Florida

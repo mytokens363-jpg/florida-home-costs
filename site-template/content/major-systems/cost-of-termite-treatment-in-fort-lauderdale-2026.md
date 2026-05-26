@@ -162,6 +162,6 @@ You can negotiate for the seller to pay for treatment or repair. If the home was
 Treating for termites in Fort Lauderdale runs **$600 to $5,000** for most homes, with liquid soil barriers at the sweet spot of cost and protection. The most important thing to know: termite damage is not covered by insurance, so prevention is your only financial safety net. Get quotes from at least 3 licensed Florida pest control operators and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Repair Termite Damage in Fort Lauderdale 2026](/major-systems/cost-to-repair-termite-damage-fort-lauderdale-2026/)
-- [Termite Inspection Cost in Florida 2026](/major-systems/termite-inspection-cost-florida-2026/)
-- [Cost to Replace Termite Damaged Wood in Miami 2026](/major-systems/cost-to-replace-termite-damaged-wood-miami-2026/)
+- Cost to Repair Termite Damage in Fort Lauderdale 2026
+- Termite Inspection Cost in Florida 2026
+- Cost to Replace Termite Damaged Wood in Miami 2026

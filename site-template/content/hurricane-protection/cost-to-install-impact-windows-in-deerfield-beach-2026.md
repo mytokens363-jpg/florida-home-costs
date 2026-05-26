@@ -167,5 +167,5 @@ Installing impact windows in Deerfield Beach runs **$5,000 to $15,000** for most
 
 **Related guides you may find useful:**
 - [Cost to Install Impact Windows in Fort Lauderdale 2026](/hurricane-protection/cost-to-install-impact-windows-fort-lauderdale-2026/)
-- [Cost to Install Hurricane Shutters Florida 2026](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
-- [Cost to Replace Roof in Deerfield Beach 2026](/roofing/cost-to-replace-roof-deerfield-beach-2026/)
+- [Cost to Install Hurricane Shutters Florida 2026](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
+- [Cost to Replace Roof in Deerfield Beach 2026](/roofing/cost-to-replace-roof-in-deerfield-beach-2026/)

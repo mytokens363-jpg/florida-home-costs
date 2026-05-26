@@ -160,6 +160,6 @@ No, standard policies do not cover routine maintenance. Insurance covers sudden 
 Cleaning air ducts in Florida runs **$350 to $900** for most homes, with the average cost around **$550**. The most important factor is humidity — Florida’s climate drives mold and biological growth inside ducts faster than anywhere else in the country. Hire a C-20 licensed contractor with truck-mounted HEPA equipment to ensure the job is done safely. Regular cleaning protects your health and keeps your AC running efficiently during the hot summer months.
 
 **Related guides you may find useful:**
-- [Cost to Replace AC Unit in Florida 2026](/hvac/cost-to-replace-ac-unit-florida-2026/)
-- [Cost to Install HVAC Maintenance Plan Florida](/hvac/cost-to-install-hvac-maintenance-plan-florida-2026/)
-- [Cost to Seal Ductwork in Florida 2026](/hvac/cost-to-seal-ductwork-in-florida-2026/)
+- Cost to Replace AC Unit in Florida 2026
+- Cost to Install HVAC Maintenance Plan Florida
+- [Cost to Seal Ductwork in Florida 2026](/hvac/cost-to-replace-ductwork-in-florida-2026/)

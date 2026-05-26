@@ -160,6 +160,6 @@ Storm damage (wind, hail, debris) is typically covered minus your deductible —
 Installing impact windows in Florida runs **$10,000 to $25,000** for most homes, with vinyl at the sweet spot of cost and performance. The most important thing to know: Florida’s HVHZ requirements add cost but your new windows meet some of the toughest wind standards in the country — and it keeps you insurable in a market where carriers are dropping homes with aging windows every day. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
-- [Cost to Install Impact Doors in Florida](/hurricane-protection/cost-to-install-impact-doors-florida-2026/)
-- [Cost to Replace Roof in Florida](/roofing/cost-to-replace-roof-florida-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
+- [Cost to Install Impact Doors in Florida](/hurricane-protection/cost-to-install-impact-doors-in-florida-2026/)
+- [Cost to Replace Roof in Florida](/roofing/cost-to-replace-roof-in-florida-2026/)

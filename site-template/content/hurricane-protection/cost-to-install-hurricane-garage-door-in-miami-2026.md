@@ -168,6 +168,6 @@ Storm damage (wind, debris) is typically covered minus your deductible. Normal w
 Installing a hurricane garage door in Miami runs **$4,500 to $12,000** for most homes, with double-car insulated doors at the sweet spot of cost and protection. The most important thing to know: Miami-Dade's HVHZ requirements add cost but your new door meets some of the toughest wind standards in the country — and it keeps you insurable in a market where carriers are dropping homes with aging garage doors every day. Get quotes from at least 3 licensed Florida garage door contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Miami 2026](/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
-- [Cost to Replace Roof in Miami 2026](/roofing/cost-to-replace-roof-miami-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
+- Cost to Install Impact Windows in Miami 2026
+- [Cost to Replace Roof in Miami 2026](/general/cost-to-replace-roof-in-miami-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)

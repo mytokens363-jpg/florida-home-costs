@@ -170,6 +170,6 @@ Rewiring a house in Miami runs **$12,000 to $35,000** for most homes, with panel
 **Related guides you may find useful:**
 - [Cost to Install EV Charger in Miami 2026](/electrical/cost-to-install-ev-charger-miami-2026/)
 - [Cost to Install Home Generators in Miami 2026](/electrical/cost-to-install-home-generators-miami-2026/)
-- [Cost to Install Lighting in Miami 2026](/electrical/cost-to-install-lighting-miami-2026/)
+- Cost to Install Lighting in Miami 2026
 
 === END ARTICLE ===

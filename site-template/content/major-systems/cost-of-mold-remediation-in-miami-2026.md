@@ -160,6 +160,6 @@ Yes, always. A third-party clearance test costs **$300–$600**. It verifies the
 Mold remediation in Miami runs **$1,200 to $15,000** depending on severity, with most homeowners paying around **$4,500**. The most critical factor is fixing the moisture source before cleanup. Miami-Dade County requires specific licensing and permits to ensure safety. Get quotes from at least three licensed professionals and verify their credentials at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Fix Water Damage in Miami 2026](/major-systems/cost-to-fix-water-damage-miami-2026/)
-- [Cost to Replace HVAC in Miami 2026](/major-systems/cost-to-replace-hvac-miami-2026/)
-- [Cost to Install Impact Windows in Miami 2026](/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
+- Cost to Fix Water Damage in Miami 2026
+- Cost to Replace HVAC in Miami 2026
+- Cost to Install Impact Windows in Miami 2026

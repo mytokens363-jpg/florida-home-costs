@@ -163,6 +163,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Installing a hurricane garage door in Florida costs **$3,500 to $12,000** for most homes, with double-car units at the sweet spot of **$5,000 to $8,000**. The most important thing to know: your garage door is a critical part of your home's wind resistance system. A failure here can lead to roof damage far exceeding the cost of the door itself. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Florida](/hurricane-protection/cost-to-install-impact-windows-florida-2026/)
-- [Cost to Replace Roof in Florida](/roofing/cost-to-replace-roof-florida-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
+- [Cost to Install Impact Windows in Florida](/hurricane-protection/cost-to-install-impact-windows-in-florida-2026/)
+- [Cost to Replace Roof in Florida](/roofing/cost-to-replace-roof-in-florida-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)

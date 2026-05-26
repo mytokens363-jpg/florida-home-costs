@@ -166,6 +166,6 @@ Usually only if a storm causes the tree to fall on a covered structure. If the t
 Removing a tree in Jacksonville runs **$450 to $2,500** for most homes, with small jobs under **$750** and large Live Oaks over **$1,500**. The most important thing to know: always check for permits before cutting, and never hire an uninsured crew. Jacksonville trees are big, and the risks are high. Get quotes from at least 3 licensed Florida tree contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Fence in Jacksonville 2026](/exterior/cost-to-install-fence-jacksonville-2026/)
-- [Cost to Install Impact Windows in Jacksonville](/hurricane-protection/cost-to-install-impact-windows-jacksonville-2026/)
-- [Cost to Landscape Your Yard in Jacksonville 2026](/landscaping/cost-to-landscape-yard-jacksonville-2026/)
+- Cost to Install Fence in Jacksonville 2026
+- Cost to Install Impact Windows in Jacksonville
+- Cost to Landscape Your Yard in Jacksonville 2026

@@ -162,6 +162,6 @@ Routine cleaning is not covered by insurance. It is considered maintenance. Howe
 Duct cleaning in Tampa runs **$350 to $1,500** depending on your home size and contamination level. The most important thing to know: Tampa humidity creates mold risks that standard cleaning might miss. You need a company with proper agitation tools and HEPA vacuums, not just blow-and-vacuum services. Check for a CAC license and NADCA certification before hiring.
 
 **Related guides you may find useful:**
-- [Cost to Replace AC Unit in Tampa 2026](/hvac/cost-to-replace-ac-unit-tampa-2026/)
-- [Cost to Install Whole Home Air Purifier Tampa 2026](/hvac/cost-to-install-air-purifier-tampa-2026/)
-- [Cost to Repair HVAC System Tampa 2026](/hvac/cost-to-repair-hvac-tampa-2026/)
+- Cost to Replace AC Unit in Tampa 2026
+- Cost to Install Whole Home Air Purifier Tampa 2026
+- Cost to Repair HVAC System Tampa 2026

@@ -160,6 +160,6 @@ Use a waterproof membrane behind the tile and epoxy grout. Ensure the concrete s
 Installing tile flooring in Florida runs **$10,000 to $25,000** for most homes, with porcelain tile at the sweet spot of cost and durability. The most important thing to know: Florida's humidity demands proper moisture barriers and sealing to prevent mold growth. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Laminate Flooring in Florida 2026](/interior/cost-to-install-laminate-flooring-florida-2026/)
-- [Cost to Install Hardwood Flooring in Florida 2026](/interior/cost-to-install-hardwood-flooring-florida-2026/)
-- [Cost to Remove Carpet in Florida 2026](/interior/cost-to-remove-carpet-florida-2026/)
+- Cost to Install Laminate Flooring in Florida 2026
+- Cost to Install Hardwood Flooring in Florida 2026
+- Cost to Remove Carpet in Florida 2026

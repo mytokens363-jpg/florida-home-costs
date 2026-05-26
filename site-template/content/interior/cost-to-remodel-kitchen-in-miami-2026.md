@@ -168,6 +168,6 @@ Normal wear and aging is never covered. Storm damage (fire, wind) might cover re
 A kitchen remodel in Miami runs **$25,000 to $85,000** for most homes, with quartz countertops and semi-custom cabinets at the sweet spot of cost and performance. The most important thing to know: Miami-Dade County permits add cost but your new kitchen meets some of the toughest building standards in the country — and it keeps you insurable in a market where carriers are dropping homes with aging infrastructure every day. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Replace Windows in Miami 2026](/interior/cost-to-replace-windows-in-miami-2026/)
-- [Cost to Install Impact Doors in Miami](/interior/cost-to-install-impact-doors-in-miami-2026/)
+- Cost to Replace Windows in Miami 2026
+- [Cost to Install Impact Doors in Miami](/hurricane-protection/cost-to-install-impact-doors-in-miami-2026/)
 - [Cost to Remodel Bathroom in Miami 2026](/interior/cost-to-remodel-bathroom-in-miami-2026/)

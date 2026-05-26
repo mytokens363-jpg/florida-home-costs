@@ -168,6 +168,6 @@ Standard policies exclude settling, shrinking, or expanding of soil. You usually
 Foundation repair in Fort Lauderdale runs **$5,000 to $75,000** depending on the method and severity. The most important thing to know: the local water table and soil conditions require professional engineering oversight. Do not cut corners on permits or engineering stamps. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Foundation Piers in Fort Lauderdale 2026](/major-systems/cost-to-install-foundation-piers-fort-lauderdale-2026/)
-- [Cost to Install Sump Pump in Fort Lauderdale 2026](/major-systems/cost-to-install-sump-pump-fort-lauderdale-2026/)
-- [Cost to Repair Wall Cracks in Florida 2026](/major-systems/cost-to-repair-wall-cracks-in-florida-2026/)
+- Cost to Install Foundation Piers in Fort Lauderdale 2026
+- [Cost to Install Sump Pump in Fort Lauderdale 2026](/plumbing/cost-to-install-sump-pump-in-fort-lauderdale-2026/)
+- Cost to Repair Wall Cracks in Florida 2026

@@ -209,10 +209,10 @@ Investing in a pool cage in Naples is a significant decision that affects your p
 
 ## Related Articles
 
-- [Cost to Resurface a Pool in Naples 2026](/cost-to-resurface-pool-naples-2026)
-- [Impact of Hurricane Shutters on Home Insurance](/cost-hurricane-shutters-florida)
-- [Landscaping Costs in Southwest Florida](/cost-landscaping-naples-florida)
-- [Pool Equipment Replacement Guide](/pool-equipment-replacement-florida)
+- Cost to Resurface a Pool in Naples 2026
+- Impact of Hurricane Shutters on Home Insurance
+- Landscaping Costs in Southwest Florida
+- Pool Equipment Replacement Guide
 
 ## FAQ
 

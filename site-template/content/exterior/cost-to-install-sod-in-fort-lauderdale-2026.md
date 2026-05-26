@@ -166,6 +166,6 @@ Storm damage is typically covered minus your deductible. However, normal wear an
 Installing sod in Fort Lauderdale runs **$2,500 to $8,000** for most homes, with St. Augustine at the sweet spot of cost and durability. The most important thing to know: Fort Lauderdale’s sandy soil requires specific amendment to hold moisture. Without proper soil prep, your new lawn will struggle and your water bill will skyrocket. Get quotes from at least 3 licensed Florida landscape contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Irrigation System in Fort Lauderdale 2026](/landscaping/cost-to-install-irrigation-system-fort-lauderdale-2026/)
-- [Cost to Landscape a Backyard in Fort Lauderdale 2026](/landscaping/cost-to-landscape-backyard-fort-lauderdale-2026/)
-- [Cost to Install Retaining Wall in Fort Lauderdale 2026](/landscaping/cost-to-install-retaining-wall-fort-lauderdale-2026/)
+- Cost to Install Irrigation System in Fort Lauderdale 2026
+- Cost to Landscape a Backyard in Fort Lauderdale 2026
+- Cost to Install Retaining Wall in Fort Lauderdale 2026

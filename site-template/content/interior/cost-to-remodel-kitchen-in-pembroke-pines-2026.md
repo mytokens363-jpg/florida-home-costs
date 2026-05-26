@@ -168,6 +168,6 @@ Water damage from sudden leaks is typically covered minus your deductible. Wear 
 A kitchen remodel in Pembroke Pines runs **$15,000 to $80,000** for most homes, with mid-range upgrades at the sweet spot of cost and value. The most important thing to know: Broward County permits and Florida Building Code requirements ensure your new kitchen is safe and insurable. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Kitchen Cabinets in Florida 2026](/interior/cost-to-install-kitchen-cabinets-florida-2026/)
-- [Cost to Replace Kitchen Countertops Pembroke Pines](/interior/cost-to-replace-kitchen-countertops-pembroke-pines-2026/)
-- [Cost to Remodel Bathroom in Broward County 2026](/interior/cost-to-remodel-bathroom-broward-county-2026/)
+- Cost to Install Kitchen Cabinets in Florida 2026
+- Cost to Replace Kitchen Countertops Pembroke Pines
+- Cost to Remodel Bathroom in Broward County 2026

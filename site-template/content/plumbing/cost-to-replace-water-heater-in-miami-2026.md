@@ -166,6 +166,6 @@ Sudden leaks from rupture are typically covered minus your deductible — often 
 Replacing a water heater in Miami runs **$1,200 to $3,500** for most homes, with gas units at the sweet spot of cost and performance. The most important thing to know: Miami-Dade County requires permits and inspections for every replacement to ensure flood zone compliance. Get quotes from at least 3 licensed Florida plumbing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Tankless Water Heater in Florida 2026](/plumbing/cost-to-install-tankless-water-heater-in-florida-2026/)
-- [Cost to Replace Sump Pump in Miami 2026](/plumbing/cost-to-replace-sump-pump-in-miami-2026/)
-- [Cost to Fix Plumbing Leaks in Miami 2026](/plumbing/cost-to-fix-plumbing-leaks-in-miami-2026/)
+- Cost to Install Tankless Water Heater in Florida 2026
+- Cost to Replace Sump Pump in Miami 2026
+- Cost to Fix Plumbing Leaks in Miami 2026

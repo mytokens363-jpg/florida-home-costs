@@ -169,5 +169,5 @@ Building an inground pool in Fort Lauderdale runs **$65,000 to $180,000** for mo
 
 **Related guides you may find useful:**
 - [Cost to Install Impact Windows in Fort Lauderdale](/hurricane-protection/cost-to-install-impact-windows-fort-lauderdale-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
-- [Cost to Build Inground Pool in Miami](/pool/cost-to-build-inground-pool-miami-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
+- [Cost to Build Inground Pool in Miami](/pool/cost-to-build-inground-pool-in-miami-2026/)

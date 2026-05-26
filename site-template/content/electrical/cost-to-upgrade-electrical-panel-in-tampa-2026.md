@@ -166,6 +166,6 @@ Yes. Power is off for the duration of the installation. This usually takes 4 to 
 Upgrading an electrical panel in Tampa costs **$1,800 to $4,500** for most homeowners. The average project lands around **$2,750**. The most important factor is insurance eligibility. Many carriers refuse to insure homes with 100-amp or Federal Pacific panels. Upgrading to 200 amps keeps you insurable and safe. Get quotes from at least 3 licensed Florida electricians and verify licenses at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install EV Charger in Tampa 2026](/electrical/cost-to-install-ev-charger-tampa-2026/)
-- [Cost to Replace Electrical Wiring in Tampa 2026](/electrical/cost-to-replace-electrical-wiring-tampa-2026/)
-- [Cost to Install Whole House Surge Protector Florida](/electrical/cost-to-install-whole-house-surge-protector-florida-2026/)
+- [Cost to Install EV Charger in Tampa 2026](/electrical/cost-to-install-ev-charger-in-tampa-2026/)
+- Cost to Replace Electrical Wiring in Tampa 2026
+- Cost to Install Whole House Surge Protector Florida

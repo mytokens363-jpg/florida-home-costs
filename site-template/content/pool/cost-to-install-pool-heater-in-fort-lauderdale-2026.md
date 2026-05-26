@@ -160,6 +160,6 @@ Storm damage (wind, hail, lightning) is typically covered minus your deductible.
 Installing a pool heater in Fort Lauderdale runs **$3,500 to $8,000** for most homes, with heat pumps at the sweet spot of cost and efficiency. The most important thing to know: Fort Lauderdale's coastal environment accelerates corrosion, so stainless steel or titanium components are essential. Get quotes from at least 3 licensed Florida pool contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Pool Fencing in Fort Lauderdale](/pool/cost-to-install-pool-fencing-fort-lauderdale-2026/)
-- [Cost to Clean and Maintain Pool Florida](/pool/cost-to-clean-and-maintain-pool-florida-2026/)
-- [Cost to Install Pool Cover Fort Lauderdale](/pool/cost-to-install-pool-cover-fort-lauderdale-2026/)
+- Cost to Install Pool Fencing in Fort Lauderdale
+- Cost to Clean and Maintain Pool Florida
+- Cost to Install Pool Cover Fort Lauderdale

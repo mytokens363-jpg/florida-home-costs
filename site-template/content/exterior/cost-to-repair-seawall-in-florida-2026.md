@@ -164,6 +164,6 @@ Storm damage (wind, debris) is typically covered minus your deductible — often
 Repairing a seawall in Florida runs **$15,000 to $65,000** for most homes, with concrete panels at the sweet spot of cost and performance. The most important thing to know: Florida's coastal regulations add time and cost, but your new wall meets some of the toughest standards in the country — and it keeps you insurable in a market where flood carriers are dropping homes with failing structures every day. Get quotes from at least 3 licensed Florida marine contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Florida](/exterior/cost-to-install-impact-windows-florida-2026/)
-- [Cost to Obtain Coastal Construction Permit in Florida](/permitting/cost-to-obtain-coastal-construction-permit-florida-2026/)
-- [Cost to Repair Foundation in Florida](/exterior/cost-to-repair-foundation-florida-2026/)
+- [Cost to Install Impact Windows in Florida](/hurricane-protection/cost-to-install-impact-windows-in-florida-2026/)
+- Cost to Obtain Coastal Construction Permit in Florida
+- [Cost to Repair Foundation in Florida](/major-systems/cost-to-repair-foundation-in-florida-2026/)

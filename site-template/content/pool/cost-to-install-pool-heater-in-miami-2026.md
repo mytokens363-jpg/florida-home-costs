@@ -160,6 +160,6 @@ Storm damage (wind, hail) is typically covered. Normal wear and aging is never c
 Installing a pool heater in Miami runs **$4,500 to $11,000** for most homes, with gas heaters at the sweet spot of cost and performance. The most important thing to know: Miami-Dade County requires permits and inspections for all gas and electrical work. Get quotes from at least 3 licensed Florida pool contractors and verify every license at MyFloridaLicense.com. Proper installation protects your investment in a salty, humid climate.
 
 **Related guides you may find useful:**
-- [Cost to Install a Pool Pump in Miami 2026](/pool/cost-to-install-pump-in-miami-2026/)
+- Cost to Install a Pool Pump in Miami 2026
 - [Cost to Resurface a Pool in Miami 2026](/pool/cost-to-resurface-pool-in-miami-2026/)
-- [Cost to Install a Pool Cover in Miami 2026](/pool/cost-to-install-pool-cover-in-miami-2026/)
+- Cost to Install a Pool Cover in Miami 2026

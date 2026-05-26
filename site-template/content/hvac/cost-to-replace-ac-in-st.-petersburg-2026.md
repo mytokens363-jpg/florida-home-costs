@@ -166,6 +166,6 @@ Storm damage (wind, lightning) is typically covered minus your deductible. Norma
 Replacing an AC in St. Petersburg runs **$6,000 to $18,000** for most homes, with high-efficiency heat pumps at the sweet spot of cost and performance. The most important thing to know: Pinellas County requires permits and inspections for every replacement, and coastal conditions demand corrosion-resistant equipment. Get quotes from at least 3 licensed Florida HVAC contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Heat Pump in St. Petersburg](/hvac/cost-to-install-heat-pump-in-st-petersburg-2026/)
-- [Cost to Install Ductwork in St. Petersburg](/hvac/cost-to-install-ductwork-in-st-petersburg-2026/)
-- [Cost to Replace Roof in St. Petersburg](/roofing/cost-to-replace-roof-in-st-petersburg-2026/)
+- Cost to Install Heat Pump in St. Petersburg
+- Cost to Install Ductwork in St. Petersburg
+- Cost to Replace Roof in St. Petersburg

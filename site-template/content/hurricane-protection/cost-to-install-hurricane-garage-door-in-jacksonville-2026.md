@@ -160,6 +160,6 @@ Storm damage is typically covered minus your deductible. Normal wear and tear is
 Installing a hurricane garage door in Jacksonville costs **$4,500 to $12,000** for most homes, with insulated impact systems at the sweet spot. The most important thing to know: coastal Duval County requires specific wind-load ratings that standard doors do not meet. A certified impact door protects your property and keeps your insurance premiums manageable. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Jacksonville](/hurricane-protection/cost-to-install-impact-windows-jacksonville-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
-- [Cost to Replace Roof in Jacksonville](/roofing/cost-to-replace-roof-jacksonville-2026/)
+- Cost to Install Impact Windows in Jacksonville
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
+- Cost to Replace Roof in Jacksonville

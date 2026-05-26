@@ -165,6 +165,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Repairing a roof in Florida runs **$500 to $5,000** for most jobs, with the average hovering near **$1,800**. The most important thing to know: Florida's HVHZ requirements mean even a simple patch must meet strict wind standards. A cheap fix that ignores code could cost you more later when you sell or renew insurance. Get quotes from at least 3 licensed Florida roofing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Replace Roof in Florida 2026](/roofing/cost-to-replace-roof-florida-2026/)
-- [Cost to Repair Flat Roof in Florida 2026](/roofing/cost-to-repair-flat-roof-florida-2026/)
-- [Cost to Install Impact Windows Florida](/hurricane-protection/cost-to-install-impact-windows-florida-2026/)
+- [Cost to Replace Roof in Florida 2026](/roofing/cost-to-replace-roof-in-florida-2026/)
+- [Cost to Repair Flat Roof in Florida 2026](/roofing/cost-to-replace-flat-roof-in-florida-2026/)
+- [Cost to Install Impact Windows Florida](/hurricane-protection/cost-to-install-impact-windows-in-florida-2026/)

@@ -164,6 +164,6 @@ No, insurance covers sudden damage like fire or lightning. It does not cover rou
 Cleaning AC coils in Tampa costs **$150 to $450**, with **$275** being a typical price for a full system service. The investment pays for itself through lower energy bills and extended equipment life. Tampa’s humidity and salt air make professional cleaning essential for maintaining efficiency. Hire a licensed CAC contractor and schedule service before April to avoid summer rush pricing.
 
 **Related guides you may find useful:**
-- [Cost to Replace AC Unit in Tampa 2026](/hvac/cost-to-replace-ac-unit-tampa-2026/)
-- [Cost to Install Duct Sealing in Tampa 2026](/hvac/cost-to-install-duct-sealing-tampa-2026/)
-- [Cost to Install Smart Thermostat in Tampa 2026](/hvac/cost-to-install-smart-thermostat-tampa-2026/)
+- Cost to Replace AC Unit in Tampa 2026
+- Cost to Install Duct Sealing in Tampa 2026
+- Cost to Install Smart Thermostat in Tampa 2026

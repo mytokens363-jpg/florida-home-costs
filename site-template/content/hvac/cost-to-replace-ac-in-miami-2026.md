@@ -162,6 +162,6 @@ Storm damage (wind, lightning) is typically covered minus your deductible — of
 Replacing an AC unit in Miami runs **$6,500 to $13,000** for most homes, with high-efficiency systems at the sweet spot of cost and performance. The most important thing to know: Miami-Dade's HVHZ requirements add cost but your new system meets some of the toughest safety standards in the country — and it keeps your home comfortable during brutal summer heat. Get quotes from at least 3 licensed Florida HVAC contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Heat Pump in Florida 2026](/hvac/cost-to-install-heat-pump-florida-2026/)
-- [Cost to Repair Air Conditioner Miami 2026](/hvac/cost-to-repair-air-conditioner-miami-2026/)
-- [Cost to Install Ductless Mini-Split Florida 2026](/hvac/cost-to-install-ductless-mini-split-florida-2026/)
+- Cost to Install Heat Pump in Florida 2026
+- Cost to Repair Air Conditioner Miami 2026
+- Cost to Install Ductless Mini-Split Florida 2026

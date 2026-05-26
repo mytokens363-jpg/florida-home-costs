@@ -160,6 +160,6 @@ Storm damage is typically covered minus your deductible — often **2% of insure
 Replacing a septic tank in Jacksonville runs **$8,500 to $25,000** for most homes, with fiberglass tanks at the sweet spot of cost and durability. The most important thing to know: Jacksonville's high water table and sandy soil require specific anchoring and permitting to meet code. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install a Sump Pump in Jacksonville 2026](/major-systems/cost-to-install-sump-pump-jacksonville-2026/)
-- [Cost to Replace a Water Heater in Jacksonville 2026](/major-systems/cost-to-replace-water-heater-jacksonville-2026/)
-- [Cost to Install Backflow Prevention in Jacksonville 2026](/major-systems/cost-to-install-backflow-prevention-jacksonville-2026/)
+- Cost to Install a Sump Pump in Jacksonville 2026
+- Cost to Replace a Water Heater in Jacksonville 2026
+- Cost to Install Backflow Prevention in Jacksonville 2026

@@ -162,6 +162,6 @@ No, insurance covers sudden damage like lightning or fire. Normal wear and tear 
 Replacing a pool pump in Miami runs **$1,200 to $3,500** for most homes, with variable speed pumps at the sweet spot of cost and performance. The most important thing to know: Miami-Dade requires permits for electrical work, and salt air corrosion demands high-quality materials. Get quotes from at least 3 licensed Florida pool contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Pool Filter in Miami 2026](/pool/cost-to-install-pool-filter-miami-2026/)
-- [Cost to Install Pool Heater in Miami 2026](/pool/cost-to-install-pool-heater-miami-2026/)
-- [Cost to Repair Pool Leak in Miami 2026](/pool/cost-to-repair-pool-leak-miami-2026/)
+- Cost to Install Pool Filter in Miami 2026
+- [Cost to Install Pool Heater in Miami 2026](/pool/cost-to-install-pool-heater-in-miami-2026/)
+- Cost to Repair Pool Leak in Miami 2026

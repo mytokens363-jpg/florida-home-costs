@@ -166,6 +166,6 @@ Yes, most buyers require a termite inspection before closing. A clean report spe
 Termite treatment in Orlando runs **$500 to $2,500** for initial protection, with annual inspections costing **$100 to $300**. The most important thing to know: termite damage is not covered by insurance, so prevention is cheaper than repair. Orlando's sandy soil and humidity make consistent treatment essential. Get quotes from at least 3 licensed Florida pest control contractors and verify every license at FDACS.gov.
 
 **Related guides you may find useful:**
-- [Cost to Replace a Roof in Orlando 2026](/roofing/cost-to-replace-roof-orlando-2026/)
-- [Cost to Install Impact Windows in Orlando](/hurricane-protection/cost-to-install-impact-windows-orlando-2026/)
-- [Cost to Repair Foundation Slab in Orlando 2026](/major-systems/cost-to-repair-foundation-slab-orlando-2026/)
+- [Cost to Replace a Roof in Orlando 2026](/general/cost-to-replace-roof-in-orlando-2026/)
+- Cost to Install Impact Windows in Orlando
+- Cost to Repair Foundation Slab in Orlando 2026

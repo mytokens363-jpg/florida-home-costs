@@ -166,6 +166,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Resurfacing a pool in Sarasota runs **$5,000 to $20,000** for most homes, with quartz aggregate at the sweet spot of cost and performance. The most important thing to know: Sarasota's coastal environment accelerates wear, so investing in a durable finish now saves money later. Get quotes from at least 3 licensed Florida pool contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Repair Pool Coping in Sarasota 2026](/pool/cost-to-repair-pool-coping-sarasota-2026/)
-- [Cost to Install Salt Water System Sarasota 2026](/pool/cost-to-install-salt-water-system-sarasota-2026/)
-- [Cost to Replace Pool Equipment in Florida](/pool/cost-to-replace-pool-equipment-florida-2026/)
+- Cost to Repair Pool Coping in Sarasota 2026
+- Cost to Install Salt Water System Sarasota 2026
+- Cost to Replace Pool Equipment in Florida

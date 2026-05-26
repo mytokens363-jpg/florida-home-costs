@@ -168,4 +168,4 @@ Replacing a roof in Davie runs **$11,500 to $27,000** for most homes, with archi
 **Related guides you may find useful:**
 - [Cost to Install Impact Windows in Davie](/hurricane-protection/cost-to-install-impact-windows-in-davie-2026/)
 - [Cost to Replace Roof in Fort Lauderdale](/roofing/cost-to-replace-roof-in-fort-lauderdale-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)

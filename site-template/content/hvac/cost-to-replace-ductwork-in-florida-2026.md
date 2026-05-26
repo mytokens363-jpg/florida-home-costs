@@ -175,6 +175,6 @@ Yes. Sealing and replacing ducts can reduce energy loss by **20–30%**. This lo
 Replacing ductwork in Florida runs **$2,500 to $8,000** for most homes, with rigid metal ducts at the sweet spot of durability and efficiency. The most important thing to know: Florida Building Code requires strict sealing and insulation standards for unconditioned spaces. A proper install improves comfort and lowers bills immediately. Get quotes from at least 3 licensed Florida HVAC contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install HVAC System in Florida 2026](/hvac/cost-to-install-hvac-system-in-florida-2026/)
-- [Cost to Replace AC Unit in Florida 2026](/hvac/cost-to-replace-ac-unit-in-florida-2026/)
-- [Cost to Insulate Attic in Florida 2026](/energy-efficiency/cost-to-insulate-attic-in-florida-2026/)
+- Cost to Install HVAC System in Florida 2026
+- Cost to Replace AC Unit in Florida 2026
+- Cost to Insulate Attic in Florida 2026

@@ -184,6 +184,6 @@ No, flooring changes do not affect insurance premiums directly. However, flood-r
 Installing vinyl plank flooring in Florida runs **$4.00 to $12.00 per square foot** for most homes, with waterproof rigid core at the sweet spot of cost and performance. The most important thing to know: Florida humidity requires specific moisture barriers and subfloor prep. A good installation prevents mold and warranty issues down the road. Get quotes from at least 3 licensed Florida flooring contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Tile Flooring in Orlando 2026](/interior/cost-to-install-tile-flooring-orlando-2026/)
-- [Cost to Install Hardwood Flooring Tampa 2026](/interior/cost-to-install-hardwood-flooring-tampa-2026/)
-- [Cost to Replace Roof in Miami](/roofing/cost-to-replace-roof-miami-2026/)
+- [Cost to Install Tile Flooring in Orlando 2026](/interior/cost-to-install-tile-flooring-in-orlando-2026/)
+- Cost to Install Hardwood Flooring Tampa 2026
+- [Cost to Replace Roof in Miami](/general/cost-to-replace-roof-in-miami-2026/)

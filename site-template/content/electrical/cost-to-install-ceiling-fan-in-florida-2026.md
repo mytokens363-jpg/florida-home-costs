@@ -164,6 +164,6 @@ The box can pull out of the ceiling under vibration. This drops the fan and caus
 Installing a ceiling fan in Florida costs **$300 to $1,500** for most homeowners, with the sweet spot around **$650**. The most important factor is ensuring your electrical box is rated for fan support and that your wiring meets Florida Building Code standards. This small investment pays for itself in energy savings during the hot summer months. Get quotes from at least 3 licensed Florida electrical contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Smart Thermostat in Florida](/electrical/cost-to-install-smart-thermostat-florida-2026/)
-- [Cost to Install Outdoor Lighting in Florida](/electrical/cost-to-install-outdoor-lighting-florida-2026/)
-- [Cost to Rewire a Home in Florida](/electrical/cost-to-rewire-a-home-in-florida-2026/)
+- Cost to Install Smart Thermostat in Florida
+- Cost to Install Outdoor Lighting in Florida
+- Cost to Rewire a Home in Florida

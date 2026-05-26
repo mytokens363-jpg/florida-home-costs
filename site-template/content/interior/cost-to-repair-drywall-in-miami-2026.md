@@ -162,6 +162,6 @@ Water damage from sudden leaks is typically covered minus your deductible. Norma
 Repairing drywall in Miami runs **$350 to $1,800** for most homes, with moisture-resistant materials being the smart investment. The most important thing to know: Miami's humidity and salt air mean you cannot use standard drywall in vulnerable areas without risking mold. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Miami](/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
-- [Cost to Paint Walls in Miami 2026](/interior/cost-to-paint-walls-miami-2026/)
-- [Cost to Install Hardwood Flooring in Miami](/interior/cost-to-install-hardwood-flooring-miami-2026/)
+- Cost to Install Impact Windows in Miami
+- Cost to Paint Walls in Miami 2026
+- Cost to Install Hardwood Flooring in Miami

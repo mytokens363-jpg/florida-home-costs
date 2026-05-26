@@ -189,6 +189,6 @@ Installing vinyl plank flooring in Tampa is a smart investment for your home. Th
 Moisture is the biggest challenge here. Always test your slab and use a moisture barrier. This protects your investment from Florida humidity. Get at least three quotes from licensed contractors and verify their insurance.
 
 **Related guides you may find useful:**
-- [Cost to Replace Laminate Flooring in Tampa 2026](/interior/cost-to-replace-laminate-flooring-tampa-2026/)
+- Cost to Replace Laminate Flooring in Tampa 2026
 - [Cost to Install Tile Flooring in Tampa 2026](/interior/cost-to-install-tile-flooring-tampa-2026/)
-- [Cost to Remove Carpet in Tampa 2026](/interior/cost-to-remove-carpet-tampa-2026/)
+- Cost to Remove Carpet in Tampa 2026

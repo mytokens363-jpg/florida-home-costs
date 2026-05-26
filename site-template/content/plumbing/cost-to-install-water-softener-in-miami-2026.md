@@ -166,6 +166,6 @@ If the unit leaks due to normal wear, it is typically not covered. If a leak cau
 Installing a water softener in Miami costs **$1,200 to $3,500** for most homes, with standard salt-based systems at the sweet spot of cost and performance. The most important thing to know: Miami-Dade County requires permits and inspections for this work, and the local water hardness is high enough to justify the investment for appliance longevity. Get quotes from at least 3 licensed Florida plumbing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Water Heater in Miami 2026](/plumbing/cost-to-install-water-heater-miami-2026/)
-- [Cost to Repair Plumbing Leak in Miami 2026](/plumbing/cost-to-repair-leak-miami-2026/)
-- [Cost to Install Garbage Disposal in Miami 2026](/plumbing/cost-to-install-garbage-disposal-miami-2026/)
+- Cost to Install Water Heater in Miami 2026
+- Cost to Repair Plumbing Leak in Miami 2026
+- Cost to Install Garbage Disposal in Miami 2026

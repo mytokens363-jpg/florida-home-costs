@@ -168,6 +168,6 @@ No. AC wear and tear is considered maintenance. However, if a storm damages your
 Replacing an AC in Pembroke Pines runs **$5,500 to $12,000** for most homes, with heat pumps at the sweet spot of cost and performance. The most important thing to know: Broward County requires permits and licensed contractors for any installation. A new system improves comfort and lowers energy bills in Florida's heat. Get quotes from at least 3 licensed Florida HVAC contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Heat Pump in Florida 2026](/hvac/cost-to-install-heat-pump-florida-2026/)
-- [Cost to Install Ductless Mini Split in Florida 2026](/hvac/cost-to-install-ductless-mini-split-florida-2026/)
+- Cost to Install Heat Pump in Florida 2026
+- Cost to Install Ductless Mini Split in Florida 2026
 - [Cost to Replace AC in Miami 2026](/hvac/cost-to-replace-ac-in-miami-2026/)

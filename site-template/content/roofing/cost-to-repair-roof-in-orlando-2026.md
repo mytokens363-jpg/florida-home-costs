@@ -166,6 +166,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Repairing a roof in Orlando runs **$500 to $15,000** for most jobs, with minor fixes at the low end and major structural work at the high end. The most important thing to know: Orlando's high wind and heat conditions accelerate wear. A small leak today can mean a full replacement in 5 years if ignored. Get quotes from at least 3 licensed Florida roofing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Replace Roof in Orlando 2026](/roofing/cost-to-replace-roof-orlando-2026/)
-- [Cost to Install Impact Windows in Orlando 2026](/hurricane-protection/cost-to-install-impact-windows-orlando-2026/)
-- [Cost to Repair Flat Roof in Orlando 2026](/roofing/cost-to-repair-flat-roof-orlando-2026/)
+- [Cost to Replace Roof in Orlando 2026](/general/cost-to-replace-roof-in-orlando-2026/)
+- Cost to Install Impact Windows in Orlando 2026
+- Cost to Repair Flat Roof in Orlando 2026

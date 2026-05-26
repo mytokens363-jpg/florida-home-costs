@@ -164,6 +164,6 @@ Storm damage (lightning, wind) is typically covered minus your deductible. Norma
 Replacing an HVAC system in Tampa runs **$6,500 to $14,000** for most homes, with heat pumps at the sweet spot of cost and performance. The most important thing to know: Tampa’s humidity requires proper sizing for latent heat removal, not just cooling capacity. Get quotes from at least 3 licensed Florida HVAC contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Heat Pump in Tampa 2026](/hvac/cost-to-install-heat-pump-tampa-2026/)
-- [Cost to Replace AC Compressor in Tampa 2026](/hvac/cost-to-replace-ac-compressor-tampa-2026/)
-- [Cost to Install Ductwork in Tampa 2026](/hvac/cost-to-install-ductwork-tampa-2026/)
+- Cost to Install Heat Pump in Tampa 2026
+- [Cost to Replace AC Compressor in Tampa 2026](/hvac/cost-to-replace-ac-compressor-in-tampa-2026/)
+- Cost to Install Ductwork in Tampa 2026

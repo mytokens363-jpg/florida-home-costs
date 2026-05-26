@@ -166,6 +166,6 @@ Storm damage (wind, hail) does not cover flooring unless it is part of a larger 
 Installing vinyl plank flooring in Fort Lauderdale runs **$4,500 to $12,000** for most homes, with waterproof SPC at the sweet spot of cost and durability. The most important thing to know: Florida's humidity requires proper moisture barriers and rigid cores to prevent warping. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Hardwood Floors in Fort Lauderdale](/interior/cost-to-install-hardwood-floors-fort-lauderdale-2026/)
-- [Cost to Install Tile Floors in Fort Lauderdale](/interior/cost-to-install-tile-floors-fort-lauderdale-2026/)
-- [Cost to Remodel Kitchen in Fort Lauderdale](/interior/cost-to-remodel-kitchen-fort-lauderdale-2026/)
+- Cost to Install Hardwood Floors in Fort Lauderdale
+- Cost to Install Tile Floors in Fort Lauderdale
+- [Cost to Remodel Kitchen in Fort Lauderdale](/interior/cost-to-remodel-kitchen-in-fort-lauderdale-2026/)

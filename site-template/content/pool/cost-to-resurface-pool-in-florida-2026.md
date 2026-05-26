@@ -166,6 +166,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Resurfacing a pool in Florida runs **$5,000 to $15,000** for most homes, with quartz aggregate at the sweet spot of cost and performance. The most important thing to know: Florida's strict pool safety codes and high water table add cost but your new pool meets some of the toughest standards in the country — and it keeps you insurable in a market where carriers are dropping homes with unsafe pools every day. Get quotes from at least 3 licensed Florida pool contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Pool Safety Fences in Florida](/pool/cost-to-install-safety-fence-florida-2026/)
-- [Cost to Convert Pool to Heat Pump in Florida](/pool/cost-to-convert-to-heat-pump-florida-2026/)
-- [Cost to Drain a Pool in Florida](/pool/cost-to-drain-pool-florida-2026/)
+- Cost to Install Pool Safety Fences in Florida
+- Cost to Convert Pool to Heat Pump in Florida
+- Cost to Drain a Pool in Florida

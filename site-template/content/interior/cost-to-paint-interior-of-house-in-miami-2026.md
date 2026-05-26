@@ -172,6 +172,6 @@ Use 100% acrylic latex with mildewcides. Brands like Sherwin Williams Duration o
 Painting the interior of a house in Miami costs **$3,500 to $15,000** depending on size and finish quality. The average homeowner pays around **$7,500** for a full home refresh. The most important factor is choosing paint that handles humidity and mold. Get quotes from at least 3 licensed contractors and verify their insurance status.
 
 **Related guides you may find useful:**
-- [Cost to Paint Exterior of House in Miami 2026](/interior/cost-to-paint-exterior-house-miami-2026/)
-- [Cost to Replace Drywall in Miami 2026](/interior/cost-to-replace-drywall-miami-2026/)
-- [Cost to Refinish Cabinets in Miami 2026](/interior/cost-to-refinish-cabinets-miami-2026/)
+- Cost to Paint Exterior of House in Miami 2026
+- [Cost to Replace Drywall in Miami 2026](/interior/cost-to-repair-drywall-in-miami-2026/)
+- Cost to Refinish Cabinets in Miami 2026

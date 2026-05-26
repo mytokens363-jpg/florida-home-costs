@@ -160,6 +160,6 @@ You may need a service upgrade to **200 amps**. This costs **$1,500–$3,000**. 
 Installing an EV charger in Florida costs between **$1,000 and $3,500** for a standard Level 2 setup. The most critical factor is your electrical panel capacity and the distance to your parking spot. Florida’s code and humidity requirements mean you should not cut corners on conduit or weatherproofing.
 
 **Related guides you may find useful:**
-- [Cost to Replace Electrical Panel in Florida 2026](/electrical/cost-to-replace-electrical-panel-florida-2026/)
+- [Cost to Replace Electrical Panel in Florida 2026](/electrical/cost-to-upgrade-electrical-panel-in-florida-2026/)
 - [Cost to Install Solar Panels in Florida 2026](/solar/cost-to-install-solar-panels-florida-2026/)
-- [Cost to Install Home Generator in Florida 2026](/electrical/cost-to-install-home-generator-florida-2026/)
+- Cost to Install Home Generator in Florida 2026

@@ -168,6 +168,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Paving a driveway in Miami runs **$4,000 to $15,000** for most homes, with concrete at the sweet spot of cost and performance. The most important thing to know: Miami’s flood zone requirements add cost but your new driveway meets some of the toughest drainage standards in the country — and it keeps you insurable in a market where carriers are dropping homes with drainage issues every day. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Miami](/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
-- [Cost to Repair Foundation in Miami](/foundation/cost-to-repair-foundation-in-miami-2026/)
+- Cost to Install Impact Windows in Miami
+- Cost to Repair Foundation in Miami
 - [Cost to Install Fence in Miami](/exterior/cost-to-install-fence-in-miami-2026/)

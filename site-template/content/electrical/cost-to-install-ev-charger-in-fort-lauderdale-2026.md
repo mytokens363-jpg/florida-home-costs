@@ -169,5 +169,5 @@ Installing an EV charger in Fort Lauderdale runs **$1,200 to $3,500** for most h
 
 **Related guides you may find useful:**
 - [Cost to Upgrade Electrical Panel in Fort Lauderdale 2026](/electrical/cost-to-upgrade-electrical-panel-in-fort-lauderdale-2026/)
-- [Cost to Install Whole Home Surge Protection in Fort Lauderdale 2026](/electrical/cost-to-install-whole-home-surge-protection-in-fort-lauderdale-2026/)
-- [Cost to Install Smart Thermostat in Fort Lauderdale 2026](/smart-home/cost-to-install-smart-thermostat-in-fort-lauderdale-2026/)
+- Cost to Install Whole Home Surge Protection in Fort Lauderdale 2026
+- Cost to Install Smart Thermostat in Fort Lauderdale 2026

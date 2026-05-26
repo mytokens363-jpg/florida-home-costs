@@ -165,6 +165,6 @@ Usually no. Insurance covers sudden and accidental damage like a burst pipe. It 
 Repiping a house in Orlando runs **$4,000 to $12,000** for most homes, with PEX at the sweet spot of cost and performance. The most important thing to know: Orlando’s older homes often have galvanized pipes that will fail eventually. Waiting until a pipe bursts causes far more damage than a planned repipe. Get quotes from at least 3 licensed Florida plumbing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Fix Plumbing Leaks in Orlando](/plumbing/cost-to-fix-plumbing-leaks-orlando-2026/)
-- [Cost to Replace Water Heater in Orlando](/plumbing/cost-to-replace-water-heater-orlando-2026/)
-- [Cost to Install Sump Pump in Orlando](/plumbing/cost-to-install-sump-pump-orlando-2026/)
+- Cost to Fix Plumbing Leaks in Orlando
+- [Cost to Replace Water Heater in Orlando](/plumbing/cost-to-replace-water-heater-in-orlando-2026/)
+- Cost to Install Sump Pump in Orlando

@@ -168,6 +168,6 @@ Yes, the federal tax credit offers **30% of the cost** up to **$600** for qualif
 Installing a mini split in Orlando runs **$3,500 to $10,500** for most homes, with single-zone systems at the lower end and multi-zone systems at the higher end. The most important thing to know: Orlando's heat and humidity make efficiency critical, so investing in a high-SEER2 unit pays off in lower utility bills. Get quotes from at least 3 licensed Florida HVAC contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Central Air in Orlando 2026](/hvac/cost-to-install-central-air-orlando-2026/)
-- [Cost to Install Heat Pump Florida](/hvac/cost-to-heat-pump-installation-florida-2026/)
-- [Cost to Replace AC Unit in Orlando 2026](/hvac/cost-to-replace-ac-unit-orlando-2026/)
+- Cost to Install Central Air in Orlando 2026
+- Cost to Install Heat Pump Florida
+- Cost to Replace AC Unit in Orlando 2026

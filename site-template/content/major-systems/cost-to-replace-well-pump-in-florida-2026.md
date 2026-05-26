@@ -172,6 +172,6 @@ Water pressure may drop during storms. Keep a backup water supply. If the pump i
 Replacing a well pump in Florida runs **$1,500 to $4,500** depending on depth and pump type. The most important factor is choosing the right material for your water chemistry. Coastal homes need stainless steel to fight saltwater corrosion, while inland homes can use standard submersibles. Always hire a licensed well driller or plumber and verify the permit with your county health department. A properly installed pump keeps your water running for 15 to 25 years.
 
 **Related guides you may find useful:**
-- [Cost to Replace Water Heater in Florida](/major-systems/cost-to-replace-water-heater-florida-2026/)
-- [Cost to Install Septic Tank in Florida](/major-systems/cost-to-install-septic-tank-florida-2026/)
-- [Cost to Replace Roof in Orlando 2026](/roofing/cost-to-replace-roof-orlando-2026/)
+- [Cost to Replace Water Heater in Florida](/plumbing/cost-to-replace-water-heater-in-florida-2026/)
+- Cost to Install Septic Tank in Florida
+- [Cost to Replace Roof in Orlando 2026](/general/cost-to-replace-roof-in-orlando-2026/)

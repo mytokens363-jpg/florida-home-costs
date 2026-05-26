@@ -168,6 +168,6 @@ Sudden and accidental leaks are typically covered minus your deductible. Slow le
 A full bathroom remodel in Florida runs **$12,500 to $45,000** for most homes, with porcelain tile and quartz vanities at the sweet spot of cost and performance. The most important thing to know: Florida’s humidity and building codes require specific moisture barriers and ventilation that standard builders might miss. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Remodel Kitchen Cabinets in Florida 2026](/interior/cost-to-replace-kitchen-cabinets-florida-2026/)
-- [Cost to Install Tile Flooring in Florida 2026](/interior/cost-to-install-tile-flooring-florida-2026/)
-- [Cost to Remodel Master Bedroom in Florida 2026](/interior/cost-to-remodel-master-bedroom-florida-2026/)
+- [Cost to Remodel Kitchen Cabinets in Florida 2026](/interior/cost-to-replace-kitchen-cabinets-in-florida-2026/)
+- [Cost to Install Tile Flooring in Florida 2026](/interior/cost-to-install-tile-flooring-in-florida-2026/)
+- Cost to Remodel Master Bedroom in Florida 2026

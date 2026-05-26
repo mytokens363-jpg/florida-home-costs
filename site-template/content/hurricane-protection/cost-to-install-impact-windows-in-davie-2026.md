@@ -166,6 +166,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Installing impact windows in Davie runs **$15,000 to $50,000** for most homes, with vinyl frames at the sweet spot of cost and performance. The most important thing to know: Broward County's wind codes add cost but your new windows meet some of the toughest standards in the country — and it keeps you insurable in a market where carriers are dropping homes with aging glass every day. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
-- [Cost to Install Impact Doors in Fort Lauderdale](/hurricane-protection/cost-to-install-impact-doors-fort-lauderdale-2026/)
-- [Cost to Replace Roof in Fort Lauderdale](/roofing/cost-to-replace-roof-fort-lauderdale-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
+- [Cost to Install Impact Doors in Fort Lauderdale](/hurricane-protection/cost-to-install-impact-doors-in-fort-lauderdale-2026/)
+- [Cost to Replace Roof in Fort Lauderdale](/general/cost-to-replace-roof-fort-lauderdale-2026/)

@@ -166,6 +166,6 @@ Drone inspections are great for safety and initial visual checks. However, they 
 A professional roof inspection in Orlando costs between **$150 and $600**, with most homeowners paying around **$275**. The inspection is a small investment compared to the cost of roof replacement, which can run **$15,000+**. In Orlando's climate, regular inspections catch damage early and keep your insurance premiums manageable. Get at least two quotes from licensed contractors and verify their credentials at MyFloridaLicense.com before hiring.
 
 **Related guides you may find useful:**
-- [Cost to Replace Roof in Orlando 2026](/roofing/cost-to-replace-roof-orlando-2026/)
-- [Cost to Install Impact Windows in Orlando](/hurricane-protection/cost-to-install-impact-windows-orlando-2026/)
-- [Cost to Repair Roof Leaks in Orlando](/roofing/cost-to-repair-roof-leaks-orlando-2026/)
+- [Cost to Replace Roof in Orlando 2026](/general/cost-to-replace-roof-in-orlando-2026/)
+- Cost to Install Impact Windows in Orlando
+- Cost to Repair Roof Leaks in Orlando

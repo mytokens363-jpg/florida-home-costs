@@ -166,6 +166,6 @@ Water damage (burst pipes, appliance leaks) is typically covered minus your dedu
 Installing vinyl plank flooring in Orlando runs **$3,500 to $12,000** for most homes, with rigid core planks at the sweet spot of cost and performance. The most important thing to know: Orlando's humidity requires specific moisture barriers and vapor protection to prevent future buckling. Get quotes from at least 3 licensed Florida flooring contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Hardwood Floors in Orlando 2026](/interior/cost-to-install-hardwood-floors-orlando-2026/)
-- [Cost to Remove Carpet in Orlando 2026](/interior/cost-to-remove-carpet-orlando-2026/)
+- Cost to Install Hardwood Floors in Orlando 2026
+- Cost to Remove Carpet in Orlando 2026
 - [Cost to Install Tile Floors in Orlando 2026](/interior/cost-to-install-tile-floors-orlando-2026/)

@@ -163,6 +163,6 @@ Storm damage or sudden pipe bursts are typically covered minus your deductible. 
 Repiping a house in Tampa runs **$4,000 to $25,000** for most homes, with PEX at the sweet spot of cost and performance. The most important thing to know: Tampa's expansive clay soil and acidic water accelerate pipe failure. A new system prevents costly slab leaks and keeps you insurable in a market where carriers are scrutinizing water damage history. Get quotes from at least 3 licensed Florida plumbing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Fix Slab Leak in Tampa 2026](/plumbing/cost-to-fix-slab-leak-in-tampa-2026/)
-- [Cost to Replace Water Heater in Tampa 2026](/water-heater/cost-to-replace-water-heater-in-tampa-2026/)
-- [Cost to Inspect a House in Tampa 2026](/home-maintenance/cost-to-inspect-house-in-tampa-2026/)
+- Cost to Fix Slab Leak in Tampa 2026
+- Cost to Replace Water Heater in Tampa 2026
+- Cost to Inspect a House in Tampa 2026

@@ -165,6 +165,6 @@ Storm damage (wind, fallen trees) is typically covered minus your deductible —
 Paving a driveway in Fort Lauderdale runs **$4,000 to $25,000** for most homes, with concrete at the sweet spot of cost and performance. The most important thing to know: Fort Lauderdale's flood zones require proper drainage planning. Your new driveway must handle heavy rains and high water tables — and it keeps your foundation safe from water intrusion. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Driveway Gates in Fort Lauderdale 2026](/exterior/cost-to-install-driveway-gates-fort-lauderdale-2026/)
-- [Cost to Pave Walkway in Fort Lauderdale 2026](/exterior/cost-to-pave-walkway-fort-lauderdale-2026/)
-- [Cost to Repair Drainage in Fort Lauderdale 2026](/exterior/cost-to-repair-drainage-fort-lauderdale-2026/)
+- Cost to Install Driveway Gates in Fort Lauderdale 2026
+- Cost to Pave Walkway in Fort Lauderdale 2026
+- Cost to Repair Drainage in Fort Lauderdale 2026

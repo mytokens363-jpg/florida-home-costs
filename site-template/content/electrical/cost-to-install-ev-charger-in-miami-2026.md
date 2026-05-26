@@ -166,6 +166,6 @@ Standard policies cover the charger itself if damaged by a covered peril like fi
 Installing an EV charger in Miami runs **$800 to $2,500** for most homes, with Level 2 hardwired units at the sweet spot of cost and performance. The most important thing to know: Miami-Dade County requires permits and inspections for all new circuits, and older homes often need panel upgrades to handle the load. Get quotes from at least 3 licensed Florida electrical contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Replace a Roof in Miami 2026](/roofing/cost-to-replace-roof-miami-2026/)
-- [Cost to Install Solar Panels in Miami 2026](/solar/cost-to-install-solar-panels-miami-2026/)
-- [Cost to Install Impact Windows in Miami 2026](/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
+- [Cost to Replace a Roof in Miami 2026](/general/cost-to-replace-roof-in-miami-2026/)
+- Cost to Install Solar Panels in Miami 2026
+- Cost to Install Impact Windows in Miami 2026

@@ -168,6 +168,6 @@ Storm damage (lightning, flood, wind) is typically covered minus your deductible
 Replacing a well pump in Tampa runs **$1,200 to $6,000** for most homes, with submersible pumps at the sweet spot of cost and performance. The most important thing to know: Hillsborough County requires permits and inspections, and hard water can shorten pump life. Get quotes from at least 3 licensed Florida plumbing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Replace Water Heater in Tampa 2026](/major-systems/cost-to-replace-water-heater-tampa-2026/)
-- [Cost to Install Whole House Water Filter Tampa](/major-systems/cost-to-install-whole-house-water-filter-tampa-2026/)
-- [Cost to Drill a New Well in Tampa 2026](/major-systems/cost-to-drill-new-well-tampa-2026/)
+- [Cost to Replace Water Heater in Tampa 2026](/plumbing/cost-to-replace-water-heater-in-tampa-2026/)
+- Cost to Install Whole House Water Filter Tampa
+- Cost to Drill a New Well in Tampa 2026

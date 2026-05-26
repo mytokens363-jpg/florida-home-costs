@@ -166,6 +166,6 @@ Storm damage (wind, hail) is typically covered minus your deductible. Normal wea
 Exterior house painting in Florida runs **$3,500 to $12,000** for most homes, with the average around **$6,500**. The most important thing to know: Florida's humidity and UV levels require higher-grade materials than most states. Don't skip prep work or you'll lose money on premature peeling. Get quotes from at least 3 licensed Florida painters and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Florida](/general/cost-to-install-impact-windows-florida-2026/)
-- [Cost to Repair Stucco in Florida](/general/cost-to-stucco-repair-florida-2026/)
-- [Cost to Replace Siding in Florida](/general/cost-to-replace-siding-florida-2026/)
+- [Cost to Install Impact Windows in Florida](/hurricane-protection/cost-to-install-impact-windows-in-florida-2026/)
+- Cost to Repair Stucco in Florida
+- Cost to Replace Siding in Florida

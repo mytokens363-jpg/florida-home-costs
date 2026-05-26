@@ -180,6 +180,6 @@ Usually no. Insurance covers sudden, accidental damage like lightning strikes. N
 Replacing an AC compressor in Tampa runs **$1,800 to $3,500** for most homes, with single-stage systems at the lower end and variable-speed at the higher end. The most important thing to know: Florida requires licensed professionals and permits for this work. A compressor-only repair is a stopgap; if your system is over 10 years old, a full replacement often saves money in the long run. Get quotes from at least 3 licensed Florida HVAC contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install AC Unit in Tampa 2026](/hvac/cost-to-install-ac-unit-tampa-2026/)
-- [Cost to Maintain AC in Tampa 2026](/hvac/cost-to-maintain-ac-tampa-2026/)
-- [Cost to Install Ductwork in Tampa 2026](/hvac/cost-to-install-ductwork-tampa-2026/)
+- Cost to Install AC Unit in Tampa 2026
+- Cost to Maintain AC in Tampa 2026
+- Cost to Install Ductwork in Tampa 2026

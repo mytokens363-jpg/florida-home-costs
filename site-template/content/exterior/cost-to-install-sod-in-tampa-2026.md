@@ -166,6 +166,6 @@ Storm damage (wind, hail) is typically covered minus your deductible. Normal wea
 Installing sod in Tampa runs **$4,500 to $12,000** for most yards, with St. Augustine at the sweet spot of cost and performance. The most important thing to know: Tampa's sandy soil requires proper amendment to hold moisture. Don't skip the soil prep step, or you will lose the investment. Get quotes from at least 3 licensed Florida Landscape Contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Irrigation System in Tampa](/exterior/cost-to-install-irrigation-system-tampa-2026/)
-- [Cost to Install Drainage Solutions in Tampa](/exterior/cost-to-install-drainage-solutions-tampa-2026/)
-- [Cost to Plant Trees in Tampa](/landscaping/cost-to-plant-trees-tampa-2026/)
+- Cost to Install Irrigation System in Tampa
+- Cost to Install Drainage Solutions in Tampa
+- Cost to Plant Trees in Tampa

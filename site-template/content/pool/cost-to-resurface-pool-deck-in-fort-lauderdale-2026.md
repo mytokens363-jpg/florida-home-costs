@@ -168,4 +168,4 @@ Resurfacing a pool deck in Fort Lauderdale runs **$4,500 to $12,000** for most h
 **Related guides you may find useful:**
 - [Cost to Resurface Pool in Fort Lauderdale](/pool/cost-to-resurface-pool-fort-lauderdale-2026/)
 - [Cost to Install Pool Fence in Fort Lauderdale](/pool/cost-to-install-pool-fence-fort-lauderdale-2026/)
-- [Cost to Replace Pool Equipment in Fort Lauderdale](/pool/cost-to-replace-pool-equipment-fort-lauderdale-2026/)
+- Cost to Replace Pool Equipment in Fort Lauderdale

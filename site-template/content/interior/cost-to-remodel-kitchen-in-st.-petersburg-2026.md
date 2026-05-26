@@ -170,6 +170,6 @@ No. Insurance covers sudden damage like fire or water leaks. A remodel is an imp
 A kitchen remodel in St. Petersburg runs **$25,000 to $85,000** for most homes, with semi-custom cabinets and quartz counters hitting the mid-range sweet spot. The most important thing to know: Pinellas County requires permits for structural and utility changes. Don't skip the permit process to save money, as it will cause issues when you sell. Get quotes from at least 3 licensed Florida contractors and verify their license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Remodel Bathroom in St. Petersburg 2026](/interior/cost-to-remodel-bathroom-st-petersburg-2026/)
-- [Cost to Install Cabinets in St. Petersburg 2026](/interior/cost-to-install-cabinets-st-petersburg-2026/)
-- [Cost to Refinish Cabinets in Tampa 2026](/interior/cost-to-refinish-cabinets-tampa-2026/)
+- Cost to Remodel Bathroom in St. Petersburg 2026
+- Cost to Install Cabinets in St. Petersburg 2026
+- Cost to Refinish Cabinets in Tampa 2026

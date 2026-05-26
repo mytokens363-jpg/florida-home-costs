@@ -166,6 +166,6 @@ Wind damage to shutters is typically covered minus your deductible — often **2
 Installing hurricane shutters in Orlando runs **$5,000 to $25,000** for most homes, with accordion shutters at the sweet spot of cost and performance. The most important thing to know: Orlando's wind zone requirements are strict even if we are not in HVHZ. Proper shutters keep you insurable in a market where carriers are dropping homes without protection every day. Get quotes from at least 3 licensed Florida shutter contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Orlando](/hurricane-protection/cost-to-install-impact-windows-orlando-2026/)
+- Cost to Install Impact Windows in Orlando
 - [Cost to Replace Roof in Orlando](/roofing/cost-to-replace-roof-in-orlando-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)

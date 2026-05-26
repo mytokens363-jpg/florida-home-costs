@@ -189,8 +189,8 @@ Replacing your HVAC system is a significant investment, especially with the **co
 ## Related Articles
 
 - [Cost to Replace Roof in Orlando 2026](/cost-to-replace-roof-orlando-2026)
-- [Cost to Install Hurricane Shutters in Orlando 2026](/cost-to-install-hurricane-shutters-orlando-2026)
-- [Duct Cleaning Costs in Orlando 2026](/duct-cleaning-costs-orlando-2026)
+- [Cost to Install Hurricane Shutters in Orlando 2026](/hurricane-protection/cost-to-install-hurricane-shutters-in-orlando-2026/)
+- Duct Cleaning Costs in Orlando 2026
 
 ## FAQ
 

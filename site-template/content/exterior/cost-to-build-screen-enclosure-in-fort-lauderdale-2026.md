@@ -167,5 +167,5 @@ Building a screen enclosure in Fort Lauderdale runs **$15,000 to $45,000** for m
 
 **Related guides you may find useful:**
 - [Cost to Install Impact Windows in Fort Lauderdale](/hurricane-protection/cost-to-install-impact-windows-fort-lauderdale-2026/)
-- [Cost to Build a Deck in Fort Lauderdale 2026](/exterior/cost-to-build-deck-fort-lauderdale-2026/)
-- [Cost to Install Pool Fencing in Fort Lauderdale 2026](/exterior/cost-to-install-pool-fencing-fort-lauderdale-2026/)
+- Cost to Build a Deck in Fort Lauderdale 2026
+- Cost to Install Pool Fencing in Fort Lauderdale 2026

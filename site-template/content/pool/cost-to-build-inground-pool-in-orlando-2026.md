@@ -166,6 +166,6 @@ Yes, usually under windstorm or liability coverage. However, you must report the
 Building an inground pool in Orlando runs **$55,000 to $95,000** for most homes, with gunite at the sweet spot of cost and longevity. The most important thing to know: Orlando's high water table and strict fencing laws add complexity to the build. Get quotes from at least 3 licensed Florida pool contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Repair Pool Pump in Orlando 2026](/pool/cost-to-repair-pump-orlando-2026/)
-- [Cost to Install Salt Water System Florida](/pool/cost-to-install-salt-water-system-florida-2026/)
-- [Cost to Replace Pool Liner Orlando 2026](/pool/cost-to-replace-pool-liner-orlando-2026/)
+- Cost to Repair Pool Pump in Orlando 2026
+- Cost to Install Salt Water System Florida
+- Cost to Replace Pool Liner Orlando 2026

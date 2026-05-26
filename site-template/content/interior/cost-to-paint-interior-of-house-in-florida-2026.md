@@ -169,5 +169,5 @@ Painting the interior of your house in Florida costs **$4,500 to $12,000** for m
 
 **Related guides you may find useful:**
 - [Cost to Paint Exterior of House in Florida 2026](/interior/cost-to-paint-exterior-house-florida-2026/)
-- [Cost to Stain Deck in Florida 2026](/exterior/cost-to-stain-deck-florida-2026/)
+- Cost to Stain Deck in Florida 2026
 - [Cost to Replace Drywall in Florida 2026](/interior/cost-to-replace-drywall-florida-2026/)

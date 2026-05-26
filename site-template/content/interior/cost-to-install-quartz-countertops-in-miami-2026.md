@@ -170,6 +170,6 @@ Sudden water damage from a pipe burst is typically covered. However, normal wear
 Installing quartz countertops in Miami costs **$4,500 to $12,000** for most homes, with **$7,200** being the typical average. The most important thing to know: Miami's humidity makes quartz a smart choice over wood or stone because it resists mold. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Remodel Kitchen in Miami 2026](/kitchen/cost-to-remodel-kitchen-miami-2026/)
-- [Cost to Install Kitchen Sink in Miami 2026](/plumbing/cost-to-install-kitchen-sink-miami-2026/)
-- [Cost to Refinish Cabinets in Miami 2026](/interior/cost-to-refinish-cabinets-miami-2026/)
+- Cost to Remodel Kitchen in Miami 2026
+- Cost to Install Kitchen Sink in Miami 2026
+- Cost to Refinish Cabinets in Miami 2026

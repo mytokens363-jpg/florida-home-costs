@@ -166,6 +166,6 @@ Storm damage (lightning, fallen trees) is typically covered minus your deductibl
 Replacing an AC in Tampa runs **$4,500 to $12,000** for most homes, with high-efficiency units at the sweet spot of cost and performance. The most important thing to know: Tampa's humidity requires proper sizing and dehumidification capabilities. Get quotes from at least 3 licensed Florida HVAC contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Heat Pump in Tampa 2026](/hvac/cost-to-install-heat-pump-in-tampa-2026/)
-- [Cost to Repair AC Unit Tampa 2026](/hvac/cost-to-repair-ac-unit-tampa-2026/)
-- [Cost to Install Air Ducts in Tampa 2026](/hvac/cost-to-install-air-ducts-in-tampa-2026/)
+- Cost to Install Heat Pump in Tampa 2026
+- Cost to Repair AC Unit Tampa 2026
+- [Cost to Install Air Ducts in Tampa 2026](/hvac/cost-to-clean-air-ducts-in-tampa-2026/)

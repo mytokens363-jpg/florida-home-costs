@@ -169,5 +169,5 @@ Repairing a roof in Miami runs **$1,500 to $12,000** for most projects, with sma
 
 **Related guides you may find useful:**
 - [Cost to Replace a Roof in Miami 2026](/roofing/cost-to-replace-roof-in-miami-2026/)
-- [Cost to Repair Flat Roof in Miami 2026](/roofing/cost-to-repair-flat-roof-in-miami-2026/)
-- [Cost to Install Impact Windows in Miami](/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
+- [Cost to Repair Flat Roof in Miami 2026](/roofing/cost-to-replace-flat-roof-in-miami-2026/)
+- Cost to Install Impact Windows in Miami

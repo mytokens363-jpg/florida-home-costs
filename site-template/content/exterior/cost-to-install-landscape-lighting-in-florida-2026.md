@@ -166,6 +166,6 @@ Yes, usually under personal property coverage. But damage from hurricanes may ha
 Installing landscape lighting in Florida runs **$3,500 to $12,000** for most homes, with LED upgrades at the sweet spot of cost and performance. The most important thing to know: Florida's humidity and salt air require corrosion-resistant fixtures and proper sealing to prevent early failure. Get quotes from at least 3 licensed Florida electrical contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Outdoor Decking in Florida](/exterior/cost-to-install-outdoor-decking-florida-2026/)
-- [Cost to Install Outdoor Outlets in Florida](/electrical/cost-to-install-outdoor-outlets-florida-2026/)
-- [Cost to Install Pavers in Florida](/exterior/cost-to-install-pavers-florida-2026/)
+- Cost to Install Outdoor Decking in Florida
+- Cost to Install Outdoor Outlets in Florida
+- Cost to Install Pavers in Florida

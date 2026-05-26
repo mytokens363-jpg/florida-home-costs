@@ -168,6 +168,6 @@ Accordion shutters fold to the side. Rolling shutters drop down from a box. Roll
 Installing hurricane shutters in Florida costs **$3,500 to $15,000** for most homes, with rolling metal systems at the sweet spot of cost and convenience. The most important thing to know: your location dictates your code requirements. South Florida requires HVHZ certification while North Florida has lower wind load standards. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Florida](/hurricane-protection/cost-to-install-impact-windows-florida-2026/)
-- [Cost to Replace Roof in Miami](/roofing/cost-to-replace-roof-miami-2026/)
-- [Cost to Install Storm Shutters in Tampa](/hurricane-protection/cost-to-install-storm-shutters-in-tampa-2026/)
+- [Cost to Install Impact Windows in Florida](/hurricane-protection/cost-to-install-impact-windows-in-florida-2026/)
+- [Cost to Replace Roof in Miami](/general/cost-to-replace-roof-in-miami-2026/)
+- Cost to Install Storm Shutters in Tampa

@@ -171,5 +171,5 @@ Replacing a roof in Fort Lauderdale runs **$12,000 to $28,000** for most homes, 
 
 **Related guides you may find useful:**
 - [Cost to Install Impact Windows in Fort Lauderdale](/hurricane-protection/cost-to-install-impact-windows-fort-lauderdale-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
 - [Cost to Replace Flat Roof in Fort Lauderdale 2026](/roofing/cost-to-replace-flat-roof-fort-lauderdale-2026/)

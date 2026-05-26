@@ -166,6 +166,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Building a screen enclosure in Miami runs **$12,000 to $55,000** for most homes, with impact-rated aluminum at the sweet spot of cost and performance. The most important thing to know: Miami-Dade's HVHZ requirements add cost but your new structure meets some of the toughest wind standards in the country — and it keeps you insurable in a market where carriers are dropping homes with aging exterior structures every day. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Miami](/exterior/cost-to-install-impact-windows-miami-2026/)
-- [Cost to Install Pool Fence Miami](/exterior/cost-to-install-pool-fence-miami-2026/)
-- [Cost to Replace Roof in Miami](/roofing/cost-to-replace-roof-miami-2026/)
+- Cost to Install Impact Windows in Miami
+- Cost to Install Pool Fence Miami
+- [Cost to Replace Roof in Miami](/general/cost-to-replace-roof-in-miami-2026/)

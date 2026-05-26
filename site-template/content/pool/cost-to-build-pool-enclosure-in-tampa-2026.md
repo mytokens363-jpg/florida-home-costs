@@ -168,6 +168,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Building a pool enclosure in Tampa runs **$25,000 to $65,000** for most homes, with heavy gauge aluminum at the sweet spot of cost and performance. The most important thing to know: Tampa's wind codes add cost but your new enclosure meets some of the toughest wind standards in the country — and it keeps your pool equipment insurable in a market where carriers are dropping homes with aging structures every day. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Build In-Ground Pool in Tampa 2026](/pool/cost-to-build-in-ground-pool-tampa-2026/)
-- [Cost to Install Salt Water System in Tampa 2026](/pool/cost-to-install-salt-water-system-tampa-2026/)
-- [Cost to Repair Pool Equipment Tampa 2026](/pool/cost-to-repair-pool-equipment-tampa-2026/)
+- Cost to Build In-Ground Pool in Tampa 2026
+- Cost to Install Salt Water System in Tampa 2026
+- Cost to Repair Pool Equipment Tampa 2026

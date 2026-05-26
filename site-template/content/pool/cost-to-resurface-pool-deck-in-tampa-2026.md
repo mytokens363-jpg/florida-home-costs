@@ -166,6 +166,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Resurfacing a pool deck in Tampa runs **$3,500 to $12,000** for most homes, with stamped concrete at the sweet spot of cost and performance. The most important thing to know: Tampa's drainage requirements add cost but your new deck meets some of the toughest safety standards in the country — and it keeps you insurable in a market where carriers are dropping homes with aging pool areas every day. Get quotes from at least 3 licensed Florida pool contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Rebuild a Pool in Tampa 2026](/pool/cost-to-rebuild-pool-in-tampa-2026/)
-- [Cost to Install Impact Glass Pool Fencing 2026](/pool/cost-to-install-impact-glass-pool-fencing-2026/)
-- [Cost to Resurface Pool Deck in St. Petersburg 2026](/pool/cost-to-resurface-pool-deck-in-st-petersburg-2026/)
+- [Cost to Rebuild a Pool in Tampa 2026](/pool/cost-to-resurface-pool-in-tampa-2026/)
+- Cost to Install Impact Glass Pool Fencing 2026
+- Cost to Resurface Pool Deck in St. Petersburg 2026

@@ -166,6 +166,6 @@ Standard policies cover sudden damage like lightning strikes or vehicle impact. 
 Replacing a well pump in Orlando runs **$1,800 to $4,500** for most homes, with stainless steel submersible pumps at the sweet spot of cost and longevity. The most important thing to know: Orlando relies heavily on private wells, so a failure leaves you without water until a professional can access the well. Get quotes from at least 3 licensed Florida plumbing or well contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Water Heater in Orlando 2026](/major-systems/cost-to-install-water-heater-orlando-2026/)
-- [Cost to Install Septic System Florida](/major-systems/cost-to-install-septic-system-florida-2026/)
-- [Cost to Replace HVAC System Orlando 2026](/major-systems/cost-to-replace-hvac-system-orlando-2026/)
+- Cost to Install Water Heater in Orlando 2026
+- Cost to Install Septic System Florida
+- [Cost to Replace HVAC System Orlando 2026](/hvac/cost-to-replace-hvac-system-orlando-2026/)

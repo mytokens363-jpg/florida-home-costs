@@ -163,6 +163,6 @@ Sudden water damage is typically covered minus your deductible — often **2% of
 Foundation repair in Miami runs **$5,000 to $25,000** for most homes, with push piers at the sweet spot of cost and performance. The most important thing to know: Miami's soil and water table make repairs more complex than elsewhere. The local code requirements add cost but ensure your home stays safe and insurable in a market where carriers are dropping homes with structural issues every day. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Waterproof Basement in Miami](/major-systems/cost-to-waterproof-basement-miami-2026/)
-- [Cost to Replace HVAC in Miami](/hvac/cost-to-replace-hvac-miami-2026/)
-- [Cost to Install Impact Windows in Miami](/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
+- Cost to Waterproof Basement in Miami
+- Cost to Replace HVAC in Miami
+- Cost to Install Impact Windows in Miami

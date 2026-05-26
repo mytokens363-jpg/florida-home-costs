@@ -164,6 +164,6 @@ Storm damage (wind, fallen trees) is typically covered minus your deductible. No
 Building a patio in Florida runs **$5,000 to $15,000** for most homes, with concrete at the sweet spot of cost and durability. The most important thing to know: Florida's sandy soil and heavy rain require proper drainage and grading. A new patio keeps you insurable and adds usable living space in a market where outdoor living is essential. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install a Deck in Florida 2026](/exterior/cost-to-install-deck-in-florida-2026/)
-- [Cost to Build a Pool in Florida 2026](/exterior/cost-to-build-pool-in-florida-2026/)
+- Cost to Install a Deck in Florida 2026
+- Cost to Build a Pool in Florida 2026
 - [Cost to Install a Fence in Florida 2026](/exterior/cost-to-install-fence-in-florida-2026/)

@@ -166,6 +166,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Converting a garage in Fort Lauderdale runs **$25,000 to $65,000** for most homes, with HVAC and plumbing at the sweet spot of cost and performance. The most important thing to know: Fort Lauderdale's HVHZ requirements add cost but your new space meets some of the toughest wind standards in the country — and it keeps you insurable in a market where carriers are dropping homes with aging roofs every day. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Add Square Footage in Florida](/interior/cost-to-add-square-footage-in-florida-2026/)
-- [Cost to Install HVAC in Fort Lauderdale](/hvac/cost-to-install-hvac-in-fort-lauderdale-2026/)
-- [Cost to Replace Roof in Fort Lauderdale](/roofing/cost-to-replace-roof-fort-lauderdale-2026/)
+- Cost to Add Square Footage in Florida
+- Cost to Install HVAC in Fort Lauderdale
+- [Cost to Replace Roof in Fort Lauderdale](/general/cost-to-replace-roof-fort-lauderdale-2026/)

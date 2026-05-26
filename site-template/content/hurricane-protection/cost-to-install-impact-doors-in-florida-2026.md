@@ -166,6 +166,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Installing impact doors in Florida runs **$3,500 to $12,000** for most homes, with fiberglass at the sweet spot of cost and performance. The most important thing to know: Florida's HVHZ requirements add cost but your new doors meet some of the toughest wind standards in the country — and it keeps you insurable in a market where carriers are dropping homes with aging glass every day. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Florida 2026](/hurricane-protection/cost-to-install-impact-windows-florida-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
-- [Cost to Replace Roof in Fort Lauderdale 2026](/roofing/cost-to-replace-roof-fort-lauderdale-2026/)
+- [Cost to Install Impact Windows in Florida 2026](/hurricane-protection/cost-to-install-impact-windows-in-florida-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
+- [Cost to Replace Roof in Fort Lauderdale 2026](/general/cost-to-replace-roof-fort-lauderdale-2026/)

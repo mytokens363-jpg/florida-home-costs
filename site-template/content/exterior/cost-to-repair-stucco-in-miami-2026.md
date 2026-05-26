@@ -164,6 +164,6 @@ Wind damage (hurricane) is typically covered minus your deductible. Normal wear 
 Repairing stucco in Miami runs **$1,500 to $15,000** for most homes, with section repairs at the sweet spot of cost and protection. The most important thing to know: Miami-Dade moisture codes require proper flashing and barriers to prevent rot. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Miami](/windows/cost-to-install-impact-windows-miami-2026/)
-- [Cost to Paint House Exterior Miami](/exterior/cost-to-paint-house-miami-2026/)
-- [Cost to Repair Siding in Florida](/exterior/cost-to-repair-siding-florida-2026/)
+- Cost to Install Impact Windows in Miami
+- Cost to Paint House Exterior Miami
+- Cost to Repair Siding in Florida

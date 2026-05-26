@@ -167,4 +167,4 @@ Repairing a seawall in Fort Lauderdale runs **$15,000 to $55,000** for most home
 **Related guides you may find useful:**
 - [Cost to Replace Roof in Fort Lauderdale 2026](/roofing/cost-to-replace-roof-in-fort-lauderdale-2026/)
 - [Cost to Install Impact Windows in Fort Lauderdale](/hurricane-protection/cost-to-install-impact-windows-fort-lauderdale-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)

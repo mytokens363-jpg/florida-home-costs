@@ -162,6 +162,6 @@ Look for fans with sealed motors and stainless steel or coated hardware. Avoid b
 Installing a ceiling fan in Miami runs **$250 to $800** for most homes, with basic swaps at the lower end and vaulted ceilings at the higher end. The most important thing to know: Miami-Dade County requires permits for new wiring, and your installer must be a licensed electrical contractor. Proper installation ensures safety and protects your insurance coverage. Get quotes from at least 3 licensed Florida electricians and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Smart Thermostat in Miami](/electrical/cost-to-install-smart-thermostat-miami-2026/)
-- [Cost to Install Outdoor Lighting in Miami](/electrical/cost-to-install-outdoor-lighting-miami-2026/)
-- [Cost to Install Ceiling Lights in Miami](/electrical/cost-to-install-ceiling-lights-miami-2026/)
+- Cost to Install Smart Thermostat in Miami
+- Cost to Install Outdoor Lighting in Miami
+- Cost to Install Ceiling Lights in Miami

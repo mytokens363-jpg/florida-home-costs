@@ -169,6 +169,6 @@ Most standard policies do not cover inspection costs unless it is part of a clai
 Getting a roof inspection in Tampa costs **$250 to $600** for most homeowners, with standard walk-on inspections at the sweet spot of **$350–$500**. The most important thing to know: Tampa Bay's climate degrades roofs faster than inland areas, so annual checks are wise for older homes. Get a report from a licensed professional to keep your insurance active and your home safe.
 
 **Related guides you may find useful:**
-- [Cost to Replace a Roof in Tampa 2026](/roofing/cost-to-replace-a-roof-in-tampa-2026/)
-- [Cost to Repair Roof Damage in Tampa 2026](/roofing/cost-to-repair-roof-damage-in-tampa-2026/)
+- [Cost to Replace a Roof in Tampa 2026](/roofing/cost-to-replace-roof-in-tampa-2026/)
+- Cost to Repair Roof Damage in Tampa 2026
 - [Cost to Install Impact Windows in Tampa 2026](/hurricane-protection/cost-to-install-impact-windows-in-tampa-2026/)

@@ -165,6 +165,6 @@ Storm damage is typically covered minus your deductible. Normal wear and tear is
 Repairing soffit and fascia in Florida runs **$6,000 to $15,000** for most homes, with aluminum offering the best balance of cost and durability. The most important thing to know: Florida's humidity destroys wood fast. Choose materials that resist rot and verify all vents meet HVHZ codes if you are in Miami-Dade or Broward. Get quotes from at least 3 licensed Florida exterior contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Gutters in Florida](/exterior/cost-to-install-gutters-in-florida-2026/)
-- [Cost to Install Siding in Florida](/exterior/cost-to-install-siding-in-florida-2026/)
+- Cost to Install Gutters in Florida
+- Cost to Install Siding in Florida
 - [Cost to Replace Roof in Tampa](/roofing/cost-to-replace-roof-in-tampa-2026/)

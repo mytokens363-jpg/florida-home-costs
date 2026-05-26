@@ -166,6 +166,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Replacing a roof in Orlando runs **$11,000 to $26,000** for most homes, with architectural shingles at the sweet spot of cost and performance. The most important thing to know: Orlando's wind codes and Florida Building Code requirements add cost but your new roof meets strict standards — and it keeps you insurable in a market where carriers are dropping homes with aging roofs every day. Get quotes from at least 3 licensed Florida roofing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Orlando](/hurricane-protection/cost-to-install-impact-windows-orlando-2026/)
-- [Cost to Install Hurricane Shutters Orlando](/hurricane-protection/cost-to-install-hurricane-shutters-orlando-2026/)
-- [Cost to Replace Roof in Tampa](/roofing/cost-to-replace-roof-tampa-2026/)
+- Cost to Install Impact Windows in Orlando
+- [Cost to Install Hurricane Shutters Orlando](/hurricane-protection/cost-to-install-hurricane-shutters-in-orlando-2026/)
+- [Cost to Replace Roof in Tampa](/roofing/cost-to-replace-roof-in-tampa-2026/)

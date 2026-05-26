@@ -166,6 +166,6 @@ Storm damage (wind, lightning, fallen trees) is typically covered minus your ded
 Replacing a central AC in Fort Lauderdale runs **$4,500 to $15,000** for most homes, with high-efficiency units at the sweet spot of cost and performance. The most important thing to know: Fort Lauderdale's HVHZ requirements and energy codes add cost but your new system meets some of the toughest standards in the country — and it keeps you cool in a market where summers are getting hotter every year. Get quotes from at least 3 licensed Florida HVAC contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Ductwork in Fort Lauderdale](/hvac/cost-to-install-ductwork-fort-lauderdale-2026/)
-- [Cost to Install Heat Pump in Florida](/hvac/cost-to-install-heat-pump-florida-2026/)
-- [Cost to Replace Air Handler Fort Lauderdale](/hvac/cost-to-replace-air-handler-fort-lauderdale-2026/)
+- Cost to Install Ductwork in Fort Lauderdale
+- Cost to Install Heat Pump in Florida
+- Cost to Replace Air Handler Fort Lauderdale

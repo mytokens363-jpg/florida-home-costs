@@ -167,6 +167,6 @@ Use a high-quality moisture barrier and vapor retarder. Ensure proper ventilatio
 Installing tile flooring in Tampa runs **$4.50 to $12.00 per square foot** for most homes, with porcelain at the sweet spot of cost and durability. The most important thing to know: Tampa's humidity and slab foundations require specific preparation to prevent cracking and moisture damage. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Hardwood Floors in Tampa 2026](/interior/cost-to-install-hardwood-floors-tampa-2026/)
-- [Cost to Install Vinyl Plank Flooring Tampa](/interior/cost-to-install-vinyl-plank-tampa-2026/)
-- [Cost to Install Laminate Flooring Tampa](/interior/cost-to-install-laminate-flooring-tampa-2026/)
+- Cost to Install Hardwood Floors in Tampa 2026
+- [Cost to Install Vinyl Plank Flooring Tampa](/interior/cost-to-install-vinyl-plank-flooring-in-tampa-2026/)
+- Cost to Install Laminate Flooring Tampa

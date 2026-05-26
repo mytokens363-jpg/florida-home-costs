@@ -168,6 +168,6 @@ No. Painting is considered maintenance and wear and tear. Insurance covers sudde
 Painting the exterior of your house in Jacksonville runs **$3,000 to $10,000** for most homes, with vinyl siding at the low end and historic wood at the high end. The most important thing to know: Jacksonville's humidity and salt air demand heavy prep work to make the paint last. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com. Protect your home against rot and mold with quality materials.
 
 **Related guides you may find useful:**
-- [Cost to Pressure Wash House Exterior in Jacksonville 2026](/exterior/cost-to-pressure-wash-jacksonville-2026/)
-- [Cost to Replace Siding in Jacksonville 2026](/exterior/cost-to-replace-siding-jacksonville-2026/)
-- [Cost to Paint House Interior in Jacksonville 2026](/exterior/cost-to-paint-house-interior-jacksonville-2026/)
+- Cost to Pressure Wash House Exterior in Jacksonville 2026
+- Cost to Replace Siding in Jacksonville 2026
+- Cost to Paint House Interior in Jacksonville 2026

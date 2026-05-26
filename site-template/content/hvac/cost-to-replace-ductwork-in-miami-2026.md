@@ -168,6 +168,6 @@ Storm damage (wind, fallen trees) is typically covered minus your deductible —
 Replacing ductwork in Miami runs **$6,000 to $14,000** for most homes, with galvanized steel at the sweet spot of cost and performance. The most important thing to know: Miami-Dade's code requirements add cost but your new ducts meet strict sealing and insulation standards — and it keeps your energy bills manageable in a market where humidity drives AC usage year-round. Get quotes from at least 3 licensed Florida HVAC contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Replace Air Conditioner in Miami 2026](/hvac/cost-to-replace-air-conditioner-in-miami-2026/)
-- [Cost to Install Ductless Mini-Split in Miami](/hvac/cost-to-install-ductless-mini-split-in-miami-2026/)
+- Cost to Replace Air Conditioner in Miami 2026
+- Cost to Install Ductless Mini-Split in Miami
 - [Cost to Replace Roof in Miami](/roofing/cost-to-replace-roof-in-miami-2026/)

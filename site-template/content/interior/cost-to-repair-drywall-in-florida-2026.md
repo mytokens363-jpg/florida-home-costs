@@ -160,6 +160,6 @@ Sudden damage like water leaks or wind is typically covered. Wear and tear is no
 Repairing drywall in Florida runs **$400 to $8,000** depending on the scope. Minor patches are affordable, but water damage requires serious investment due to mold risks. The most important thing to know: Florida’s humidity means you must use moisture-resistant materials and fix the water source first. Get quotes from at least 3 licensed Florida contractors and verify their license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Paint a Room in Florida 2026](/interior/cost-to-paint-a-room-in-florida-2026/)
-- [Cost to Install Crown Molding Florida](/interior/cost-to-install-crown-molding-florida-2026/)
-- [Cost to Replace Flooring in Florida 2026](/interior/cost-to-replace-flooring-in-florida-2026/)
+- Cost to Paint a Room in Florida 2026
+- Cost to Install Crown Molding Florida
+- Cost to Replace Flooring in Florida 2026

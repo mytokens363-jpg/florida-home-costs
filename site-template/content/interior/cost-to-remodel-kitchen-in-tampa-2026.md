@@ -179,5 +179,5 @@ A kitchen remodel in Tampa runs **$15,000 to $85,000** for most homes, with semi
 
 **Related guides you may find useful:**
 - [Cost to Remodel Bathroom in Tampa 2026](/interior/cost-to-remodel-bathroom-in-tampa-2026/)
-- [Cost to Install Kitchen Cabinets in Tampa 2026](/interior/cost-to-install-kitchen-cabinets-in-tampa-2026/)
+- [Cost to Install Kitchen Cabinets in Tampa 2026](/interior/cost-to-replace-kitchen-cabinets-in-tampa-2026/)
 - [Cost to Remodel Kitchen in Orlando 2026](/interior/cost-to-remodel-kitchen-in-orlando-2026/)

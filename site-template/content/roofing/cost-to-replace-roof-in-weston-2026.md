@@ -166,6 +166,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Replacing a roof in Weston runs **$14,000 to $32,000** for most homes, with architectural shingles at the sweet spot of cost and performance. The most important thing to know: Broward County's wind requirements add cost but your new roof meets high standards — and it keeps you insurable in a market where carriers are dropping homes with aging roofs every day. Get quotes from at least 3 licensed Florida roofing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Weston](/hurricane-protection/cost-to-install-impact-windows-weston-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
-- [Cost to Replace Roof in Fort Lauderdale](/roofing/cost-to-replace-roof-fort-lauderdale-2026/)
+- [Cost to Install Impact Windows in Weston](/hurricane-protection/cost-to-install-impact-windows-in-weston-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
+- [Cost to Replace Roof in Fort Lauderdale](/general/cost-to-replace-roof-fort-lauderdale-2026/)

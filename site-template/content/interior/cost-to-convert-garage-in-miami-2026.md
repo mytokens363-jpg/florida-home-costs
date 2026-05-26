@@ -166,6 +166,6 @@ No, normal wear and aging is never covered. Storm damage to the garage structure
 Converting a garage in Miami runs **$15,000 to $75,000** for most homes, with HVAC and flood zone requirements being the biggest cost drivers. The most important thing to know: Miami-Dade's building codes are strict. You must permit the work and meet HVHZ standards for any new openings. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Add Room Addition in Miami](/interior/cost-to-add-room-miami-2026/)
+- Cost to Add Room Addition in Miami
 - [Cost to Install Impact Windows Miami](/interior/cost-to-install-impact-windows-miami-2026/)
-- [Cost to Renovate Kitchen Miami 2026](/interior/cost-to-renovate-kitchen-miami-2026/)
+- Cost to Renovate Kitchen Miami 2026

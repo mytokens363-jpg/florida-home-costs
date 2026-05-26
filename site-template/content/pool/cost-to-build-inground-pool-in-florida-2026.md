@@ -161,6 +161,6 @@ Wind and hail damage is typically covered minus your deductible — often **2% o
 Building an inground pool in Florida runs **$55,000 to $110,000** for most homes, with gunite at the premium end of cost and fiberglass at the mid-range sweet spot. The most important thing to know: Florida’s high water table and strict barrier codes add complexity but ensure your investment is safe and insurable. Get quotes from at least 3 licensed Florida pool contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Florida](/hurricane-protection/cost-to-install-impact-windows-florida-2026/)
+- [Cost to Install Impact Windows in Florida](/hurricane-protection/cost-to-install-impact-windows-in-florida-2026/)
 - [Cost to Replace Pool Pump Florida](/pool/cost-to-replace-pool-pump-florida-2026/)
-- [Cost to Install Outdoor Kitchen Florida](/outdoor-living/cost-to-install-outdoor-kitchen-florida-2026/)
+- Cost to Install Outdoor Kitchen Florida

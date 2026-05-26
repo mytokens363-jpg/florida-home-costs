@@ -171,8 +171,8 @@ Installing a water softener in Florida runs **$1,500 to $4,000** for most homes,
 
 **Related guides you may find useful:**
 - [Cost to Replace Water Heater in Florida 2026](/plumbing/cost-to-replace-water-heater-in-florida-2026/)
-- [Cost to Install Whole House Filter Florida](/plumbing/cost-to-install-whole-house-filter-florida-2026/)
-- [Cost to Repair Plumbing Leaks Tampa 2026](/plumbing/cost-to-repair-plumbing-leaks-tampa-2026/)
+- Cost to Install Whole House Filter Florida
+- Cost to Repair Plumbing Leaks Tampa 2026
 
 ## Frequently Asked Questions (Expanded)
 
@@ -251,5 +251,5 @@ Installing a water softener in Florida runs **$1,500 to $4,000** for most homes,
 
 **Related guides you may find useful:**
 - [Cost to Replace Water Heater in Florida 2026](/plumbing/cost-to-replace-water-heater-in-florida-2026/)
-- [Cost to Install Whole House Filter Florida](/plumbing/cost-to-install-whole-house-filter-florida-2026/)
-- [Cost to Repair Plumbing Leaks Tampa 2026](/plumbing/cost-to-repair-plumbing-leaks-tampa-2026/)
+- Cost to Install Whole House Filter Florida
+- Cost to Repair Plumbing Leaks Tampa 2026

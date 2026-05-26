@@ -167,5 +167,5 @@ Installing hurricane shutters in Tampa runs **$5,000 to $25,000** for most homes
 
 **Related guides you may find useful:**
 - [Cost to Install Impact Windows in Tampa 2026](/hurricane-protection/cost-to-install-impact-windows-tampa-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
-- [Cost to Replace Roof in Tampa](/roofing/cost-to-replace-roof-tampa-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
+- [Cost to Replace Roof in Tampa](/roofing/cost-to-replace-roof-in-tampa-2026/)

@@ -168,6 +168,6 @@ Storm damage (wind, fallen trees) is typically covered minus your deductible —
 Installing gutters in Florida runs **$1,500 to $8,000** for most homes, with aluminum seamless at the sweet spot of cost and performance. The most important thing to know: Florida's drainage requirements and HVHZ standards add cost but your new system protects your foundation from water intrusion. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Downspouts in Florida 2026](/exterior/cost-to-install-downspouts-florida-2026/)
-- [Cost to Repair Fascia in Florida 2026](/exterior/cost-to-repair-fascia-florida-2026/)
-- [Cost to Clean Gutters in Florida 2026](/exterior/cost-to-clean-gutters-florida-2026/)
+- Cost to Install Downspouts in Florida 2026
+- Cost to Repair Fascia in Florida 2026
+- Cost to Clean Gutters in Florida 2026

@@ -160,6 +160,6 @@ Yes, roof straps qualify for mitigation grants. You can receive up to **$10,000*
 Installing roof straps in Miami costs **$1,500 to $5,200** for most homeowners. The investment protects your home from wind uplift and can lower your insurance premium by **15–30%**. Miami-Dade County enforces strict HVHZ codes that require professional installation and permits. Verify your contractor holds a Florida license and uses NOA-approved hardware.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Miami](/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
-- [Cost to Replace Roof in Miami](/roofing/cost-to-replace-roof-miami-2026/)
+- Cost to Install Impact Windows in Miami
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
+- [Cost to Replace Roof in Miami](/general/cost-to-replace-roof-in-miami-2026/)

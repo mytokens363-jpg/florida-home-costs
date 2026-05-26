@@ -160,6 +160,6 @@ Storm damage (wind, hail) is typically covered if the sod was destroyed by a cov
 Sod installation in Orlando runs **$4,500 to $18,000** for most homes, with St. Augustine at the sweet spot of cost and aesthetics. The most important thing to know: Orlando's sandy soil requires significant prep work that drives up the price. Irrigation compliance is non-negotiable due to local water codes. Get quotes from at least 3 licensed landscape contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Irrigation Systems in Orlando 2026](/exterior/cost-to-install-irrigation-systems-orlando-2026/)
-- [Cost to Install Fencing in Orlando 2026](/exterior/cost-to-install-fencing-in-orlando-2026/)
-- [Cost to Install Drainage Systems in Orlando 2026](/exterior/cost-to-install-drainage-systems-in-orlando-2026/)
+- Cost to Install Irrigation Systems in Orlando 2026
+- Cost to Install Fencing in Orlando 2026
+- Cost to Install Drainage Systems in Orlando 2026

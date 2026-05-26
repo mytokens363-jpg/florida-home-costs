@@ -166,6 +166,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Replacing a roof in Deerfield Beach runs **$13,000 to $30,000** for most homes, with architectural shingles at the sweet spot of cost and performance. The most important thing to know: Deerfield Beach's HVHZ requirements add cost but your new roof meets some of the toughest wind standards in the country — and it keeps you insurable in a market where carriers are dropping homes with aging roofs every day. Get quotes from at least 3 licensed Florida roofing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Replace a Roof in Fort Lauderdale 2026](/roofing/cost-to-replace-roof-fort-lauderdale-2026/)
-- [Cost to Install Impact Windows in Deerfield Beach](/hurricane-protection/cost-to-install-impact-windows-deerfield-beach-2026/)
-- [Cost to Replace Roof in Miami](/roofing/cost-to-replace-roof-miami-2026/)
+- [Cost to Replace a Roof in Fort Lauderdale 2026](/general/cost-to-replace-roof-fort-lauderdale-2026/)
+- [Cost to Install Impact Windows in Deerfield Beach](/hurricane-protection/cost-to-install-impact-windows-in-deerfield-beach-2026/)
+- [Cost to Replace Roof in Miami](/general/cost-to-replace-roof-in-miami-2026/)

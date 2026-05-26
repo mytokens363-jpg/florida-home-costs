@@ -163,5 +163,5 @@ Repairing stucco in Florida runs **$1,500 to $12,000** for most homes, with **$4
 
 **Related guides you may find useful:**
 - [Cost to Replace Roof in Tampa 2026](/roofing/cost-to-replace-roof-in-tampa-2026/)
-- [Cost to Install Impact Windows Florida](/hurricane-protection/cost-to-install-impact-windows-florida-2026/)
-- [Cost to Repair Siding in Florida 2026](/exterior/cost-to-repair-siding-florida-2026/)
+- [Cost to Install Impact Windows Florida](/hurricane-protection/cost-to-install-impact-windows-in-florida-2026/)
+- Cost to Repair Siding in Florida 2026

@@ -152,6 +152,6 @@ High-efficiency models save **30–50%** on cooling costs compared to old centra
 Installing a mini split in Miami runs **$3,500 to $12,000** depending on the number of zones and brand. The most important factor is hiring a licensed contractor who understands HVHZ strapping and Miami-Dade permit requirements. A new system improves comfort and lowers energy bills in our hot climate.
 
 **Related guides you may find useful:**
-- [Cost to Install Central Air Conditioning in Miami 2026](/hvac/cost-to-install-central-air-conditioning-miami-2026/)
-- [Cost to Replace HVAC System in Miami 2026](/hvac/cost-to-replace-hvac-system-miami-2026/)
-- [Cost to Install Impact Windows in Miami 2026](/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
+- Cost to Install Central Air Conditioning in Miami 2026
+- [Cost to Replace HVAC System in Miami 2026](/hvac/cost-to-replace-hvac-system-in-miami-2026/)
+- Cost to Install Impact Windows in Miami 2026

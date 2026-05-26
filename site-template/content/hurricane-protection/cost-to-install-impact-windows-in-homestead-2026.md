@@ -164,6 +164,6 @@ Storm damage (wind, hail) is typically covered minus your deductible. Normal wea
 Installing impact windows in Homestead runs **$18,000 to $50,000** for most homes, with aluminum frames at the sweet spot of cost and performance. The most important thing to know: Homestead's HVHZ requirements add cost but your new windows meet some of the toughest wind standards in the country — and they keep you insurable in a market where carriers are dropping homes with standard glass every day. Get quotes from at least 3 licensed Florida window contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
-- [Cost to Replace Roof in Fort Lauderdale 2026](/roofing/cost-to-replace-roof-fort-lauderdale-2026/)
-- [Cost to Install Impact Windows in Miami](/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
+- [Cost to Replace Roof in Fort Lauderdale 2026](/general/cost-to-replace-roof-fort-lauderdale-2026/)
+- Cost to Install Impact Windows in Miami

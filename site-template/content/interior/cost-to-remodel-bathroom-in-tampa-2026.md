@@ -166,6 +166,6 @@ Storm damage (water leaks, flood) is typically covered minus your deductible. No
 Remodeling a bathroom in Tampa runs **$15,000 to $35,000** for most homes, with porcelain tile and mid-range fixtures at the sweet spot of cost and performance. The most important thing to know: Tampa's humidity requires proper ventilation and waterproofing — a new bathroom that fails to address moisture will mold fast. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Vanity in Tampa](/interior/cost-to-install-vanity-tampa-2026/)
-- [Cost to Replace Pipes in Tampa](/plumbing/cost-to-replace-pipes-tampa-2026/)
+- Cost to Install Vanity in Tampa
+- Cost to Replace Pipes in Tampa
 - [Cost to Install Tile Flooring in Tampa](/interior/cost-to-install-tile-flooring-tampa-2026/)

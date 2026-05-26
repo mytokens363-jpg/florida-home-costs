@@ -157,6 +157,6 @@ The old tank must be emptied and either removed or filled with sand. Removal cos
 Replacing a septic tank in Florida runs **$5,000 to $25,000** for most homes, with the average hovering around **$10,000**. The most critical factor is your local soil and water table, which dictates whether you need a standard gravity system or a pump-assisted setup. Always work with a licensed contractor who pulls the proper County Health Department permits. Ignoring code requirements can lead to fines and make your home difficult to sell. Get quotes from at least 3 licensed well and septic contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Septic Tank in Florida 2026](/major-systems/cost-to-install-septic-tank-in-florida-2026/)
-- [Cost to Repair Septic System Florida](/major-systems/cost-to-repair-septic-system-florida-2026/)
-- [Cost to Install Well Pump in Florida 2026](/major-systems/cost-to-install-well-pump-in-florida-2026/)
+- [Cost to Install Septic Tank in Florida 2026](/major-systems/cost-to-replace-septic-tank-in-florida-2026/)
+- Cost to Repair Septic System Florida
+- [Cost to Install Well Pump in Florida 2026](/major-systems/cost-to-replace-well-pump-in-florida-2026/)

@@ -161,6 +161,6 @@ Sudden leaks are often covered under water damage coverage. Normal wear and agin
 Replacing a water heater in Tampa runs **$1,200 to $3,500** for most homes, with gas storage units at the sweet spot of cost and performance. The most important thing to know: Hillsborough County requires permits for gas work, and Tampa's water hardness requires proactive maintenance. Get quotes from at least 3 licensed Florida plumbing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Tankless Water Heater in Tampa 2026](/plumbing/cost-to-install-tankless-water-heater-in-tampa-2026/)
-- [Cost to Fix Plumbing Leaks in Tampa 2026](/plumbing/cost-to-fix-plumbing-leaks-in-tampa-2026/)
-- [Cost to Install Water Softener Florida](/plumbing/cost-to-install-water-softener-florida-2026/)
+- Cost to Install Tankless Water Heater in Tampa 2026
+- Cost to Fix Plumbing Leaks in Tampa 2026
+- [Cost to Install Water Softener Florida](/plumbing/cost-to-install-water-softener-in-florida-2026/)

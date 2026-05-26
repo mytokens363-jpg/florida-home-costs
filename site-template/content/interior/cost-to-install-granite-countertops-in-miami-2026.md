@@ -172,6 +172,6 @@ No, standard policies do not cover wear and tear. If a pipe bursts and damages t
 Installing granite countertops in Miami costs **$3,500 to $12,000** for a standard kitchen, with the average project landing around **$7,500**. The most important factor to know is the local humidity — granite must be sealed regularly to prevent staining in South Florida's climate. Get quotes from at least three local fabricators and verify their license at the Florida Department of Business and Professional Regulation.
 
 **Related guides you may find useful:**
-- [Cost to Install Kitchen Cabinets in Miami 2026](/interior/cost-to-install-kitchen-cabinets-miami-2026/)
-- [Cost to Install Tile Flooring in Miami 2026](/interior/cost-to-install-tile-flooring-miami-2026/)
-- [Cost to Remodel Bathroom in Miami 2026](/interior/cost-to-remodel-bathroom-miami-2026/)
+- Cost to Install Kitchen Cabinets in Miami 2026
+- [Cost to Install Tile Flooring in Miami 2026](/interior/cost-to-install-tile-flooring-in-miami-2026/)
+- [Cost to Remodel Bathroom in Miami 2026](/interior/cost-to-remodel-bathroom-in-miami-2026/)

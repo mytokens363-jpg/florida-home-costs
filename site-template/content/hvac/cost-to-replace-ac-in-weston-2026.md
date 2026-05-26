@@ -162,6 +162,6 @@ Normal wear and aging is never covered. Storm damage (lightning, falling trees) 
 Replacing a central AC in Weston runs **$5,500 to $9,500** for most homes, with two-stage systems at the sweet spot of cost and performance. The most important thing to know: Weston's high humidity requires a system that dehumidifies well, not just cools. A 15 SEER minimum is the law, but 16+ SEER pays off in lower bills. Get quotes from at least 3 licensed Florida HVAC contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Central Air in Florida 2026](/hvac/cost-to-install-central-air-florida-2026/)
-- [Cost to Replace HVAC in Miami 2026](/hvac/cost-to-replace-hvac-miami-2026/)
-- [Cost to Upgrade HVAC Efficiency in Florida 2026](/hvac/cost-to-upgrade-hvac-efficiency-florida-2026/)
+- Cost to Install Central Air in Florida 2026
+- Cost to Replace HVAC in Miami 2026
+- Cost to Upgrade HVAC Efficiency in Florida 2026

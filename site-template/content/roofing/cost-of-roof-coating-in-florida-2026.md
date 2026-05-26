@@ -165,5 +165,5 @@ Applying a roof coating in Florida runs **$5,000 to $15,000** for most homes, wi
 
 **Related guides you may find useful:**
 - [Cost to Replace Flat Roof in Tampa 2026](https://floridahomecosts.com/roofing/cost-to-replace-flat-roof-in-tampa-2026/)
-- [Cost to Install Impact Windows in Florida](/hurricane-protection/cost-to-install-impact-windows-florida-2026/)
-- [Cost to Replace Roof in Miami](/roofing/cost-to-replace-roof-miami-2026/)
+- [Cost to Install Impact Windows in Florida](/hurricane-protection/cost-to-install-impact-windows-in-florida-2026/)
+- [Cost to Replace Roof in Miami](/general/cost-to-replace-roof-in-miami-2026/)

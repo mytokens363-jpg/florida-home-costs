@@ -166,6 +166,6 @@ Storm damage (wind, fallen trees) is typically covered minus your deductible —
 Installing gutters in Fort Lauderdale runs **$1,800 to $5,500** for most homes, with aluminum seamless at the sweet spot of cost and performance. The most important thing to know: Fort Lauderdale's HVHZ requirements add cost but your new gutters meet some of the toughest wind standards in the country — and it keeps your foundation dry in a market where water damage claims are rising every day. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Gutter Guards in Fort Lauderdale 2026](/exterior/cost-to-install-gutter-guards-fort-lauderdale-2026/)
-- [Cost to Repair Downspouts in Fort Lauderdale 2026](/exterior/cost-to-repair-downspouts-fort-lauderdale-2026/)
+- Cost to Install Gutter Guards in Fort Lauderdale 2026
+- Cost to Repair Downspouts in Fort Lauderdale 2026
 - [Cost to Replace Roof in Fort Lauderdale 2026](/roofing/cost-to-replace-roof-in-fort-lauderdale-2026/)

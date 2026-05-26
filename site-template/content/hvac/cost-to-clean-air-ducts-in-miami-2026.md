@@ -167,6 +167,6 @@ Professional air duct cleaning in Miami costs **$350 to $900** for most homes, w
 Cleaning ducts is not just about dust removal; it is about managing the mold risk unique to South Florida. Keeping the system clean improves air quality and protects your AC investment. Get quotes from at least 3 licensed contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Replace HVAC System in Miami 2026](/hvac/cost-to-replace-hvac-system-miami-2026/)
-- [Cost to Install Evaporator Coil in Miami 2026](/hvac/cost-to-install-evaporator-coil-miami-2026/)
-- [Cost to Repair AC Unit in Miami 2026](/hvac/cost-to-repair-ac-unit-miami-2026/)
+- [Cost to Replace HVAC System in Miami 2026](/hvac/cost-to-replace-hvac-system-in-miami-2026/)
+- Cost to Install Evaporator Coil in Miami 2026
+- Cost to Repair AC Unit in Miami 2026

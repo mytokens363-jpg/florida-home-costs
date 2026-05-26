@@ -172,6 +172,6 @@ The Florida Building Code requires high-efficiency lighting in new construction.
 Installing recessed lighting in Miami costs **$2,500 to $8,000** for most homes, with the average project landing around **$4,500**. The most important factor is hiring a licensed CQE contractor who understands Miami-Dade County permit requirements. Skipping permits or hiring unlicensed workers can void your insurance and create liability issues when you sell. Plan your installation for the dry season to avoid humidity delays and get quotes from at least three local contractors.
 
 **Related guides you may find useful:**
-- [Cost to Upgrade Electrical Panel in Miami](/electrical/cost-to-upgrade-electrical-panel-miami-2026/)
-- [Cost to Install Smart Home Systems in Miami](/electrical/cost-to-install-smart-home-systems-miami-2026/)
-- [Cost to Install Outdoor Lighting in Miami](/landscaping/cost-to-install-outdoor-lighting-miami-2026/)
+- [Cost to Upgrade Electrical Panel in Miami](/electrical/cost-to-upgrade-electrical-panel-in-miami-2026/)
+- Cost to Install Smart Home Systems in Miami
+- Cost to Install Outdoor Lighting in Miami

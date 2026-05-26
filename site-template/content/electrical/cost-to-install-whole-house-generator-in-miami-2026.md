@@ -168,6 +168,6 @@ Storm damage to the generator is typically covered minus your deductible. Instal
 Installing a whole house generator in Miami runs **$12,000 to $30,000** for most homes, with liquid-cooled units at the sweet spot of cost and performance. The most important thing to know: Miami-Dade's HVHZ requirements add cost but your new system meets some of the toughest wind standards in the country — and it keeps your home powered during the frequent outages of hurricane season. Get quotes from at least 3 licensed Florida electrical contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Miami](/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
-- [Cost to Replace Roof in Miami](/roofing/cost-to-replace-roof-miami-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
+- Cost to Install Impact Windows in Miami
+- [Cost to Replace Roof in Miami](/general/cost-to-replace-roof-in-miami-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)

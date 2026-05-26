@@ -166,6 +166,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Installing a metal roof in Palm Beach runs **$25,000 to $55,000** for most homes, with standing seam steel at the sweet spot of cost and performance. The most important thing to know: Palm Beach's coastal building requirements add cost but your new roof meets some of the toughest wind standards in the country — and it keeps you insurable in a market where carriers are dropping homes with aging roofs every day. Get quotes from at least 3 licensed Florida roofing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Palm Beach](/hurricane-protection/cost-to-install-impact-windows-palm-beach-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
-- [Cost to Replace Roof in West Palm Beach](/roofing/cost-to-replace-roof-west-palm-beach-2026/)
+- [Cost to Install Impact Windows in Palm Beach](/hurricane-protection/cost-to-install-impact-windows-in-palm-beach-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
+- Cost to Replace Roof in West Palm Beach

@@ -162,6 +162,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Installing impact windows in Weston runs **$25,000 to $60,000** for most homes, with aluminum frames at the sweet spot of cost and performance. The most important thing to know: Broward County's wind zone requirements add cost but your new windows meet some of the toughest standards in the country — and it keeps you insurable in a market where carriers are dropping homes with aging windows every day. Get quotes from at least 3 licensed Florida window contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
 - [Cost to Install Impact Windows in Fort Lauderdale](/hurricane-protection/cost-to-install-impact-windows-fort-lauderdale-2026/)
-- [Cost to Install Garage Doors in Weston](/garage/cost-to-install-garage-doors-in-weston-2026/)
+- Cost to Install Garage Doors in Weston

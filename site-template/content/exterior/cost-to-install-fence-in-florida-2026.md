@@ -172,6 +172,6 @@ Wind damage is typically covered minus your deductible — often **2% of insured
 Installing a fence in Florida runs **$3,500 to $12,000** for most homes, with vinyl at the sweet spot of cost and performance. The most important thing to know: Florida's permit requirements add cost but your new fence meets local standards — and it keeps you compliant in a market where HOAs and counties are strict on setbacks. Get quotes from at least 3 licensed Florida fencing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Custom Gates in Florida](/exterior/cost-to-install-custom-gates-florida-2026/)
-- [Cost to Build a Patio Cover in Florida](/exterior/cost-to-build-patio-cover-florida-2026/)
-- [Cost to Install Impact Windows in Florida](/exterior/cost-to-install-impact-windows-florida-2026/)
+- Cost to Install Custom Gates in Florida
+- Cost to Build a Patio Cover in Florida
+- [Cost to Install Impact Windows in Florida](/hurricane-protection/cost-to-install-impact-windows-in-florida-2026/)

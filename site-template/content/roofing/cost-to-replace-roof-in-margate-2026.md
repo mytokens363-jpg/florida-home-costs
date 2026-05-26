@@ -169,5 +169,5 @@ Replacing a roof in Margate runs **$11,500 to $27,000** for most homes, with arc
 
 **Related guides you may find useful:**
 - [Cost to Replace Roof in Fort Lauderdale](/roofing/cost-to-replace-roof-in-fort-lauderdale-2026/)
-- [Cost to Replace Roof in Pompano Beach](/roofing/cost-to-replace-roof-in-pompano-beach-2026/)
-- [Cost to Install Impact Windows in Margate](/hurricane-protection/cost-to-install-impact-windows-margate-2026/)
+- Cost to Replace Roof in Pompano Beach
+- Cost to Install Impact Windows in Margate

@@ -164,6 +164,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Repairing stucco in Tampa runs **$1,500 to $8,500** for most homes, with mid-range repairs at the sweet spot of cost and performance. The most important thing to know: Tampa's humidity and salt air require proper water barriers and flashing. A patch that ignores these details will fail again. Get quotes from at least 3 licensed Florida stucco contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Repair Siding in Tampa](/exterior/cost-to-repair-siding-in-tampa-2026/)
-- [Cost to Install Impact Windows Tampa](/exterior/cost-to-install-impact-windows-tampa-2026/)
+- Cost to Repair Siding in Tampa
+- [Cost to Install Impact Windows Tampa](/hurricane-protection/cost-to-install-impact-windows-tampa-2026/)
 - [Cost to Replace Roof in Tampa](/roofing/cost-to-replace-roof-in-tampa-2026/)

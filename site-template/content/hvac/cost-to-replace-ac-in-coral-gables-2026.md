@@ -166,6 +166,6 @@ Normal wear and tear is never covered. If your AC fails due to a covered peril l
 Replacing an AC unit in Coral Gables runs **$7,000 to $15,000** for most homes, with mid-range systems at the sweet spot of cost and performance. The most important thing to know: Coral Gables has strict permit requirements and high labor rates compared to other Florida markets. A new system ensures you stay cool during the long summer and protects your home's resale value. Get quotes from at least 3 licensed Florida HVAC contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Coral Gables](/hvac/cost-to-install-impact-windows-coral-gables-2026/)
-- [Cost to Install Hurricane Shutters Florida](/hvac/cost-to-install-hurricane-shutters-florida-2026/)
-- [Cost to Replace Roof in Coral Gables](/roofing/cost-to-replace-roof-coral-gables-2026/)
+- [Cost to Install Impact Windows in Coral Gables](/hurricane-protection/cost-to-install-impact-windows-in-coral-gables-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
+- [Cost to Replace Roof in Coral Gables](/roofing/cost-to-replace-roof-in-coral-gables-2026/)

@@ -166,6 +166,6 @@ No, standard wear and tear is never covered. However, if paint failure is caused
 Painting the interior of your house in Tampa runs **$3,500 to $8,500** for most homes, with premium moisture-resistant paint at the sweet spot of cost and performance. The most important thing to know: Tampa's high humidity requires specific materials to prevent mold and peeling. Do not skip the mold-resistant primer step. Get quotes from at least 3 licensed Florida painting contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Hardwood Floor in Tampa 2026](/interior/cost-to-install-hardwood-floor-tampa-2026/)
-- [Cost to Install Crown Molding Tampa 2026](/interior/cost-to-install-crown-molding-tampa-2026/)
-- [Cost to Install Baseboards Tampa 2026](/interior/cost-to-install-baseboards-tampa-2026/)
+- Cost to Install Hardwood Floor in Tampa 2026
+- Cost to Install Crown Molding Tampa 2026
+- Cost to Install Baseboards Tampa 2026

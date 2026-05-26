@@ -170,6 +170,6 @@ Yes, adding living space increases your dwelling coverage limit. Notify your car
 Converting a garage in Florida runs **$25,000 to $75,000** for most single-car projects, with mid-range finishes hitting the **$42,500** sweet spot. The most important thing to know: Florida Building Code treats habitable space differently than storage. You must meet strict insulation, egress, and foundation requirements. Get quotes from at least 3 licensed Florida General Contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Add a Bathroom in Florida 2026](/interior/cost-to-add-bathroom-florida-2026/)
-- [Cost to Remodel Kitchen in Florida 2026](/interior/cost-to-remodel-kitchen-florida-2026/)
-- [Cost to Add Square Footage to Home Florida 2026](/renovation/cost-to-add-square-footage-florida-2026/)
+- Cost to Add a Bathroom in Florida 2026
+- [Cost to Remodel Kitchen in Florida 2026](/interior/cost-to-remodel-kitchen-in-florida-2026/)
+- Cost to Add Square Footage to Home Florida 2026

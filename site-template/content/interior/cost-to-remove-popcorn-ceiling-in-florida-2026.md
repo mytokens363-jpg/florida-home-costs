@@ -169,6 +169,6 @@ No. Insurance covers sudden damage like storms or leaks. Cosmetic updates are ho
 Removing a popcorn ceiling in Florida costs **$2.00 to $5.00 per square foot** for most homes, with **$3.50 per square foot** being the sweet spot for quality work. The most important thing to know: Florida homes built before 1980 likely contain asbestos. Always test before you scrape. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Paint Interior Walls in Florida 2026](/interior/cost-to-paint-interior-walls-florida-2026/)
-- [Cost to Repair Drywall in Florida 2026](/interior/cost-to-repair-drywall-florida-2026/)
-- [Cost to Install Recessed Lighting in Florida 2026](/interior/cost-to-install-recessed-lighting-florida-2026/)
+- Cost to Paint Interior Walls in Florida 2026
+- [Cost to Repair Drywall in Florida 2026](/interior/cost-to-repair-drywall-in-florida-2026/)
+- [Cost to Install Recessed Lighting in Florida 2026](/electrical/cost-to-install-recessed-lighting-in-florida-2026/)

@@ -165,6 +165,6 @@ Wind or lightning damage is typically covered minus your deductible. Normal wear
 Replacing an AC compressor in Fort Lauderdale runs **$1,800 to $4,200** for most homes, with standard units at the sweet spot of cost and performance. The most important thing to know: Fort Lauderdale's HVAC codes require proper strapping and permits to ensure safety during hurricanes. Get quotes from at least 3 licensed Florida HVAC contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install a New AC Unit in Fort Lauderdale](/hvac/cost-to-install-a-new-ac-unit-fort-lauderdale-2026/)
-- [Cost to Replace Air Handler in Fort Lauderdale 2026](/hvac/cost-to-replace-air-handler-fort-lauderdale-2026/)
+- Cost to Install a New AC Unit in Fort Lauderdale
+- Cost to Replace Air Handler in Fort Lauderdale 2026
 - [Cost to Install Impact Windows in Fort Lauderdale](/hurricane-protection/cost-to-install-impact-windows-fort-lauderdale-2026/)

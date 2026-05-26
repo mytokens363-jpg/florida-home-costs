@@ -163,5 +163,5 @@ Installing an EV charger in Orlando runs **$800 to $3,000** for most homes, with
 
 **Related guides you may find useful:**
 - [Cost to Install Generator in Orlando](/electrical/cost-to-install-generator-orlando-2026/)
-- [Cost to Wire Home for EV in Tampa](/electrical/cost-to-wire-home-for-ev-in-tampa-2026/)
-- [Cost to Install Impact Windows in Orlando](/electrical/cost-to-install-impact-windows-orlando-2026/)
+- Cost to Wire Home for EV in Tampa
+- Cost to Install Impact Windows in Orlando

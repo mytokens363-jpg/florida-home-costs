@@ -165,5 +165,5 @@ Removing a popcorn ceiling in Fort Lauderdale runs **$3,000 to $8,000** for most
 
 **Related guides you may find useful:**
 - [Cost to Paint Interior Walls Fort Lauderdale 2026](/interior/cost-to-paint-interior-walls-fort-lauderdale-2026/)
-- [Cost to Install Crown Molding Fort Lauderdale 2026](/interior/cost-to-install-crown-molding-fort-lauderdale-2026/)
-- [Cost to Remodel Kitchen in Fort Lauderdale 2026](/interior/cost-to-remodel-kitchen-fort-lauderdale-2026/)
+- Cost to Install Crown Molding Fort Lauderdale 2026
+- [Cost to Remodel Kitchen in Fort Lauderdale 2026](/interior/cost-to-remodel-kitchen-in-fort-lauderdale-2026/)

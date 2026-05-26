@@ -174,6 +174,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Installing a fence in Miami runs **$5,000 to $25,000** for most homes, with wood and vinyl at the sweet spot of cost and privacy. The most important thing to know: Miami-Dade's HVHZ requirements mean your fence must be anchored to withstand high winds. You cannot cut corners on permits or footings. Get quotes from at least 3 licensed Florida fence contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install a Deck in Miami 2026](/exterior/cost-to-install-deck-miami-2026/)
-- [Cost to Install a Patio in Miami 2026](/exterior/cost-to-install-patio-miami-2026/)
-- [Cost to Install Impact Windows in Miami 2026](/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
+- Cost to Install a Deck in Miami 2026
+- Cost to Install a Patio in Miami 2026
+- Cost to Install Impact Windows in Miami 2026

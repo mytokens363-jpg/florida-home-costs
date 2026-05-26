@@ -162,6 +162,6 @@ Your system efficiency drops and parts wear out faster. You risk mold growth in 
 Cleaning AC coils in Fort Lauderdale costs **$150 to $350** for most residential systems, with a standard tune-up at **$250** being the sweet spot. The humid, salty climate of Broward County demands more frequent cleaning than inland areas to prevent corrosion and mold. Always hire a licensed **C-40 contractor** and avoid DIY on indoor coils. Regular maintenance keeps your home cool and extends the life of your expensive equipment. Get quotes from at least 3 local HVAC companies and verify their license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Replace AC Condenser in Fort Lauderdale 2026](/hvac/cost-to-replace-ac-condenser-fort-lauderdale-2026/)
-- [Cost to Install Duct Cleaning in Fort Lauderdale 2026](/hvac/cost-to-install-duct-cleaning-fort-lauderdale-2026/)
-- [Cost to Replace Roof in Fort Lauderdale 2026](/roofing/cost-to-replace-roof-fort-lauderdale-2026/)
+- Cost to Replace AC Condenser in Fort Lauderdale 2026
+- [Cost to Install Duct Cleaning in Fort Lauderdale 2026](/hvac/cost-of-duct-cleaning-in-fort-lauderdale-2026/)
+- [Cost to Replace Roof in Fort Lauderdale 2026](/general/cost-to-replace-roof-fort-lauderdale-2026/)

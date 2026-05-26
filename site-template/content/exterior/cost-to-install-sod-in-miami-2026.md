@@ -168,6 +168,6 @@ New sod needs **1 inch of water daily** for the first two weeks. Use a rain gaug
 Installing sod in Miami runs **$4,200 to $9,800** for most homes, with St. Augustine at the sweet spot of cost and performance. The most important thing to know: Miami's soil and heat require significant prep work to succeed. Budget for soil amendments and irrigation, or you will spend more on water and replacement grass later. Get quotes from at least 3 licensed Florida landscape contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Sprinkler System in Miami 2026](/irrigation/cost-to-install-sprinkler-system-miami-2026/)
-- [Cost to Landscape Miami 2026](/landscaping/cost-to-landscape-miami-2026/)
-- [Cost to Install Artificial Turf in Miami 2026](/landscaping/cost-to-install-artificial-turf-miami-2026/)
+- Cost to Install Sprinkler System in Miami 2026
+- Cost to Landscape Miami 2026
+- Cost to Install Artificial Turf in Miami 2026

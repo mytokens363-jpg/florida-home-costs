@@ -162,6 +162,6 @@ No, standard policies exclude termites as they are considered maintenance issues
 Termite treatment in Tampa runs **$1,200 to $3,500** for most homes, with liquid barriers at the sweet spot of cost and performance. The most important thing to know: Tampa's sandy soil and humidity require more frequent monitoring than other regions. A clear treatment report is often mandatory for insurance renewal in Florida. Get quotes from at least 3 licensed Florida pest control contractors and verify every license at FDACS.gov.
 
 **Related guides you may find useful:**
-- [Cost to Home Inspection in Tampa 2026](/major-systems/cost-to-home-inspection-in-tampa-2026/)
-- [Cost to Repair Water Damage in Tampa 2026](/major-systems/cost-to-repair-water-damage-in-tampa-2026/)
-- [Cost to Install Pest Control Systems Florida](/major-systems/cost-to-install-pest-control-systems-florida-2026/)
+- Cost to Home Inspection in Tampa 2026
+- Cost to Repair Water Damage in Tampa 2026
+- Cost to Install Pest Control Systems Florida

@@ -169,6 +169,6 @@ No, standard homeowners insurance covers damage from fire or wind. It does not p
 Remodeling a kitchen in Coral Gables runs **$35,000 to $85,000** for most homes, with custom cabinets and permits driving the higher end. The most important thing to know: Miami-Dade County and the City of Coral Gables have strict permit requirements that can delay your project. Hire a licensed contractor who knows the local code, and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Remodel a Kitchen in Tampa 2026](/interior/cost-to-remodel-kitchen-tampa-2026/)
-- [Cost to Remodel a Bathroom in Miami 2026](/interior/cost-to-remodel-bathroom-miami-2026/)
-- [Cost to Get a Building Permit in Miami-Dade 2026](/permits/cost-to-get-a-building-permit-miami-dade-2026/)
+- [Cost to Remodel a Kitchen in Tampa 2026](/interior/cost-to-remodel-kitchen-in-tampa-2026/)
+- [Cost to Remodel a Bathroom in Miami 2026](/interior/cost-to-remodel-bathroom-in-miami-2026/)
+- Cost to Get a Building Permit in Miami-Dade 2026

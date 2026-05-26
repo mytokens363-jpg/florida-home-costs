@@ -166,6 +166,6 @@ Storm damage (wind, hail, flying debris) is typically covered minus your deducti
 Installing impact windows in Coral Gables runs **$15,000 to $45,000** for most homes, with aluminum frames at the sweet spot of cost and performance. The most important thing to know: Coral Gables' HVHZ requirements add cost but your new windows meet some of the toughest wind standards in the country — and it keeps you insurable in a market where carriers are dropping homes with aging glass every day. Get quotes from at least 3 licensed Florida window contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Hurricane Shutters in Coral Gables 2026](/hurricane-protection/cost-to-install-hurricane-shutters-coral-gables-2026/)
-- [Cost to Replace Roof in Coral Gables 2026](/roofing/cost-to-replace-roof-coral-gables-2026/)
+- Cost to Install Hurricane Shutters in Coral Gables 2026
+- [Cost to Replace Roof in Coral Gables 2026](/roofing/cost-to-replace-roof-in-coral-gables-2026/)
 - [Cost to Install Impact Windows in Fort Lauderdale](/hurricane-protection/cost-to-install-impact-windows-fort-lauderdale-2026/)

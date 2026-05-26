@@ -162,6 +162,6 @@ Standard policies typically exclude water backup from sump pumps. You need a spe
 Installing a sump pump in Florida runs **$1,200 to $3,800** for most homes, with battery backups at the sweet spot of cost and protection. The most important thing to know: Florida’s high water table and sandy soil require reinforced pits and proper discharge to avoid future damage. Get quotes from at least 3 licensed Florida plumbers and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Backflow Preventer in Florida 2026](/plumbing/cost-to-install-backflow-preventer-in-florida-2026/)
-- [Cost to Install Water Heater Florida 2026](/plumbing/cost-to-install-water-heater-florida-2026/)
-- [Cost to Install Sewer Line Repair Florida 2026](/plumbing/cost-to-install-sewer-line-repair-florida-2026/)
+- Cost to Install Backflow Preventer in Florida 2026
+- Cost to Install Water Heater Florida 2026
+- Cost to Install Sewer Line Repair Florida 2026

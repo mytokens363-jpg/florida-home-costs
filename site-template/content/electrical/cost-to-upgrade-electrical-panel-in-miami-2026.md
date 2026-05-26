@@ -164,5 +164,5 @@ Upgrading your electrical panel in Miami runs **$2,500 to $4,500** for most home
 
 **Related guides you may find useful:**
 - [Cost to Install EV Charger in Miami 2026](/electrical/cost-to-install-ev-charger-miami-2026/)
-- [Cost to Replace Outlet in Miami 2026](/electrical/cost-to-replace-outlet-miami-2026/)
+- Cost to Replace Outlet in Miami 2026
 - [Cost to Upgrade Electrical Panel in Fort Lauderdale 2026](/electrical/cost-to-upgrade-electrical-panel-fort-lauderdale-2026/)

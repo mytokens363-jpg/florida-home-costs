@@ -160,6 +160,6 @@ Storm damage (burst pipes from freezing or impact) is typically covered minus yo
 Repiping a house in Miami runs **$8,000 to $30,000** for most homes, with PEX at the sweet spot of cost and performance. The most important thing to know: Miami-Dade’s permit requirements add cost but your new system meets some of the toughest water quality standards in the country — and it keeps you insurable in a market where carriers are dropping homes with aging plumbing every day. Get quotes from at least 3 licensed Florida plumbing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Water Heater in Miami 2026](/plumbing/cost-to-install-water-heater-miami-2026/)
-- [Cost to Fix Leaking Pipe in Miami 2026](/plumbing/cost-to-fix-leaking-pipe-miami-2026/)
-- [Cost to Repair Slab Leak in Miami 2026](/plumbing/cost-to-repair-slab-leak-miami-2026/)
+- Cost to Install Water Heater in Miami 2026
+- Cost to Fix Leaking Pipe in Miami 2026
+- Cost to Repair Slab Leak in Miami 2026

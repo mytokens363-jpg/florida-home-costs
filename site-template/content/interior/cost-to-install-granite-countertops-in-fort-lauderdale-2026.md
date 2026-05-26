@@ -172,6 +172,6 @@ Seal granite countertops once a year to maintain protection. Water should bead u
 Installing granite countertops in Fort Lauderdale runs **$3,500 to $12,000** for most kitchens, with premium stone at the high end of the scale. The most important thing to know: local humidity requires annual sealing to prevent staining, and HOA approval is critical before ordering slabs. Get quotes from at least 3 licensed local fabricators and verify their insurance at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Quartz Countertops in Fort Lauderdale 2026](/interior/cost-to-install-quartz-countertops-fort-lauderdale-2026/)
-- [Cost to Install Kitchen Backsplash in Fort Lauderdale 2026](/interior/cost-to-install-kitchen-backsplash-fort-lauderdale-2026/)
-- [Cost to Fix Water Damage in Fort Lauderdale 2026](/home-maintenance/cost-to-fix-water-damage-fort-lauderdale-2026/)
+- [Cost to Install Quartz Countertops in Fort Lauderdale 2026](/interior/cost-to-install-quartz-countertops-in-fort-lauderdale-2026/)
+- Cost to Install Kitchen Backsplash in Fort Lauderdale 2026
+- Cost to Fix Water Damage in Fort Lauderdale 2026

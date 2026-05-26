@@ -168,6 +168,6 @@ Sudden damage like a burst pipe is typically covered. However, gradual wear, mol
 Installing tile flooring in Miami runs **$4,500 to $12,000** for most homes, with porcelain tile at the sweet spot of cost and performance. The most important thing to know: Miami's humidity requires moisture barriers and specialized adhesives that inland contractors might skip. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Hardwood Flooring in Miami](/interior/cost-to-install-hardwood-in-miami-2026/)
-- [Cost to Refinish Floors in Miami 2026](/interior/cost-to-refinish-floors-miami-2026/)
-- [Cost to Install Impact Windows in Miami](/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
+- Cost to Install Hardwood Flooring in Miami
+- Cost to Refinish Floors in Miami 2026
+- Cost to Install Impact Windows in Miami

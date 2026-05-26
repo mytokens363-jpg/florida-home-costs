@@ -160,6 +160,6 @@ Storm damage (wind, hail) is typically covered minus your deductible — often *
 Installing spray foam insulation in Tampa runs **$3,500 to $9,500** for most homes, with open-cell foam at the sweet spot of cost and performance. The most important thing to know: Tampa's humidity makes air sealing critical. A properly installed foam system stops mold and lowers your electric bill year-round. Get quotes from at least 3 licensed Florida HVAC or insulation contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install HVAC in Tampa 2026](/major-systems/cost-to-install-hvac-in-tampa-2026/)
-- [Cost to Install Energy Efficient Windows Tampa 2026](/energy-efficiency/cost-to-install-energy-efficient-windows-tampa-2026/)
-- [Cost to Insulate a Mobile Home in Tampa](/major-systems/cost-to-insulate-a-mobile-home-in-tampa-2026/)
+- Cost to Install HVAC in Tampa 2026
+- Cost to Install Energy Efficient Windows Tampa 2026
+- Cost to Insulate a Mobile Home in Tampa

@@ -168,6 +168,6 @@ Palm trunks are heavy and fibrous. They require special cutting tools. DIY remov
 Removing a tree in Florida runs **$200 to $3,500** depending on size and location. The average cost sits between **$750 and $1,500** for most residential jobs. The most important factor is safety — hire an insured contractor who understands Florida’s unique soil and wind risks. Check for permit requirements in your county and schedule work during the dry season for the best rates.
 
 **Related guides you may find useful:**
-- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
-- [Cost to Replace Roof in Fort Lauderdale](/roofing/cost-to-replace-roof-fort-lauderdale-2026/)
-- [Cost to Remove Stump in Florida](/landscaping/cost-to-remove-stump-in-florida-2026/)
+- [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-in-florida-2026/)
+- [Cost to Replace Roof in Fort Lauderdale](/general/cost-to-replace-roof-fort-lauderdale-2026/)
+- Cost to Remove Stump in Florida

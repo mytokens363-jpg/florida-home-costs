@@ -168,6 +168,6 @@ Storm damage (wind, flood, falling trees) is typically covered minus your deduct
 Repairing a seawall in Miami runs **$8,000 to $150,000** for most homes, with vinyl sheet pile at the sweet spot of cost and performance. The most important thing to know: Miami-Dade's permit and environmental regulations add cost but your new wall meets some of the toughest standards in the country — and it keeps you insurable in a market where carriers are dropping homes with aging waterfronts every day. Get quotes from at least 3 licensed Florida marine contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Impact Windows in Miami](/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
-- [Cost to Repair Flood Damage in Miami](/exterior/cost-to-repair-flood-damage-miami-2026/)
-- [Cost to Replace a Roof in Miami](/roofing/cost-to-replace-roof-miami-2026/)
+- Cost to Install Impact Windows in Miami
+- Cost to Repair Flood Damage in Miami
+- [Cost to Replace a Roof in Miami](/general/cost-to-replace-roof-in-miami-2026/)
