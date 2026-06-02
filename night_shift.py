@@ -48,6 +48,44 @@ QUARANTINE_DIR = REPO_PATH / "quarantine"
 STATUS_FILE = REPO_PATH / "pipeline-status.json"
 
 
+# ─── Slug builder — canonical URL pattern ─────────────────────────
+# Canonical pattern: /<category>/cost-to-<action>-<subject>-in-<city>-2026/
+# Keywords come as: "cost to replace roof fort lauderdale 2026" or
+#                   "cost to install ev charger in fort lauderdale 2026"
+# Must ALWAYS insert "-in-" before the city/location.
+
+def build_slug(keyword: str, location: str) -> str:
+    """
+    Build canonical URL slug from keyword + location.
+    Guarantees pattern: cost-to-<action>-<subject>-in-<city>-2026
+
+    Inserts "-in-" before the city/location if not already present.
+    Strips trailing year to avoid duplicate "-2026-2026".
+    """
+    slug = keyword.lower().replace(" ", "-").replace(",", "")
+
+    # Insert "-in-" before the city/location if missing
+    # The location is typically at the end, just before "-2026"
+    # e.g., "cost-to-install-ev-charger-tampa-2026"
+    #      -> "cost-to-install-ev-charger-in-tampa-2026"
+    # e.g., "cost-to-replace-roof-fort-lauderdale-2026"
+    #      -> "cost-to-replace-roof-in-fort-lauderdale-2026"
+
+    # Remove trailing year first for cleaner insertion
+    slug = re.sub(r'-\d{4}$', '', slug)
+
+    # Check if "-in-" already precedes the location
+    location_slug = location.lower().replace(" ", "-")
+    if f"-in-{location_slug}" not in slug:
+        # Insert "-in-" before the location word(s)
+        slug = slug.replace(f"-{location_slug}", f"-in-{location_slug}")
+
+    # Re-append the year
+    slug = f"{slug}-2026"
+
+    return slug
+
+
 # ─── Live status emitter (for dashboard) ──────────────────────────────
 # Writes JSON to ~/site-repo/pipeline-status.json every step.
 # Dashboard polls this file every 5s for live agent card updates.
@@ -462,7 +500,7 @@ def generate_article_chart(article_content: str, keyword: str, category: str, lo
         "items": cost_items[:6]  # Max 6 items
     }
     
-    url_slug = keyword.lower().replace(" ", "-").replace(",", "")
+    url_slug = build_slug(keyword, "Florida")
     json_str = json.dumps(chart_data)
     
     chart_script = REPO_PATH / "scripts" / "generate_chart.py"
@@ -492,10 +530,7 @@ def publish_article(
     """Commit approved article to repo and push to GitHub."""
 
     current_year = datetime.date.today().year
-    url_slug = keyword.lower().replace(" ", "-").replace(",", "")
-    # Strip trailing year (e.g. "2026") to avoid duplicate "-2026-2026"
-    import re
-    url_slug = re.sub(r'-\d{4}$', '', url_slug)
+    url_slug = build_slug(keyword, location)
     article_filename = f"{url_slug}-{current_year}.md"
     article_filepath = REPO_PATH / "content" / category / article_filename
 
