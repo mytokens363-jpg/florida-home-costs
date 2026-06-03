@@ -55,6 +55,11 @@
         {{ .Content }}
       </div>
 
+      <!-- Methodology link (cost-guide articles only) -->
+      {{ if .Section }}
+      <p class="article-methodology-note" style="font-size: 0.9rem; color: #666; margin-top: 1.5rem; padding-top: 0.75rem; border-top: 1px solid #eee;"><em>Cost data based on <a href="/methodology/">our methodology</a> — Florida-specific sources cited.</em></p>
+      {{ end }}
+
       <!-- Author Bio (bottom) -->
       {{ partial "author-bio.html" . }}
 

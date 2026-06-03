@@ -7,6 +7,6 @@
  padding-bottom: 0.75rem;
  border-bottom: 1px solid #eee;
 ">
- Written by <strong style="color: #333;">{{ $author.name }}</strong>, {{ $author.title }}
+ {{ if .Section }}Edited and reviewed by{{ else }}Written by{{ end }} <strong style="color: #333;">{{ $author.name }}</strong>, {{ $author.title }}
 </div>
 {{ end }}
