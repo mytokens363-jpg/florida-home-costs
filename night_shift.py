@@ -767,6 +767,77 @@ def run_pipeline_for_keyword(keyword_data: dict, prompts: dict) -> bool:
     return False
 
 
+# ─── Self-update (non-fatal) ────────────────────────────────────────────────────
+
+def self_update():
+    """Fast-forward the repo to origin/main before running.
+
+    NEVER fatal: a run on slightly-stale code is strictly better than no run
+    at all. (On 2026-06-02 the old `git pull ... check=True` aborted on a dirty
+    tree and killed the whole night.) Logs exactly one outcome:
+    SUCCESS / SKIPPED / FAILED / OFFLINE.
+    """
+    try:
+        # Dirty *tracked* tree → skip. Untracked files (e.g. logs/*) are
+        # excluded on purpose: they don't block a fast-forward, and if an
+        # incoming commit ever did collide with one the pull below catches it.
+        status = subprocess.run(
+            ["git", "status", "--porcelain", "--untracked-files=no"],
+            cwd=REPO_PATH, capture_output=True, text=True, timeout=10,
+        )
+        if status.returncode != 0:
+            print(f"  🔄 self-update FAILED: git status rc={status.returncode}: {status.stderr.strip()[:300]}")
+            return
+        if status.stdout.strip():
+            print("  🔄 self-update SKIPPED: working tree has uncommitted changes")
+            return
+
+        # Detached HEAD → nothing to fast-forward onto a branch.
+        branch = subprocess.run(
+            ["git", "symbolic-ref", "--short", "-q", "HEAD"],
+            cwd=REPO_PATH, capture_output=True, text=True, timeout=10,
+        )
+        if branch.returncode != 0 or not branch.stdout.strip():
+            print("  🔄 self-update SKIPPED: detached HEAD (no branch to fast-forward)")
+            return
+
+        # --ff-only: never let this script create a merge commit on its own.
+        # If a fast-forward isn't possible, that's FAILED, not "try to merge".
+        result = subprocess.run(
+            ["git", "pull", "--ff-only", "origin", "main"],
+            cwd=REPO_PATH, capture_output=True, text=True, timeout=60,
+        )
+        if result.returncode == 0:
+            print(f"  🔄 self-update SUCCESS: {result.stdout.strip()[:200]}")
+        else:
+            err = (result.stderr.strip() or result.stdout.strip())[:300]
+            print(f"  🔄 self-update FAILED (rc={result.returncode}): {err}")
+    except subprocess.TimeoutExpired:
+        print("  🔄 self-update OFFLINE: git timed out (origin unreachable?)")
+    except Exception as e:
+        print(f"  🔄 self-update FAILED: {type(e).__name__}: {e}")
+
+
+def repo_state_line():
+    """One-line repo state for the startup header. Fully guarded — a broken
+    git invocation must never block the run."""
+    def _git(*args):
+        return subprocess.run(
+            ["git", *args], cwd=REPO_PATH,
+            capture_output=True, text=True, timeout=10,
+        )
+    try:
+        short_sha = _git("rev-parse", "--short", "HEAD").stdout.strip() or "?"
+        b = _git("symbolic-ref", "--short", "-q", "HEAD").stdout.strip()
+        branch = b or "(detached)"
+        dirty = bool(_git("status", "--porcelain", "--untracked-files=no").stdout.strip())
+        behind_out = _git("rev-list", "--count", "HEAD..origin/main").stdout.strip()
+        behind = behind_out if behind_out.isdigit() else "?"
+        return f"start: HEAD={short_sha} branch={branch} dirty={dirty} behind_origin={behind}"
+    except Exception as e:
+        return f"start: repo-state unavailable: {type(e).__name__}: {e}"
+
+
 # ─── Night shift runner ────────────────────────────────────────────────────────
 
 def run_night_shift():
@@ -784,8 +855,9 @@ def run_night_shift():
         results=[],
     )
 
-    # Pull latest repo state
-    subprocess.run(["git", "pull", "origin", "main"], cwd=REPO_PATH, check=True)
+    # Pull latest repo state — non-fatal (see self_update), then log repo state
+    self_update()
+    print(f"  🩺 {repo_state_line()}")
 
     # Load all system prompts once
     prompts = load_system_prompts()
