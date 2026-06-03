@@ -1,5 +1,9 @@
 # Keyword Queue
 
+> **⚠️ NEEDS RECONCILIATION (noted 2026-06-03):** The entry `PUBLISHED | cost to install impact windows in Miami 2026 | hurricane-protection | Miami` (WEEK 2 block) is correct in *status* — the topic IS published — but the live article published under a different slug: `cost-to-install-hurricane-impact-windows-miami-2026` (live at /hurricane-protection/cost-to-install-hurricane-impact-windows-in-miami-2026/). The keyword text does not derive that slug via `build_slug()`. **Do NOT re-queue this keyword — it would create a duplicate of an already-published topic.**
+>
+> Broader follow-up: the impact-windows series has 3 competing slug patterns (`hurricane-impact-windows-<city>`, `impact-windows-<city>`, `impact-windows-in-<city>`). Standardize on one + add aliases bridging the alternates BEFORE queueing any new city in this series. (Audit-era "26/7 inbound cites" for the Miami/Orlando `-in-` slugs no longer reflect content: 0 inbound links remain; Orlando's were STRIPPED to the Florida-wide fallback by the links cleanup.)
+
 Format: `- STATUS | keyword | category | location`
 
 STATUS values:
