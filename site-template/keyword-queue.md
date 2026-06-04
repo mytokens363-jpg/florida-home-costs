@@ -379,7 +379,7 @@ Do NOT generate your own keywords. Process top to bottom, no skipping.
 ## Batch added 2026-05-22 (audit refill — 80 net-new keywords)
 
 - PUBLISHED | cost to replace hvac system in Miami 2026 | hvac | Miami
-- IN_PROGRESS | cost to replace hvac system in Fort Lauderdale 2026 | hvac | Fort Lauderdale
+- PENDING | cost to replace hvac system in Fort Lauderdale 2026 | hvac | Fort Lauderdale
 - PENDING | cost to replace hvac system in Tampa 2026 | hvac | Tampa
 - PENDING | cost to replace ac compressor in Miami 2026 | hvac | Miami
 - PENDING | cost to replace ac compressor in Fort Lauderdale 2026 | hvac | Fort Lauderdale
