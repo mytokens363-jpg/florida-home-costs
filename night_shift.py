@@ -167,6 +167,7 @@ def call_llm(
         ],
         "max_tokens": 8192,
         "temperature": temperature,
+        "chat_template_kwargs": {"enable_thinking": False},  # Qwen3.5 reasoning-mode off — else content comes back empty
     }
 
     api_response = requests.post(url, json=request_payload, timeout=400)
