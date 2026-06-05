@@ -17,6 +17,7 @@ or max revisions (3) is hit — then the article is quarantined.
 
 import json
 import datetime
+import re
 import subprocess
 from pathlib import Path
 
