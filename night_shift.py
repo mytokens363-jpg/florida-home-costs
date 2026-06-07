@@ -861,6 +861,18 @@ def run_night_shift():
     self_update()
     print(f"  🩺 {repo_state_line()}")
 
+    # Recover orphaned keywords: a previous run that crashed mid-article (network
+    # drop, timeout, etc.) leaves the keyword stuck at IN_PROGRESS. get_next_keyword()
+    # only picks PENDING lines, so without this the keyword is skipped forever.
+    try:
+        _queue = QUEUE_FILE.read_text()
+        _orphans = _queue.count("- IN_PROGRESS |")
+        if _orphans:
+            QUEUE_FILE.write_text(_queue.replace("- IN_PROGRESS |", "- PENDING |"))
+            print(f"  ♻️  recovered {_orphans} orphaned IN_PROGRESS keyword(s) → PENDING")
+    except Exception as _e:
+        print(f"  ♻️  orphan-recovery skipped: {type(_e).__name__}: {_e}")
+
     # Load all system prompts once
     prompts = load_system_prompts()
 
