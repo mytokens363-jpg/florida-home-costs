@@ -1,1 +1,10 @@
 site-template/public/
+
+# Pipeline runtime state — written continuously by night_shift.py and dashboard.py.
+# Tracking these re-dirtied the tree nightly, which made self_update() SKIP the
+# auto-pull (it uses `git status --porcelain --untracked-files=no`). Kept on disk,
+# just untracked. keyword-queue.md is backed up daily by com.rivet.fhc-queue-backup.
+site-template/pipeline-status.json
+site-template/night-shift-log.md
+site-template/publishing-log.md
+site-template/keyword-queue.md
