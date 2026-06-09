@@ -1,0 +1,315 @@
+{
+  "county": "miami-dade",
+  "display_name": "Miami-Dade County",
+  "state": "FL",
+  "metro_areas": ["Miami", "Coral Gables", "Hialeah", "Homestead", "Doral", "Miami Beach", "Kendall", "Aventura", "North Miami", "Cutler Bay"],
+  "hvhz": true,
+  "design_wind_speed_mph": {
+    "risk_category_ii": 175,
+    "risk_category_iii": 195,
+    "risk_category_iv": 200
+  },
+  "data_source_url": "https://www.miamidade.gov/resources/economy/building/documents/memo-for-revised-building-fee-ordinance.pdf",
+  "data_source_document": "Implementing Order 4-63, ordered 2025-06-26, effective 2025-06-30. Supersedes IO-04-63 of 2024-10-01.",
+  "last_verified": "2026-06-09",
+  "schema_version": "1.1",
+  "permits": {
+    "residential_construction_new_sfr_duplex": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 0.96,
+      "applies_to": "Detached single family and duplex new construction",
+      "source_section": "IO-04-63 Section I.B.3",
+      "notes": "Multi-unit townhomes use $0.40/sqft. Master Model/Cookie Cutter pricing differs."
+    },
+    "residential_construction_addition_sfr_duplex": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 0.96,
+      "applies_to": "Additions to single family residence or duplex",
+      "source_section": "IO-04-63 Section I.B.3"
+    },
+    "residential_alterations_repairs": {
+      "type": "percentage_of_value",
+      "rate": 0.07,
+      "minimum_usd": 25.88,
+      "maximum_usd": 847.95,
+      "applies_to": "Alterations or repairs to SFR or duplex",
+      "source_section": "IO-04-63 Section I.B.3",
+      "notes": "$0.070 per $1.00 of estimated cost. Hard maximum at $847.95."
+    },
+    "commercial_alterations_tiered": {
+      "type": "tiered_by_value",
+      "tiers": [
+        {"max_value_usd": 100000, "fee_usd_per_100": 2.82},
+        {"max_value_usd": 500000, "fee_usd_per_100": 2.12},
+        {"max_value_usd": 1000000, "fee_usd_per_100": 1.59},
+        {"max_value_usd": null, "fee_usd_per_100": 1.19}
+      ],
+      "minimum_usd": 254.40,
+      "applies_to": "Alterations and repairs to buildings (except SFR and duplex). Total fee = sum of each separate tier fee.",
+      "source_section": "IO-04-63 Section I.B.5"
+    },
+    "roofing_replace_shingles": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 0.11,
+      "applies_to": "Roofing shingle and other roof types (per sqft of roof coverage including overhangs)",
+      "source_section": "IO-04-63 Section I.B.8.a"
+    },
+    "roofing_replace_tile": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 0.140,
+      "applies_to": "Roofing tile (per sqft of roof coverage including overhangs)",
+      "source_section": "IO-04-63 Section I.B.8.b"
+    },
+    "roofing_hardening_tile": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 0.129,
+      "applies_to": "Tile roof under Residential Hardening permit type (existing SFR/duplex/townhome only)",
+      "source_section": "IO-04-63 Section I.P.g.1",
+      "notes": "Applies only under Residential Hardening Improvement and Repair Type Permit, not new construction."
+    },
+    "roofing_hardening_other": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 0.100,
+      "applies_to": "All other roof types under Residential Hardening permit type",
+      "source_section": "IO-04-63 Section I.P.g.2"
+    },
+    "hvac_install_per_ton": {
+      "type": "per_ton_flat",
+      "fee_usd_per_ton": 24.17,
+      "applies_to": "Air conditioning and refrigeration including relocation of equipment, per ton capacity (or fractional part). Separate permits required for electrical, water, gas connections.",
+      "source_section": "IO-04-63 Section I.E.3"
+    },
+    "hvac_exact_change_out_hardening": {
+      "type": "flat",
+      "fee_usd": 130.00,
+      "applies_to": "Exact change out of central AC unit including heating, under Residential Hardening permit type",
+      "source_section": "IO-04-63 Section I.P.a",
+      "notes": "Hardening permit type — applies only to existing SFR/duplex/townhome dwellings. Not new construction or additions."
+    },
+    "mechanical_residential_new_per_sqft": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 0.11,
+      "applies_to": "Mechanical SFR/duplex new construction per sqft (includes categories 03, 10, 41)",
+      "source_section": "IO-04-63 Section I.E.2"
+    },
+    "furnace_heating_per_kw": {
+      "type": "per_kw",
+      "fee_usd_per_kw": 4.84,
+      "applies_to": "Furnaces, heating equipment, commercial dryers, ovens, fired objects",
+      "source_section": "IO-04-63 Section I.E.4"
+    },
+    "electrical_service_install": {
+      "type": "per_amperage_unit",
+      "fee_usd_per_amp_unit": 7.26,
+      "amp_unit_size": 100,
+      "applies_to": "Permanent service to buildings, new work only. Charged on total amperage of service.",
+      "source_section": "IO-04-63 Section I.D.2"
+    },
+    "electrical_panel_exact_change_out_hardening": {
+      "type": "flat",
+      "fee_usd": 130.00,
+      "applies_to": "Exact change out of existing electrical panel, under Residential Hardening permit type",
+      "source_section": "IO-04-63 Section I.P.d"
+    },
+    "electrical_residential_wiring_new": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 0.11,
+      "applies_to": "New construction SFR, duplex, living units of Group H/R-1. Applies to all electrical installations except common areas and house service of Group H/R.",
+      "source_section": "IO-04-63 Section I.D.9"
+    },
+    "electrical_residential_alterations": {
+      "type": "percentage_of_value",
+      "rate": 0.060,
+      "applies_to": "Alterations or repairs (electrical) per $1.00 of estimated cost",
+      "source_section": "IO-04-63 Section I.D.9"
+    },
+    "plumbing_residential_new_per_sqft": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 0.140,
+      "applies_to": "New SFR or duplex plumbing per sqft",
+      "source_section": "IO-04-63 Section I.C.2"
+    },
+    "plumbing_residential_alterations": {
+      "type": "percentage_of_value",
+      "rate": 0.060,
+      "applies_to": "Alterations or repairs (plumbing) per $1.00 of estimated cost",
+      "source_section": "IO-04-63 Section I.C.2"
+    },
+    "plumbing_water_heater_replace_hardening": {
+      "type": "flat",
+      "fee_usd": 130.00,
+      "applies_to": "Exact change out of water heater greater than 50 gallons, Residential Hardening permit type",
+      "source_section": "IO-04-63 Section I.P.j",
+      "notes": "For water heaters under 50 gallons or other configurations, falls under standard alterations rate (6% of estimated cost)."
+    },
+    "plumbing_solar_water_heater": {
+      "type": "flat",
+      "fee_usd": 144.91,
+      "applies_to": "Solar water heater installation, equipment replacement, or repair",
+      "source_section": "IO-04-63 Section I.C.7"
+    },
+    "window_door_residential_replace": {
+      "type": "flat",
+      "fee_usd": 147.00,
+      "applies_to": "Window, glass block, exterior doors, storefronts, fixed glass, curtain wall installation/retrofit/repair for SFR (not exact change out of existing)",
+      "source_section": "IO-04-63 Section I.B.14",
+      "notes": "Minimum residential permit fee. HVHZ rules require NOA-approved products for exterior."
+    },
+    "window_door_hardening_exact_change": {
+      "type": "flat",
+      "fee_usd": 130.00,
+      "applies_to": "Exact change out of existing windows and doors under Residential Hardening permit type",
+      "source_section": "IO-04-63 Section I.P.b"
+    },
+    "window_door_commercial_per_sqft": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 0.160,
+      "applies_to": "Commercial window or door area",
+      "source_section": "IO-04-63 Section I.B.14"
+    },
+    "swimming_pool_install_residential": {
+      "type": "flat",
+      "fee_usd": 640.00,
+      "applies_to": "Installation of residential swimming pool or spa",
+      "source_section": "IO-04-63 Section I.B.10.a"
+    },
+    "swimming_pool_repair_residential": {
+      "type": "flat",
+      "fee_usd": 169.00,
+      "applies_to": "Repair of residential swimming pool or spa",
+      "source_section": "IO-04-63 Section I.B.10.b"
+    },
+    "generator_install_under_20kw_hardening": {
+      "type": "flat",
+      "fee_usd": 130.00,
+      "applies_to": "Installation or exact change out of residential generator under 20KW, Residential Hardening permit type",
+      "source_section": "IO-04-63 Section I.P.c"
+    },
+    "solar_pv_system": {
+      "type": "flat",
+      "fee_usd": 365.63,
+      "applies_to": "Solar photovoltaic per system. Custom roof flashing details require additional roofing review.",
+      "source_section": "IO-04-63 Section I.D.25"
+    },
+    "solar_pv_hardening_standardized": {
+      "type": "flat",
+      "fee_usd": 250.00,
+      "applies_to": "Solar PV per system using Miami-Dade County's standardized roof flashing, under Residential Hardening permit type",
+      "source_section": "IO-04-63 Section I.P.e"
+    }
+  },
+  "operational_fees": {
+    "minimum_permit_fee_usd": 147.00,
+    "additional_inspection_fee_usd": 92.48,
+    "overtime_inspection_per_hour_usd": 138.72,
+    "holiday_inspection_per_hour_usd": 231.20,
+    "holiday_inspection_minimum_hours": 4,
+    "permit_extension_fee_usd": 78.94,
+    "lost_permit_card_fee_usd": 31.25,
+    "lost_plans_minimum_sfr_usd": 71.55,
+    "lost_plans_minimum_other_usd": 144.90,
+    "double_fee_no_permit_pct": 1.00,
+    "notes": "Minimum permit fee $147 applies to residential and all other uses. Additional inspection fee charged beyond initial and one follow-up. Double fee (100% additional) penalty when work commenced without permit."
+  },
+  "surcharges_and_fees": {
+    "county_surcharge_percentage": 0.075,
+    "dbpr_bcaif_surcharge_percentage": 0.015,
+    "dca_surcharge_percentage": 0.015,
+    "code_admin_fee_per_1000_value_usd": 0.60,
+    "notes": "Miami-Dade RER surcharge of 7.5% applies on all Building Permitting fees except Enforcement (IO-04-63 Section I.A.15). State statutory DBPR/BCAIF 1.5% per FS 468.631 and DCA 1.5% per FS 553.721 apply on top. Code Administration fee assessed at $0.60 per $1,000 of work value (IO-04-63 Section V.E)."
+  },
+  "processing_time": {
+    "typical_days_min": 30,
+    "typical_days_max": 45,
+    "expedited_available": true,
+    "expedited_premium_per_hour_usd": 107.00,
+    "notes": "Expedited plan review available for an additional fee, billed hourly. Concurrent electronic plan processing supported via department portal."
+  },
+  "labor_cost_premium": {
+    "vs_national_average_percent_min": 15,
+    "vs_national_average_percent_max": 25,
+    "source_quality": "estimate_from_published_market_data",
+    "sources": [
+      "BLS Occupational Employment and Wage Statistics, Florida (Miami-Fort Lauderdale-West Palm Beach MSA)",
+      "RSMeans City Cost Index for Miami metro"
+    ],
+    "notes": "HVHZ counties command higher labor premium than non-HVHZ Florida counties. Hurricane season demand and NOA-required specialized installer requirements both contribute. Per IO-04-63, project value calculations use RSMeans Manual when applicant's estimate is lower."
+  },
+  "incorporated_city_notes": {
+    "_scope_note": "Miami-Dade has 34 incorporated municipalities. The 4 below are the largest with their own building departments. Many other Miami-Dade cities maintain separate schedules but are not listed in this v1.1.",
+    "Miami": {
+      "uses_own_schedule": true,
+      "source_url": "https://www.miami.gov/Permits-Construction/Permitting-Resources/City-of-Miami-Building-Permit-Fee-Schedule",
+      "notes": "City of Miami building department sets its own fees per Section 10-18 of City of Miami Ordinance."
+    },
+    "Coral Gables": {
+      "uses_own_schedule": true,
+      "source_url": "https://www.coralgables.com/development-services",
+      "notes": "Coral Gables maintains stringent historic preservation review for many projects, which can extend timelines and add fees."
+    },
+    "Hialeah": {
+      "uses_own_schedule": true,
+      "source_url": "https://www.hialeahfl.gov/building/",
+      "notes": "City of Hialeah building department."
+    },
+    "Miami Beach": {
+      "uses_own_schedule": true,
+      "source_url": "https://www.miamibeachfl.gov/city-hall/building/",
+      "notes": "Coastal construction control line restrictions apply for many projects."
+    }
+  },
+  "special_requirements": {
+    "hvhz_notice_of_acceptance": {
+      "required": true,
+      "applies_to": "Exterior wind-rated products (windows, doors, roofing, shutters)",
+      "search_url": "https://www.miamidade.gov/building/pc-search_app.asp",
+      "notes": "NOA listing required for products used in HVHZ. Florida Product Approval alone is insufficient."
+    },
+    "forty_year_recertification": {
+      "required": true,
+      "applies_to": "Buildings 40 years old, then every 10 years",
+      "application_fee_initial_usd": 375.00,
+      "application_fee_late_submission_usd": 421.88,
+      "application_fee_subsequent_10yr_usd": 375.00,
+      "extension_request_fee_usd": 70.31,
+      "qc_inspection_per_trade_usd": 157.25,
+      "qc_reinspection_per_trade_usd": 92.48,
+      "typical_additional_repair_cost_usd_min": 2000,
+      "typical_additional_repair_cost_usd_max": 5000,
+      "source_section": "IO-04-63 Section I.I",
+      "notes": "Permit application fees per IO-04-63 Section I.I. Additional repair scope ($2-5k typical) is market estimate, not a county fee. Triggers structural and electrical recertification."
+    },
+    "structural_glazing_recertification": {
+      "required": true,
+      "applies_to": "Structural glazing systems, 5-year intervals",
+      "application_fee_usd": 354.33,
+      "source_section": "IO-04-63 Section I.J"
+    },
+    "fbc_8th_edition": {
+      "effective_date": "2023-12-31",
+      "wind_load_standard": "ASCE 7-22",
+      "notes": "Florida Building Code 8th Edition (2023) is current. Replaces FBC 7th Edition (2020)."
+    },
+    "coastal_construction_control_line": {
+      "applies_to": "Properties seaward of the CCCL — beachfront and immediately adjacent",
+      "additional_review": "State DEP review required in addition to local permit",
+      "notes": "Coastal construction within CCCL has additional state-level requirements."
+    },
+    "residential_hardening_permit_type": {
+      "applies_to": "Existing SFR/duplex/townhome dwellings for repair, replacement, improvement (NOT new construction or additions)",
+      "up_front_processing_fee_usd": 25.00,
+      "covered_work_types": [
+        "Exact change out of central AC unit including heating",
+        "Exact change out of existing windows and doors",
+        "Installation or exact change out of residential generator under 20KW",
+        "Exact change out of existing electrical panel",
+        "Solar PV per system with standardized roof flashing",
+        "Repair or replacement of existing fencing",
+        "Roof repair and replacement",
+        "Exact change out of water heater greater than 50 gallons"
+      ],
+      "source_section": "IO-04-63 Section I.P",
+      "notes": "Pilot program assessed annually. Flat $130 fee for most work types listed. Provides a streamlined permitting path for common residential improvements."
+    }
+  }
+}
