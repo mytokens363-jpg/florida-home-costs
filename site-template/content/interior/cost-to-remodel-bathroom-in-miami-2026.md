@@ -168,4 +168,4 @@ Remodeling a bathroom in Miami runs **$15,000 to $45,000** for most homes, with 
 **Related guides you may find useful:**
 - [Cost to Install Kitchen Cabinets in Miami](https://floridahomecosts.com/interior/cost-to-install-kitchen-cabinets-miami-2026/)
 - [Cost to Replace Flooring in Miami](https://floridahomecosts.com/interior/cost-to-replace-flooring-miami-2026/)
-- [Cost to Install Impact Windows in Miami](https://floridahomecosts.com/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
+- Cost to Install Impact Windows in Miami

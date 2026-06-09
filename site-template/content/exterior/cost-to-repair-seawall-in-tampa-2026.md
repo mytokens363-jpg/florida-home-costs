@@ -160,6 +160,6 @@ Storm damage (wind, waves) is typically covered minus your deductible — often 
 Repairing a seawall in Tampa runs **$10,000 to $120,000** for most homes, with steel sheet pile at the sweet spot of cost and performance. The most important thing to know: Tampa Bay's coastal environment requires strict adherence to Hillsborough County and FDEP permits. Your new seawall protects your property line and keeps you insurable in a market where flood risk is rising. Get quotes from at least 3 licensed Florida marine contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Flood Barriers in Tampa 2026](https://floridahomecosts.com/exterior/cost-to-install-flood-barriers-in-tampa-2026/)
-- [Cost to Repair Dock Florida](https://floridahomecosts.com/exterior/cost-to-repair-dock-florida-2026/)
-- [Cost to Mitigate Flood Risk in Tampa 2026](https://floridahomecosts.com/exterior/cost-to-mitigate-flood-risk-in-tampa-2026/)
+- Cost to Install Flood Barriers in Tampa 2026
+- Cost to Repair Dock Florida
+- Cost to Mitigate Flood Risk in Tampa 2026

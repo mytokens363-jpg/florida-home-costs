@@ -164,4 +164,4 @@ Installing impact windows in Davie runs **$15,000 to $45,000** for most homes, w
 **Related guides you may find useful:**
 - [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
 - [Cost to Replace Roof in Davie](/roofing/cost-to-replace-roof-in-davie-2026/)
-- [Cost to Install Impact Windows in Miami](/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
+- Cost to Install Impact Windows in Miami

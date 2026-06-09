@@ -167,5 +167,5 @@ Installing recessed lighting in Fort Lauderdale costs **$3,500 to $8,500** for m
 
 **Related guides you may find useful:**
 - [Cost to Upgrade Electrical Panel in Fort Lauderdale 2026](https://floridahomecosts.com/electrical/cost-to-upgrade-electrical-panel-fort-lauderdale-2026/)
-- [Cost to Install Smart Home Wiring in Florida 2026](https://floridahomecosts.com/electrical/cost-to-install-smart-home-wiring-florida-2026/)
-- [Cost to Install Outdoor Lighting in Fort Lauderdale 2026](https://floridahomecosts.com/electrical/cost-to-install-outdoor-lighting-fort-lauderdale-2026/)
+- Cost to Install Smart Home Wiring in Florida 2026
+- Cost to Install Outdoor Lighting in Fort Lauderdale 2026

@@ -166,6 +166,6 @@ Storm damage (wind, fallen trees) is typically covered minus your deductible. No
 Resurfacing a pool in Fort Lauderdale runs **$4,500 to $15,000** for most homes, with quartz aggregate at the sweet spot of cost and performance. The most important thing to know: Fort Lauderdale’s high water table and salt air require specific drainage and material choices to prevent floating or corrosion. Get quotes from at least 3 licensed Florida pool contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Pool Deck in Fort Lauderdale 2026](https://floridahomecosts.com/pool/cost-to-install-pool-deck-fort-lauderdale-2026/)
+- Cost to Install Pool Deck in Fort Lauderdale 2026
 - Cost to Install Pool Equipment in Florida
 - [Cost to Replace Pool Pump in Fort Lauderdale](/pool/cost-to-replace-pool-pump-in-fort-lauderdale-2026/)

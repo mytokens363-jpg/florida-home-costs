@@ -166,6 +166,6 @@ Normal wear and aging is never covered. Storm damage that cracks the shell might
 Resurfacing a pool in Naples runs **$6,500 to $20,000** for most homes, with quartz aggregate at the sweet spot of cost and performance. The most important thing to know: Collier County's permit and water disposal rules add cost but ensure your project stays legal and safe. Get quotes from at least 3 licensed Florida pool contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install an In-Ground Pool in Naples 2026](/pool/cost-to-install-in-ground-pool-naples-2026/)
+- Cost to Install an In-Ground Pool in Naples 2026
 - [Cost to Replace Pool Coping in Naples 2026](/pool/cost-to-replace-pool-coping-naples-2026/)
 - [Cost to Install Saltwater Chlorine System Florida](/pool/cost-to-install-saltwater-chlorine-system-florida-2026/)

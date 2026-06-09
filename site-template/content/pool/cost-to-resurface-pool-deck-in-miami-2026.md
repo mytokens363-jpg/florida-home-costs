@@ -168,6 +168,6 @@ Storm damage (wind, hail) is typically covered minus your deductible. Normal wea
 Resurfacing a pool deck in Miami runs **$8,000 to $25,000** for most homes, with stamped concrete at the sweet spot of cost and durability. The most important thing to know: Miami's drainage codes are strict, and skipping permits can void your insurance. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install In-Ground Pool in Miami](https://floridahomecosts.com/pooling/cost-to-install-in-ground-pool-miami-2026/)
-- [Cost to Repair Pool Liner Florida](https://floridahomecosts.com/pooling/cost-to-repair-pool-liner-florida-2026/)
+- Cost to Install In-Ground Pool in Miami
+- Cost to Repair Pool Liner Florida
 - [Cost to Install Pool Fence Miami](https://floridahomecosts.com/pooling/cost-to-install-pool-fence-miami-2026/)

@@ -168,4 +168,4 @@ Replacing a water heater in Davie runs **$1,200 to $4,500** for most homes, with
 **Related guides you may find useful:**
 - [Cost to Repair a Leak in Davie Plumbing](/plumbing/cost-to-repair-leak-in-davie-2026/)
 - [Cost to Install Backflow Prevention Florida](/plumbing/cost-to-install-backflow-prevention-florida-2026/)
-- [Cost to Inspect Home for Plumbing Issues](/home-maintenance/cost-to-inspect-home-florida-2026/)
+- Cost to Inspect Home for Plumbing Issues

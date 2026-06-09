@@ -165,4 +165,4 @@ Installing impact windows in Boca Raton costs **$15,000 to $45,000** for most ho
 **Related guides you may find useful:**
 - [Cost to Install Hurricane Shutters Florida](/hurricane-protection/cost-to-install-hurricane-shutters-florida-2026/)
 - [Cost to Replace Roof in Fort Lauderdale](/roofing/cost-to-replace-roof-fort-lauderdale-2026/)
-- [Cost to Install Impact Windows in Miami](/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
+- Cost to Install Impact Windows in Miami

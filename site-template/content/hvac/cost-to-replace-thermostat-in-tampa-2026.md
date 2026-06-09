@@ -166,6 +166,6 @@ A simple swap takes **1–2 hours**. If new wiring is needed, it takes **3–5 h
 Replacing a thermostat in Tampa runs **$150 to $600** for most homes, with smart Wi-Fi models at the sweet spot of cost and functionality. The most important thing to know: Tampa's humidity requires thermostats with specific dehumidification settings to prevent mold. Get quotes from at least 3 licensed HVAC contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Replace AC Unit in Tampa 2026](/hvac/cost-to-replace-ac-unit-tampa-2026/)
+- Cost to Replace AC Unit in Tampa 2026
 - [Cost to Install Central Air Repair Tampa 2026](/hvac/central-air-repair-cost-tampa-2026/)
-- [Tampa Energy Efficiency Rebates 2026](/energy-efficiency/tampa-energy-efficiency-rebates-2026/)
+- Tampa Energy Efficiency Rebates 2026

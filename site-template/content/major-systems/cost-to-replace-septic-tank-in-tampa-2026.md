@@ -157,6 +157,6 @@ Standard policies usually exclude septic failure. You may need a specific endors
 Replacing a septic tank in Tampa runs **$8,000 to $25,000** for most homes, with concrete tanks at the sweet spot of cost and durability. The most important thing to know: Tampa's high water table and sandy soil require specific installation methods to prevent the tank from floating or cracking. Get quotes from at least 3 licensed plumbing contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Water Heater in Tampa 2026](https://floridahomecosts.com/major-systems/cost-to-install-water-heater-tampa-2026/)
+- Cost to Install Water Heater in Tampa 2026
 - [Cost to Repair Slab Foundation in Tampa 2026](https://floridahomecosts.com/major-systems/cost-to-repair-slab-foundation-tampa-2026/)
 - [Cost to Repair Sewer Line in Tampa 2026](https://floridahomecosts.com/major-systems/cost-to-sewer-line-repair-tampa-2026/)

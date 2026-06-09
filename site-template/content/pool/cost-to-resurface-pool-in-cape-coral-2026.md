@@ -166,6 +166,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Resurfacing a pool in Cape Coral runs **$8,000 to $16,000** for most homes, with pebble finishes at the sweet spot of cost and performance. The most important thing to know: Cape Coral's high water table and sandy soil add cost but your new pool meets some of the toughest water management standards in the country — and it keeps you insurable in a market where carriers are reviewing older pools every day. Get quotes from at least 3 licensed Florida pool contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Pool Safety Fence in Cape Coral 2026](/pool/cost-to-install-pool-safety-fence-cape-coral-2026/)
+- Cost to Install Pool Safety Fence in Cape Coral 2026
 - [Cost to Install Pool Heater Florida](/pool/cost-to-install-pool-heater-florida-2026/)
 - [Cost to Replace Pool Pump in Southwest Florida](/pool/cost-to-replace-pump-florida-2026/)

@@ -171,4 +171,4 @@ Replacing an AC compressor in Miami costs **$3,500 to $7,500**, with the average
 **Related guides you may find useful:**
 - [Cost to Install Central Air Conditioning in Miami](/hvac/cost-to-install-central-air-miami-2026/)
 - [Cost to Replace AC Unit in Miami](/hvac/cost-to-replace-ac-unit-miami-2026/)
-- [Cost to Install Impact Windows in Miami](/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
+- Cost to Install Impact Windows in Miami

@@ -166,6 +166,6 @@ Quality LED fixtures last **15–20 years**. The bulbs themselves often last **2
 Installing landscape lighting in Fort Lauderdale runs **$2,500 to $7,000** for most homes, with mid-range systems offering the best value. The most important thing to know: Fort Lauderdale’s coastal environment demands high-quality, corrosion-resistant fixtures and proper permits. Cheap lights rust and fail fast. Get quotes from at least 3 licensed Florida contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Irrigation Systems in Fort Lauderdale 2026](https://floridahomecosts.com/exterior/cost-to-install-irrigation-systems-fort-lauderdale-2026/)
+- Cost to Install Irrigation Systems in Fort Lauderdale 2026
 - [Cost to Build Patio in Fort Lauderdale 2026](https://floridahomecosts.com/exterior/cost-to-build-patio-fort-lauderdale-2026/)
 - [Cost to Install Pool Fencing in Fort Lauderdale 2026](https://floridahomecosts.com/exterior/cost-to-install-pool-fencing-fort-lauderdale-2026/)

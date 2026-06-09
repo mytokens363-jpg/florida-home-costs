@@ -169,5 +169,5 @@ Rewiring a house in Florida costs **$8,000 to $18,000** for most single-family h
 
 **Related guides you may find useful:**
 - [Cost to Install EV Charger in Florida 2026](https://floridahomecosts.com/electrical/cost-to-install-ev-charger-florida-2026/)
-- [Cost to Install Surge Protectors Florida 2026](https://floridahomecosts.com/electrical/cost-to-install-surge-protectors-florida-2026/)
+- Cost to Install Surge Protectors Florida 2026
 - [Cost to Replace Electrical Panel in Miami 2026](https://floridahomecosts.com/electrical/cost-to-replace-electrical-panel-miami-2026/)

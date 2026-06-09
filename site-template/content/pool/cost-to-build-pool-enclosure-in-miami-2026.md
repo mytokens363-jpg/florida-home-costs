@@ -167,5 +167,5 @@ Building a pool enclosure in Miami runs **$25,000 to $60,000** for most homes, w
 
 **Related guides you may find useful:**
 - [Cost to Install In-Ground Pool in Miami 2026](https://floridahomecosts.com/pool/cost-to-install-in-ground-pool-miami-2026/)
-- [Cost to Install Impact Windows in Miami 2026](https://floridahomecosts.com/hurricane-protection/cost-to-install-impact-windows-miami-2026/)
+- Cost to Install Impact Windows in Miami 2026
 - [Cost to Replace Pool Deck in Miami 2026](https://floridahomecosts.com/pool/cost-to-replace-pool-deck-miami-2026/)

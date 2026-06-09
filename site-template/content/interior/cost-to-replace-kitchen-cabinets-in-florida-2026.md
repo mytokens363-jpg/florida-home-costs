@@ -165,4 +165,4 @@ Replacing kitchen cabinets in Florida runs **$5,000 to $25,000** for most homes,
 **Related guides you may find useful:**
 - [Cost to Remodel Kitchen in Tampa 2026](https://floridahomecosts.com/interior/cost-to-remodel-kitchen-in-tampa-2026/)
 - [Cost to Install Quartz Countertops in Florida 2026](https://floridahomecosts.com/interior/cost-to-install-quartz-countertops-in-florida-2026/)
-- [Cost to Replace Bathroom Vanities in Orlando 2026](https://floridahomecosts.com/interior/cost-to-replace-bathroom-vanities-in-orlando-2026/)
+- Cost to Replace Bathroom Vanities in Orlando 2026

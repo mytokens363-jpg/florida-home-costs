@@ -161,6 +161,6 @@ Storm damage (wind, hail, fallen trees) is typically covered minus your deductib
 Building an inground pool in St. Petersburg runs **$45,000 to $120,000** for most homes, with fiberglass shells at the sweet spot of cost and performance. The most important thing to know: Pinellas County's high water table requires engineering work to keep your pool from floating, and safety barrier codes are strict. Get quotes from at least 3 licensed Florida pool contractors and verify every license at MyFloridaLicense.com.
 
 **Related guides you may find useful:**
-- [Cost to Install Fiberglass Pool in Florida 2026](https://floridahomecosts.com/pool/cost-to-install-fiberglass-pool-in-florida-2026/)
-- [Cost to Replace Pool Pump and Filter in St. Petersburg 2026](https://floridahomecosts.com/pool/cost-to-replace-pump-filter-st-petersburg-2026/)
-- [Cost to Insure Home with Pool in Florida 2026](https://floridahomecosts.com/insurance/cost-to-insure-home-with-pool-florida-2026/)
+- Cost to Install Fiberglass Pool in Florida 2026
+- Cost to Replace Pool Pump and Filter in St. Petersburg 2026
+- Cost to Insure Home with Pool in Florida 2026
