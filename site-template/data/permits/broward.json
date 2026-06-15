@@ -1,0 +1,169 @@
+{
+  "county": "broward",
+  "display_name": "Broward County",
+  "state": "FL",
+  "metro_areas": ["Fort Lauderdale", "Hollywood", "Pembroke Pines", "Coral Springs", "Pompano Beach", "Davie", "Plantation", "Sunrise", "Miramar", "Deerfield Beach", "Tamarac", "Coconut Creek", "Weston", "Parkland", "Lauderhill", "Lauderdale Lakes", "Oakland Park", "Hallandale Beach", "Dania Beach", "Wilton Manors"],
+  "hvhz": true,
+  "design_wind_speed_mph": {
+    "risk_category_ii": 170,
+    "risk_category_iii": 185,
+    "risk_category_iv": 195
+  },
+  "data_source_url": "https://www.broward.org/Building/Elevators/Documents/Building_Permits_Fee_Schedule.pdf",
+  "data_source_document": "Broward CAC Chapter 40 Sections 40.27-40.33, Supp. No. 27 Update 4 (Created 2025-05-05). Most recent ordinance: Ord. 2025-038 adopted 2025-02-25, effective 2025-05-01.",
+  "last_verified": "2026-06-09",
+  "schema_version": "1.1",
+  "permits": {
+    "structural_permit": {
+      "type": "tiered_by_value",
+      "tiers": [
+        {"max_value_usd": 9999999.99, "fee_usd_per_100": 3.00},
+        {"max_value_usd": null, "fee_usd_per_100": 2.50}
+      ],
+      "minimum_usd": 125.00,
+      "applies_to": "Structural permits covering new residential and commercial construction, additions, alterations/repairs, window/door replacement, swimming pools, screen enclosures, fences, and the structural portion of solar PV installations.",
+      "source_section": "Broward CAC § 40.29.b (rate) + § 40.27.d.11 (minimum)",
+      "notes": "Broward charges a flat trade percentage rather than per-square-foot or per-trade-unit. The 3.0%/2.5% tier converts to $3.00/$100 and $2.50/$100 of job value respectively. Job value = greater of RSMeans Manual (latest edition) estimate or applicant's estimate. Permit fee includes standard inspections; excludes plan review and reinspection fees."
+    },
+    "electrical_permit": {
+      "type": "tiered_by_value",
+      "tiers": [
+        {"max_value_usd": 9999999.99, "fee_usd_per_100": 3.00},
+        {"max_value_usd": null, "fee_usd_per_100": 2.50}
+      ],
+      "minimum_usd": 125.00,
+      "applies_to": "All electrical work: service installations, panel replacements/upgrades, residential wiring, generator electrical, electric vehicle chargers, and the electrical portion of solar PV.",
+      "source_section": "Broward CAC § 40.30",
+      "notes": "Same 3.0%/2.5% structure as structural. Job value calculation identical: RSMeans Manual vs applicant estimate, whichever is greater."
+    },
+    "mechanical_permit": {
+      "type": "tiered_by_value",
+      "tiers": [
+        {"max_value_usd": 9999999.99, "fee_usd_per_100": 3.00},
+        {"max_value_usd": null, "fee_usd_per_100": 2.50}
+      ],
+      "minimum_usd": 125.00,
+      "applies_to": "Mechanical permits covering air conditioning, heating, refrigeration, and ventilation systems. Includes HVAC install, replace, and exact change-out (no separate residential hardening rate as in Miami-Dade).",
+      "source_section": "Broward CAC § 40.31",
+      "notes": "Same 3.0%/2.5% structure as structural. Includes ducted and ductless systems."
+    },
+    "plumbing_permit": {
+      "type": "tiered_by_value",
+      "tiers": [
+        {"max_value_usd": 9999999.99, "fee_usd_per_100": 3.00},
+        {"max_value_usd": null, "fee_usd_per_100": 2.50}
+      ],
+      "minimum_usd": 125.00,
+      "applies_to": "All plumbing work: new construction plumbing, water heater install/replace (any size), sewer line, water service, fixture replacement, and backflow prevention.",
+      "source_section": "Broward CAC § 40.32",
+      "notes": "Same 3.0%/2.5% structure as structural. No separate water-heater-specific or change-out fees."
+    },
+    "roofing_permit": {
+      "type": "tiered_by_value",
+      "tiers": [
+        {"max_value_usd": 9999999.99, "fee_usd_per_100": 3.00},
+        {"max_value_usd": null, "fee_usd_per_100": 2.50}
+      ],
+      "minimum_usd": 250.00,
+      "applies_to": "Roof replacement and repair on all building types. Rate calculated under structural permit fees but higher $250 minimum applies per § 40.27.d.11.",
+      "source_section": "Broward CAC § 40.27.d.11 (minimum) + § 40.29.b (rate)",
+      "notes": "Roofing is the only trade with an elevated minimum permit fee ($250 vs $125 standard). HVHZ wind-borne debris region applies countywide; secondary water barrier required."
+    }
+  },
+  "operational_fees": {
+    "minimum_permit_fee_usd": 125.00,
+    "additional_inspection_fee_usd": 100.00,
+    "overtime_inspection_per_hour_usd": 132.00,
+    "holiday_inspection_per_hour_usd": 132.00,
+    "holiday_inspection_minimum_hours": 3,
+    "permit_extension_fee_usd": 50.00,
+    "lost_permit_card_fee_usd": 50.00,
+    "double_fee_no_permit_pct": 1.00,
+    "notes": "Ord 2025-038 (effective 2025-05-01) added a $125 Permit Application Processing Fee, paid at submittal, nonrefundable, IN ADDITION TO the eventual permit fee. Reinspection fees escalate per violation: $100 (1st), $200 (2nd), $300 (3rd), $400 (4th). Plan examiner overtime rate is $147/hr (higher than inspector $132/hr); both subject to 3-hour minimum. Normal operating hours are 7:30 AM-4:00 PM Mon-Fri (overtime outside that window or any holiday hour). Replacement of plans: $50 per trade. Minor change of plans and conference with plan reviewers: $98/hr. Change of contractor: $75. Property research fee: $50 per request. Preapplication plan review: $98/hr. Preinspection: $100. Permit may be renewed within 180 days of expiration at half the original fee (or the $125 minimum, whichever is greater). Building/structural permit fees do not include plan review or reinspections — those are charged separately. Broward does NOT publish typical residential permit processing days as a standard estimate; processing time depends on application complexity and Private Provider option selection."
+  },
+  "surcharges_and_fees": {
+    "dbpr_bcaif_surcharge_percentage": 0.015,
+    "dca_surcharge_percentage": 0.010,
+    "training_education_percentage": 0.020,
+    "public_awareness_percentage": 0.005,
+    "notes": "Total mandatory surcharges currently captured: ~5.0% of permit + plan review fee (DBPR/BCAIF 1.5% + FS 553.721 1.0% + Training & Continuing Education 2.0% + Public Awareness 0.5%). BORA surcharge per Broward CAC § 43.1 is additional but rate not yet captured — the true total is higher by the BORA amount. State statutory surcharges (apply countywide): DBPR/BCAIF 1.5% per FS 468.631 and the FS 553.721 surcharge 1.0% (administered by DBPR, not DCA — historical 1.5% rate reduced circa 2017). Both have a $2/permit statutory minimum; county retains 10% of each. Broward-specific surcharges per Broward CAC § 40.27.d.2: Training & Continuing Education $0.02 per $1.00 of permit + plan review fee (= 2.0%) and Public Awareness $0.005 per $1.00 (= 0.5%). BORA per Broward CAC § 43.1 — Municode HTML page returns 403 to scraping; flagged for Phase A1.5 verification queue. Code Administration per-$1000 fee (as in Miami-Dade) does not appear in Broward's schedule."
+  },
+  "labor_cost_premium": {
+    "vs_national_average_percent_min": 15,
+    "vs_national_average_percent_max": 25,
+    "source_quality": "estimate_from_published_market_data",
+    "sources": [
+      "BLS Occupational Employment and Wage Statistics, Florida (Miami-Fort Lauderdale-West Palm Beach MSA)",
+      "RSMeans City Cost Index for South Florida metros"
+    ],
+    "notes": "HVHZ counties command higher labor premium than non-HVHZ Florida counties. Hurricane season demand and NOA-required specialized installer requirements both contribute. Broward shares Miami-Dade's labor market (same MSA) and the same product approval requirements (Broward accepts Miami-Dade NOA). Per Broward CAC § 40.29, job value calculations use RSMeans Manual when applicant's estimate is lower."
+  },
+  "incorporated_city_notes": {
+    "_scope_note": "Broward has 31 incorporated municipalities. The 4 below are the largest by population (Fort Lauderdale 184k, Pembroke Pines 171k, Hollywood 154k, Pompano Beach 113k) and each operates its own building department with separate fee schedules. Many other Broward cities also maintain separate building departments and fee schedules but are not listed in this v1.",
+    "Fort Lauderdale": {
+      "uses_own_schedule": true,
+      "source_url": "https://www.fortlauderdale.gov/departments/sustainable-development/development-services-division",
+      "notes": "City of Fort Lauderdale Department of Sustainable Development maintains its own permit fees."
+    },
+    "Pembroke Pines": {
+      "uses_own_schedule": true,
+      "source_url": "https://www.ppines.com/106/Building-Division",
+      "notes": "City of Pembroke Pines Building Division."
+    },
+    "Hollywood": {
+      "uses_own_schedule": true,
+      "source_url": "https://www.hollywoodfl.org/161/Building-Division",
+      "notes": "City of Hollywood Building Division maintains its own permit fees."
+    },
+    "Pompano Beach": {
+      "uses_own_schedule": true,
+      "source_url": "https://www.pompanobeachfl.gov/government/development-services/building-permitting",
+      "notes": "City of Pompano Beach Development Services maintains its own permit fees."
+    }
+  },
+  "special_requirements": {
+    "hvhz_notice_of_acceptance": {
+      "required": true,
+      "applies_to": "Exterior wind-rated products (windows, doors, roofing, shutters)",
+      "search_url": "https://www.miamidade.gov/building/pc-search_app.asp",
+      "notes": "Broward is in HVHZ per FBC. Broward accepts Miami-Dade Notice of Acceptance (NOA) listings — same product approval system. Florida Product Approval alone is insufficient for HVHZ work."
+    },
+    "wind_borne_debris_region": {
+      "applies_to": "Countywide — all exterior openings require impact-rated glazing or shuttered protection per FBC.",
+      "notes": "HVHZ counties (Miami-Dade and Broward) are in the wind-borne debris region for the entire county per FBC 8th Edition."
+    },
+    "forty_year_recertification": {
+      "required": true,
+      "applies_to": "Buildings 40 years old, then at 10-year intervals — per Broward FBC amendments § 109.14",
+      "application_fee_initial_usd": 350.00,
+      "application_fee_subsequent_10yr_usd": 350.00,
+      "extension_request_fee_usd": 50.00,
+      "source_section": "Broward CAC § 40.28.f",
+      "notes": "Officially named 'Broward County Building Safety Inspection Program' per § 40.28.f and § 109.14 of Broward FBC amendments. Fee structure is simpler than Miami-Dade's (Broward $350/$350/$50 vs Miami-Dade $375 initial / $421.88 late / $70.31 extension / $157.25 QC per-trade / $92.48 QC reinspection)."
+    },
+    "fbc_8th_edition": {
+      "effective_date": "2023-12-31",
+      "wind_load_standard": "ASCE 7-22",
+      "notes": "Florida Building Code 8th Edition (2023) is current. Replaces FBC 7th Edition (2020)."
+    },
+    "coastal_construction_control_line": {
+      "applies_to": "Eastern coastal Broward municipalities seaward of the CCCL: Hollywood, Pompano Beach, Lauderdale-by-the-Sea, Hillsboro Beach, Hallandale Beach, Dania Beach, Sea Ranch Lakes, and portions of unincorporated Broward.",
+      "additional_review": "State DEP review required in addition to local permit.",
+      "notes": "Coastal construction within CCCL has additional state-level requirements."
+    },
+    "private_provider_option": {
+      "applies_to": "Owner or contractor may elect to use a state-licensed private provider for plan review and/or inspections per FS 553.791.",
+      "fee_reduction_inspections_only_per_inspection_usd": 100.00,
+      "private_provider_clerical_per_hour_usd": 37.70,
+      "private_provider_building_official_per_hour_usd": 99.80,
+      "source_section": "Broward CAC § 40.27.d.12",
+      "notes": "Broward-specific cost-reduction path with no Miami-Dade equivalent in the data layer. Inspections-only: permit fee reduced by $100 per inspection that the private provider will perform. Both plan review AND inspections: billed at the hourly rates above (each subject to up to 5% annual increase to address operating and labor cost increases). Adds Section 40.29(a) Certificate of Occupancy fees on top."
+    },
+    "premium_service_fee": {
+      "applies_to": "Customers electing enhanced plan review and/or inspection services per Exhibit 40.B.",
+      "fee_per_hour_usd": 214.00,
+      "source_section": "Broward CAC § 40.28.d",
+      "notes": "Charged in addition to applicable permit and plan review fees. No Miami-Dade equivalent."
+    }
+  }
+}
