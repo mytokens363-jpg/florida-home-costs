@@ -214,9 +214,9 @@
   "surcharges_and_fees": {
     "county_surcharge_percentage": 0.075,
     "dbpr_bcaif_surcharge_percentage": 0.015,
-    "dca_surcharge_percentage": 0.015,
+    "dca_surcharge_percentage": 0.010,
     "code_admin_fee_per_1000_value_usd": 0.60,
-    "notes": "Miami-Dade RER surcharge of 7.5% applies on all Building Permitting fees except Enforcement (IO-04-63 Section I.A.15). State statutory DBPR/BCAIF 1.5% per FS 468.631 and DCA 1.5% per FS 553.721 apply on top. Code Administration fee assessed at $0.60 per $1,000 of work value (IO-04-63 Section V.E)."
+    "notes": "Miami-Dade RER surcharge of 7.5% applies on all Building Permitting fees except Enforcement (IO-04-63 Section I.A.15). State statutory DBPR/BCAIF 1.5% per FS 468.631 applies on top. FS 553.721 surcharge is 1.0% per current statute (administered by DBPR, not DCA). The historical 1.5% rate applied before circa 2017. Statutory minimum $2/permit; local government retains 10% of collected surcharge. Code Administration fee assessed at $0.60 per $1,000 of work value (IO-04-63 Section V.E)."
   },
   "processing_time": {
     "typical_days_min": 30,

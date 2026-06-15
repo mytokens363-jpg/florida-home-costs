@@ -95,7 +95,7 @@
       "properties": {
         "county_surcharge_percentage": {"type": "number", "minimum": 0, "maximum": 1, "description": "County-specific surcharge applied to permit fees (e.g., Miami-Dade RER surcharge 7.5%)"},
         "dbpr_bcaif_surcharge_percentage": {"type": "number", "minimum": 0, "maximum": 1, "description": "Building Code Administrators and Inspectors Fund surcharge, statutory per FS 468.631. Statewide value is 1.5%."},
-        "dca_surcharge_percentage": {"type": "number", "minimum": 0, "maximum": 1, "description": "Department of Community Affairs surcharge, statutory per FS 553.721. Statewide value is 1.5%."},
+        "dca_surcharge_percentage": {"type": "number", "minimum": 0, "maximum": 1, "description": "FS 553.721 surcharge (administered by DBPR; agency formerly known as DCA). Statutory rate is 1.0% as of FS 553.721 (verified 2026-06-09 against 2025 Florida Statutes). Historical 1.5% rate was reduced circa 2017. Statutory minimum $2/permit; local government retains 10%."},
         "training_education_percentage": {"type": "number", "minimum": 0, "maximum": 1, "description": "Training and continuing education fee, where collected as percentage of permit fee."},
         "public_awareness_percentage": {"type": "number", "minimum": 0, "maximum": 1, "description": "Public awareness fee, where collected as percentage of permit fee."},
         "code_admin_fee_per_1000_value_usd": {"type": "number", "minimum": 0, "description": "Code administration fee per $1,000 of work value (e.g., Miami-Dade $0.60/$1,000)."},
