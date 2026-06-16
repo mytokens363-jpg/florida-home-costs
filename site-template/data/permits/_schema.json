@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://floridahomecosts.com/data/permits/_schema.json",
   "title": "Florida County Permit Fee Data",
-  "description": "Authoritative permit fee + Florida-specific context data, per county. v1.1.",
+  "description": "Authoritative permit fee + Florida-specific context data, per county. v1.2.",
   "type": "object",
   "required": [
     "county", "display_name", "state", "metro_areas", "hvhz",
@@ -99,6 +99,8 @@
         "training_education_percentage": {"type": "number", "minimum": 0, "maximum": 1, "description": "Training and continuing education fee, where collected as percentage of permit fee."},
         "public_awareness_percentage": {"type": "number", "minimum": 0, "maximum": 1, "description": "Public awareness fee, where collected as percentage of permit fee."},
         "code_admin_fee_per_1000_value_usd": {"type": "number", "minimum": 0, "description": "Code administration fee per $1,000 of work value (e.g., Miami-Dade $0.60/$1,000)."},
+        "radon_fee_per_sqft_usd": {"type": "number", "minimum": 0, "description": "State Radon fee, per square foot under roof (v1.2). Statutory rate per FS 553.71. PBC publishes this at $0.005/sqft; current statute should be verified for the rate value before any article cites a specific number — see project memory A1.5 queue for verification task."},
+        "certification_maintenance_per_sqft_usd": {"type": "number", "minimum": 0, "description": "Certification Maintenance fee, per square foot under roof (v1.2). Statutory basis to be verified — see project memory A1.5 queue. PBC publishes this at $0.005/sqft."},
         "notes": {"type": "string"}
       }
     },
@@ -125,7 +127,7 @@
         "vs_national_average_percent_max": {"type": "number"},
         "source_quality": {
           "type": "string",
-          "enum": ["estimate_from_published_market_data", "estimate_from_anecdote", "verified_official_data"]
+          "enum": ["verified_official_data", "inferred_from_operational_consistency", "estimate_from_published_market_data", "estimate_from_anecdote"]
         },
         "sources": {"type": "array", "items": {"type": "string"}, "minItems": 1},
         "notes": {"type": "string"}
@@ -213,6 +215,11 @@
         "applies_to": {"type": "string"},
         "source_url": {"type": "string", "format": "uri"},
         "source_section": {"type": "string", "description": "Specific section/subsection of the source document (e.g. 'IO-04-63 Section I.B.3')"},
+        "source_quality": {
+          "type": "string",
+          "enum": ["verified_official_data", "inferred_from_operational_consistency", "estimate_from_published_market_data", "estimate_from_anecdote"],
+          "description": "Optional (v1.2). Quality marker for this specific permit fee value. Use when the value isn't directly verified against the current authoritative source document — e.g., 'inferred_from_operational_consistency' when the value comes from an older proposed/draft schedule whose fixed-fee amounts still match the current operational fee dictionary. Omission means the value is directly verified against the authoritative source identified in data_source_document."
+        },
         "notes": {"type": "string"}
       },
       "oneOf": [
