@@ -1,0 +1,311 @@
+{
+  "county": "palm-beach",
+  "display_name": "Palm Beach County",
+  "state": "FL",
+  "metro_areas": [
+    "West Palm Beach",
+    "Boca Raton",
+    "Boynton Beach",
+    "Delray Beach",
+    "Wellington",
+    "Jupiter",
+    "Lake Worth",
+    "Royal Palm Beach",
+    "Greenacres",
+    "Palm Beach Gardens",
+    "Riviera Beach",
+    "Belle Glade",
+    "Loxahatchee",
+    "Pahokee",
+    "Tequesta"
+  ],
+  "hvhz": false,
+  "design_wind_speed_mph": {
+    "risk_category_ii": 170,
+    "risk_category_iii": 180,
+    "risk_category_iv": 195
+  },
+  "data_source_url": "https://discover.pbcgov.org/pzb/PDF/Fees.pdf",
+  "data_source_document": "Palm Beach County Planning, Zoning and Building Department fee dictionary (PDF generated 2026-03-02, 27 pages). Underlying authority: PBC Code of Ordinances Chapter 7 § 7-50 (Building) and the 'Proposed Permit Fee Adjustments — Exhibit A' document (Revised 08-04-09), the latter still operationally in force as evidenced by fixed-fee continuity (e.g., AC change-out $100, shutters $150/20 openings, residential fence $125, pool-barrier-in-yard $150 all appear verbatim in both the 2009 and 2026 schedules).",
+  "last_verified": "2026-06-16",
+  "schema_version": "1.2",
+  "permits": {
+    "building_permit_by_valuation": {
+      "type": "tiered_by_value",
+      "tiers": [
+        {"max_value_usd": 2000, "fee_usd": 75},
+        {"max_value_usd": 10000, "fee_usd_per_100": 2.50},
+        {"max_value_usd": 100000, "fee_usd_per_100": 1.75},
+        {"max_value_usd": 300000, "fee_usd_per_100": 1.00},
+        {"max_value_usd": null, "fee_usd_per_100": 0.75}
+      ],
+      "minimum_usd": 75,
+      "applies_to": "Default 'By Value' valuation formula used across most PBC permit categories (structural, electrical, mechanical, plumbing, roofing reroofs, additions, alterations, residential renovations, pools, generators >1-2 family, and dozens of additional categories shown in the 2026-03-02 fee dictionary as 'By Value ($75 Minimum)'). Excludes the fixed-fee categories explicitly listed below, which override the valuation formula.",
+      "source_section": "PBC Proposed Permit Fee Adjustments (Revised 08-04-09) Exhibit A § I.A — Base Permit Fees",
+      "source_quality": "inferred_from_operational_consistency",
+      "notes": "PROGRESSIVE 5-tier formula (NOT full-bracket): a $50,000 permit pays $75 (first $2,000) + 2.50% on $2,001-$10,000 ($200) + 1.75% on $10,001-$50,000 ($700) = $975. Marked 'inferred_from_operational_consistency' because the formula is published only in the 2009 'Proposed Permit Fee Adjustments' document (Exhibit A § I.A) — the 2026-03-02 operational fee dictionary lists hundreds of permit categories with the wording 'By Value ($75 Minimum)' which presupposes a published valuation formula, and the 2009 document is the only such formula PBC has published. The $75 minimum from Tier 1 appears verbatim in essentially every By-Value entry in the 2026 dictionary, and several 2009 fixed-fee values (AC change-out $100, shutter $150/20 openings, residential fence $125, pool-barrier-in-yard $150) appear verbatim in the 2026 dictionary. This continuity establishes operational consistency, supporting the inference that the 2009 progressive valuation formula is administratively in force in 2026 even though direct verification against PBC Code Ch 7 § 7-50 was blocked by Municode's Angular SPA (which JS-blocks scraping). Schema-level note: the schema's `tiered_by_value` type doesn't currently distinguish progressive vs full-bracket application — that distinction is captured here in notes and is an A1.5 validator-script concern for writer-v2."
+    },
+    "ac_change_out_residential": {
+      "type": "flat",
+      "fee_usd": 100,
+      "applies_to": "Like-for-like residential air-conditioning equipment change-out within a single dwelling unit. Per unit.",
+      "source_section": "PBC Fee Dictionary 2026-03-02 p10 ('HVAC - Exact C/O - Res - W/In Single Unit (Like for Like)')",
+      "source_quality": "verified_official_data",
+      "notes": "Same $100 amount as 2009 Exhibit A § II.A.1 — fee unchanged for 17 years. Hard-wired condensers or work outside the like-for-like envelope fall under either the prepaid-permit program (II.E.2.b) or general HVAC valuation."
+    },
+    "ac_change_out_commercial_per_10_units": {
+      "type": "flat",
+      "fee_usd": 150,
+      "applies_to": "Commercial or multi-residential common-area HVAC equipment change-out, billed per 10 units (or fraction thereof).",
+      "source_section": "PBC Fee Dictionary 2026-03-02 p10 ('HVAC - Eqpmt C/O - Comm/Common Multi-Res')",
+      "source_quality": "verified_official_data"
+    },
+    "shutters_per_20_openings": {
+      "type": "flat",
+      "fee_usd": 150,
+      "applies_to": "Hurricane shutter installation, billed per 20 openings or fraction thereof (NOT per single opening).",
+      "source_section": "PBC Fee Dictionary 2026-03-02 p17 ('Shutter $150 Per 20 Openings')",
+      "source_quality": "verified_official_data",
+      "notes": "Fee is per 20-opening increment, not per single opening. A typical SFD installation of 12-18 openings = $150 (1 increment). A larger home with 30 openings = $300 (2 increments). Same $150 amount as 2009 Exhibit A § II.I.3 — unchanged."
+    },
+    "windows_doors_per_20_openings_no_shutters": {
+      "type": "flat",
+      "fee_usd": 100,
+      "applies_to": "Window and/or entry door replacement, per 20 openings or fraction thereof, when shutters are NOT also installed.",
+      "source_section": "PBC Proposed Permit Fee Adjustments (Revised 08-04-09) Exhibit A § II.I.1",
+      "source_quality": "inferred_from_operational_consistency",
+      "notes": "From 2009 Exhibit A; the 2026 dictionary lists window/door replacements as 'By Value ($75 Minimum)' alongside per-20-opening pricing for shutters specifically, suggesting per-opening billing remains an available option for window-only jobs. If only the By-Value path is in current use, this entry should be reclassified — flag for A1.5 verification."
+    },
+    "windows_doors_with_shutters_per_20_openings": {
+      "type": "flat",
+      "fee_usd": 200,
+      "applies_to": "Window and/or entry door replacement WITH shutters, per 20 openings or fraction thereof.",
+      "source_section": "PBC Proposed Permit Fee Adjustments (Revised 08-04-09) Exhibit A § II.I.2",
+      "source_quality": "inferred_from_operational_consistency"
+    },
+    "garage_door_per_3_openings": {
+      "type": "flat",
+      "fee_usd": 100,
+      "applies_to": "Garage door replacement, per 3 openings or fraction thereof.",
+      "source_section": "PBC Proposed Permit Fee Adjustments (Revised 08-04-09) Exhibit A § II.I.4",
+      "source_quality": "inferred_from_operational_consistency"
+    },
+    "fence_residential": {
+      "type": "flat",
+      "fee_usd": 125,
+      "applies_to": "Residential perimeter fence, with required inspection. Per permit.",
+      "source_section": "PBC Fee Dictionary 2026-03-02 p8 ('Fence - Residential $125 Each')",
+      "source_quality": "verified_official_data",
+      "notes": "$75 alternative tier exists in 2009 Exhibit A § II.L.1 for 'no-inspection' residential fences; current 2026 dictionary lists the inspected $125 amount as the standard residential rate."
+    },
+    "fence_commercial_per_500_lf": {
+      "type": "flat",
+      "fee_usd": 100,
+      "applies_to": "Commercial fence, billed per 500 linear feet or fraction thereof, with required inspection.",
+      "source_section": "PBC Fee Dictionary 2026-03-02 p8 ('Fence - Commercial $100 Per 500 Liner Foot')",
+      "source_quality": "verified_official_data"
+    },
+    "pool_barrier_in_yard": {
+      "type": "flat",
+      "fee_usd": 150,
+      "applies_to": "New in-yard pool barrier (fence or wall around pool perimeter), with plan review and inspection. Florida requires a pool barrier per FS 515.27 — typically required as part of a pool permit, or as a standalone permit when retrofitting an existing pool.",
+      "source_section": "PBC Fee Dictionary 2026-03-02 p8 ('Fence - Pool Barrier - In Yard $150 Each')",
+      "source_quality": "verified_official_data"
+    },
+    "pool_barrier_on_deck": {
+      "type": "flat",
+      "fee_usd": 100,
+      "applies_to": "New on-deck pool barrier (railing or partial enclosure on pool deck), with plan review and inspection.",
+      "source_section": "PBC Fee Dictionary 2026-03-02 p8 ('Fence - Pool Barrier - New On Deck $100 Each')",
+      "source_quality": "verified_official_data"
+    },
+    "pool_screen_enclosure": {
+      "type": "flat",
+      "fee_usd": 200,
+      "applies_to": "Pool screen enclosure (cage). Sub-permit fee when added to a primary pool permit.",
+      "source_section": "PBC Fee Dictionary 2026-03-02 p14 ('Pool Barrier Screen Enclosure (Sub) $200 Each')",
+      "source_quality": "verified_official_data"
+    },
+    "roofing_flat_small": {
+      "type": "flat",
+      "fee_usd": 150,
+      "applies_to": "Flat roof installation under 4 squares (400 sq ft) on 1 & 2 family dwellings, pre-approved roof systems only, under the prepay permit program.",
+      "source_section": "PBC Fee Dictionary 2026-03-02 p16 ('Roofing Flat (less than 4 squares) $150 Each')",
+      "source_quality": "verified_official_data",
+      "notes": "Larger or non-pre-approved flat roofs fall under the general reroofing By-Value formula."
+    },
+    "roofing_repair_minor": {
+      "type": "flat",
+      "fee_usd": 75,
+      "applies_to": "Roof repair under 2 squares (200 sq ft) AND under $2,500 value.",
+      "source_section": "PBC Fee Dictionary 2026-03-02 p17 ('Roofing Repair (Under 2 Squares Or $2500 Value) $75 Each')",
+      "source_quality": "verified_official_data"
+    },
+    "roofing_penetrations_pre_approved": {
+      "type": "flat",
+      "fee_usd": 75,
+      "applies_to": "Roof penetrations, vents, skylights — installed under a Master Plan or with Product Approval (no individual plan review).",
+      "source_section": "PBC Fee Dictionary 2026-03-02 p16 ('Roofing Penetratious - Master/Product Approved $75 Each')",
+      "source_quality": "verified_official_data"
+    },
+    "roofing_penetrations_individual_review": {
+      "type": "flat",
+      "fee_usd": 100,
+      "applies_to": "Roof penetrations, vents, skylights — with individual plan review (no master plan).",
+      "source_section": "PBC Fee Dictionary 2026-03-02 p16 ('Roofing Penetratious - Vents/Skylights $100 Each')",
+      "source_quality": "verified_official_data"
+    },
+    "generator_electric_only_1_2_family": {
+      "type": "flat",
+      "fee_usd": 150,
+      "applies_to": "Standby generator for 1 & 2 family dwelling — electrical-only permit (no gas/fuel tank or fuel lines).",
+      "source_section": "PBC Fee Dictionary 2026-03-02 p6 ('Electrical Generator - Elec Only 1&2 Fam $150 Each')",
+      "source_quality": "verified_official_data"
+    },
+    "generator_with_tank_lines_1_2_family": {
+      "type": "flat",
+      "fee_usd": 250,
+      "applies_to": "Standby generator for 1 & 2 family dwelling — combined permit covering generator electrical + fuel tank and/or fuel lines.",
+      "source_section": "PBC Fee Dictionary 2026-03-02 p6 ('Electrical Generator and Tank and/or Lines 1-2 Family $250 Each')",
+      "source_quality": "verified_official_data"
+    },
+    "demolition_sfd_with_landscaping": {
+      "type": "flat",
+      "fee_usd": 400,
+      "applies_to": "Demolition of single-family dwelling, including vacant-lot landscaping restoration.",
+      "source_section": "PBC Fee Dictionary 2026-03-02 p13 ('Permit: Demo SFD w/vacant lot landscaping $400')",
+      "source_quality": "verified_official_data",
+      "notes": "The 2009 Exhibit A § II.H.1 listed SFD demolition at $250. The 2026 dictionary increased this to $400 and bundled vacant-lot landscaping into the same permit. The 2026 dictionary is the current operational source — $400 is the correct current value."
+    },
+    "demolition_accessory_or_vacant_landscaping": {
+      "type": "flat",
+      "fee_usd": 150,
+      "applies_to": "Demolition of accessory buildings (sheds, detached garages) OR vacant-lot landscaping work as a standalone permit.",
+      "source_section": "PBC Proposed Permit Fee Adjustments (Revised 08-04-09) Exhibit A § II.H.2",
+      "source_quality": "inferred_from_operational_consistency"
+    },
+    "demolition_interior_nonstructural": {
+      "type": "flat",
+      "fee_usd": 150,
+      "applies_to": "Interior demolition where no structural elements are removed.",
+      "source_section": "PBC Proposed Permit Fee Adjustments (Revised 08-04-09) Exhibit A § II.H.4",
+      "source_quality": "inferred_from_operational_consistency"
+    },
+    "water_heater_pool_heater_replacement_1_2_family": {
+      "type": "flat",
+      "fee_usd": 100,
+      "applies_to": "Water heater or pool heater replacement in 1 & 2 family dwellings, when hard-wiring is required.",
+      "source_section": "PBC Proposed Permit Fee Adjustments (Revised 08-04-09) Exhibit A § II.W.1",
+      "source_quality": "inferred_from_operational_consistency",
+      "notes": "Tankless water heater installations involving new gas and/or electric runs are listed in the 2026 dictionary as 'By Value ($75 Minimum)' rather than this flat rate — confirm fall-through behavior in writer-v2."
+    },
+    "accessory_building_36_400_sqft": {
+      "type": "flat",
+      "fee_usd": 200,
+      "applies_to": "Site-built accessory building (shed, detached garage) with floor area between 36 and 400 sq ft.",
+      "source_section": "PBC Proposed Permit Fee Adjustments (Revised 08-04-09) Exhibit A § II.B.2.b",
+      "source_quality": "inferred_from_operational_consistency",
+      "notes": "Accessory buildings larger than 400 sq ft fall under building_permit_by_valuation (By Value)."
+    },
+    "accessory_building_under_36_sqft_no_inspection": {
+      "type": "flat",
+      "fee_usd": 50,
+      "applies_to": "Site-built or prefab accessory building 36 sq ft or smaller — no inspections required.",
+      "source_section": "PBC Proposed Permit Fee Adjustments (Revised 08-04-09) Exhibit A § II.B.1.a / II.B.2.a",
+      "source_quality": "inferred_from_operational_consistency"
+    },
+    "pool_heater_residential_new": {
+      "type": "flat",
+      "fee_usd": 150,
+      "applies_to": "New swimming pool or spa heater with supply lines, including plan review and inspections.",
+      "source_section": "PBC Proposed Permit Fee Adjustments (Revised 08-04-09) Exhibit A § II.T.1",
+      "source_quality": "inferred_from_operational_consistency"
+    }
+  },
+  "operational_fees": {
+    "minimum_permit_fee_usd": 75,
+    "additional_inspection_fee_usd": 50,
+    "overtime_inspection_per_hour_usd": 100,
+    "holiday_inspection_per_hour_usd": 100,
+    "holiday_inspection_minimum_hours": 4,
+    "permit_extension_fee_usd": 75,
+    "lost_permit_card_fee_usd": 20,
+    "notes": "PBC's no-permit penalty is 4x normal fees ('Retroactive Permitting After Construction Start: 4 Times Fees' per 2009 Exhibit A § I.D), which would translate to a 3.0 multiplier in `double_fee_no_permit_pct` — but the schema currently caps that field at 1.0 (a v1.1 design assumption based on Miami-Dade's and Broward's 2x doubling penalty, which doesn't accommodate PBC's 4x). The field is therefore omitted; writer-v2 should not assume PBC uses a 2x doubling. Flag for schema v1.3 consideration: raise `double_fee_no_permit_pct` cap (or rename to a multiplier field that can express 1.0/2.0/3.0 directly). Reinspection escalates: $50 (1st), $100 (2nd), $200 (3rd+) per the 2026-03-02 fee dictionary (codes 50920/50930/50940) — this is a REDUCTION from the 2009 Exhibit A schedule which had $50/$100/$300. Use the 2026 values. Overtime/holiday inspection rate is $100/hr 'portal-to-portal' (includes drive time), with 2-hour minimum on workdays and 4-hour minimum on closed days; must be arranged by noon of previous work day. Lost permit card / duplicate $20; CO/CC duplicate after first free copy $20; plan re-stamp $50 base + $5 per sheet. Permit renewal: within 180 days of inactive $75; after 180 days, 30% of original permit fee (minimum $75). Revision of record: contractor change $75, owner change $50, lot change within plat $300. Pre-application design review $100 base + $20/sheet. Alternate Method and Material processing $150. Special foundation / RUSH tracking $150 (simple) or $300 (complex/new construction). State Required Construction Lien Law Notification: $5 flat per permit (2009 Exhibit A § I.E). SFD APPLICATION FEE TIERS BY HEATED/COOLED SQ FT (2009 Exhibit A § VI.A, application fees credited toward final permit fee, forfeited if not permitted): 0-800 sqft $500 / 801-1399 sqft $750 / 1400-1999 sqft $1,000 / 2000-3599 sqft $1,500 / 3600+ sqft $2,500. SFD VALUATION PER-SQFT RATE OMITTED: PBC's Permit Fee Schedule (2009 Exhibit A § I.A) references 'attached Exhibit B... as Valuation method required on single-family dwelling' but Exhibit B is not included in the published PDF and not surfaced elsewhere in the operational dictionary, the current permit application form, the online Building Fee Estimator (SharePoint Angular SPA, JS-blocked), or third-party permit-runner documentation. The SFD per-sqft valuation rate used to compute permit valuation appears to be administratively held by PBC and not publicly published. Flagged for A1.5 verification queue (item 9). Writer-v2 must NOT cite a specific PBC SFD per-sqft valuation rate until this is verified."
+  },
+  "surcharges_and_fees": {
+    "dbpr_bcaif_surcharge_percentage": 0.015,
+    "dca_surcharge_percentage": 0.010,
+    "radon_fee_per_sqft_usd": 0.005,
+    "certification_maintenance_per_sqft_usd": 0.005,
+    "notes": "State statutory surcharges apply countywide: DBPR/BCAIF 1.5% per FS 468.631, and the FS 553.721 surcharge 1.0% (administered by DBPR; legacy field key dca_surcharge_percentage preserved for back-compat). Both have a $2/permit statutory minimum; county retains 10% of each. PBC additionally collects two state fees as per-square-foot-under-roof amounts (not percentages): State Radon $0.005/sqft and Certification Maintenance $0.005/sqft — both per 2009 Exhibit A § I.C. PBC's published rates align with FS 553.71 (Radon Trust Fund) and the Building Code Administrators and Inspectors Fund framework. Statutory verification of both the FS 553.71 rate value and the statutory basis for Certification Maintenance is open in the A1.5 queue (items 7 and 8); writer-v2 should not cite a specific per-sqft dollar amount in published articles until this is closed. State Required Construction Lien Law Notification is a separate $5/permit fee captured in operational_fees.notes. PBC does NOT publish a county-specific percentage surcharge analogous to Miami-Dade RER (7.5%) or the Broward Training & Continuing Education / Public Awareness percentages — the only PBC-specific amounts on top of base permit fees are the per-sqft state fees plus retained portions of statutory surcharges."
+  },
+  "labor_cost_premium": {
+    "vs_national_average_percent_min": 10,
+    "vs_national_average_percent_max": 20,
+    "source_quality": "estimate_from_published_market_data",
+    "sources": [
+      "BLS Occupational Employment and Wage Statistics, Florida (Miami-Fort Lauderdale-West Palm Beach MSA)",
+      "RSMeans City Cost Index for South Florida metros"
+    ],
+    "notes": "PBC is non-HVHZ but coastal, so labor premium is lower than HVHZ counties (Miami-Dade and Broward, both 15-25%) but higher than interior FL. BLS groups PBC with Miami-Dade and Broward into a single MSA ('Miami-Fort Lauderdale-West Palm Beach'), so raw BLS wage data for the MSA overstates the PBC-specific premium — the 10-20% range reflects an adjustment downward for PBC's non-HVHZ status. Hurricane-season demand still applies (PBC is in the wind-borne debris region along the coast; see special_requirements.wind_borne_debris_region for the east/west partial-applicability note). Florida Product Approval (rather than Miami-Dade NOA) is sufficient for windborne-debris-rated exterior products in PBC, lowering installer-certification overhead vs HVHZ counties."
+  },
+  "incorporated_city_notes": {
+    "_scope_note": "Palm Beach County has 38 incorporated municipalities — significantly more than Miami-Dade (34) or Broward (31). The 4 below are the largest by population (West Palm Beach 117k, Boca Raton 98k, Boynton Beach 81k, Delray Beach 67k) and each operates its own building department with separate fee schedules. Many other PBC cities — including Wellington, Jupiter, Lake Worth Beach, Royal Palm Beach, Greenacres, Palm Beach Gardens, Riviera Beach — also maintain separate building departments and fee schedules but are not listed in this v1.",
+    "West Palm Beach": {
+      "uses_own_schedule": true,
+      "source_url": "https://www.wpb.org/government/departments-and-divisions/development-services/building-division",
+      "notes": "City of West Palm Beach Building Division maintains its own permit fees."
+    },
+    "Boca Raton": {
+      "uses_own_schedule": true,
+      "source_url": "https://www.myboca.us/179/Building",
+      "notes": "City of Boca Raton Building Department maintains its own permit fees."
+    },
+    "Boynton Beach": {
+      "uses_own_schedule": true,
+      "source_url": "https://www.boynton-beach.org/services/building-division",
+      "notes": "City of Boynton Beach Building Division maintains its own permit fees (separate $75 minimum fee schedule documented at boynton-beach.org)."
+    },
+    "Delray Beach": {
+      "uses_own_schedule": true,
+      "source_url": "https://www.delraybeachfl.gov/government/city-departments-h-z/sustainable-development-department/building-permits-inspections",
+      "notes": "City of Delray Beach Building Division maintains its own permit fees."
+    }
+  },
+  "special_requirements": {
+    "hvhz_status": {
+      "applies": false,
+      "notes": "PBC is NOT in the High Velocity Hurricane Zone per FBC. Only Miami-Dade and Broward are HVHZ. PBC accepts Florida Product Approval (FL#) for exterior wind-rated products — Miami-Dade NOA is also accepted but not required (FL# is sufficient countywide)."
+    },
+    "wind_borne_debris_region": {
+      "applies": "partial",
+      "applies_to": "Coastal and eastern Palm Beach County (per FBC R301.2.1.2 / ASCE 7-22 wind-borne debris region map — generally the coastal strip and zones within ~1 mile of Atlantic Ocean where wind speed contours equal or exceed 140 mph). The interior western portions of PBC (Belle Glade, Pahokee, South Bay, parts of Loxahatchee Groves and rural unincorporated west PBC) fall OUTSIDE the wind-borne debris region under current FBC contours.",
+      "notes": "IMPORTANT FLORIDA GEOGRAPHY NOTE: Unlike Miami-Dade and Broward (both wholly within WBDR), PBC has meaningful east-west variance. Eastern PBC (West Palm Beach, Boca, Delray, Jupiter, Palm Beach island, Riviera Beach, Boynton Beach) requires impact-rated glazing OR shutter protection on all exterior openings. Interior western PBC (Belle Glade, Pahokee, agricultural areas, parts of Wellington/Loxahatchee) is NOT in WBDR and does not require impact-rated/shuttered protection — though impact glazing is still common for insurance and hurricane resilience. Writer-v2 must NOT assume WBDR is countywide for PBC. The exact boundary follows ASCE 7-22 wind speed contours and is not strictly an east-west line."
+    },
+    "design_wind_speed_geographic_variance": {
+      "notes": "Design wind speeds within PBC vary east-to-west. The 170 mph (Cat II) / 180 mph (Cat III) / 195 mph (Cat IV) values stored at the county level are conservative defaults reflecting coastal/eastern PBC where most population and construction is concentrated. Interior agricultural western PBC may have lower design wind speed contours per ASCE 7-22 — verify against the specific site location using the Hurricane Wind Loads online tool or FBC 8th Edition wind speed maps for project-specific values."
+    },
+    "fbc_8th_edition": {
+      "effective_date": "2023-12-31",
+      "wind_load_standard": "ASCE 7-22",
+      "notes": "Florida Building Code 8th Edition (2023) is current. Replaces FBC 7th Edition (2020)."
+    },
+    "coastal_construction_control_line": {
+      "applies_to": "Coastal PBC municipalities seaward of the CCCL: Boca Raton, Highland Beach, Delray Beach, Gulf Stream, Briny Breezes, Ocean Ridge, South Palm Beach, Lantana, Manalapan, Lake Worth Beach (coastal portions), Palm Beach (Town of), Palm Beach Shores, Riviera Beach (coastal portions), Singer Island, Juno Beach, Jupiter (coastal portions), and Tequesta.",
+      "additional_review": "Florida DEP review required in addition to local permit for seaward-of-CCCL projects.",
+      "notes": "PBC has approximately 47 miles of Atlantic Ocean coastline — more than Broward (24 miles) and substantially less than Miami-Dade. The CCCL applies to a band of coastal property; not all coastal municipalities have property entirely seaward of the line."
+    },
+    "private_provider_option": {
+      "applies_to": "Owner or contractor may elect to use a state-licensed private provider for plan review and/or inspections per FS 553.791.",
+      "notes": "Statewide FS 553.791 mechanism applies in PBC. PBC's specific fee reductions and private-provider hourly billing rates for plan review and inspections are not surfaced in the public 2026-03-02 fee dictionary — verify via PBC Building Division Help Desk (561-233-5120) before citing specific numbers."
+    },
+    "expedited_permit_processing": {
+      "applies_to": "Owner or contractor may request expedited permit processing per 2009 Exhibit A § III.F.",
+      "fee_simple_projects_usd": 150,
+      "fee_complex_or_new_construction_usd": 300,
+      "fee_construction_started_pre_permit_usd": 100,
+      "source_section": "PBC Proposed Permit Fee Adjustments (Revised 08-04-09) Exhibit A § III.F",
+      "notes": "Affidavit process with Building Official approval, Special Foundation Permits, and approved RUSH tracking."
+    }
+  }
+}
