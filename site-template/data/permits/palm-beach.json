@@ -32,6 +32,7 @@
   "permits": {
     "building_permit_by_valuation": {
       "type": "tiered_by_value",
+      "tier_application": "progressive",
       "tiers": [
         {"max_value_usd": 2000, "fee_usd": 75},
         {"max_value_usd": 10000, "fee_usd_per_100": 2.50},

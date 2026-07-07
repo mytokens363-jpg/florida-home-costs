@@ -16,6 +16,7 @@
   "permits": {
     "structural_permit": {
       "type": "tiered_by_value",
+      "tier_application": "full_bracket",
       "tiers": [
         {"max_value_usd": 9999999.99, "fee_usd_per_100": 3.00},
         {"max_value_usd": null, "fee_usd_per_100": 2.50}
@@ -23,10 +24,11 @@
       "minimum_usd": 125.00,
       "applies_to": "Structural permits covering new residential and commercial construction, additions, alterations/repairs, window/door replacement, swimming pools, screen enclosures, fences, and the structural portion of solar PV installations.",
       "source_section": "Broward CAC § 40.29.b (rate) + § 40.27.d.11 (minimum)",
-      "notes": "Broward charges a flat trade percentage rather than per-square-foot or per-trade-unit. The 3.0%/2.5% tier converts to $3.00/$100 and $2.50/$100 of job value respectively. Job value = greater of RSMeans Manual (latest edition) estimate or applicant's estimate. Permit fee includes standard inspections; excludes plan review and reinspection fees."
+      "notes": "Broward charges a flat trade percentage rather than per-square-foot or per-trade-unit. The 3.0%/2.5% tier converts to $3.00/$100 and $2.50/$100 of job value respectively. Job value = greater of RSMeans Manual (latest edition) estimate or applicant's estimate. Permit fee includes standard inspections; excludes plan review and reinspection fees. Rate selection is based on total job value, not marginal (tier_application: full_bracket) — a $9.99M project pays ~$300K in structural permit fees (3.0% of value), while a $10.5M project pays ~$263K (2.5% of value). Articles citing Broward permit costs at project values near $10M should note this discontinuity."
     },
     "electrical_permit": {
       "type": "tiered_by_value",
+      "tier_application": "full_bracket",
       "tiers": [
         {"max_value_usd": 9999999.99, "fee_usd_per_100": 3.00},
         {"max_value_usd": null, "fee_usd_per_100": 2.50}
@@ -38,6 +40,7 @@
     },
     "mechanical_permit": {
       "type": "tiered_by_value",
+      "tier_application": "full_bracket",
       "tiers": [
         {"max_value_usd": 9999999.99, "fee_usd_per_100": 3.00},
         {"max_value_usd": null, "fee_usd_per_100": 2.50}
@@ -49,6 +52,7 @@
     },
     "plumbing_permit": {
       "type": "tiered_by_value",
+      "tier_application": "full_bracket",
       "tiers": [
         {"max_value_usd": 9999999.99, "fee_usd_per_100": 3.00},
         {"max_value_usd": null, "fee_usd_per_100": 2.50}
@@ -60,6 +64,7 @@
     },
     "roofing_permit": {
       "type": "tiered_by_value",
+      "tier_application": "full_bracket",
       "tiers": [
         {"max_value_usd": 9999999.99, "fee_usd_per_100": 3.00},
         {"max_value_usd": null, "fee_usd_per_100": 2.50}
