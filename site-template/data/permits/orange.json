@@ -1,0 +1,358 @@
+{
+  "county": "orange",
+  "display_name": "Orange County",
+  "state": "FL",
+  "metro_areas": [
+    "Orlando",
+    "Apopka",
+    "Ocoee",
+    "Winter Garden",
+    "Winter Park",
+    "Maitland",
+    "Belle Isle",
+    "Edgewood",
+    "Windermere",
+    "Oakland",
+    "Eatonville"
+  ],
+  "hvhz": false,
+  "design_wind_speed_mph": {
+    "risk_category_ii": 130,
+    "risk_category_iii": 140,
+    "risk_category_iv": 145
+  },
+  "data_source_url": "https://www.orangecountyfl.net/Portals/0/resource%20library/Open%20Government/FeeDirectory.pdf?v=999999",
+  "data_source_document": "Orange County Fee Directory FY2025-2026, Building Safety, Effective July 2025.",
+  "last_verified": "2026-07-07",
+  "schema_version": "1.3",
+  "permits": {
+    "residential_building": {
+      "type": "tiered_by_value",
+      "tier_application": "progressive",
+      "tiers": [
+        {"max_value_usd": 1000, "fee_usd": 26.00},
+        {"max_value_usd": 2000000, "fee_usd_per_100": 0.30},
+        {"max_value_usd": null, "fee_usd_per_100": 0.10}
+      ],
+      "minimum_usd": 26.00,
+      "applies_to": "One- and two-family dwelling building permits (new construction, additions, alterations). Window/door replacement and structural work are permitted under this building-valuation fee — Orange has no separate per-opening window/door fee.",
+      "source_section": "Orange County Fee Directory FY2025-2026, Building Safety — Building and Construction Support Fees (A) Total Valuation, One and Two Family Dwelling (p. 27-28)",
+      "source_quality": "verified_official_data",
+      "notes": "Source rates are per $1,000 of total valuation: $26.00 base for first $1,000; +$3.00 per additional $1,000 up to $2,000,000; +$1.00 per additional $1,000 above $2,000,000. Converted to per-$100 for schema compatibility: $3/$1,000 = $0.30/$100; $1/$1,000 = $0.10/$100. Application is PROGRESSIVE (marginal per bracket), so the rate step-down above $2M reduces the marginal slope but the fee curve stays continuous and monotonic — there is NO Broward-style discontinuity. Worked example: a $300,000 remodel pays $26 (first $1,000) + 0.30% of $299,000 ($897.00) = $923.00."
+    },
+    "residential_accessory_structure": {
+      "type": "tiered_by_value",
+      "tier_application": "progressive",
+      "tiers": [
+        {"max_value_usd": 1000, "fee_usd": 26.00},
+        {"max_value_usd": null, "fee_usd_per_100": 0.40}
+      ],
+      "minimum_usd": 26.00,
+      "applies_to": "Accessory structures and uses to one- and two-family dwellings (detached garages, sheds, etc.).",
+      "source_section": "Orange County Fee Directory FY2025-2026, Building Safety — Building and Construction Support Fees (A), Accessory Structures (p. 27)",
+      "source_quality": "verified_official_data",
+      "notes": "Source: $26.00 for first $1,000 + $4.00 per additional $1,000. $4/$1,000 = $0.40/$100. Progressive (marginal per bracket)."
+    },
+    "residential_reroof": {
+      "type": "tiered_by_value",
+      "tier_application": "progressive",
+      "tiers": [
+        {"max_value_usd": 1000, "fee_usd": 26.00},
+        {"max_value_usd": null, "fee_usd_per_100": 0.50}
+      ],
+      "minimum_usd": 26.00,
+      "applies_to": "Re-roofing of existing one- and two-family dwellings.",
+      "source_section": "Orange County Fee Directory FY2025-2026, Building Safety — Residential Fees, Re-roof (p. 27)",
+      "source_quality": "verified_official_data",
+      "notes": "Source: $26.00 for first $1,000 + $5.00 per additional $1,000. $5/$1,000 = $0.50/$100. Progressive (marginal per bracket). Valuation = roofing contract value."
+    },
+    "residential_roof_new_dwelling": {
+      "type": "flat",
+      "fee_usd": 38.00,
+      "applies_to": "Roof permit on a new dwelling only. Note: where a licensed general contractor has an active building permit on new construction, a separate no-fee roofing permit is required instead (roofing contractor name and license supplied on the application).",
+      "source_section": "Orange County Fee Directory FY2025-2026, Building Safety — One and Two Family Dwelling, Roof permit on new dwelling only (p. 27)",
+      "source_quality": "verified_official_data"
+    },
+    "commercial_building_new": {
+      "type": "tiered_by_value",
+      "tier_application": "progressive",
+      "tiers": [
+        {"max_value_usd": 1000, "fee_usd": 26.00},
+        {"max_value_usd": 2000000, "fee_usd_per_100": 0.40},
+        {"max_value_usd": null, "fee_usd_per_100": 0.10}
+      ],
+      "minimum_usd": 26.00,
+      "applies_to": "Commercial and multifamily new construction. Valuation is the greater of contract value or the FBC/ICC minimum valuation table (average cost per sq ft by occupancy and construction type) multiplied by structure square footage — see notes.",
+      "source_section": "Orange County Fee Directory FY2025-2026, Building Safety — Commercial/Multifamily Permits, New Construction (p. 27-28); minimum valuation table (p. 28-32)",
+      "source_quality": "verified_official_data",
+      "notes": "Source: $26.00 for first $1,000; +$4.00 per additional $1,000 up to $2,000,000; +$1.00 per additional $1,000 above $2,000,000. Converted to per-$100: $4/$1,000 = $0.40/$100; $1/$1,000 = $0.10/$100. Progressive (marginal per bracket) — continuous, monotonic; no discontinuity at the $2M step-down. Commercial-new valuation floor: the directory publishes a minimum valuation table (Average Cost per Sq.Ft. by ICC occupancy/construction type, e.g. R-2 multifamily Type VB $88/sqft) used when it exceeds the contract valuation; shell-only buildings deduct 20%; unfinished basements $15/sqft."
+    },
+    "commercial_building_alteration": {
+      "type": "tiered_by_value",
+      "tier_application": "progressive",
+      "tiers": [
+        {"max_value_usd": 1000, "fee_usd": 26.00},
+        {"max_value_usd": null, "fee_usd_per_100": 0.50}
+      ],
+      "minimum_usd": 26.00,
+      "applies_to": "Commercial/multifamily work other than new construction (interior/exterior alterations, tenant build-outs, repairs).",
+      "source_section": "Orange County Fee Directory FY2025-2026, Building Safety — Commercial/Multifamily Permits, Other than new construction (p. 27)",
+      "source_quality": "verified_official_data",
+      "notes": "Source: $26.00 for first $1,000 + $5.00 per additional $1,000. $5/$1,000 = $0.50/$100. Progressive (marginal per bracket)."
+    },
+    "commercial_reroof": {
+      "type": "tiered_by_value",
+      "tier_application": "progressive",
+      "tiers": [
+        {"max_value_usd": 1000, "fee_usd": 26.00},
+        {"max_value_usd": null, "fee_usd_per_100": 0.50}
+      ],
+      "minimum_usd": 26.00,
+      "applies_to": "Re-roofing of existing commercial buildings.",
+      "source_section": "Orange County Fee Directory FY2025-2026, Building Safety — Commercial Fees, Re-roof (p. 27-28)",
+      "source_quality": "verified_official_data",
+      "notes": "Source: $26.00 for first $1,000 + $5.00 per additional $1,000. $5/$1,000 = $0.50/$100. Progressive (marginal per bracket)."
+    },
+    "commercial_roof": {
+      "type": "tiered_by_value",
+      "tier_application": "progressive",
+      "tiers": [
+        {"max_value_usd": 1000, "fee_usd": 54.00},
+        {"max_value_usd": null, "fee_usd_per_100": 0.50}
+      ],
+      "minimum_usd": 54.00,
+      "applies_to": "Commercial roof permit (roofing on existing/other-than-new commercial where a standalone roof permit is issued).",
+      "source_section": "Orange County Fee Directory FY2025-2026, Building Safety — Commercial/Multifamily Permits, Roof Permit (p. 27)",
+      "source_quality": "verified_official_data",
+      "notes": "Source: $54.00 for first $1,000 + $5.00 per additional $1,000 (higher base than residential/commercial re-roof). $5/$1,000 = $0.50/$100. Progressive. Exception: on new construction where a licensed GC has an active building permit, a separate no-fee roofing permit is required instead."
+    },
+    "mechanical_hvac": {
+      "type": "tiered_by_tonnage",
+      "tier_application": "progressive",
+      "tiers": [
+        {"max_tons": 3, "fee_usd": 75.00},
+        {"max_tons": 10, "fee_usd": 75.00, "per_ton_above_usd": 12.00},
+        {"max_tons": 25, "fee_usd": 160.00, "per_ton_above_usd": 10.00},
+        {"max_tons": 50, "fee_usd": 303.00, "per_ton_above_usd": 6.00},
+        {"max_tons": null, "fee_usd": 393.00, "per_ton_above_usd": 5.00}
+      ],
+      "minimum_usd": 38.00,
+      "applies_to": "Air conditioning installation including heat pumps (duct work included). For multiple AC units on the same permit, fees are calculated on the summed tonnage.",
+      "source_section": "Orange County Fee Directory FY2025-2026, Building Safety — Mechanical Permit Fees (A) (p. 37-38)",
+      "source_quality": "verified_official_data",
+      "notes": "PROGRESSIVE per-ton: $75 up to 3 tons; then +$12/ton over 3 (to 10); base $160 +$10/ton over 10 (to 25); base $303 +$6/ton over 25 (to 50); base $393 +$5/ton over 50. Each tier's fee_usd is the base at that tier's lower bound; per_ton_above_usd applies to tons above that bound (source language 'plus $X per ton or fraction thereof over Y tons'). Exceptions with $38 minimum: condenser/air-handler change-out without ductwork $6/ton; window units in 1-2 family dwellings need no permit. Duct-only/refrigeration/ventilation use mechanical_refrigeration_ventilation."
+    },
+    "mechanical_refrigeration_ventilation": {
+      "type": "tiered_by_value",
+      "tier_application": "progressive",
+      "tiers": [
+        {"max_value_usd": 1000, "fee_usd": 38.00},
+        {"max_value_usd": 25000, "fee_usd_per_100": 1.00},
+        {"max_value_usd": null, "fee_usd_per_100": 0.60}
+      ],
+      "minimum_usd": 38.00,
+      "applies_to": "Refrigeration, ductwork, hoods, ventilation, boilers, and other installations requiring a mechanical permit but not rated by tonnage. Valuation = cost of all units, equipment, materials and labor.",
+      "source_section": "Orange County Fee Directory FY2025-2026, Building Safety — Mechanical Permit Fees (C) (p. 38)",
+      "source_quality": "verified_official_data",
+      "notes": "Source: $38.00 for first $1,000; +$10.00 per additional $1,000 up to $25,000; +$6.00 per additional $1,000 above $25,000. Converted to per-$100: $10/$1,000 = $1.00/$100; $6/$1,000 = $0.60/$100. Progressive (marginal per bracket)."
+    },
+    "electrical_service_1ph_240v": {
+      "type": "tiered_by_amperage",
+      "tier_application": "full_bracket",
+      "tiers": [
+        {"max_amps": 150, "fee_usd": 75.00},
+        {"max_amps": 200, "fee_usd": 91.00},
+        {"max_amps": 400, "fee_usd": 117.00},
+        {"max_amps": 600, "fee_usd": 170.00},
+        {"max_amps": 800, "fee_usd": 255.00},
+        {"max_amps": 1000, "fee_usd": 308.00}
+      ],
+      "minimum_usd": 38.00,
+      "applies_to": "Single-phase 240V electrical service — the typical residential service (panel install/upgrade, new home service). One permit per recording watt-hour meter service.",
+      "source_section": "Orange County Fee Directory FY2025-2026, Building Safety — Electrical Permit Fees (A)(1) 1 Phase 240 Volt (p. 35-36)",
+      "source_quality": "verified_official_data",
+      "notes": "FULL_BRACKET, NOT progressive: the fee is a flat lookup by the amperage bracket the service size falls in — a 300 A 1-phase 240 V service = $117 flat, not a base + marginal add. This differs from HVAC/building (which are progressive). Above 1,000 A the source adds $170.00 per each additional 1,000 A or fraction on top of the $308 (1,000 A) fee — a marginal tail not expressible in these fixed-bracket tiers; captured here in notes. Minimum electrical permit fee $38. Temporary construction service for 1-2 family sites (max 60 A/240 V/1-phase) is a flat $27."
+    },
+    "electrical_service_3ph_208v_240v": {
+      "type": "tiered_by_amperage",
+      "tier_application": "full_bracket",
+      "tiers": [
+        {"max_amps": 150, "fee_usd": 117.00},
+        {"max_amps": 200, "fee_usd": 144.00},
+        {"max_amps": 400, "fee_usd": 181.00},
+        {"max_amps": 600, "fee_usd": 271.00},
+        {"max_amps": 800, "fee_usd": 372.00},
+        {"max_amps": 1000, "fee_usd": 468.00}
+      ],
+      "minimum_usd": 38.00,
+      "applies_to": "Three-phase 208V or 240V electrical service — typical for small/medium commercial and multifamily.",
+      "source_section": "Orange County Fee Directory FY2025-2026, Building Safety — Electrical Permit Fees (A)(2) 3 Phase 208 or 240 Volt (p. 36)",
+      "source_quality": "verified_official_data",
+      "notes": "FULL_BRACKET lookup by amperage (see electrical_service_1ph_240v notes for the rationale). Above 1,000 A: +$281.00 per each additional 1,000 A or fraction on top of the $468 (1,000 A) fee — marginal tail captured in notes. Minimum $38."
+    },
+    "electrical_service_3ph_480v": {
+      "type": "tiered_by_amperage",
+      "tier_application": "full_bracket",
+      "tiers": [
+        {"max_amps": 150, "fee_usd": 250.00},
+        {"max_amps": 200, "fee_usd": 313.00},
+        {"max_amps": 400, "fee_usd": 399.00},
+        {"max_amps": 600, "fee_usd": 606.00},
+        {"max_amps": 800, "fee_usd": 796.00},
+        {"max_amps": 1000, "fee_usd": 982.00}
+      ],
+      "minimum_usd": 38.00,
+      "applies_to": "Three-phase 480V electrical service — typical for larger commercial and industrial. Over 480V is charged by proportional increase over the 480V cost.",
+      "source_section": "Orange County Fee Directory FY2025-2026, Building Safety — Electrical Permit Fees (A)(3) 3 Phase 480 Volt (p. 36-37)",
+      "source_quality": "verified_official_data",
+      "notes": "FULL_BRACKET lookup by amperage (see electrical_service_1ph_240v notes). Above 1,000 A: +$584.00 per each additional 1,000 A or fraction on top of the $982 (1,000 A) fee — marginal tail captured in notes. Over 480V: fee scales proportionally to the 480V cost. Minimum $38."
+    },
+    "electrical_alteration_no_service_change": {
+      "type": "tiered_by_value",
+      "tier_application": "progressive",
+      "tiers": [
+        {"max_value_usd": 1000, "fee_usd": 38.00},
+        {"max_value_usd": null, "fee_usd_per_100": 0.50}
+      ],
+      "minimum_usd": 38.00,
+      "applies_to": "Electrical additions, alterations and repairs NOT requiring a change in service (valuation based on material and labor). Also the low-voltage permit basis.",
+      "source_section": "Orange County Fee Directory FY2025-2026, Building Safety — Electrical Permit Fees (C) and (A)(5) Low Voltage (p. 37)",
+      "source_quality": "verified_official_data",
+      "notes": "Source: $38.00 for first $1,000 + $5.00 per additional $1,000. $5/$1,000 = $0.50/$100. Progressive (marginal per bracket). Alterations that DO change service are charged the service-schedule fee on the amperage difference (see electrical service keys)."
+    },
+    "plumbing": {
+      "type": "flat",
+      "fee_usd": 75.00,
+      "minimum_usd": 38.00,
+      "applies_to": "Plumbing permit for new construction, addition, or alteration (commercial or residential). Base fee plus a per-fixture charge — see notes.",
+      "source_section": "Orange County Fee Directory FY2025-2026, Building Safety — Plumbing Permit Fees (p. 39)",
+      "source_quality": "verified_official_data",
+      "notes": "Modeled as flat $75.00 base per Orange Fee Directory, Plumbing Permit Fees (p. 39). Add $6.00 per plumbing fixture (added, plugged, moved, or future opening). For a typical residential kitchen remodel with 4 fixtures: base $75 + 4 x $6 = $99.00 total. (Per-fixture is not a distinct schema type as of v1.3 — modeled as flat + note; A1.5 queue item to revisit if Hillsborough or Duval also uses a per-fixture pattern.) Minimum permit fee / replacement if expired under 6 months = $38.00. Many standalone items are flat $38 (water heater, solar water heater, backflow preventer, water softener, sewer replacement, re-pipe, spa); swimming pool plumbing permit is $64.00; lawn irrigation 1-100 heads $38, 101-200 $54, 201+ $64."
+    },
+    "plumbing_water_heater": {
+      "type": "flat",
+      "fee_usd": 38.00,
+      "applies_to": "Standalone water heater replacement/installation (also applies to standalone solar water heater, backflow preventer, water softener).",
+      "source_section": "Orange County Fee Directory FY2025-2026, Building Safety — Plumbing Permit Fees, Water Heater (Stand Alone) (p. 39)",
+      "source_quality": "verified_official_data",
+      "notes": "Flat $38.00 for a standalone water heater. If done as part of a broader plumbing permit, the $6/fixture plumbing schedule applies instead (see plumbing)."
+    },
+    "gas": {
+      "type": "tiered_by_value",
+      "tier_application": "progressive",
+      "tiers": [
+        {"max_value_usd": 1000, "fee_usd": 64.00},
+        {"max_value_usd": null, "fee_usd_per_100": 0.60}
+      ],
+      "minimum_usd": 64.00,
+      "applies_to": "Gas permits: equipment, ventilation, combustion air, piping, boilers, and other installations requiring a gas permit. Valuation = cost of equipment, materials and labor.",
+      "source_section": "Orange County Fee Directory FY2025-2026, Building Safety — Gas Permit Fees (p. 40)",
+      "source_quality": "verified_official_data",
+      "notes": "Source: $64.00 for first $1,000 + $6.00 per additional $1,000. $6/$1,000 = $0.60/$100. Progressive (marginal per bracket). NOTE: an unofficial third-party site (allpermitsearch.org) claims a $100 gas minimum — NOT in the authoritative FY2025-2026 directory; the actual base is $64.00. Source > secondary."
+    },
+    "swimming_pool_residential": {
+      "type": "flat",
+      "fee_usd": 41.00,
+      "applies_to": "Residential swimming pool structural/building permit.",
+      "source_section": "Orange County Fee Directory FY2025-2026, Building Safety — Miscellaneous Fees (7) Swimming Pool (p. 33)",
+      "source_quality": "verified_official_data",
+      "notes": "Building/structural pool permit is a flat $41.00. A separate plumbing swimming pool permit ($64.00) and electrical pool wiring permit ($59.00) also apply — a complete residential pool typically requires all three trades."
+    },
+    "demolition": {
+      "type": "flat",
+      "fee_usd": 25.00,
+      "minimum_usd": 25.00,
+      "maximum_usd": 400.00,
+      "applies_to": "Demolition permit.",
+      "source_section": "Orange County Fee Directory FY2025-2026, Building Safety — Miscellaneous (G) Demolition Permit (p. 33)",
+      "source_quality": "verified_official_data",
+      "notes": "$7.00 per each 25,000 cubic feet or fraction thereof, minimum $25.00, maximum $400.00, per Orange Fee Directory Miscellaneous (G) (p. 33). Modeled as flat (fee_usd = the $25 minimum floor) with the volumetric formula here in notes; writer-v2 must extract the per-volume math from notes if computing a specific estimate. (Per-volume is not a distinct schema type as of v1.3 — A1.5 queue item to revisit if Hillsborough or Duval also uses a per-volume pattern.)"
+    }
+  },
+  "operational_fees": {
+    "additional_inspection_fee_usd": 38.00,
+    "overtime_inspection_per_hour_usd": 51.00,
+    "holiday_inspection_minimum_hours": 4,
+    "permit_extension_fee_usd": 32.00,
+    "double_fee_no_permit_pct": 1.0,
+    "notes": "NO single county-wide minimum permit fee (unlike Broward's $125) — minimum_permit_fee_usd is intentionally omitted. Per-trade effective floors: building/re-roof $26 (first $1,000); electrical $38; mechanical $38; plumbing (replacement) $38; gas $64 (first $1,000); commercial roof $54. Work without a permit: penalty is double the permit fee OR $103.00, whichever is greater, IN ADDITION to the permit fee (double_fee_no_permit_pct = 1.0 captures the 2x doubling; the $103 alternative floor is documented here). After-hours/weekend/holiday inspection: $212.00 for the first 4 hours (minimum), then $51.00/hour (overtime_inspection_per_hour_usd) — requests must be submitted in writing 24 hours in advance. Permit extension: one 90-day administrative extension, $32.00. Permit amendment fee $27.00. Permit replacement (expired, within 6 months) $38.00. Reinspection $38.00. CPI ADJUSTMENT: application and processing fees may increase each October 1 by the lesser of 3% or CPI-U; review/inspection fees adjusted per FS 553.791. REFUND POLICY: minimum $31.00 or 1/3 of the permit fee, whichever is greater; no refund once construction has begun or on any permit issued 6 months or more prior; no refund on submittal/license/recording fees unless county error. BOARD RESOLUTION 2022-M-48: certain fees may be eligible for a 25% reduction for a period not to exceed 3 years."
+  },
+  "surcharges_and_fees": {
+    "dbpr_bcaif_surcharge_percentage": 0.015,
+    "dca_surcharge_percentage": 0.010,
+    "notes": "Orange County presents these two statutory surcharges as a SINGLE combined line: 'A surcharge will be assessed at the rate of 2.5% of each permit (building, electrical, mechanical, plumbing, roof, and gas) fee associated with the enforcement of the Florida Building Code as per Florida Statutes section 468.631 and 553.721. The minimum amount collected ... shall be $4.00.' (Fee Directory p. 45). The combined 2.5% decomposes into the two statewide statutory surcharges: DBPR/BCAIF 1.5% per FS 468.631 + FS 553.721 1.0% (administered by DBPR; agency formerly known as DCA; historical 1.5% reduced circa 2017). Both are percentages of the PERMIT FEE (not job valuation) and share Orange's combined $4.00 minimum. NO county-specific surcharge (Orange has no Miami-Dade RER 7.5% or Broward training/public-awareness equivalent) — county_surcharge_percentage omitted. NO radon or certification-maintenance per-sqft fees (those are Palm Beach-specific; not present in Orange's schedule — an unofficial third-party site's claim of a '1/2 cent per sqft radon + Operating Trust Fund' surcharge is NOT in the authoritative FY2025-2026 directory and is omitted; source > secondary)."
+  },
+  "labor_cost_premium": {
+    "vs_national_average_percent_min": 5,
+    "vs_national_average_percent_max": 15,
+    "source_quality": "estimate_from_published_market_data",
+    "sources": [
+      "BLS Occupational Employment and Wage Statistics, Orlando-Kissimmee-Sanford MSA (construction wages)",
+      "RSMeans City Cost Index for Orlando"
+    ],
+    "notes": "Inland non-HVHZ tourism labor market. Premium runs below coastal Florida counties. Estimate below Palm Beach's 10-20% (coastal non-HVHZ) and substantially below HVHZ counties' 15-25%. Verify against current BLS wage data before citing specific figures in articles."
+  },
+  "incorporated_city_notes": {
+    "_scope_note": "The county fee schedule in this file applies to UNINCORPORATED Orange County. Construction within an incorporated city's limits is typically permitted by that city's own building department under its own fee schedule. The four cities below are the top 4 by 2025 population; Orange County has additional incorporated municipalities beyond them (Winter Park, Maitland, Belle Isle, Edgewood, Windermere, Oakland, Eatonville, Bay Lake, Lake Buena Vista).",
+    "Orlando": {
+      "uses_own_schedule": true,
+      "source_url": "https://www.orlando.gov/Building-Development",
+      "notes": "Largest city in the county (~333,888, 2025). Maintains its own Permitting Services Division and fee schedule — county fees do not apply within Orlando city limits."
+    },
+    "Apopka": {
+      "uses_own_schedule": true,
+      "notes": "2nd-largest city (~65,552, 2025). Maintains its own building department; city fee schedule not captured in this dataset."
+    },
+    "Ocoee": {
+      "uses_own_schedule": true,
+      "source_url": "https://www.ocoee.org/163/Building-Division",
+      "notes": "3rd-largest city (~51,932, 2025). Maintains its own Building Division."
+    },
+    "Winter Garden": {
+      "uses_own_schedule": true,
+      "notes": "4th-largest city (~48,063, 2025). Maintains its own building department; city fee schedule not captured in this dataset."
+    }
+  },
+  "special_requirements": {
+    "hvhz_status": {
+      "applies": false,
+      "note": "Orange County is inland and NOT in the High Velocity Hurricane Zone (only Miami-Dade and Broward are, per FBC 8th Edition). No NOA product approval requirement and no HVHZ-specific detailing."
+    },
+    "fbc_edition": {
+      "edition": "Florida Building Code 8th Edition (2023)",
+      "note": "Universal Florida requirement; based on ASCE 7-22 for wind loads."
+    },
+    "design_wind_speed_context": {
+      "note": "ASCE 7-22 / FBC 8th Edition ultimate design wind speeds for the Orlando urban core are approximately 130 mph (Risk Cat II), 140 mph (Cat III), and 145 mph (Cat IV). Contour variation exists countywide. The Cat II value should be VERIFIED against the ASCE 7 Hazard Tool for specific project coordinates before articles cite an exact figure — Cat III/IV values here are approximate."
+    },
+    "wind_borne_debris_region": {
+      "applies": "partial",
+      "note": "Orange's 'partial' is NOT the same as Palm Beach's 'partial'. PBC's 'partial' is a clear east-west geographic split (coastal/eastern in; interior agricultural west — Belle Glade, Pahokee, Loxahatchee — out). Orange's 'partial' is a stronger form of 'likely NOT, but verify': as an inland county with design wind speeds near the lower FBC threshold, WBDR likely does not apply across most or all of the county — but applicability MUST still be verified against the FBC/ASCE 7-22 WBDR map for each specific project location before any article asserts WBDR status. Third-party vendor claims of localized WBDR near large inland lakes (Lake Apopka, Butler Chain, Lake Conway) under ASCE 7-22's expansion are UNVERIFIED against the authoritative map — do not assert either countywide applicability or countywide non-applicability without map verification. Writer-v2 must consult this per-county note, not just the 'partial' applies value."
+    },
+    "coastal_construction_control_line": {
+      "applies": false,
+      "note": "Orange County has no coastline; the CCCL and coastal-specific overlays do not apply."
+    },
+    "forty_year_recertification": {
+      "applies": false,
+      "note": "The 40-year recertification concept is Miami-Dade/Broward-specific and does not apply in Orange County."
+    },
+    "noa_product_approval": {
+      "applies": false,
+      "note": "Miami-Dade NOA product approval is an HVHZ requirement; not applicable in inland Orange. Statewide FBC product approval (Florida Product Approval / FL numbers) still applies."
+    },
+    "statewide_milestone_inspection": {
+      "statute": "FS 553.899 (SB 4-D, 2022)",
+      "applies_to": "Condominium and cooperative buildings 3 or more stories in height",
+      "trigger": "30 years after certificate of occupancy (the 25-year 'within 3 miles of coast' trigger is not relevant to inland Orange), then recertification every 10 years",
+      "note": "Statewide statutory program enforced by the local building department (reports filed with Orange County). Orange County has NO county-specific recertification program of its own (unlike Miami-Dade's 40-year program); milestone inspection is the only recurring structural-recertification obligation and it is not a Fee Directory line item."
+    },
+    "private_provider_option": {
+      "statute": "FS 553.791",
+      "reduction_plan_review_only": 0.55,
+      "reduction_inspections_only": 0.55,
+      "reduction_both": 0.10,
+      "note": "Owners/contractors who hire a private provider pay reduced permit fees: fees reduced to 55% of the total permit fee if the private provider performs EITHER plan review OR inspections, or to 10% if the private provider performs BOTH plan review AND inspections. In no event are fees reduced below the stated minimums. (Fee Directory 'Private Provider Fees', p. 40-41.)"
+    }
+  }
+}
