@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://floridahomecosts.com/data/permits/_schema.json",
   "title": "Florida County Permit Fee Data",
-  "description": "Authoritative permit fee + Florida-specific context data, per county. v1.2.",
+  "description": "Authoritative permit fee + Florida-specific context data, per county. v1.3.",
   "type": "object",
   "required": [
     "county", "display_name", "state", "metro_areas", "hvhz",
@@ -211,6 +211,11 @@
               "per_amp_above_usd": {"type": "number", "minimum": 0}
             }
           }
+        },
+        "tier_application": {
+          "type": "string",
+          "enum": ["progressive", "full_bracket"],
+          "description": "Optional (v1.3). Only meaningful on tiered fee types (tiered_by_value, tiered_by_tonnage, tiered_by_amperage). Declares how tier rates compose. 'progressive' = each tier's rate applies ONLY to the portion of value/tonnage/amperage that falls within that tier's bracket (marginal application) — e.g. Palm Beach's $75 base + 2.50% on the next $8K + 1.75% on the next $90K, or Orange County's $26 base + $3/$1,000 up to $2M then $1/$1,000 above $2M. 'full_bracket' = the single rate for the matched tier applies to the ENTIRE value — e.g. Broward's 3.0% on the whole job value up to $10M, then 2.5% on the whole value at $10M+. These produce materially different totals. ABSENCE OF THIS FIELD MUST NOT BE TREATED AS A DEFAULT: a consumer encountering a tiered permit with no tier_application MUST fall back to the permit's notes/worked example to determine the composition rule and MUST NOT assume progressive or full_bracket. Author every tiered permit with this field set going forward."
         },
         "applies_to": {"type": "string"},
         "source_url": {"type": "string", "format": "uri"},
