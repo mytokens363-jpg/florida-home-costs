@@ -1,0 +1,358 @@
+{
+  "county": "hillsborough",
+  "display_name": "Hillsborough County",
+  "state": "FL",
+  "metro_areas": [
+    "Tampa",
+    "Brandon",
+    "Riverview",
+    "Town 'n' Country",
+    "Carrollwood",
+    "Citrus Park",
+    "Westchase",
+    "Egypt Lake-Leto",
+    "University",
+    "Sun City Center",
+    "Apollo Beach",
+    "Ruskin",
+    "Gibsonton",
+    "Lutz",
+    "Valrico",
+    "Wimauma",
+    "Plant City",
+    "Temple Terrace"
+  ],
+  "hvhz": false,
+  "design_wind_speed_mph": {
+    "risk_category_ii": 150,
+    "risk_category_iii": 160,
+    "risk_category_iv": 165
+  },
+  "data_source_url": "https://hcfl.gov/businesses/permits-and-records/permit-fees/building-permit-fees",
+  "data_source_document": "Hillsborough County Building Permit Fee Schedule, Effective October 5, 2024 (PDF at hcfl.gov/assets/bltb842998e2fc56646/file, linked from the landing page as 'Fee Schedule'). Authorizing code: Hillsborough County Code of Ordinances Chapter 8 (Building & Construction Regulations).",
+  "last_verified": "2026-07-08",
+  "schema_version": "1.3",
+  "permits": {
+    "new_construction_residential": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 1.00,
+      "minimum_usd": 380.00,
+      "applies_to": "New construction, additions, and interior alterations for R-3 one- and two-family residential occupancy. Based on under-roof square footage.",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), New Construction/Additions/Alterations — Occupancy R-3 Residential $1.00/sqft (p. 1)",
+      "source_quality": "verified_official_data",
+      "notes": "Fee bundles building + mechanical + electrical + plumbing disciplines. Do NOT add separate trade permit fees for these four on new construction. Fire and natural resources are separate. Shell = 67% x base; foundation-only = 40%; completion = 80%; mixed-use = principal occupancy governs. Minimum fee $380 for R-3 (and U). Plan review/inspection split 50/50; plan-review portion includes a $50 application fee due at submittal."
+    },
+    "new_construction_multifamily": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 0.86,
+      "minimum_usd": 500.00,
+      "applies_to": "New construction, additions, and alterations for R-1, R-2, R-4 multi-family occupancy. Based on under-roof square footage.",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), New Construction — Occupancy R-1/R-2/R-4 Multi-Family $0.86/sqft (p. 1)",
+      "source_quality": "verified_official_data",
+      "notes": "Fee bundles building + mechanical + electrical + plumbing disciplines. Do NOT add separate trade permit fees for these four on new construction. Fire and natural resources are separate. Shell = 67% x base; foundation-only = 40%; completion = 80%; mixed-use = principal occupancy governs. Minimum fee $500. Separate TRADE permits (single-trade, inspection-only) on existing multi-family add $75 per additional unit per trade (Multi Family Building/Mechanical/Plumbing/Electrical Per Additional Unit = $75.00 each, commercial trade table p. 3)."
+    },
+    "new_construction_assembly": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 1.09,
+      "minimum_usd": 500.00,
+      "applies_to": "New construction, additions, and alterations for A - Assembly occupancy. Under-roof square footage.",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), New Construction — Occupancy A Assembly $1.09/sqft (p. 1)",
+      "source_quality": "verified_official_data",
+      "notes": "Fee bundles building + mechanical + electrical + plumbing disciplines. Do NOT add separate trade permit fees for these four on new construction. Fire and natural resources are separate. Shell = 67% x base; foundation-only = 40%; completion = 80%; mixed-use = principal occupancy governs. Minimum fee $500."
+    },
+    "new_construction_business": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 0.85,
+      "minimum_usd": 500.00,
+      "applies_to": "New construction, additions, and alterations for B - Business occupancy (offices, professional services). Under-roof square footage.",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), New Construction — Occupancy B Business $0.85/sqft (p. 1)",
+      "source_quality": "verified_official_data",
+      "notes": "Fee bundles building + mechanical + electrical + plumbing disciplines. Do NOT add separate trade permit fees for these four on new construction. Fire and natural resources are separate. Shell = 67% x base; foundation-only = 40%; completion = 80%; mixed-use = principal occupancy governs. Minimum fee $500."
+    },
+    "new_construction_educational": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 1.09,
+      "minimum_usd": 500.00,
+      "applies_to": "New construction, additions, and alterations for E - Educational occupancy. Under-roof square footage.",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), New Construction — Occupancy E Educational $1.09/sqft (p. 1)",
+      "source_quality": "verified_official_data",
+      "notes": "Fee bundles building + mechanical + electrical + plumbing disciplines. Do NOT add separate trade permit fees for these four on new construction. Fire and natural resources are separate. Shell = 67% x base; foundation-only = 40%; completion = 80%; mixed-use = principal occupancy governs. Minimum fee $500."
+    },
+    "new_construction_factory_industrial": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 0.60,
+      "minimum_usd": 500.00,
+      "applies_to": "New construction, additions, and alterations for F - Factory & Industrial occupancy. Under-roof square footage.",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), New Construction — Occupancy F Factory & Industrial $0.60/sqft (p. 1)",
+      "source_quality": "verified_official_data",
+      "notes": "Fee bundles building + mechanical + electrical + plumbing disciplines. Do NOT add separate trade permit fees for these four on new construction. Fire and natural resources are separate. Shell = 67% x base; foundation-only = 40%; completion = 80%; mixed-use = principal occupancy governs. Minimum fee $500."
+    },
+    "new_construction_hazard": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 1.09,
+      "minimum_usd": 500.00,
+      "applies_to": "New construction, additions, and alterations for H - Hazard occupancy. Under-roof square footage.",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), New Construction — Occupancy H Hazard $1.09/sqft (p. 1)",
+      "source_quality": "verified_official_data",
+      "notes": "Fee bundles building + mechanical + electrical + plumbing disciplines. Do NOT add separate trade permit fees for these four on new construction. Fire and natural resources are separate. Shell = 67% x base; foundation-only = 40%; completion = 80%; mixed-use = principal occupancy governs. Minimum fee $500."
+    },
+    "new_construction_institutional": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 1.09,
+      "minimum_usd": 500.00,
+      "applies_to": "New construction, additions, and alterations for I - Institutional occupancy (hospitals, nursing homes, day care, detention). Under-roof square footage.",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), New Construction — Occupancy I Institutional $1.09/sqft (p. 1)",
+      "source_quality": "verified_official_data",
+      "notes": "Fee bundles building + mechanical + electrical + plumbing disciplines. Do NOT add separate trade permit fees for these four on new construction. Fire and natural resources are separate. Shell = 67% x base; foundation-only = 40%; completion = 80%; mixed-use = principal occupancy governs. Minimum fee $500."
+    },
+    "new_construction_mercantile": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 0.85,
+      "minimum_usd": 500.00,
+      "applies_to": "New construction, additions, and alterations for M - Mercantile occupancy (retail). Under-roof square footage.",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), New Construction — Occupancy M Mercantile $0.85/sqft (p. 1)",
+      "source_quality": "verified_official_data",
+      "notes": "Fee bundles building + mechanical + electrical + plumbing disciplines. Do NOT add separate trade permit fees for these four on new construction. Fire and natural resources are separate. Shell = 67% x base; foundation-only = 40%; completion = 80%; mixed-use = principal occupancy governs. Minimum fee $500."
+    },
+    "new_construction_storage": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 0.60,
+      "minimum_usd": 500.00,
+      "applies_to": "New construction, additions, and alterations for S - Storage occupancy. Under-roof square footage.",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), New Construction — Occupancy S Storage $0.60/sqft (p. 1)",
+      "source_quality": "verified_official_data",
+      "notes": "Fee bundles building + mechanical + electrical + plumbing disciplines. Do NOT add separate trade permit fees for these four on new construction. Fire and natural resources are separate. Shell = 67% x base; foundation-only = 40%; completion = 80%; mixed-use = principal occupancy governs. Minimum fee $500."
+    },
+    "new_construction_utility_misc": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 0.60,
+      "minimum_usd": 380.00,
+      "applies_to": "New construction, additions, and alterations for U - Utility & Miscellaneous occupancy (detached garages, private sheds, and similar not addressed elsewhere). Under-roof square footage.",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), New Construction — Occupancy U Utility & Miscellaneous $0.60/sqft (p. 1)",
+      "source_quality": "verified_official_data",
+      "notes": "Fee bundles building + mechanical + electrical + plumbing disciplines. Do NOT add separate trade permit fees for these four on new construction. Fire and natural resources are separate. Shell = 67% x base; foundation-only = 40%; completion = 80%; mixed-use = principal occupancy governs. Minimum fee $380 for U (and R-3)."
+    },
+    "roofing_residential": {
+      "type": "flat",
+      "fee_usd": 250.00,
+      "applies_to": "Residential roofing / re-roofing as a standalone single-trade building permit (inspection-only, no plan review).",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), Trade Permits Residential — Building, Roofing $250.00 (p. 2)",
+      "source_quality": "verified_official_data",
+      "notes": "Flat trade permit; entirety of fee due at submission. Commercial roofing is $380.00 (p. 3)."
+    },
+    "window_door_replacement_residential": {
+      "type": "flat",
+      "fee_usd": 130.00,
+      "applies_to": "Residential exterior door and window replacement (up to 20 openings or fraction thereof), same size; also garage door replacement (same size).",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), Trade Permits Residential — Building (p. 2)",
+      "source_quality": "verified_official_data",
+      "notes": "$130.00 for same-size replacement (up to 20 openings). DIFFERENT-SIZE exterior door/window/garage-door replacement is $250.00 (structural opening change). Commercial same-size $190.00 / different-size $380.00 (p. 3)."
+    },
+    "hvac_changeout_residential": {
+      "type": "flat",
+      "fee_usd": 130.00,
+      "applies_to": "Residential HVAC equal change-out (like-for-like) as a standalone mechanical trade permit.",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), Trade Permits Residential — Mechanical, HVAC Equal Change Outs $130.00 (p. 2)",
+      "source_quality": "verified_official_data",
+      "notes": "Flat trade permit (inspection-only, no plan review). 'Mechanical (General)' for other mechanical work is also $130.00. Commercial HVAC change-out $190.00."
+    },
+    "plumbing_general_residential": {
+      "type": "flat",
+      "fee_usd": 130.00,
+      "applies_to": "Residential plumbing (general) trade permit for plumbing activities not addressed elsewhere; also on-site piping (water/wastewater/stormwater), lawn sprinkler/irrigation, and backflow.",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), Trade Permits Residential — Plumbing $130.00 (p. 2)",
+      "source_quality": "verified_official_data",
+      "notes": "Flat trade permit. Commercial plumbing (general) $190.00; commercial on-site piping $625.00 (p. 3)."
+    },
+    "electrical_general_residential": {
+      "type": "flat",
+      "fee_usd": 130.00,
+      "applies_to": "Residential electrical (general) trade permit for electrical activities not addressed elsewhere.",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), Trade Permits Residential — Electrical $130.00 (p. 2)",
+      "source_quality": "verified_official_data",
+      "notes": "Flat trade permit. Commercial electrical (general) $190.00; commercial low voltage $190.00; commercial burglar alarm $40.00 (p. 3)."
+    },
+    "gas_residential": {
+      "type": "flat",
+      "fee_usd": 130.00,
+      "applies_to": "Residential gas (general) trade permit for all gas-related work; also LP gas tank set.",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), Trade Permits Residential — Gas $130.00 (p. 2)",
+      "source_quality": "verified_official_data",
+      "notes": "Flat trade permit. Commercial gas (general) and LP gas tank set $190.00 (p. 3)."
+    },
+    "generator_residential": {
+      "type": "flat",
+      "fee_usd": 250.00,
+      "applies_to": "Residential standby generator (electrical) trade permit.",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), Trade Permits Residential — Electrical, Generator $250.00 (p. 2)",
+      "source_quality": "verified_official_data",
+      "notes": "Generator (electrical only) $250.00; Generator WITH gas $320.00. Commercial generator (misc, with plan review) is $675.00 (p. 5)."
+    },
+    "photovoltaic_residential": {
+      "type": "flat",
+      "fee_usd": 250.00,
+      "applies_to": "Residential rooftop/ground solar photovoltaic (electrical) trade permit.",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), Trade Permits Residential — Electrical, Photovoltaic $250.00 (p. 2)",
+      "source_quality": "verified_official_data",
+      "notes": "Flat trade permit. Commercial photovoltaic (misc, with plan review) is $750.00 (p. 5)."
+    },
+    "stucco_siding_residential": {
+      "type": "flat",
+      "fee_usd": 190.00,
+      "applies_to": "Residential stucco, exterior plaster, and siding trade permit.",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), Trade Permits Residential — Building, Stucco & Exterior Plaster & Siding $190.00 (p. 2)",
+      "source_quality": "verified_official_data",
+      "notes": "Flat trade permit. Commercial stucco/plaster/siding $320.00 (p. 3)."
+    },
+    "awning_shutter_residential": {
+      "type": "flat",
+      "fee_usd": 160.00,
+      "applies_to": "Residential awning or hurricane shutter installation trade permit.",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), Trade Permits Residential — Building, Awning/Shutter $160.00 (p. 2)",
+      "source_quality": "verified_official_data",
+      "notes": "Flat trade permit. Commercial awning/shutter is $350.00 (miscellaneous, p. 5)."
+    },
+    "demolition_residential": {
+      "type": "flat",
+      "fee_usd": 190.00,
+      "applies_to": "Residential demolition trade permit.",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), Trade Permits Residential — Building, Demolition $190.00 (p. 2)",
+      "source_quality": "verified_official_data",
+      "notes": "Flat trade permit. Commercial demolition is $330.00 (miscellaneous, p. 5)."
+    },
+    "pool_spa_residential": {
+      "type": "flat",
+      "fee_usd": 475.00,
+      "applies_to": "Residential in-ground swimming pool / spa (miscellaneous permit — multi-trade, includes plan review).",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), Miscellaneous Permits Residential — Pool/Spa $475.00 (p. 4)",
+      "source_quality": "verified_official_data",
+      "notes": "Miscellaneous permit (one or more trades, includes plan review); fee includes the $50 application fee. Above-ground pool/spa is $150.00. Commercial pool/spa is $875.00 (p. 5)."
+    },
+    "above_ground_pool_spa_residential": {
+      "type": "flat",
+      "fee_usd": 150.00,
+      "applies_to": "Residential above-ground pool or spa (miscellaneous permit).",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), Miscellaneous Permits Residential — Above Ground Pool/Spa $150.00 (p. 4)",
+      "source_quality": "verified_official_data",
+      "notes": "Miscellaneous permit; fee includes the $50 application fee."
+    },
+    "deck_shed_carport_screen_residential": {
+      "type": "flat",
+      "fee_usd": 380.00,
+      "applies_to": "Residential miscellaneous construction not addressed elsewhere — includes deck, sheds, carports, pool enclosure / screen rooms.",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), Miscellaneous Permits Residential — Misc Projects $380.00 (p. 4)",
+      "source_quality": "verified_official_data",
+      "notes": "Miscellaneous permit (one or more trades, includes plan review); fee includes the $50 application fee. Commercial equivalent (deck/sheds/carports/screen rooms) is $500.00 (p. 5). Exterior perimeter wall $350.00; ground settlement investigation $130.00 / remediation $300.00."
+    },
+    "mobile_home_setup_residential": {
+      "type": "flat",
+      "fee_usd": 600.00,
+      "applies_to": "Manufactured / mobile home set up (miscellaneous permit).",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), Miscellaneous Permits Residential — Manufactured/Mobile Home Set Up $600.00 (p. 4)",
+      "source_quality": "verified_official_data",
+      "notes": "Miscellaneous permit; fee includes the $50 application fee. Modular building installation is $720.00 (residential and commercial)."
+    },
+    "roofing_commercial": {
+      "type": "flat",
+      "fee_usd": 380.00,
+      "applies_to": "Commercial roofing / re-roofing as a standalone single-trade building permit (inspection-only, no plan review).",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), Trade Permits Commercial — Building, Roofing $380.00 (p. 3)",
+      "source_quality": "verified_official_data",
+      "notes": "Flat trade permit; entirety of fee due at submission."
+    },
+    "pool_spa_commercial": {
+      "type": "flat",
+      "fee_usd": 875.00,
+      "applies_to": "Commercial swimming pool / spa (miscellaneous permit — multi-trade, includes plan review).",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), Miscellaneous Permits Commercial — Pool/Spa $875.00 (p. 5)",
+      "source_quality": "verified_official_data",
+      "notes": "Miscellaneous permit; fee includes the $50 application fee."
+    },
+    "on_site_piping_commercial": {
+      "type": "flat",
+      "fee_usd": 625.00,
+      "applies_to": "Commercial on-site piping — water, wastewater, stormwater (plumbing trade permit).",
+      "source_section": "Hillsborough Building Permit Fee Schedule (eff. 2024-10-05), Trade Permits Commercial — Plumbing, On-Site Piping $625.00 (p. 3)",
+      "source_quality": "verified_official_data",
+      "notes": "Flat trade permit. Residential on-site piping is $130.00 (p. 2)."
+    }
+  },
+  "operational_fees": {
+    "additional_inspection_fee_usd": 125.00,
+    "permit_extension_fee_usd": 50.00,
+    "double_fee_no_permit_pct": 1.0,
+    "notes": "NO single county-wide minimum permit fee. New-construction/addition/alteration per-sqft permits carry two minimums by occupancy: $380 (R-3 and U) and $500 (all other occupancies), captured as per-permit minimum_usd. Trade and miscellaneous permits are flat amounts. APPLICATION FEE: a $50 application fee is due at submittal (included within the plan-review portion of per-sqft permits, and within each miscellaneous permit's fee). PLAN REVIEW / INSPECTION SPLIT: per-sqft permit cost is split 50% plan review (due at plans distribution) + 50% inspection (due at permit issuance); trade permits are inspection-only with the entire fee due at submission. Reinspection $125; inspection by appointment $125; after-hours inspection $310 (residential) / $375 (commercial). Permit application extension / permit extension / permit transfer / expired-permit reinstatement each $50. TCO $530 (residential) / $825 (commercial). Plan revision $140 (residential) / $350 (commercial). WORK WITHOUT PERMIT: penalty is an additional 100% of the permit fee (double_fee_no_permit_pct = 1.0). 4th-or-more plan review or reinspection fee determined by FS 553.80. Existing Building Recertification (commercial) $375 — see special_requirements.recertification_program."
+  },
+  "surcharges_and_fees": {
+    "dbpr_bcaif_surcharge_percentage": 0.015,
+    "dca_surcharge_percentage": 0.010,
+    "notes": "Hillsborough's fee schedule does NOT itemize surcharge rates — it states only: 'All permitting fees will be assessed surcharges as required per established Florida Statutes.' The two statewide statutory surcharges therefore apply on top of the permit fee: DBPR/BCAIF 1.5% per FS 468.631 + FS 553.721 1.0% (administered by DBPR; agency formerly known as DCA; historical 1.5% reduced circa 2017). Both are percentages of the PERMIT FEE. Rates here are the statewide statutory values (verified against prior counties / 2025 Florida Statutes), NOT Hillsborough-itemized figures. NO county-specific surcharge is listed; NO radon or certification-maintenance per-sqft fees appear in the Hillsborough schedule."
+  },
+  "labor_cost_premium": {
+    "vs_national_average_percent_min": 10,
+    "vs_national_average_percent_max": 20,
+    "source_quality": "estimate_from_published_market_data",
+    "sources": [
+      "BLS Occupational Employment and Wage Statistics, Tampa-St. Petersburg-Clearwater MSA (construction wages)",
+      "RSMeans City Cost Index for Tampa"
+    ],
+    "notes": "Coastal non-HVHZ, moderate tourism/service labor market. Estimated between Orange's 5-15% (inland non-HVHZ) and roughly on par with Palm Beach's 10-20% (coastal non-HVHZ); below HVHZ counties' 15-25%. Verify against current BLS wage data before citing specific figures in articles."
+  },
+  "incorporated_city_notes": {
+    "_scope_note": "This file's county fee schedule applies to UNINCORPORATED Hillsborough County ONLY. Hillsborough has just three incorporated municipalities — Tampa, Plant City, Temple Terrace — each with its own building department and fee schedule, but MORE THAN TWO-THIRDS of the county's population lives in UNINCORPORATED areas served by the county. This is a genuine writer-v2 disambiguation challenge and the worst case in the dataset so far: 'Tampa' is the dominant regional identifier and many properties carry a 'Tampa, FL' mailing address while actually sitting in UNINCORPORATED Hillsborough (e.g., Town 'n' Country, Carrollwood, Citrus Park, Egypt Lake-Leto, University) — those are governed by the COUNTY schedule in this file, NOT the City of Tampa schedule. Writer-v2 must NOT assume a 'Tampa' address means City of Tampa jurisdiction. Large unincorporated CDPs (Brandon, Riverview, Town 'n' Country, and the others in metro_areas) all use the county schedule. Only addresses within actual municipal limits (Tampa, Plant City, Temple Terrace) use those cities' own schedules.",
+    "Tampa": {
+      "uses_own_schedule": true,
+      "source_url": "https://www.tampa.gov/construction-services/fees",
+      "notes": "Largest city in the county (~419,635). Maintains its own Construction Services Division and fee schedule — county fees do not apply within City of Tampa limits. NOTE: a 'Tampa, FL' mailing address does NOT reliably indicate City of Tampa jurisdiction (see _scope_note)."
+    },
+    "Plant City": {
+      "uses_own_schedule": true,
+      "notes": "40,887 (2024 U.S. Census estimate). Maintains its own building department; city fee schedule not captured in this dataset."
+    },
+    "Temple Terrace": {
+      "uses_own_schedule": true,
+      "notes": "Smallest incorporated city (~27,241). Maintains its own building department; city fee schedule not captured in this dataset."
+    }
+  },
+  "special_requirements": {
+    "hvhz_status": {
+      "applies": false,
+      "note": "Hillsborough is a Gulf-coast (Tampa Bay) county but NOT in the High Velocity Hurricane Zone (only Miami-Dade and Broward are, per FBC 8th Edition). No NOA product approval requirement; statewide FL Product Approval still applies."
+    },
+    "fbc_edition": {
+      "edition": "Florida Building Code 8th Edition (2023)",
+      "note": "Universal Florida requirement; based on ASCE 7-22 for wind loads."
+    },
+    "design_wind_speed_context": {
+      "note": "ASCE 7-22 / FBC 8th Edition ultimate design wind speeds across the Tampa Bay region run ~140-160 mph for Risk Cat II, with significant east-west contour variation (coastal higher, eastern inland lower). Cat II is set here to 150 mph as a PLACEHOLDER pending verification against the ASCE 7 Hazard Tool for specific project coordinates (A1.5 queue item). Cat III (160) and Cat IV (165) are approximate."
+    },
+    "wind_borne_debris_region": {
+      "applies": "partial",
+      "note": "DEFAULT POSTURE FOR HILLSBOROUGH = 'assume WBDR APPLIES unless verified otherwise' — the OPPOSITE of Orange's default ('assume it does NOT apply unless verified'). Hillsborough is a Gulf-coast county; under ASCE 7-22 (FBC 8th Ed) the WBDR covers areas within 1 mile of mean high water where Vult >= 130 mph AND all areas where Vult >= 140 mph. Much of Hillsborough is at or above 140 mph, so WBDR applies BROADLY across the county. A far-eastern lower-wind fringe may fall outside; per-project applicability MUST still be verified against the FBC/ASCE 7-22 WBDR map. LESSON 23/27: the 'partial' value carries a DIFFERENT meaning per county (PBC = clear east-west split; Orange = likely-not; Hillsborough = likely-yes with a possible eastern fringe) — writer-v2 MUST consult this per-county note and its stated default posture, NOT just the 'partial' applies value."
+    },
+    "coastal_construction_control_line": {
+      "applies": "partial",
+      "note": "UNRESOLVED at authoring (A1.5 queue). CCCL jurisdiction is DEP-established only for open-coast sandy beaches fronting the Gulf of Mexico, Atlantic Ocean, or Straits of Florida (25 counties statewide). Hillsborough's shoreline is Tampa Bay / Hillsborough Bay — estuarine, not open-Gulf sandy beach — which strongly suggests little-to-no CCCL jurisdiction, in contrast to neighboring Pinellas and Manatee (open Gulf beaches, confirmed CCCLs). DEP's public pages confirm '25 coastal counties with sandy beaches' but do not enumerate them, and the DEP ArcGIS feature service was not resolvable during authoring, so the source is inconclusive; set 'partial' per gating instruction. Any Gulf-adjacent southern-county segments (e.g., near the Manatee County line / Cockroach Bay) should be checked. Definitive per-parcel determination requires the DEP Map Direct CCCL GIS tool. Do NOT assert CCCL applies to any Hillsborough location without DEP map confirmation."
+    },
+    "recertification_program": {
+      "applies": true,
+      "statute": "FS 553.899 (statewide milestone inspection, SB 4-D 2022) as implemented via Hillsborough County Code Chapter 8",
+      "fee_usd": 375.00,
+      "fee_note": "Existing Building Recertification (commercial) $375.00 administrative fee (Fee Schedule p. 7).",
+      "applies_to": "Condominium and cooperative (and applicable) buildings 3 or more stories in height.",
+      "trigger": "25 years after certificate of occupancy if the building is within 3 miles of the coast; 30 years if farther inland; then recertification every 10 years.",
+      "note": "Hillsborough HAS a recertification program (unlike Orange, which has none). What was historically the 'Hillsborough 40-year recertification' is now aligned to the statewide milestone-inspection framework: 25-year (coastal, <3 mi) / 30-year (inland, >=3 mi) initial trigger, 10-year recurring. Compare: Miami-Dade uses a 40-year recertification concept; Broward uses 30-year; Hillsborough uses the newer 25/30-year statewide framework. A $375 commercial 'Existing Building Recertification' admin fee is an itemized Fee Schedule line."
+    },
+    "private_provider_option": {
+      "statute": "FS 553.791",
+      "admin_fee_plan_review_only_pct_of_permit": 0.75,
+      "admin_fee_inspections_only_pct_of_permit": 0.50,
+      "admin_fee_both_pct_of_permit": 0.25,
+      "note": "Hillsborough frames private-provider pricing as a COUNTY ADMINISTRATIVE FEE retained (a % of the total permit fee), not as a reduced permit fee: 75% of total permit fee when the private provider performs plan review ONLY; 50% when inspections ONLY; 25% when BOTH plan review and inspections. These values DIFFER from other counties (Orange: reduced to 55%/55%/10%; Palm Beach and Miami-Dade framed differently) — the per-county variance in private-provider pricing is itself a Florida-specific detail worth surfacing in articles. (Fee Schedule p. 8.)"
+    },
+    "noa_product_approval": {
+      "applies": false,
+      "note": "Miami-Dade NOA product approval is an HVHZ-only requirement; not applicable in non-HVHZ Hillsborough. Statewide Florida Product Approval (FL numbers) still applies, and impact/pressure-rated products are relevant wherever WBDR applies (see wind_borne_debris_region)."
+    }
+  }
+}
