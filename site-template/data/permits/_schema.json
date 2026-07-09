@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://floridahomecosts.com/data/permits/_schema.json",
   "title": "Florida County Permit Fee Data",
-  "description": "Authoritative permit fee + Florida-specific context data, per county. v1.3.",
+  "description": "Authoritative permit fee + Florida-specific context data, per county. v1.4.",
   "type": "object",
   "required": [
     "county", "display_name", "state", "metro_areas", "hvhz",
@@ -178,6 +178,8 @@
             "per_amperage_unit",
             "per_kw",
             "per_1000_value",
+            "per_fixture",
+            "per_unit",
             "tiered_by_value",
             "tiered_by_tonnage",
             "tiered_by_amperage"
@@ -196,6 +198,10 @@
         "amp_unit_size": {"type": "integer", "minimum": 1, "description": "Size of amperage unit (e.g., 100 for 'per 100 amp')"},
         "fee_usd_per_kw": {"type": "number", "minimum": 0, "description": "Per-kilowatt rate, e.g. $4.84/kw Miami-Dade heating equipment"},
         "fee_usd_per_1000_value": {"type": "number", "minimum": 0, "description": "Per $1,000 of estimated value, e.g. $7.03/$1,000 Miami-Dade unusual structures"},
+        "fee_usd_per_fixture": {"type": "number", "minimum": 0, "description": "Per-fixture rate for the per_fixture type (v1.4), e.g. $11.00/fixture Duval plumbing (roughing-in + fixture). NOTE: Hillsborough plumbing is currently modeled as flat + notes and MAY be retrofitted to per_fixture in a post-Phase-A1 A1.5 sweep — not done in this commit."},
+        "fee_usd_per_unit": {"type": "number", "minimum": 0, "description": "Per-unit rate for the per_unit type (v1.4). Pair with unit_label and unit_size. E.g. Duval in-ground pools '$1.50 per 1,000 gallons' → fee_usd_per_unit 1.50, unit_label 'gallon', unit_size 1000. unit_size handles the denomination so the rate stays as published."},
+        "unit_label": {"type": "string", "enum": ["gallon", "btu", "cfm", "horsepower", "linear_foot", "cubic_foot"], "description": "Unit of measure for the per_unit type (v1.4). Locked enum — expand as future counties surface new units."},
+        "unit_size": {"type": "integer", "minimum": 1, "default": 1, "description": "Denomination of the per_unit measure (v1.4). E.g. 1000 for 'per 1,000 gallons', 200000 for 'per 200,000 BTU', 2000 for 'per 2,000 CFM'. Defaults to 1 when omitted."},
         "tiers": {
           "type": "array",
           "minItems": 1,
@@ -216,6 +222,26 @@
           "type": "string",
           "enum": ["progressive", "full_bracket"],
           "description": "Optional (v1.3). Only meaningful on tiered fee types (tiered_by_value, tiered_by_tonnage, tiered_by_amperage). Declares how tier rates compose. 'progressive' = each tier's rate applies ONLY to the portion of value/tonnage/amperage that falls within that tier's bracket (marginal application) — e.g. Palm Beach's $75 base + 2.50% on the next $8K + 1.75% on the next $90K, or Orange County's $26 base + $3/$1,000 up to $2M then $1/$1,000 above $2M. 'full_bracket' = the single rate for the matched tier applies to the ENTIRE value — e.g. Broward's 3.0% on the whole job value up to $10M, then 2.5% on the whole value at $10M+. These produce materially different totals. ABSENCE OF THIS FIELD MUST NOT BE TREATED AS A DEFAULT: a consumer encountering a tiered permit with no tier_application MUST fall back to the permit's notes/worked example to determine the composition rule and MUST NOT assume progressive or full_bracket. Author every tiered permit with this field set going forward."
+        },
+        "mandatory_add_on_fees": {
+          "type": "array",
+          "description": "Optional (v1.4). Mandatory fees stacked on top of the base permit fee that a simple base+minimum cannot express — e.g. Duval/Jacksonville's Resource Management + Landscape (12% of BID base) + Development Services + C&D Debris fees layered on each building permit. Each element declares its own basis so the total permit cost stays machine-computable.",
+          "items": {
+            "type": "object",
+            "required": ["name", "basis", "rate"],
+            "properties": {
+              "name": {"type": "string"},
+              "basis": {"type": "string", "enum": ["per_unit", "percent_of_base", "flat", "per_100_sqft"], "description": "How 'rate' is applied: per_unit = rate per unit_label/unit_size; percent_of_base = rate is a decimal fraction of the base permit fee (0.12 = 12%); flat = rate is a flat dollar amount added once; per_100_sqft = rate per 100 sq ft of area."},
+              "rate": {"type": "number", "minimum": 0, "description": "Interpretation depends on basis: dollars for per_unit/flat/per_100_sqft; decimal fraction for percent_of_base."},
+              "unit_label": {"type": "string", "description": "Required when basis is 'per_unit' (e.g. 'gallon', 'cubic_foot', 'btu')."},
+              "unit_size": {"type": "integer", "minimum": 1, "default": 1, "description": "Denomination for a per_unit add-on; defaults to 1."},
+              "applies_to_permit_types": {"type": "array", "items": {"type": "string"}, "description": "Optional. Restricts this add-on to specific base permit keys/types."},
+              "source_section": {"type": "string"},
+              "notes": {"type": "string"}
+            },
+            "if": {"properties": {"basis": {"const": "per_unit"}}, "required": ["basis"]},
+            "then": {"required": ["unit_label"]}
+          }
         },
         "applies_to": {"type": "string"},
         "source_url": {"type": "string", "format": "uri"},
@@ -263,6 +289,14 @@
         {
           "properties": {"type": {"const": "per_1000_value"}},
           "required": ["fee_usd_per_1000_value"]
+        },
+        {
+          "properties": {"type": {"const": "per_fixture"}},
+          "required": ["fee_usd_per_fixture"]
+        },
+        {
+          "properties": {"type": {"const": "per_unit"}},
+          "required": ["fee_usd_per_unit", "unit_label"]
         },
         {
           "properties": {"type": {"const": "tiered_by_value"}},
