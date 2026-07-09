@@ -1,0 +1,278 @@
+{
+  "county": "duval",
+  "display_name": "Duval County (Consolidated City of Jacksonville)",
+  "state": "FL",
+  "metro_areas": [
+    "Jacksonville",
+    "Downtown Jacksonville",
+    "Riverside",
+    "Avondale",
+    "San Marco",
+    "Southside",
+    "Mandarin",
+    "Arlington",
+    "Northside",
+    "Westside",
+    "Ortega",
+    "Baymeadows",
+    "Mayport",
+    "Atlantic Beach",
+    "Neptune Beach",
+    "Jacksonville Beach",
+    "Baldwin"
+  ],
+  "hvhz": false,
+  "design_wind_speed_mph": {
+    "risk_category_ii": 130,
+    "risk_category_iii": 140,
+    "risk_category_iv": 145
+  },
+  "data_source_url": "https://www.jacksonville.gov/departments/finance/city-fees",
+  "data_source_document": "Jacksonville Municipal Code § 320.409 (current codified schedule as retrieved 2026-07-09; specific amending-ordinance date not surfaced — see A1.5 queue). Authorizing code: Jacksonville Ordinance Code Ch 320, Part 4. Fees imposed pursuant to FS § 166.222.",
+  "last_verified": "2026-07-09",
+  "schema_version": "1.4",
+  "permits": {
+    "residential_new_construction": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 0.0638,
+      "minimum_usd": 112.50,
+      "mandatory_add_on_fees": [
+        {
+          "name": "Resource Management fee",
+          "basis": "per_100_sqft",
+          "rate": 1.60,
+          "source_section": "§ 320.409(1)"
+        },
+        {
+          "name": "Landscape fee",
+          "basis": "percent_of_base",
+          "rate": 0.12,
+          "source_section": "§ 320.409(1)",
+          "notes": "12% of the BID permit fee (the base per_square_foot fee), not of the total. Residential single-family accessory structures are exempt from the Landscape fee."
+        },
+        {
+          "name": "Development Services fee",
+          "basis": "per_100_sqft",
+          "rate": 2.13,
+          "source_section": "§ 320.409(1)"
+        },
+        {
+          "name": "C&D Debris fee",
+          "basis": "per_100_sqft",
+          "rate": 8.75,
+          "applies_to_permit_types": ["residential_new_construction"],
+          "source_section": "§ 320.409(1)",
+          "notes": "$8.75 per 100 sq ft applies to RESIDENTIAL new buildings/shell/accessory/additions. Non-residential uses a different C&D basis (~$0.90 per sf per $1,000 of construction cost per source) — not applied to this residential key."
+        }
+      ],
+      "applies_to": "Residential (R-3 one/two-family) new buildings, shell buildings, accessory buildings, and additions. Floor area = gross overall outside-dimension floor area at each story, all portions under roofs.",
+      "source_section": "Jacksonville Municipal Code § 320.409(1) — New buildings, shell buildings, accessory buildings, and additions",
+      "source_quality": "verified_official_data",
+      "notes": "BID permit fee = $6.38 per 100 sq ft per story (converted to $0.0638/sf) for below/above grade up to and including the 4th story above grade. ABOVE the 4th story the BID rate is $6.94/100sf = $0.0694/sf. UNENCLOSED area (garages, porches, etc.) is $0.75/100sf = $0.0075/sf. Rate is PER STORY — multiply by floor area at each story; writer-v2 must consult this note for multi-story calculations. Minimum BID permit fee $112.50 OR $33.75 per required inspection, whichever is greater. Plan review fee = 67% of BID permit fee or $90.00, whichever is greater. Separate permits/fees are still required for electrical, plumbing, mechanical (this per-sqft fee does NOT bundle trades — contrast Hillsborough). The four mandatory_add_on_fees (Resource Management, Landscape, Development Services, C&D Debris) stack on top of the BID fee. NOTE: mandatory_add_on_fee rates are captured on the per_100_sqft basis with the source's verbatim published $/100sf amounts (not converted to per-sqft) to avoid decimal error."
+    },
+    "new_construction_other_than_buildings": {
+      "type": "tiered_by_value",
+      "tier_application": "progressive",
+      "tiers": [
+        {"max_value_usd": 500000, "fee_usd_per_100": 0.188},
+        {"max_value_usd": null, "fee_usd_per_100": 0.056}
+      ],
+      "minimum_usd": 112.50,
+      "applies_to": "New construction other than buildings: water towers, pylons, storage tank foundations, masonry/retaining walls, cell towers, playground equipment, awnings, structural elements of industrial complexes not within a building, sewage treatment plants, and similar.",
+      "source_section": "Jacksonville Municipal Code § 320.409(4)",
+      "source_quality": "verified_official_data",
+      "notes": "BID permit fee = $1.88 per $1,000 of estimated cost up to $500,000 ($0.188/$100), then $0.56 per $1,000 above $500,000 ($0.056/$100). Progressive (marginal per bracket). Minimum BID fee $112.50 or $33.75/inspection. Plan review = 67% of BID fee or $90. Add-on fees also apply per source but on a per-$1,000 basis (Resource Management $0.30/$1,000, Development Services $0.63/$1,000, C&D $0.90/$1,000) plus Landscape 12% of BID — the per-$1,000 add-ons are documented here because the schema's mandatory_add_on_fees has no per_1000_value basis (v1.4)."
+    },
+    "alterations_tenant_buildout": {
+      "type": "per_1000_value",
+      "fee_usd_per_1000_value": 3.00,
+      "minimum_usd": 112.50,
+      "applies_to": "Alterations, tenant build-out, converting use, including major repair to buildings or other structures.",
+      "source_section": "Jacksonville Municipal Code § 320.409(6)",
+      "source_quality": "verified_official_data",
+      "notes": "BID permit fee = $3.00 per $1,000 of estimated cost. Minimum BID fee $112.50 or $33.75/inspection. Plan review = 67% of BID fee or $75. Converting-use permit where no inspections required = flat $80. Add-ons per source: Resource Management $0.65/$1,000, Development Services $1.00/$1,000, C&D $0.90/$1,000, Landscape 12% of BID (per-$1,000 add-ons documented in notes; no per_1000_value add-on basis in schema v1.4)."
+    },
+    "window_door_replacement": {
+      "type": "per_1000_value",
+      "fee_usd_per_1000_value": 4.00,
+      "minimum_usd": 150.00,
+      "applies_to": "Window and door replacement.",
+      "source_section": "Jacksonville Municipal Code § 320.409(8)",
+      "source_quality": "verified_official_data",
+      "notes": "BID permit fee = $4.00 per $1,000 of construction cost. Minimum $80 for permits NOT requiring an inspection; $150 for permits requiring one or more inspections (minimum_usd set to $150, the inspected case). C&D fee $25/permit. No Development Services fee for this subsection."
+    },
+    "roofing": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 0.010,
+      "minimum_usd": 150.00,
+      "applies_to": "Roofing (re-roofing and roofing work), excluding original roofing on new one- and two-family dwellings and original roofing on additions/accessory buildings for single-family dwellings.",
+      "source_section": "Jacksonville Municipal Code § 320.409(10)",
+      "source_quality": "verified_official_data",
+      "notes": "BID permit fee = $10.00 per 1,000 sq ft = $0.010/sf. Minimum $80 for roofing permits NOT requiring an inspection; $150 for permits requiring one or more inspections (minimum_usd = $150). Roofing repairs less than 500 sq ft = flat $10.00. C&D Debris fee $17.50."
+    },
+    "swimming_pool_inground": {
+      "type": "per_unit",
+      "fee_usd_per_unit": 1.50,
+      "unit_label": "gallon",
+      "unit_size": 1000,
+      "minimum_usd": 45.00,
+      "applies_to": "In-ground swimming pools, by capacity.",
+      "source_section": "Jacksonville Municipal Code § 320.409(11)",
+      "source_quality": "verified_official_data",
+      "notes": "BID permit fee = $1.50 per 1,000 gallons capacity (fee_usd_per_unit 1.50, unit_size 1000). Minimum BID fee $45. Building plan review = 67% of BID fee or $60. Above-ground pools = flat $75 (includes plan review) + $25 development services. Repair with no inspection = $10. Modification = $100. Additional add-ons per source: Resource Management $0.50/1,000 gal, Development Services $0.50/1,000 gal, Landscape 12% of BID, C&D Debris $25 flat (documented in notes; the flagship mandatory_add_on_fees stack is encoded on residential_new_construction only)."
+    },
+    "demolition_sfr": {
+      "type": "flat",
+      "fee_usd": 37.50,
+      "minimum_usd": 60.00,
+      "applies_to": "Demolition of single-family residential buildings that are zoned residential.",
+      "source_section": "Jacksonville Municipal Code § 320.409(12)",
+      "source_quality": "verified_official_data",
+      "notes": "BID permit fee flat $37.50 + Development Services fee $12.50 + C&D Debris fee $400.00 per 1,000 sq ft of floor area. Minimum BID permit fee for subsection (12) is $60.00 (minimum_usd)."
+    },
+    "demolition_non_sfr": {
+      "type": "per_square_foot",
+      "fee_usd_per_sqft": 0.00131,
+      "minimum_usd": 60.00,
+      "applies_to": "Demolition of all buildings other than single-family residential.",
+      "source_section": "Jacksonville Municipal Code § 320.409(12)",
+      "source_quality": "verified_official_data",
+      "notes": "BID permit fee = $1.31 per 1,000 sq ft = $0.00131/sf. Minimum BID fee $60. Plan review = 67% of BID fee or $60. Add-ons per source: Resource Management $0.30/1,000sf, Development Services $0.44/1,000sf, Landscape 12% of BID, C&D Debris $400/1,000sf (documented in notes)."
+    },
+    "plumbing": {
+      "type": "per_fixture",
+      "fee_usd_per_fixture": 11.00,
+      "minimum_usd": 60.00,
+      "applies_to": "Plumbing — roughing-in and setting fixtures or plugged outlets (water closets, bathtubs, showers, lavatories, sinks, laundry tubs, urinals, floor drains, water heaters, washing machines with sewer connection, etc.). Fee for new roughing-in includes the fixture.",
+      "source_section": "Jacksonville Municipal Code § 320.409 — Plumbing Permit Fees",
+      "source_quality": "verified_official_data",
+      "notes": "$11.00 per roughing-in and fixture or plugged outlet. Also $11 for each rainwater roof inlet, each sewer connection, each water-piping service connection, and repairs at $11 per $100 estimated cost. Water softeners and solar water heaters = $21.00 each. Minimum plumbing permit fee $60.00."
+    },
+    "electrical_sfr_service": {
+      "type": "flat",
+      "fee_usd": 170.00,
+      "minimum_usd": 60.00,
+      "applies_to": "New single-family residential electrical service installation (0–200 ampere service).",
+      "source_section": "Jacksonville Municipal Code § 320.409 — Electrical Permit Fees",
+      "source_quality": "verified_official_data",
+      "notes": "New single-family residential service 0–200 A = flat $170.00; for each additional 50 A or fraction thereof add $20.00. Temporary service $80. Multifamily $80/dwelling unit. Residential service CHANGE (existing) is $80–$100 by amperage. Numerous additional per-outlet / per-motor (HP) / per-kw / per-appliance components apply per § 320.409 — writer-v2 must consult the source for complex electrical scope. Minimum electrical fee $60. Late fee = double fee."
+    },
+    "mechanical_hvac_tiered": {
+      "type": "tiered_by_tonnage",
+      "tier_application": "progressive",
+      "tiers": [
+        {"max_tons": 10, "fee_usd": 0, "per_ton_above_usd": 11.00},
+        {"max_tons": 25, "fee_usd": 110.00, "per_ton_above_usd": 7.00},
+        {"max_tons": null, "fee_usd": 215.00, "per_ton_above_usd": 6.00}
+      ],
+      "minimum_usd": 60.00,
+      "applies_to": "Air conditioning and refrigeration by total capacity; each apartment or business is a separate system. Residential systems (typically 1–5 tons) fall in the first tier at $11/ton.",
+      "source_section": "Jacksonville Municipal Code § 320.409 — Mechanical Permit Fees",
+      "source_quality": "verified_official_data",
+      "notes": "PROGRESSIVE per-ton (source: '$11.00/ton for one to ten tons; $7.00 for each ton over ten up to 25; $6.00 for each ton over 25' — 'for each ton over X' = marginal). Encoded on the schema-canonical fee_usd (cumulative base at the tier's lower bound) + per_ton_above_usd (marginal rate above that bound) pattern, matching Orange's tiered_by_tonnage encoding: tier1 $0 base + $11/ton (0–10); tier2 $110 base at 10 tons + $7/ton (10–25); tier3 $215 base at 25 tons + $6/ton (>25). Worked examples: 4 tons = $44; 20 tons = $110 + 10×$7 = $180; 30 tons = $215 + 5×$6 = $245. Residential AC (1–5 tons) = $11/ton exact. Minimum mechanical permit fee $60. For mechanical permits not otherwise listed the fee is $7.00 per $1,000."
+    },
+    "mechanical_furnace_heating_per_btu": {
+      "type": "per_unit",
+      "fee_usd_per_unit": 22.00,
+      "unit_label": "btu",
+      "unit_size": 200000,
+      "minimum_usd": 60.00,
+      "applies_to": "Furnaces and heating equipment by total capacity, per apartment or business.",
+      "source_section": "Jacksonville Municipal Code § 320.409 — Mechanical Permit Fees",
+      "source_quality": "verified_official_data",
+      "notes": "$22.00 for the first 200,000 BTU/hour capacity (fee_usd_per_unit 22, unit_size 200000), then $11.00 for each additional 50,000 BTU/hour (marginal add-on documented here). Boilers are priced separately: $28 for the first 500,000 BTU/hour + $9 per additional 100,000 BTU/hour. Minimum mechanical permit fee $60."
+    },
+    "mechanical_ductwork_per_cfm": {
+      "type": "per_unit",
+      "fee_usd_per_unit": 17.00,
+      "unit_label": "cfm",
+      "unit_size": 2000,
+      "minimum_usd": 60.00,
+      "applies_to": "Air duct systems by air-handling capacity.",
+      "source_section": "Jacksonville Municipal Code § 320.409 — Mechanical Permit Fees",
+      "source_quality": "verified_official_data",
+      "notes": "$17.00 for the first 2,000 CFM (fee_usd_per_unit 17, unit_size 2000), then $7.00 per 1,000 CFM over 2,000 up to 10,000, then $5.00 per additional 1,000 CFM (marginal rates documented here). Minimum mechanical permit fee $60."
+    }
+  },
+  "operational_fees": {
+    "minimum_permit_fee_usd": 112.50,
+    "double_fee_no_permit_pct": 1.0,
+    "notes": "Base BID minimum permit fee $112.50 OR $33.75 per required inspection, whichever is greater (many subsections use this two-valued minimum; individual permits carry their own minimum_usd where it differs — e.g. plumbing/mechanical/electrical $60, pools $45, demolition $60). Minimum Development Services fee $37.50 or $11.25 per required inspection. Plan review fee is generally 67% of the BID permit fee or a floor ($90 for new construction/§320.409(1),(2),(4),(9); $75 for alterations; $60 for pools/demolition). double_fee_no_permit_pct = 1.0 reflects Duval's doubling convention (electrical 'Late fee: Double fee'). Plan review fee is QUADRUPLED on the fourth submission per FS 553.80. Temporary/partial CO $100 residential / $150 commercial. Private Inspection (private provider) reductions — see special_requirements.private_provider_option."
+  },
+  "surcharges_and_fees": {
+    "dbpr_bcaif_surcharge_percentage": 0.015,
+    "dca_surcharge_percentage": 0.010,
+    "notes": "§ 320.409 does not itemize the state statutory surcharges; the statewide DBPR/BCAIF 1.5% (FS 468.631) + FS 553.721 1.0% apply by statute (percentages of the permit fee; rates are the statewide statutory values, not Duval-itemized). Duval's Resource Management, Landscape (12% of BID), Development Services, and C&D Debris fees are LOCAL add-ons captured as mandatory_add_on_fees at the permit level, distinct from the state statutory surcharges. No radon or certification-maintenance per-sqft fee; no county-specific percentage surcharge (no Miami-Dade RER equivalent)."
+  },
+  "labor_cost_premium": {
+    "vs_national_average_percent_min": 5,
+    "vs_national_average_percent_max": 15,
+    "source_quality": "estimate_from_published_market_data",
+    "sources": [
+      "BLS Occupational Employment and Wage Statistics, Jacksonville MSA (construction wages)",
+      "RSMeans City Cost Index for Jacksonville"
+    ],
+    "notes": "Jacksonville metro is inland-adjacent Atlantic coastal, non-HVHZ, moderate labor market. Below HVHZ counties' 15-25%, below Hillsborough's 10-20%, closer to Orange's 5-15%. Verify against current BLS wage data before articles cite specifics."
+  },
+  "incorporated_city_notes": {
+    "_scope_note": "STRUCTURAL INVERSION vs every other county in this dataset. Jacksonville and Duval County CONSOLIDATED into a single government in 1968, so this file's 'county' fee schedule IS the Consolidated City of Jacksonville schedule (Municipal Code § 320.409), and it covers the VAST MAJORITY of Duval County — there is no separate 'unincorporated county' vs 'City of Jacksonville' distinction. The exceptions are FOUR municipalities that declined consolidation and retain their own building departments and fee schedules: Atlantic Beach, Neptune Beach, Jacksonville Beach, and Baldwin. Construction WITHIN those four municipalities is permitted by that municipality's own building department, NOT by the Jacksonville Building Inspection Division, and this file's schedule does NOT apply there. Everywhere else in Duval (all Jacksonville neighborhoods — Downtown, Riverside, San Marco, Southside, Mandarin, Arlington, Northside, Westside, Mayport, etc.) uses this file's schedule. This is the opposite of the Hillsborough/Miami-Dade pattern where the county file covered unincorporated areas and the big city opted out — here the big city IS the county, and small beach towns opt out.",
+    "Atlantic Beach": {
+      "uses_own_schedule": true,
+      "source_url": "https://www.coab.us/",
+      "notes": "Opt-out municipality on the Atlantic oceanfront. Maintains its own building department and fee schedule. Most of Duval's WBDR/CCCL-critical Atlantic beachfront lies within Atlantic Beach and the other opt-out beach cities — NOT within the Jacksonville jurisdiction this file covers."
+    },
+    "Neptune Beach": {
+      "uses_own_schedule": true,
+      "notes": "Opt-out municipality on the Atlantic oceanfront. Own building dept; official URL not verified — see A1.5 queue. This file's schedule does not apply within its limits."
+    },
+    "Jacksonville Beach": {
+      "uses_own_schedule": true,
+      "source_url": "https://www.jacksonvillebeach.org/",
+      "notes": "Opt-out municipality on the Atlantic oceanfront (largest of the beach cities). Own building department and fee schedule; also administers its own milestone/structural-threshold inspections."
+    },
+    "Baldwin": {
+      "uses_own_schedule": true,
+      "notes": "Opt-out municipality in far western Duval (inland, not a beach city). Small town that retained independent incorporation; maintains its own building/permitting. Official URL not verified — see A1.5 queue."
+    }
+  },
+  "special_requirements": {
+    "hvhz_status": {
+      "applies": false,
+      "note": "Duval is Atlantic-coastal but NOT in the High Velocity Hurricane Zone (only Miami-Dade and Broward are, per FBC 8th Edition). No NOA product approval; statewide FL Product Approval applies (Duval also has a 'Local Product Approval' $150 fee in § 320.409)."
+    },
+    "fbc_edition": {
+      "edition": "Florida Building Code 8th Edition (2023)",
+      "note": "Universal Florida requirement; based on ASCE 7-22 for wind loads."
+    },
+    "design_wind_speed_context": {
+      "note": "ASCE 7-22 / FBC 8th Edition ultimate design wind speeds for Duval run ~130-140 mph Cat II — the Jacksonville urban core is near 130, rising toward the Atlantic oceanfront. Cat II set to 130 as a PLACEHOLDER pending verification against the ASCE 7 Hazard Tool for specific project coordinates (A1.5 queue). Cat III (140) and Cat IV (145) are approximate."
+    },
+    "wind_borne_debris_region": {
+      "applies": "partial",
+      "note": "FOURTH distinct meaning of 'partial' in the dataset — a JURISDICTIONAL-WRINKLE partial. Coastal fringe in / inland bulk out: WBDR captures the eastern coastal strip (within 1 mile of Atlantic mean high water where Vult >= 130, plus anywhere Vult >= 140), while most of inland Jacksonville (~130 mph, >1 mile inland) is OUT. Critically, most of the WBDR-critical oceanfront is inside the separately-incorporated beaches cities (Atlantic Beach, Neptune Beach, Jacksonville Beach) that use their OWN schedules — so the WBDR-critical zones are largely OUTSIDE this file's Jacksonville jurisdiction anyway (Mayport and limited COJ-jurisdiction coastal segments are the exception). Per-project applicability MUST be verified against the FBC/ASCE 7-22 WBDR map. Lesson 23/27/35: 'partial' carries a different meaning per county — writer-v2 MUST consult this note, not just the 'partial' value."
+    },
+    "coastal_construction_control_line": {
+      "applies": "partial",
+      "note": "Duval HAS a real Atlantic open-coast CCCL (unlike Hillsborough's estuarine ambiguity — Duval fronts the open Atlantic with sandy beaches). BUT the oceanfront is almost entirely within the opt-out beaches cities (Atlantic Beach, Neptune Beach, Jacksonville Beach), which use their own schedules. Within the Consolidated City of Jacksonville jurisdiction that THIS file covers, CCCL exposure is limited to segments like Mayport. Per-parcel verification against the DEP Map Direct CCCL GIS tool is required for any coastal COJ-jurisdiction project."
+    },
+    "recertification_program": {
+      "applies": true,
+      "statute": "FS 553.899 (statewide milestone inspection, SB 4-D 2022) implemented via Jacksonville Ordinance Code Chapter 328 (Milestone Inspection Regulations)",
+      "applies_to": "Condominium and cooperative buildings 3 or more stories in height.",
+      "trigger": "25 years after certificate of occupancy if within 3 miles of the coast; 30 years if farther inland; then recertification every 10 years.",
+      "fee_note": "No dedicated recertification/milestone fee is itemized in § 320.409 (the building permit fee schedule); milestone-inspection permits are processed under standard § 320.409 fees. The program itself is codified in COJ Code Chapter 328.",
+      "note": "Duval HAS a recertification program (verified: COJ Code Ch 328 exists, implementing FS 553.899's statewide milestone framework). Compare: Miami-Dade 40-year, Broward 30-year, Orange none, Hillsborough 25/30-year, Duval 25/30-year (same statewide framework as Hillsborough). Not a Fee Directory line item."
+    },
+    "private_provider_option": {
+      "statute": "FS 553.791",
+      "framing": "flat/percent reduction of the permit fee",
+      "residential_reduction_usd": 100.00,
+      "commercial_reduction_pct": 0.10,
+      "note": "THIRD distinct framing and the FIFTH distinct Private Provider structure across six counties. Duval reduces the permit fee for private inspection: residential new buildings/additions reduced by a FLAT $100.00 (but not below the BID minimum fee); commercial new buildings/additions reduced by 10% (but not below the BID minimum fee). Contrast: Orange 'reduced to' 55%/55%/10%; Hillsborough county-admin-fee-retained 75%/50%/25%; Broward flat $100/inspection reduction; Miami-Dade/PBC differ again. Registering to be a Private Provider is a $150 fee; adding an inspector to a private provider is $100 (§ 320.409). Per-county Private Provider variance is itself a Florida-specific detail worth surfacing."
+    },
+    "noa_product_approval": {
+      "applies": false,
+      "note": "Miami-Dade NOA product approval is an HVHZ-only requirement; not applicable in non-HVHZ Duval. Statewide Florida Product Approval applies; Duval also issues a Local Product Approval ($150, § 320.409). Impact/pressure-rated products are relevant wherever WBDR applies (see wind_borne_debris_region)."
+    }
+  }
+}
