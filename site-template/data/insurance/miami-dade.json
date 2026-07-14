@@ -1,0 +1,372 @@
+{
+  "county": "miami-dade",
+  "display_name": "Miami-Dade County",
+  "state": "FL",
+  "hvhz": true,
+  "premium_period": "annual",
+  "data_source_url": "https://choices.floir.gov/pandc/homeowners",
+  "data_source_document": "OIR CHOICES homeowners rate API (iId=2). Fetched 2026-07-14: GET https://choices.floir.gov/PandC/Data/CountyRates?iId=2&eId=4&county=Miami-Dade (and eId=5, eId=6). eId 4/5/6 map to the three profiles per /PandC/Data/Init?iId=2 Examples. 'Rate' = annual sample premium; 'Rate2' is unused for homeowners (iId=2).",
+  "last_verified": "2026-07-14",
+  "schema_version": "1.0",
+  "source_quality": "verified_official_data",
+  "profiles": {
+    "pre2001_150k_no_wind_mit": {
+      "description": "$150,000 Value - Pre-2001 Construction w/ No Wind Mitigation",
+      "eid": 4,
+      "source_notes": "Fixed CHOICES model: $150,000 dwelling value, pre-2001 construction, NO wind-mitigation credits applied. CHOICES does not publish the deductible/Coverage-A breakdown beyond dwelling value and mitigation status.",
+      "data_available": true,
+      "citizens_premium_usd": 8393,
+      "market_spread": {
+        "min_premium_usd": 7292,
+        "median_premium_usd": 13980,
+        "max_premium_usd": 167980,
+        "carrier_count": 20
+      },
+      "carriers": [
+        {
+          "name": "HOMEOWNERS CHOICE PROPERTY & CASUALTY INSURANCE COMPANY, INC.",
+          "premium_usd": 7292,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "UNITED SERVICES AUTOMOBILE ASSOCIATION",
+          "premium_usd": 7686,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "CITIZENS PROPERTY INSURANCE CORPORATION",
+          "premium_usd": 8393,
+          "is_citizens_anchor": true
+        },
+        {
+          "name": "TYPTAP INSURANCE COMPANY",
+          "premium_usd": 8756,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "USAA CASUALTY INSURANCE COMPANY",
+          "premium_usd": 9113,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "STATE FARM FLORIDA INSURANCE COMPANY",
+          "premium_usd": 9318,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "FLORIDA FARM BUREAU CASUALTY INSURANCE COMPANY",
+          "premium_usd": 10261,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "UNIVERSAL PROPERTY & CASUALTY INSURANCE COMPANY",
+          "premium_usd": 12619,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "AUTO CLUB INSURANCE COMPANY OF FLORIDA",
+          "premium_usd": 13746,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "SOUTHERN OAK INSURANCE COMPANY",
+          "premium_usd": 13798,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "MONARCH NATIONAL INSURANCE COMPANY",
+          "premium_usd": 14161,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "SECURITY FIRST INSURANCE COMPANY",
+          "premium_usd": 14353,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "HERITAGE PROPERTY & CASUALTY INSURANCE COMPANY",
+          "premium_usd": 14799,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "CASTLE KEY INDEMNITY COMPANY",
+          "premium_usd": 21773,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "AMERICAN STRATEGIC INSURANCE CORP.",
+          "premium_usd": 22262,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "MANATEE INSURANCE EXCHANGE",
+          "premium_usd": 23394,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "SLIDE INSURANCE COMPANY",
+          "premium_usd": 26423,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "PEOPLE'S TRUST INSURANCE COMPANY",
+          "premium_usd": 29503,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "FEDERAL INSURANCE COMPANY",
+          "premium_usd": 115944,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "PRIVILEGE UNDERWRITERS RECIPROCAL EXCHANGE",
+          "premium_usd": 167980,
+          "is_citizens_anchor": false
+        }
+      ]
+    },
+    "pre2001_150k_with_wind_mit": {
+      "description": "$150,000 Value - Pre-2001 Construction w/ Wind Mitigation",
+      "eid": 5,
+      "source_notes": "Fixed CHOICES model: $150,000 dwelling value, pre-2001 construction, WITH wind-mitigation credits applied. The delta vs pre2001_150k_no_wind_mit isolates the wind-mitigation premium effect.",
+      "data_available": true,
+      "citizens_premium_usd": 4328,
+      "market_spread": {
+        "min_premium_usd": 3054,
+        "median_premium_usd": 5657,
+        "max_premium_usd": 37655,
+        "carrier_count": 20
+      },
+      "carriers": [
+        {
+          "name": "FLORIDA FARM BUREAU CASUALTY INSURANCE COMPANY",
+          "premium_usd": 3054,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "UNIVERSAL PROPERTY & CASUALTY INSURANCE COMPANY",
+          "premium_usd": 3948,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "HERITAGE PROPERTY & CASUALTY INSURANCE COMPANY",
+          "premium_usd": 3986,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "HOMEOWNERS CHOICE PROPERTY & CASUALTY INSURANCE COMPANY, INC.",
+          "premium_usd": 4298,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "CITIZENS PROPERTY INSURANCE CORPORATION",
+          "premium_usd": 4328,
+          "is_citizens_anchor": true
+        },
+        {
+          "name": "STATE FARM FLORIDA INSURANCE COMPANY",
+          "premium_usd": 4515,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "UNITED SERVICES AUTOMOBILE ASSOCIATION",
+          "premium_usd": 4531,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "SOUTHERN OAK INSURANCE COMPANY",
+          "premium_usd": 5084,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "MONARCH NATIONAL INSURANCE COMPANY",
+          "premium_usd": 5600,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "USAA CASUALTY INSURANCE COMPANY",
+          "premium_usd": 5656,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "TYPTAP INSURANCE COMPANY",
+          "premium_usd": 5658,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "MANATEE INSURANCE EXCHANGE",
+          "premium_usd": 6453,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "AMERICAN STRATEGIC INSURANCE CORP.",
+          "premium_usd": 6859,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "PEOPLE'S TRUST INSURANCE COMPANY",
+          "premium_usd": 7035,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "CASTLE KEY INDEMNITY COMPANY",
+          "premium_usd": 7161,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "SECURITY FIRST INSURANCE COMPANY",
+          "premium_usd": 7484,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "AUTO CLUB INSURANCE COMPANY OF FLORIDA",
+          "premium_usd": 8032,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "SLIDE INSURANCE COMPANY",
+          "premium_usd": 10078,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "FEDERAL INSURANCE COMPANY",
+          "premium_usd": 30487,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "PRIVILEGE UNDERWRITERS RECIPROCAL EXCHANGE",
+          "premium_usd": 37655,
+          "is_citizens_anchor": false
+        }
+      ]
+    },
+    "new_construction_300k": {
+      "description": "$300,000 Value - New Construction",
+      "eid": 6,
+      "source_notes": "Fixed CHOICES model: $300,000 dwelling value, NEW construction (current-code, inherently wind-mitigated). Higher dwelling value than the two pre-2001 profiles.",
+      "data_available": true,
+      "citizens_premium_usd": 9341,
+      "market_spread": {
+        "min_premium_usd": 4344,
+        "median_premium_usd": 10770,
+        "max_premium_usd": 62877,
+        "carrier_count": 20
+      },
+      "carriers": [
+        {
+          "name": "FLORIDA FARM BUREAU CASUALTY INSURANCE COMPANY",
+          "premium_usd": 4344,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "UNITED SERVICES AUTOMOBILE ASSOCIATION",
+          "premium_usd": 5129,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "STATE FARM FLORIDA INSURANCE COMPANY",
+          "premium_usd": 5880,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "USAA CASUALTY INSURANCE COMPANY",
+          "premium_usd": 6591,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "HERITAGE PROPERTY & CASUALTY INSURANCE COMPANY",
+          "premium_usd": 6812,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "UNIVERSAL PROPERTY & CASUALTY INSURANCE COMPANY",
+          "premium_usd": 7145,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "HOMEOWNERS CHOICE PROPERTY & CASUALTY INSURANCE COMPANY, INC.",
+          "premium_usd": 7439,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "CITIZENS PROPERTY INSURANCE CORPORATION",
+          "premium_usd": 9341,
+          "is_citizens_anchor": true
+        },
+        {
+          "name": "TYPTAP INSURANCE COMPANY",
+          "premium_usd": 9774,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "MONARCH NATIONAL INSURANCE COMPANY",
+          "premium_usd": 10402,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "SOUTHERN OAK INSURANCE COMPANY",
+          "premium_usd": 11138,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "SECURITY FIRST INSURANCE COMPANY",
+          "premium_usd": 11489,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "AMERICAN STRATEGIC INSURANCE CORP.",
+          "premium_usd": 11890,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "CASTLE KEY INDEMNITY COMPANY",
+          "premium_usd": 12558,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "MANATEE INSURANCE EXCHANGE",
+          "premium_usd": 13592,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "AUTO CLUB INSURANCE COMPANY OF FLORIDA",
+          "premium_usd": 15264,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "PEOPLE'S TRUST INSURANCE COMPANY",
+          "premium_usd": 15282,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "SLIDE INSURANCE COMPANY",
+          "premium_usd": 16927,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "FEDERAL INSURANCE COMPANY",
+          "premium_usd": 46575,
+          "is_citizens_anchor": false
+        },
+        {
+          "name": "PRIVILEGE UNDERWRITERS RECIPROCAL EXCHANGE",
+          "premium_usd": 62877,
+          "is_citizens_anchor": false
+        }
+      ]
+    }
+  },
+  "illustrative_caveat": {
+    "verbatim_disclaimer": "The rates quoted are for illustrative purposes and reflect information obtained from the most recent rate filings approved by the Office. These rate quotes are for the three pre-defined examples described below \u2013 premiums for your home will vary depending on individual circumstances.",
+    "premium_variance_factors": [
+      "Type of construction",
+      "Dwelling value",
+      "Mitigation features",
+      "Amount of deductibles"
+    ],
+    "source_recommendation": "The Office recommends contacting an insurance agent or insurance company to obtain an official premium quote."
+  },
+  "citizens_rate_source_date": null,
+  "citizens_temporal_note": "Citizens rates move on the statutory glide path. Per Citizens' 2025 Rate Kit, the Miami-Dade HO-3 book-average premium rose +13.5% ($5,113 \u2192 $5,804), effective ~June 2025 (statewide HO-3 +13.5%). The 2026 filing (effective 6/1/2026) proposes -0.8% after glide-path capping, with the indicated actuarially-sound premium down 43% on SB 2-A reinsurance savings. The CHOICES figures here may reflect a filing generation behind the live rate; the API does not expose the rate-effective date (see citizens_rate_source_date).",
+  "rate_currency_note": "Every premium in this file is a most-recent-OIR-approved FILED rate for a fixed CHOICES model home, as of an effective date the CHOICES API does not disclose; last_verified is the FETCH date, not the rate-effective date. Writer-v2 must cite these as 'illustrative filed rates' (never as current market quotes), always paired with last_verified and the illustrative_caveat. This applies to every carrier, not just Citizens."
+}
