@@ -1,0 +1,158 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://floridahomecosts.com/data/insurance/_schema.json",
+  "title": "Florida County Homeowners Insurance Sample-Premium Data",
+  "description": "Authoritative HO-3 homeowners sample-premium data per Florida county, sourced from the OIR CHOICES rate-comparison API. v1.0. Parallel to the permits data layer. Every premium is a SAMPLE for a fixed model home under one of three pre-defined CHOICES risk profiles — NOT a quote; the illustrative_caveat and temporal fields make that explicit and are required in every county file.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "county", "display_name", "state", "hvhz", "premium_period",
+    "data_source_url", "data_source_document", "last_verified", "schema_version",
+    "source_quality", "profiles", "illustrative_caveat",
+    "citizens_rate_source_date", "citizens_temporal_note", "rate_currency_note"
+  ],
+  "properties": {
+    "county": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9-]*$",
+      "description": "Slug form of the county name. Lowercase, hyphenated. Must match the filename stem and the permits-layer slug (e.g. 'miami-dade')."
+    },
+    "display_name": {
+      "type": "string",
+      "description": "Human-readable county name (e.g. 'Miami-Dade County')."
+    },
+    "state": {
+      "type": "string",
+      "const": "FL"
+    },
+    "hvhz": {
+      "type": "boolean",
+      "description": "True if the county is in the High Velocity Hurricane Zone (Miami-Dade, Broward). Mirrors the permits layer; relevant to insurance because HVHZ construction/mitigation affects premium."
+    },
+    "premium_period": {
+      "type": "string",
+      "enum": ["annual", "semi_annual", "monthly"],
+      "description": "Period every premium_usd value in this file represents. HO-3 CHOICES premiums are 'annual'. Explicit rather than assumed."
+    },
+    "data_source_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Primary public source. The OIR CHOICES homeowners tool: https://choices.floir.gov/pandc/homeowners"
+    },
+    "data_source_document": {
+      "type": "string",
+      "description": "Exact API call pattern used to obtain the data. Expected form: 'OIR CHOICES homeowners rate API — GET https://choices.floir.gov/PandC/Data/CountyRates?iId=2&eId={4|5|6}&county={CountyName}, where iId=2 is homeowners and eId 4/5/6 map to the three profiles (see profiles[].eid). County list from /PandC/Data/Init?iId=2.'"
+    },
+    "last_verified": {
+      "type": "string",
+      "format": "date",
+      "description": "ISO 8601 date the CHOICES API was fetched (YYYY-MM-DD). Note: the API does NOT expose the underlying rate-filing effective date (see citizens_rate_source_date / rate_currency_note), so last_verified is the fetch date, not the rate-effective date."
+    },
+    "schema_version": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]+$",
+      "description": "Insurance-schema version this file conforms to."
+    },
+    "source_quality": {
+      "$ref": "#/$defs/source_quality",
+      "description": "Dataset-level source quality. CHOICES direct-fetch = 'verified_official_data'. Per-profile source_quality may override when a specific profile's data is degraded."
+    },
+    "profiles": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["pre2001_150k_no_wind_mit", "pre2001_150k_with_wind_mit", "new_construction_300k"],
+      "description": "The three fixed CHOICES risk profiles. All three keys are required so the wind-mitigation and construction-age deltas are always present; a profile with no usable data sets data_available=false.",
+      "properties": {
+        "pre2001_150k_no_wind_mit": {"$ref": "#/$defs/profile"},
+        "pre2001_150k_with_wind_mit": {"$ref": "#/$defs/profile"},
+        "new_construction_300k": {"$ref": "#/$defs/profile"}
+      }
+    },
+    "illustrative_caveat": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["verbatim_disclaimer", "premium_variance_factors", "source_recommendation"],
+      "description": "The source's own honesty about what these numbers are. All three sub-fields required in every county file (the A2 equivalent of the A1 'source-uncertainty must be explicit' discipline).",
+      "properties": {
+        "verbatim_disclaimer": {
+          "type": "string",
+          "description": "Verbatim CHOICES disclaimer, e.g. 'The rates quoted are for illustrative purposes and reflect information obtained from the most recent rate filings approved by the Office. These rate quotes are for the three pre-defined examples described below – premiums for your home will vary depending on individual circumstances.'"
+        },
+        "premium_variance_factors": {
+          "type": "array",
+          "items": {"type": "string"},
+          "minItems": 1,
+          "description": "The source's own list of factors beyond geography that move premium, verbatim: e.g. ['Type of construction', 'Dwelling value', 'Mitigation features', 'Amount of deductibles']."
+        },
+        "source_recommendation": {
+          "type": "string",
+          "description": "The source's recommendation, verbatim, e.g. 'The Office recommends contacting an insurance agent to obtain an accurate quote.'"
+        }
+      }
+    },
+    "citizens_rate_source_date": {
+      "type": ["string", "null"],
+      "description": "REQUIRED (may be null). The effective/filing date of the Citizens rates shown. The CHOICES API does NOT expose this, so this is expected to be null with the reason captured in citizens_temporal_note. The field's PRESENCE is the value — it forces an explicit acknowledgment that the rate-effective date is unknown from the source, rather than silently implying currency. Populate with an ISO date only if independently verified against a Citizens filing."
+    },
+    "citizens_temporal_note": {
+      "type": "string",
+      "description": "REQUIRED. Concrete glide-path context for the Citizens anchor: that Citizens rates move materially year-over-year on the statutory glide path and CHOICES may lag the live rate. Include specific movement numbers (e.g. '2025 HO-3 statewide +13.5% / Duval +13.7%, effective ~June 2025; 2026 filing −0.8% capped, indicated actuarially-sound premium −43% on SB 2-A reinsurance savings'). County-specific movement if available, else statewide fallback."
+    },
+    "rate_currency_note": {
+      "type": "string",
+      "description": "REQUIRED. Dataset-level acknowledgment applying to EVERY carrier (not just Citizens): all CHOICES premiums are most-recent-OIR-approved FILED rates as of an effective date the API does not disclose. Must instruct writer-v2 to cite these as 'illustrative filed rates' (or 'sample filed rates'), never as current market quotes, and to pair any figure with last_verified + the illustrative_caveat."
+    }
+  },
+  "$defs": {
+    "source_quality": {
+      "type": "string",
+      "enum": [
+        "verified_official_data",
+        "inferred_from_operational_consistency",
+        "estimate_from_published_market_data",
+        "estimate_from_anecdote"
+      ]
+    },
+    "market_spread": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["min_premium_usd", "median_premium_usd", "max_premium_usd", "carrier_count"],
+      "description": "Summary spread of annual premiums across the carriers CHOICES lists for this county×profile. Median is the robust central stat (max is often a single outlier carrier).",
+      "properties": {
+        "min_premium_usd": {"type": "number", "minimum": 0},
+        "median_premium_usd": {"type": "number", "minimum": 0},
+        "max_premium_usd": {"type": "number", "minimum": 0},
+        "carrier_count": {"type": "integer", "minimum": 1, "description": "Number of carriers in the CHOICES response (including Citizens) used to compute the spread."}
+      }
+    },
+    "carrier": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "premium_usd", "is_citizens_anchor"],
+      "properties": {
+        "name": {"type": "string", "description": "Carrier name verbatim from CHOICES (e.g. 'CITIZENS PROPERTY INSURANCE CORPORATION')."},
+        "premium_usd": {"type": "number", "minimum": 0, "description": "Sample annual premium (CHOICES 'Rate' value; 'Rate2' is unused for homeowners)."},
+        "is_citizens_anchor": {"type": "boolean", "description": "True for the Citizens Property Insurance Corporation row (the anchor)."}
+      }
+    },
+    "profile": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["description", "eid", "data_available"],
+      "description": "One fixed CHOICES risk profile for this county.",
+      "properties": {
+        "description": {"type": "string", "description": "Verbatim CHOICES DisplayName, e.g. '$150,000 Value - Pre-2001 Construction w/ No Wind Mitigation'."},
+        "eid": {"type": "integer", "enum": [4, 5, 6], "description": "CHOICES API example id: 4 = $150k pre-2001 no wind-mit; 5 = $150k pre-2001 with wind-mit; 6 = $300k new construction. (eId 1/2/3 are NOT homeowners profiles — do not use.)"},
+        "source_notes": {"type": "string", "description": "Fixed model assumptions baked into this profile: dwelling value ($150k or $300k), construction era, wind-mitigation status, and any deductible/coverage-A context CHOICES applies."},
+        "data_available": {"type": "boolean", "description": "False when CHOICES returns no usable carrier data for this county×profile. When false, citizens_premium_usd/market_spread/carriers may be omitted and unavailable_reason should explain."},
+        "unavailable_reason": {"type": "string", "enum": ["citizens_does_not_write_this_profile_in_county", "no_admitted_carriers_reporting", "api_returned_no_data", "other"], "description": "Reason when data_available is false. 'other' retained for edge cases; the enum catches the predictable majority."},
+        "citizens_premium_usd": {"type": ["number", "null"], "minimum": 0, "description": "Citizens Property Insurance sample annual premium (the anchor). null when Citizens does not serve/report this county×profile."},
+        "market_spread": {"$ref": "#/$defs/market_spread"},
+        "carriers": {"type": "array", "items": {"$ref": "#/$defs/carrier"}, "minItems": 1, "description": "Full carrier list from CHOICES for this county×profile, for provenance/auditability of the spread and outliers."},
+        "source_quality": {"$ref": "#/$defs/source_quality", "description": "Optional per-profile override of the dataset-level source_quality."}
+      },
+      "if": {"properties": {"data_available": {"const": true}}, "required": ["data_available"]},
+      "then": {"required": ["market_spread", "carriers"]}
+    }
+  }
+}
