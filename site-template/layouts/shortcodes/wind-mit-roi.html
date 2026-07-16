@@ -1,0 +1,69 @@
+{{- /* {{< wind-mit-roi county="miami-dade" >}}
+       Cross-layer SYNTHESIS: distilled wind-mitigation ROI story from BOTH data layers.
+       Renders DERIVED values only — NOT the 3-profile insurance table (insurance-premiums' job) and
+       NOT per-permit rate tables (permit-fees' job). Numbers come from the JSON; no fabricated install costs. */ -}}
+{{- partial "fhc/styles.html" .Page -}}
+{{- $county := .Get "county" -}}
+{{- if not $county }}{{ with .Get "city" }}{{ $county = partial "fhc/resolve-county.html" . }}{{ end }}{{ end -}}
+{{- $perm := and $county (index hugo.Data.permits $county) -}}
+{{- $ins := and $county (index hugo.Data.insurance $county) -}}
+{{- if and (not $perm) (not $ins) -}}
+<div class="fhc-data fhc-placeholder">Wind-mitigation ROI figures for this location are being verified. Where available, see the permit-fee and insurance-premium breakdowns on this page for the underlying county data.</div>
+{{- else -}}
+{{- $name := or (and $ins $ins.display_name) (and $perm $perm.display_name) -}}
+{{- $hvhz := false -}}{{ with $ins }}{{ $hvhz = .hvhz }}{{ else }}{{ with $perm }}{{ $hvhz = .hvhz }}{{ end }}{{ end -}}
+<div class="fhc-data fhc-roi">
+<h4>Wind mitigation ROI &mdash; {{ $name }}</h4>
+{{- /* --- Insurance savings (the ROI headline) --- */ -}}
+{{- $haveSavings := false -}}
+{{- with $ins -}}
+  {{- $nm := index .profiles "pre2001_150k_no_wind_mit" -}}
+  {{- $wm := index .profiles "pre2001_150k_with_wind_mit" -}}
+  {{- if and $nm $wm $nm.data_available $wm.data_available $nm.citizens_premium_usd $wm.citizens_premium_usd -}}
+    {{- $haveSavings = true -}}
+    {{- $delta := sub $nm.citizens_premium_usd $wm.citizens_premium_usd -}}
+    {{- $pct := math.Round (mul (sub 1 (div (float $wm.citizens_premium_usd) (float $nm.citizens_premium_usd))) 100) -}}
+<p class="fhc-windmit">
+{{- if $hvhz -}}
+In {{ $name }} &mdash; a High-Velocity Hurricane Zone &mdash; wind mitigation delivers among the strongest insurance payoffs in Florida: the Citizens premium falls about <span class="fhc-delta">{{ $pct }}%</span> (roughly <span class="fhc-delta">{{ lang.FormatCurrency 0 "USD" $delta }} per year</span>) when a pre-2001 home adds wind-mitigation features, because HVHZ impact-rated (NOA-approved) construction directly earns mitigation credits.
+{{- else -}}
+In {{ $name }} (not in the High-Velocity Hurricane Zone), wind mitigation still cuts the Citizens premium about <span class="fhc-delta">{{ $pct }}%</span> (roughly <span class="fhc-delta">{{ lang.FormatCurrency 0 "USD" $delta }} per year</span>) &mdash; real, recurring savings, though smaller in absolute dollars than in the coastal HVHZ counties.
+{{- end -}}
+</p>
+  {{- end -}}
+{{- end -}}
+{{- if not $haveSavings -}}
+<p class="fhc-notes"><small>Insurance rate data for this county is not yet available, so the specific annual Citizens savings can&rsquo;t be shown here. Wind mitigation still lowers homeowners premiums in Florida &mdash; confirm the credit with your insurer.</small></p>
+{{- end -}}
+{{- /* --- Permit context (range of wind-mit permit fees; references, does not duplicate) --- */ -}}
+{{- with $perm -}}
+  {{- $flats := slice -}}{{- $nonflat := false -}}
+  {{- range $k, $v := .permits -}}
+    {{- if and (findRE "(?i)(window|door|shutter|roof|harden|impact|opening)" $k) (not (findRE "(?i)(new_dwelling|new_construction|new_sfr|construction_new)" $k)) -}}
+      {{- if eq $v.type "flat" -}}{{ $flats = $flats | append $v.fee_usd }}{{- else -}}{{ $nonflat = true }}{{- end -}}
+    {{- end -}}
+  {{- end -}}
+<p>
+  {{- if $flats -}}
+    {{- $s := sort $flats -}}{{- $lo := index $s 0 -}}{{- $hi := index $s (sub (len $s) 1) -}}
+Typical flat-fee wind-mitigation permits in {{ $name }} {{ if eq $lo $hi }}cost around {{ lang.FormatCurrency 0 "USD" $lo }}{{ else }}run from {{ lang.FormatCurrency 0 "USD" $lo }} to {{ lang.FormatCurrency 0 "USD" $hi }}{{ end }} (items such as impact window/door replacement and roof-hardening permits){{ if $nonflat }}; other mitigation work is permitted under valuation- or per-square-foot-based fees{{ end }}. See the permit-fee breakdown on this page for the exact fee for your project.
+  {{- else -}}
+Wind-mitigation work in {{ $name }} is permitted under the county&rsquo;s valuation- or per-square-foot-based building fees rather than flat per-item fees &mdash; see the permit-fee breakdown for the applicable rate.
+  {{- end -}}
+</p>
+{{- else -}}
+<p class="fhc-notes"><small>County permit-fee data is not yet available for {{ $name }}, so typical wind-mitigation permit fees can&rsquo;t be shown here.</small></p>
+{{- end -}}
+{{- /* --- ROI framing (qualitative; no computed payback years, no fabricated install cost) --- */ -}}
+<p>Because the mitigation credit recurs <em>every year</em>, a one-time improvement keeps paying back for the life of the policy. Permit fees represent a small portion of total installation cost. Total project cost depends on window count, glass rating, and installation complexity, and typically exceeds permit fees by 10&ndash;100x.</p>
+{{- /* --- Required caveats (verbatim) --- */ -}}
+<div class="fhc-caveat">
+<p>Insurance savings shown are Citizens Property Insurance&rsquo;s illustrative rates. Actual homeowner savings depend on carrier, coverage details, and mitigation credits verified by the insurer.</p>
+</div>
+{{- /* --- Provenance from both layers --- */ -}}
+<p class="fhc-provenance"><small>
+{{- with $perm }}Permit data: <a href="{{ .data_source_url }}" rel="nofollow noopener" target="_blank">{{ .data_source_url }}</a> (verified {{ .last_verified }}). {{ end -}}
+{{- with $ins }}Insurance data: OIR CHOICES &mdash; <a href="{{ .data_source_url }}" rel="nofollow noopener" target="_blank">{{ .data_source_url }}</a> (verified {{ .last_verified }}).{{ end -}}
+</small></p>
+</div>
+{{- end -}}
