@@ -16,6 +16,8 @@ tags:
 
 Orlando sits in a unique position where the city is not in the High Velocity Hurricane Zone (HVHZ), but strict Florida Building Code requirements still apply due to wind speed calculations. This means your windows must pass impact testing, but the installation rules differ slightly from Miami-Dade County.
 
+{{< wind-mit-roi county="orange" >}}
+
 ## Average Cost Breakdown
 
 | Cost Level | Price Range | Typical Scope |
@@ -89,7 +91,11 @@ While Orlando is not in the HVHZ, it is in Wind Zone 3. This requires windows to
 
 **Permits:** Orange County requires a building permit for window replacement if you are changing the size of the opening or if the home is in a flood zone. The permit process is handled through the County's ePlan portal or the Orange County Development Services Center. Permit fees typically range from **$150 to $400** depending on the project value.
 
+{{< permit-fees county="orange" permit_key="residential_building" >}}
+
 **Insurance Impact:** Installing impact windows in Orlando can lower your windstorm insurance premium by **15–30%**. Many carriers offer a specific "wind mitigation" discount for impact-resistant glazing because it drastically reduces the risk of catastrophic water damage from broken windows. This savings can offset a portion of the installation cost over time.
+
+{{< insurance-premiums county="orange" >}}
 
 **Flood Zones:** Parts of Orlando are in flood zones (AE or X). If your home is in a flood zone, the building department may have additional requirements for sill plate elevation or flood vents. Installing windows here requires careful attention to the flood barrier requirements to ensure the windows don't compromise the flood rating.
 

@@ -17,6 +17,8 @@ Living in Miami, Florida, means living with the reality of hurricane season. For
 
 Unlike standard windows, impact windows are engineered to withstand wind speeds exceeding 140 mph and resist debris impact. However, the investment is significant. Homeowners often underestimate the complexity of the installation process, which involves strict adherence to the Florida Building Code (FBC) and Miami-Dade County Technical Approvals. This guide provides a comprehensive breakdown of current costs, material options, and the specific regulatory landscape you will face in 2026. Understanding these factors is essential for budgeting accurately and ensuring your home remains compliant and insurable.
 
+{{< wind-mit-roi county="miami-dade" >}}
+
 ## Average Costs in Miami
 
 ### General Price Range
@@ -74,6 +76,8 @@ Miami-Dade County has one of the most rigorous permitting processes in the Unite
 - **Permit Fees:** Typically range from $500 to $2,000 depending on the valuation of the project.
 - **Plan Review:** Requires submission of engineering drawings and product specifications.
 - **Inspections:** Mandatory inspections at rough-in and final stages. Failure to pass results in stop-work orders.
+
+{{< permit-fees county="miami-dade" permit_key="window_door_residential_replace" >}}
 
 ### 4. Location Within Miami
 
@@ -137,6 +141,8 @@ Miami's tropical climate presents unique challenges for window installation.
 Impact windows are a primary defense in hurricane preparedness. They maintain the "building envelope," preventing wind pressure from building up inside the home, which can cause roof failure.
 - **Insurance Benefits:** Many insurers offer premium reductions (15-30%) for homes with HVHZ-certified windows.
 - **Debris Protection:** They protect against flying debris, which is the leading cause of window failure during storms.
+
+{{< insurance-premiums county="miami-dade" >}}
 
 ## DIY vs Professional
 
