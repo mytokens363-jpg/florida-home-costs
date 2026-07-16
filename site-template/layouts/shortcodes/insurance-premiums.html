@@ -1,0 +1,55 @@
+{{- /* {{< insurance-premiums county="miami-dade" >}}
+       Renders CHOICES HO-3 sample premiums (3 profiles side-by-side) from hugo.Data.insurance.<county>.
+       Numbers are the JSON's single source of truth. The verbatim illustrative_caveat + rate_currency_note
+       + citizens_temporal_note footer is REQUIRED and rendered in full every time (never truncated). */ -}}
+{{- partial "fhc/styles.html" .Page -}}
+{{- $county := .Get "county" -}}
+{{- if not $county }}{{ with .Get "city" }}{{ $county = partial "fhc/resolve-county.html" . }}{{ end }}{{ end -}}
+{{- $d := and $county (index hugo.Data.insurance $county) -}}
+{{- if not $d -}}
+<div class="fhc-data fhc-placeholder">Homeowners insurance rate data for this location is being verified. Homeowners here should contact a licensed insurance agent for current quotes.</div>
+{{- else -}}
+{{- $P := $d.profiles -}}
+{{- $order := slice "pre2001_150k_no_wind_mit" "pre2001_150k_with_wind_mit" "new_construction_300k" -}}
+{{- $labels := dict
+    "pre2001_150k_no_wind_mit" "Pre-2001 home, $150k<br>NO wind mitigation"
+    "pre2001_150k_with_wind_mit" "Pre-2001 home, $150k<br>WITH wind mitigation"
+    "new_construction_300k" "New construction<br>$300k value" -}}
+<div class="fhc-data fhc-insurance">
+<h4>Homeowners insurance &mdash; sample annual premiums, {{ $d.display_name }}</h4>
+<table class="fhc-premium-table">
+<thead><tr><th>Metric</th>
+{{- range $order }}{{ $p := index $P . }}{{ if $p.data_available }}<th>{{ index $labels . | safeHTML }}</th>{{ end }}{{ end -}}
+</tr></thead>
+<tbody>
+<tr><td>Citizens (state-backed anchor)</td>
+{{- range $order }}{{ $p := index $P . }}{{ if $p.data_available }}<td>{{ with $p.citizens_premium_usd }}{{ lang.FormatCurrency 0 "USD" . }}{{ else }}&mdash;{{ end }}</td>{{ end }}{{ end -}}</tr>
+<tr><td>Market median</td>
+{{- range $order }}{{ $p := index $P . }}{{ if $p.data_available }}<td>{{ lang.FormatCurrency 0 "USD" $p.market_spread.median_premium_usd }}</td>{{ end }}{{ end -}}</tr>
+<tr><td>Market range (low&ndash;high)</td>
+{{- range $order }}{{ $p := index $P . }}{{ if $p.data_available }}<td>{{ lang.FormatCurrency 0 "USD" $p.market_spread.min_premium_usd }}&ndash;{{ lang.FormatCurrency 0 "USD" $p.market_spread.max_premium_usd }}</td>{{ end }}{{ end -}}</tr>
+<tr><td>Carriers compared</td>
+{{- range $order }}{{ $p := index $P . }}{{ if $p.data_available }}<td>{{ $p.market_spread.carrier_count }}</td>{{ end }}{{ end -}}</tr>
+</tbody>
+</table>
+{{- $nm := index $P "pre2001_150k_no_wind_mit" -}}
+{{- $wm := index $P "pre2001_150k_with_wind_mit" -}}
+{{- if and $nm $wm $nm.data_available $wm.data_available $nm.citizens_premium_usd $wm.citizens_premium_usd -}}
+{{- $pc := math.Round (mul (sub 1 (div (float $wm.citizens_premium_usd) (float $nm.citizens_premium_usd))) 100) -}}
+{{- $pm := math.Round (mul (sub 1 (div (float $wm.market_spread.median_premium_usd) (float $nm.market_spread.median_premium_usd))) 100) -}}
+<p class="fhc-windmit">&#128168; <strong>Wind mitigation impact:</strong> installing wind-mitigation features drops the Citizens premium from {{ lang.FormatCurrency 0 "USD" $nm.citizens_premium_usd }} to {{ lang.FormatCurrency 0 "USD" $wm.citizens_premium_usd }} &mdash; about <span class="fhc-delta">{{ $pc }}% lower</span>. The market median drops from {{ lang.FormatCurrency 0 "USD" $nm.market_spread.median_premium_usd }} to {{ lang.FormatCurrency 0 "USD" $wm.market_spread.median_premium_usd }} (<span class="fhc-delta">{{ $pm }}% lower</span>).</p>
+{{- end -}}
+{{- range $order }}{{ $p := index $P . }}{{ if not $p.data_available }}
+<p class="fhc-notes"><small>Note: the &ldquo;{{ $p.description }}&rdquo; profile is not available for this county{{ with $p.unavailable_reason }} ({{ . | replaceRE "_" " " }}){{ end }}.</small></p>
+{{- end }}{{ end -}}
+<div class="fhc-caveat">
+<p>{{ $d.illustrative_caveat.verbatim_disclaimer }}</p>
+<p>Premiums vary with several factors beyond location:</p>
+<ul>{{ range $d.illustrative_caveat.premium_variance_factors }}<li>{{ . }}</li>{{ end }}</ul>
+<p>{{ $d.illustrative_caveat.source_recommendation }}</p>
+<p><strong>Rate currency:</strong> {{ $d.rate_currency_note }}</p>
+<p><strong>Citizens rate context:</strong> {{ $d.citizens_temporal_note }}</p>
+</div>
+{{ partial "fhc/provenance.html" (dict "url" $d.data_source_url "verified" $d.last_verified "document" $d.data_source_document "section" "") }}
+</div>
+{{- end -}}
