@@ -25,7 +25,8 @@
 {{- if eq .basis "percent_of_base" }} {{ printf "%g" (mul .rate 100) }}% of the base fee
 {{- else if eq .basis "per_100_sqft" }} {{ printf "$%.2f" .rate }} per 100 sq ft
 {{- else if eq .basis "per_unit" }} {{ printf "$%.2f" .rate }} per {{ if gt (.unit_size | default 1) 1 }}{{ .unit_size }} {{ end }}{{ .unit_label }}
-{{- else }} {{ printf "$%.2f" .rate }} flat{{ end }}</li>
+{{- else }} {{ printf "$%.2f" .rate }} flat{{ end }}
+{{- with .applies_to_permit_types }} <em style="opacity:.8">(applies to {{ delimit . ", " | replaceRE "_" " " }} only)</em>{{ end }}</li>
 {{- end -}}
 </small></ul>
 {{- end -}}
