@@ -1,0 +1,45 @@
+{{- /* Renders a human-readable fee line for a permit_fee object. Context (.) = the permit dict.
+       Outputs HTML directly. Covers every schema v1.4 fee type. Numbers come straight from the JSON. */ -}}
+{{- $p := . -}}
+{{- $t := $p.type -}}
+{{- if eq $t "flat" -}}
+  {{ lang.FormatCurrency 0 "USD" $p.fee_usd }} flat fee
+{{- else if eq $t "flat_plus_surcharge" -}}
+  {{ lang.FormatCurrency 0 "USD" $p.base_usd }} base fee, plus applicable surcharges
+{{- else if eq $t "percentage_of_value" -}}
+  {{ printf "%g" (mul $p.rate 100) }}% of project value
+{{- else if eq $t "per_opening" -}}
+  {{ printf "$%g" $p.fee_usd_per_opening }} per opening
+{{- else if eq $t "per_square_foot" -}}
+  {{ printf "$%g" $p.fee_usd_per_sqft }} per square foot
+{{- else if eq $t "per_ton_flat" -}}
+  {{ printf "$%g" $p.fee_usd_per_ton }} per ton
+{{- else if eq $t "per_amperage_unit" -}}
+  {{ printf "$%g" $p.fee_usd_per_amp_unit }} per {{ $p.amp_unit_size }} amps
+{{- else if eq $t "per_kw" -}}
+  {{ printf "$%g" $p.fee_usd_per_kw }} per kW
+{{- else if eq $t "per_1000_value" -}}
+  {{ printf "$%g" $p.fee_usd_per_1000_value }} per $1,000 of value
+{{- else if eq $t "per_fixture" -}}
+  {{ printf "$%g" $p.fee_usd_per_fixture }} per fixture
+{{- else if eq $t "per_unit" -}}
+  {{ printf "$%g" $p.fee_usd_per_unit }} per {{ if gt $p.unit_size 1 }}{{ lang.FormatNumber 0 $p.unit_size }} {{ end }}{{ $p.unit_label }}{{ if gt $p.unit_size 1 }}s{{ end }}
+{{- else if in (slice "tiered_by_value" "tiered_by_tonnage" "tiered_by_amperage") $t -}}
+  Tiered by {{ if eq $t "tiered_by_value" }}project value{{ else if eq $t "tiered_by_tonnage" }}tonnage{{ else }}amperage{{ end }}
+  {{- with $p.tier_application }} ({{ . }}){{ else }} (see notes for how brackets combine){{ end }}:
+  <ul class="fhc-tiers">
+  {{- range $tier := $p.tiers -}}
+    <li>
+    {{- with $tier.max_value_usd }}up to {{ lang.FormatCurrency 0 "USD" . }}: {{ else }}{{ if isset $tier "max_value_usd" }}top bracket: {{ end }}{{ end -}}
+    {{- with $tier.max_tons }}up to {{ . }} tons: {{ else }}{{ if isset $tier "max_tons" }}top bracket: {{ end }}{{ end -}}
+    {{- with $tier.max_amps }}up to {{ . }} amps: {{ else }}{{ if isset $tier "max_amps" }}top bracket: {{ end }}{{ end -}}
+    {{- with $tier.fee_usd_per_100 }}{{ printf "%g" . }}% of value in this bracket{{ end -}}
+    {{- with $tier.fee_usd }}{{ lang.FormatCurrency 0 "USD" . }}{{ end -}}
+    {{- with $tier.per_ton_above_usd }} + {{ printf "$%g" . }}/ton above bracket start{{ end -}}
+    {{- with $tier.per_amp_above_usd }} + {{ printf "$%g" . }}/amp above bracket start{{ end -}}
+    </li>
+  {{- end -}}
+  </ul>
+{{- else -}}
+  See source document for the fee structure.
+{{- end -}}

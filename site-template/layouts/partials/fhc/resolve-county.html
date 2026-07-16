@@ -1,0 +1,15 @@
+{{- /* City -> county-slug resolver. Input: a city string. Output (via return): the county slug, or "".
+       Consumes each county's metro_areas[] from hugo.Data.permits (single source of truth; no duplicate map).
+       _schema has no metro_areas so it is skipped by the guard. */ -}}
+{{- $want := lower (trim (string .) " ") -}}
+{{- $result := "" -}}
+{{- range $slug, $d := hugo.Data.permits -}}
+  {{- with $d.metro_areas -}}
+    {{- range . -}}
+      {{- if eq (lower (trim (string .) " ")) $want -}}
+        {{- $result = $slug -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $result -}}

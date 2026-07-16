@@ -1,0 +1,43 @@
+{{- /* {{< permit-fees county="miami-dade" permit_key="window_door_residential_replace" >}}
+       Renders a verified permit fee from hugo.Data.permits.<county>. Numbers are the JSON's, never prose/LLM.
+       Accepts county= (primary) or city= (resolved via fhc/resolve-county). Graceful placeholder when data absent. */ -}}
+{{- partial "fhc/styles.html" .Page -}}
+{{- $county := .Get "county" -}}
+{{- if not $county }}{{ with .Get "city" }}{{ $county = partial "fhc/resolve-county.html" . }}{{ end }}{{ end -}}
+{{- $key := .Get "permit_key" -}}
+{{- $data := and $county (index hugo.Data.permits $county) -}}
+{{- if not $data -}}
+<div class="fhc-data fhc-placeholder">Detailed permit-fee data for this location is being verified and will appear here when available. In the meantime, contact the county building department for current permit fees.</div>
+{{- else -}}
+{{- $permit := and $key (index $data.permits $key) -}}
+<div class="fhc-data fhc-permit">
+<h4>Permit fee &mdash; {{ $data.display_name }}</h4>
+{{- if not $permit -}}
+<p class="fhc-placeholder">A specific line item for this work is not directly listed in {{ $data.display_name }}&rsquo;s current fee schedule. See the full permit categories at the source below.</p>
+{{- else -}}
+{{- with $permit.applies_to }}<p class="fhc-applies">{{ . }}</p>{{ end -}}
+<p class="fhc-fee"><strong>{{ partial "fhc/format-fee.html" $permit }}</strong>{{ with $permit.minimum_usd }} &middot; minimum {{ lang.FormatCurrency 0 "USD" . }}{{ end }}{{ with $permit.maximum_usd }} &middot; maximum {{ lang.FormatCurrency 0 "USD" . }}{{ end }}</p>
+{{- with $permit.mandatory_add_on_fees -}}
+<p style="margin:.3rem 0 .1rem"><small><strong>Mandatory add-on fees (stacked on the base):</strong></small></p>
+<ul class="fhc-addons"><small>
+{{- range . -}}
+<li>{{ .name }}:
+{{- if eq .basis "percent_of_base" }} {{ printf "%g" (mul .rate 100) }}% of the base fee
+{{- else if eq .basis "per_100_sqft" }} {{ printf "$%.2f" .rate }} per 100 sq ft
+{{- else if eq .basis "per_unit" }} {{ printf "$%.2f" .rate }} per {{ if gt (.unit_size | default 1) 1 }}{{ .unit_size }} {{ end }}{{ .unit_label }}
+{{- else }} {{ printf "$%.2f" .rate }} flat{{ end }}</li>
+{{- end -}}
+</small></ul>
+{{- end -}}
+{{- with $data.surcharges_and_fees -}}
+{{- $s := slice -}}
+{{- with .dbpr_bcaif_surcharge_percentage }}{{ $s = $s | append (printf "DBPR/BCAIF %g%%" (mul . 100)) }}{{ end -}}
+{{- with .dca_surcharge_percentage }}{{ $s = $s | append (printf "FS 553.721 %g%%" (mul . 100)) }}{{ end -}}
+{{- with .county_surcharge_percentage }}{{ $s = $s | append (printf "county %g%%" (mul . 100)) }}{{ end -}}
+{{- with $s }}<p class="fhc-notes"><small>Plus statutory Florida surcharges on the permit fee: {{ delimit . ", " }}.</small></p>{{ end -}}
+{{- end -}}
+{{- with $permit.notes }}<p class="fhc-notes"><small>{{ . }}</small></p>{{ end -}}
+{{- end -}}
+{{ partial "fhc/provenance.html" (dict "url" $data.data_source_url "verified" $data.last_verified "document" $data.data_source_document "section" (and $permit $permit.source_section)) }}
+</div>
+{{- end -}}
